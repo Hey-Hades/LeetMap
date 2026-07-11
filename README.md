@@ -1,75 +1,32 @@
-# React + TypeScript + Vite
+# 🗺️ LeetMap
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Live Demo:** [leetmap-web.vercel.app](https://leetmap-web.vercel.app)
 
-Currently, two official plugins are available:
+LeetMap is a full-stack platform designed to help software engineers track, filter, and master company-specific technical interview questions. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+![LeetMap Preview](insert-your-screenshot-path-here.png)
+*Replace this line with your actual screenshot! To add one, just drag and drop an image file right into the GitHub text editor.*
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **Company-Specific Data:** Filter LeetCode problems by top tech companies, sortable by frequency and difficulty.
+* **Time-Based Filtering:** View questions asked in the last 30 days, 3 months, 6 months, or all-time.
+* **Progress Tracking:** Secure user authentication allows engineers to check off solved problems and visualize their progress via dynamic completion bars.
+* **Instant Search & Topic Clouds:** Filter massive datasets instantly by question title, difficulty, or conceptual tags (e.g., Arrays, Dynamic Programming).
+* **Optimized UI:** A highly responsive, single-page architecture with smooth state transitions and instant scroll-locking.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+* **Frontend:** React, TypeScript, Vite
+* **Styling:** Tailwind CSS (Custom Design System)
+* **Routing:** React Router v6
+* **Backend & Auth:** Supabase (PostgreSQL)
+* **Analytics:** Google Analytics 4 (GA4)
+* **Deployment:** Vercel (CI/CD)
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## 🚀 Local Development Setup
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-
-```
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Hey-Hades/LeetMap.git](https://github.com/Hey-Hades/LeetMap.git)
+   cd LeetMap
