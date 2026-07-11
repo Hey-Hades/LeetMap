@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..600;1,9..144,500&family=Inter:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* ===========================
+     LIGHT THEME (DEFAULT)
+     =========================== */
+  :root {
+    --bg: #f7f4ee;
+    --surface: #ffffff;
+    --surface-2: #f1ede4;
+
+    --border: #e2ddd0;
+    --border-hi: #d9c8a6;
+
+    --text: #1c1a16;
+    --text-dim: #6b6559;
+    --text-faint: #a39c8c;
+
+    --gold: #a3813f;
+    --gold-soft: rgba(163, 129, 63, 0.10);
+    --gold-line: rgba(163, 129, 63, 0.40);
+  }
+
+  body {
+    @apply bg-bg text-text font-sans antialiased transition-colors duration-300;
+  }
+}
+
+@layer base {
+  /* ===========================
+     DARK THEME
+     =========================== */
+  .dark {
+    --bg: #0b0d10;
+    --surface: #121519;
+    --surface-2: #171b20;
+
+    --border: #23282e;
+    --border-hi: #3a414a;
+
+    --text: #eef0f2;
+    --text-dim: #868d96;
+    --text-faint: #5a6169;
+
+    --gold: #c9a86a;
+    --gold-soft: rgba(201, 168, 106, 0.10);
+    --gold-line: rgba(201, 168, 106, 0.40);
+  }
+}
+
+/* ===========================
+   PREMIUM SCROLLBAR
+   =========================== */
+
+html {
+  scrollbar-width: thin;
+  scrollbar-color: var(--border) transparent;
+}
+
+/* Chrome / Edge / Safari */
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Default (Light) */
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.15);
+  border-radius: 999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--gold);
+}
+
+/* Dark */
+
+.dark ::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.12);
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background-color: var(--gold);
+}
