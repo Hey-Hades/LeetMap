@@ -52,4 +52,8 @@ Run the development server.
 npm run dev
 ```
 
+ HEAD
 Open **http://localhost:5173**.
+
+Open **http://localhost:5173**.
+c728647 (docs: update README and favicon)
