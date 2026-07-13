@@ -29,8 +29,6 @@ const CompanyLogo = ({ company }: { company: Company }) => {
 export default function Home() {
   const navigate = useNavigate();
   const [search, setSearch] = useState('');
-  
-  // 1. Create a reference to the search input
   const searchInputRef = useRef<HTMLInputElement>(null);
   
   const [companies, setCompanies] = useState<Company[]>([]);
@@ -47,19 +45,15 @@ export default function Home() {
     loadCompanies();
   }, []);
 
-  // 2. Add the global keyboard listener for the "/" shortcut
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
-      // If user presses "/", and they aren't already typing in the input
       if (e.key === '/' && document.activeElement !== searchInputRef.current) {
-        e.preventDefault(); // Stop the "/" from being typed into the box
-        searchInputRef.current?.focus(); // Snap focus to the input
+        e.preventDefault(); 
+        searchInputRef.current?.focus(); 
       }
     };
 
     window.addEventListener('keydown', handleKeyDown);
-    
-    // Clean up the listener when the component unmounts
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, []);
 
@@ -100,7 +94,29 @@ export default function Home() {
           <circle cx="240" cy="90" r="2.5" fill="#c9a86a" opacity="0.5"/>
         </svg>
 
-        <div className="font-mono text-[10.5px] text-gold tracking-[2px] uppercase mb-[18px] flex items-center gap-2 relative z-10">
+        {/* FIXED BADGES: Dropped 10px lower and resized */}
+        <div className="hidden md:flex flex-col items-end gap-1 absolute bottom-[14px] right-11 z-20">
+          <a 
+            href="https://coderace-live.vercel.app/" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="flex items-center rounded-md px-3 py-2 bg-[#0a0b0d] shadow-[0_2px_8px_rgba(255,255,255,0.12)] hover:shadow-[0_4px_12px_rgba(255,255,255,0.18)] transition-all duration-200 hover:-translate-y-[2px]"
+          >
+            <span className="font-mono font-bold text-[11px] tracking-[-0.2px] text-white">Code</span>
+            <span className="font-mono font-bold text-[11px] tracking-[-0.2px] text-[#e2703f]">Race..</span>
+          </a>
+          <a 
+            href="https://stash-it-zen.vercel.app/" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="flex items-center rounded-md px-3 py-2 bg-[#f7f4ee] border border-black/10 hover:border-black/20 shadow-[0_2px_6px_rgba(0,0,0,0.15)] hover:shadow-[0_4px_10px_rgba(0,0,0,0.2)] transition-all duration-200 hover:-translate-y-[2px]"
+          >
+            <span className="font-mono text-[11px] tracking-[-0.2px] text-[#1a1a1a]">Stash-It</span>
+            <span className="font-mono text-[11px] tracking-[-0.2px] text-[#9a9a9a]">..</span>
+          </a>
+        </div>
+
+        <div className="font-mono text-[10.5px] text-gold tracking-[2px] uppercase mb-[18px] flex items-center gap-2 relative z-10 mt-2">
           <div className="w-[14px] h-[1px] bg-gold/35"></div>
           {companies.length} companies, mapped
         </div>
@@ -130,13 +146,12 @@ export default function Home() {
         <div className="relative">
           <span className="absolute left-4 top-4 text-text-faint text-[14px]">⌕</span>
           <input 
-            ref={searchInputRef} // 3. Attach the ref to the input!
+            ref={searchInputRef}
             value={search}
             onChange={(e) => setSearch(e.target.value)}
             placeholder="Search companies.." 
             className="w-full bg-surface border border-border rounded-[11px] text-text font-sans text-[13.5px] py-[15px] pl-11 pr-11 outline-none focus:border-gold/35 transition-colors"
           />
-          {/* Brought the slash UI back! */}
           <span className="absolute right-3.5 top-[13px] font-mono text-[10px] text-text-faint border border-border py-[3px] px-[7px] rounded-[5px]">/</span>
         </div>
       </div>
