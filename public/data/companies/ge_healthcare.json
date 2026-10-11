@@ -1,0 +1,86 @@
+{
+  "name": "GE Healthcare",
+  "slug": "GE Healthcare",
+  "dataKey": "ge_healthcare",
+  "updatedAt": "2026-10-11T10:11:24.121Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Evaluate Division",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/evaluate-division",
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory",
+          "Shortest Path",
+          "Bellman–Ford Algorithm",
+          "Floyd–Warshall Algorithm"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Median of Two Sorted Arrays",
+        "difficulty": "Hard",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Divide and Conquer"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Concatenation of Array",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/concatenation-of-array",
+        "topics": [
+          "Array",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Evaluate Division",
+        "difficulty": "Medium",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/evaluate-division",
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory",
+          "Shortest Path",
+          "Bellman–Ford Algorithm",
+          "Floyd–Warshall Algorithm"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Median of Two Sorted Arrays",
+        "difficulty": "Hard",
+        "frequency": 70,
+        "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Divide and Conquer"
+        ]
+      }
+    ]
+  }
+}

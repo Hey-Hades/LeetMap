@@ -1,0 +1,73 @@
+{
+  "name": "ThoughtWorks",
+  "slug": "ThoughtWorks",
+  "dataKey": "thoughtworks",
+  "updatedAt": "2026-10-11T10:11:24.413Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Number of Subarrays That Match a Pattern II",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii",
+        "topics": [
+          "Array",
+          "Rolling Hash",
+          "String Matching",
+          "Hash Function"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 68,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Number of Subarrays That Match a Pattern II",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii",
+        "topics": [
+          "Array",
+          "Rolling Hash",
+          "String Matching",
+          "Hash Function"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Number of Bit Changes to Make Two Integers Equal",
+        "difficulty": "Easy",
+        "frequency": 95,
+        "url": "https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal",
+        "topics": [
+          "Bit Manipulation"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 66,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      }
+    ]
+  }
+}

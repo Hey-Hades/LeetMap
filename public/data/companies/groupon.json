@@ -1,0 +1,54 @@
+{
+  "name": "Groupon",
+  "slug": "Groupon",
+  "dataKey": "groupon",
+  "updatedAt": "2026-10-11T10:11:24.161Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Jump Game II",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/jump-game-ii",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Sell Diminishing-Valued Colored Balls",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/sell-diminishing-valued-colored-balls",
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Search",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Jump Game II",
+        "difficulty": "Medium",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/jump-game-ii",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ]
+      }
+    ]
+  }
+}

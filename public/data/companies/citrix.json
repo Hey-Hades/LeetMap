@@ -1,0 +1,62 @@
+{
+  "name": "Citrix",
+  "slug": "Citrix",
+  "dataKey": "citrix",
+  "updatedAt": "2026-10-11T10:11:24.047Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Find All Groups of Farmland",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/find-all-groups-of-farmland",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Check if Strings Can be Made Equal With Operations II",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Check if Strings Can be Made Equal With Operations I",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i",
+        "topics": [
+          "String"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Maximum Performance of a Team",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/maximum-performance-of-a-team",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ]
+      }
+    ]
+  }
+}

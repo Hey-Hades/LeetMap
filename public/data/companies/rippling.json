@@ -1,0 +1,906 @@
+{
+  "name": "Rippling",
+  "slug": "Rippling",
+  "dataKey": "rippling",
+  "updatedAt": "2026-10-11T10:11:24.352Z",
+  "problems": {
+    "1. Thirty Days.csv": [
+      {
+        "id": 1,
+        "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+        "topics": [
+          "Array",
+          "Tree",
+          "Depth-First Search"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Median of Two Sorted Arrays",
+        "difficulty": "Hard",
+        "frequency": 93,
+        "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Divide and Conquer"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Using a Robot to Print the Lexicographically Smallest String",
+        "difficulty": "Medium",
+        "frequency": 83,
+        "url": "https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Longest Substring Of All Vowels in Order",
+        "difficulty": "Medium",
+        "frequency": 83,
+        "url": "https://leetcode.com/problems/longest-substring-of-all-vowels-in-order",
+        "topics": [
+          "String",
+          "Sliding Window"
+        ]
+      }
+    ],
+    "2. Three Months.csv": [
+      {
+        "id": 1,
+        "title": "Median of Two Sorted Arrays",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Divide and Conquer"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+        "difficulty": "Medium",
+        "frequency": 95,
+        "url": "https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+        "topics": [
+          "Array",
+          "Tree",
+          "Depth-First Search"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Beautiful Arrangement",
+        "difficulty": "Medium",
+        "frequency": 88,
+        "url": "https://leetcode.com/problems/beautiful-arrangement",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Bitmask"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Using a Robot to Print the Lexicographically Smallest String",
+        "difficulty": "Medium",
+        "frequency": 78,
+        "url": "https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Longest Substring Of All Vowels in Order",
+        "difficulty": "Medium",
+        "frequency": 78,
+        "url": "https://leetcode.com/problems/longest-substring-of-all-vowels-in-order",
+        "topics": [
+          "String",
+          "Sliding Window"
+        ]
+      }
+    ],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Median of Two Sorted Arrays",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Divide and Conquer"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+        "difficulty": "Medium",
+        "frequency": 85,
+        "url": "https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+        "topics": [
+          "Array",
+          "Tree",
+          "Depth-First Search"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Beautiful Arrangement",
+        "difficulty": "Medium",
+        "frequency": 78,
+        "url": "https://leetcode.com/problems/beautiful-arrangement",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Bitmask"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Using a Robot to Print the Lexicographically Smallest String",
+        "difficulty": "Medium",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Design Ride Sharing System",
+        "difficulty": "Medium",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/design-ride-sharing-system",
+        "topics": [
+          "Hash Table",
+          "Design",
+          "Queue",
+          "Data Stream"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Longest Substring Of All Vowels in Order",
+        "difficulty": "Medium",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/longest-substring-of-all-vowels-in-order",
+        "topics": [
+          "String",
+          "Sliding Window"
+        ]
+      }
+    ],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Median of Two Sorted Arrays",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Divide and Conquer"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Design Spreadsheet",
+        "difficulty": "Medium",
+        "frequency": 83,
+        "url": "https://leetcode.com/problems/design-spreadsheet",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Design",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Merge k Sorted Lists",
+        "difficulty": "Hard",
+        "frequency": 76,
+        "url": "https://leetcode.com/problems/merge-k-sorted-lists",
+        "topics": [
+          "Linked List",
+          "Divide and Conquer",
+          "Heap (Priority Queue)",
+          "Merge Sort",
+          "Tournament Sort"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Design Excel Sum Formula",
+        "difficulty": "Hard",
+        "frequency": 73,
+        "url": "https://leetcode.com/problems/design-excel-sum-formula",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Graph Theory",
+          "Design",
+          "Topological Sort",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Evaluate Division",
+        "difficulty": "Medium",
+        "frequency": 65,
+        "url": "https://leetcode.com/problems/evaluate-division",
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory",
+          "Shortest Path",
+          "Bellman–Ford Algorithm",
+          "Floyd–Warshall Algorithm"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Number of Visible People in a Queue",
+        "difficulty": "Hard",
+        "frequency": 65,
+        "url": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Merge Two Sorted Lists",
+        "difficulty": "Easy",
+        "frequency": 65,
+        "url": "https://leetcode.com/problems/merge-two-sorted-lists",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Accounts Merge",
+        "difficulty": "Medium",
+        "frequency": 59,
+        "url": "https://leetcode.com/problems/accounts-merge",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Maximize Amount After Two Days of Conversions",
+        "difficulty": "Medium",
+        "frequency": 59,
+        "url": "https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions",
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Maximum Xor Product",
+        "difficulty": "Medium",
+        "frequency": 59,
+        "url": "https://leetcode.com/problems/maximum-xor-product",
+        "topics": [
+          "Math",
+          "Greedy",
+          "Bit Manipulation"
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Synonymous Sentences",
+        "difficulty": "Medium",
+        "frequency": 59,
+        "url": "https://leetcode.com/problems/synonymous-sentences",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Backtracking",
+          "Sort",
+          "Union-Find"
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Optimal Account Balancing",
+        "difficulty": "Hard",
+        "frequency": 51,
+        "url": "https://leetcode.com/problems/optimal-account-balancing",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Bitmask"
+        ]
+      },
+      {
+        "id": 13,
+        "title": "LFU Cache",
+        "difficulty": "Hard",
+        "frequency": 51,
+        "url": "https://leetcode.com/problems/lfu-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 51,
+        "url": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Minimum Number of Taps to Open to Water a Garden",
+        "difficulty": "Hard",
+        "frequency": 51,
+        "url": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Design Underground System",
+        "difficulty": "Medium",
+        "frequency": 51,
+        "url": "https://leetcode.com/problems/design-underground-system",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design"
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Top K Frequent Elements",
+        "difficulty": "Medium",
+        "frequency": 51,
+        "url": "https://leetcode.com/problems/top-k-frequent-elements",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ]
+      },
+      {
+        "id": 18,
+        "title": "Sentence Similarity II",
+        "difficulty": "Medium",
+        "frequency": 51,
+        "url": "https://leetcode.com/problems/sentence-similarity-ii",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find"
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Design a Text Editor",
+        "difficulty": "Hard",
+        "frequency": 51,
+        "url": "https://leetcode.com/problems/design-a-text-editor",
+        "topics": [
+          "Linked List",
+          "String",
+          "Stack",
+          "Design",
+          "Simulation",
+          "Doubly-Linked List"
+        ]
+      },
+      {
+        "id": 20,
+        "title": "Top K Frequent Words",
+        "difficulty": "Medium",
+        "frequency": 51,
+        "url": "https://leetcode.com/problems/top-k-frequent-words",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting"
+        ]
+      },
+      {
+        "id": 21,
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
+        "frequency": 51,
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 22,
+        "title": "LRU Cache",
+        "difficulty": "Medium",
+        "frequency": 51,
+        "url": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Median of Two Sorted Arrays",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Divide and Conquer"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Design Spreadsheet",
+        "difficulty": "Medium",
+        "frequency": 78,
+        "url": "https://leetcode.com/problems/design-spreadsheet",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Design",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Merge k Sorted Lists",
+        "difficulty": "Hard",
+        "frequency": 74,
+        "url": "https://leetcode.com/problems/merge-k-sorted-lists",
+        "topics": [
+          "Linked List",
+          "Divide and Conquer",
+          "Heap (Priority Queue)",
+          "Merge Sort",
+          "Tournament Sort"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Design Excel Sum Formula",
+        "difficulty": "Hard",
+        "frequency": 71,
+        "url": "https://leetcode.com/problems/design-excel-sum-formula",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Graph Theory",
+          "Design",
+          "Topological Sort",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Merge Two Sorted Lists",
+        "difficulty": "Easy",
+        "frequency": 64,
+        "url": "https://leetcode.com/problems/merge-two-sorted-lists",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Evaluate Division",
+        "difficulty": "Medium",
+        "frequency": 60,
+        "url": "https://leetcode.com/problems/evaluate-division",
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory",
+          "Shortest Path",
+          "Bellman–Ford Algorithm",
+          "Floyd–Warshall Algorithm"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Number of Visible People in a Queue",
+        "difficulty": "Hard",
+        "frequency": 60,
+        "url": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Maximize Amount After Two Days of Conversions",
+        "difficulty": "Medium",
+        "frequency": 60,
+        "url": "https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions",
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+        "difficulty": "Medium",
+        "frequency": 60,
+        "url": "https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+        "topics": [
+          "Array",
+          "Tree",
+          "Depth-First Search"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Synonymous Sentences",
+        "difficulty": "Medium",
+        "frequency": 54,
+        "url": "https://leetcode.com/problems/synonymous-sentences",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Backtracking",
+          "Sort",
+          "Union-Find"
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Accounts Merge",
+        "difficulty": "Medium",
+        "frequency": 54,
+        "url": "https://leetcode.com/problems/accounts-merge",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Maximum Xor Product",
+        "difficulty": "Medium",
+        "frequency": 54,
+        "url": "https://leetcode.com/problems/maximum-xor-product",
+        "topics": [
+          "Math",
+          "Greedy",
+          "Bit Manipulation"
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Top K Frequent Elements",
+        "difficulty": "Medium",
+        "frequency": 54,
+        "url": "https://leetcode.com/problems/top-k-frequent-elements",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 54,
+        "url": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Beautiful Arrangement",
+        "difficulty": "Medium",
+        "frequency": 54,
+        "url": "https://leetcode.com/problems/beautiful-arrangement",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Bitmask"
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Optimal Account Balancing",
+        "difficulty": "Hard",
+        "frequency": 46,
+        "url": "https://leetcode.com/problems/optimal-account-balancing",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Bitmask"
+        ]
+      },
+      {
+        "id": 17,
+        "title": "LFU Cache",
+        "difficulty": "Hard",
+        "frequency": 46,
+        "url": "https://leetcode.com/problems/lfu-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ]
+      },
+      {
+        "id": 18,
+        "title": "Minimum Number of Taps to Open to Water a Garden",
+        "difficulty": "Hard",
+        "frequency": 46,
+        "url": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Design Underground System",
+        "difficulty": "Medium",
+        "frequency": 46,
+        "url": "https://leetcode.com/problems/design-underground-system",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design"
+        ]
+      },
+      {
+        "id": 20,
+        "title": "Sentence Similarity II",
+        "difficulty": "Medium",
+        "frequency": 46,
+        "url": "https://leetcode.com/problems/sentence-similarity-ii",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find"
+        ]
+      },
+      {
+        "id": 21,
+        "title": "Top K Frequent Words",
+        "difficulty": "Medium",
+        "frequency": 46,
+        "url": "https://leetcode.com/problems/top-k-frequent-words",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting"
+        ]
+      },
+      {
+        "id": 22,
+        "title": "LRU Cache",
+        "difficulty": "Medium",
+        "frequency": 46,
+        "url": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ]
+      },
+      {
+        "id": 23,
+        "title": "Design a Text Editor",
+        "difficulty": "Hard",
+        "frequency": 46,
+        "url": "https://leetcode.com/problems/design-a-text-editor",
+        "topics": [
+          "Linked List",
+          "String",
+          "Stack",
+          "Design",
+          "Simulation",
+          "Doubly-Linked List"
+        ]
+      },
+      {
+        "id": 24,
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
+        "frequency": 46,
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 25,
+        "title": "Number of Islands",
+        "difficulty": "Medium",
+        "frequency": 46,
+        "url": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 26,
+        "title": "Using a Robot to Print the Lexicographically Smallest String",
+        "difficulty": "Medium",
+        "frequency": 46,
+        "url": "https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 27,
+        "title": "Longest Substring Of All Vowels in Order",
+        "difficulty": "Medium",
+        "frequency": 46,
+        "url": "https://leetcode.com/problems/longest-substring-of-all-vowels-in-order",
+        "topics": [
+          "String",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 28,
+        "title": "Design Ride Sharing System",
+        "difficulty": "Medium",
+        "frequency": 46,
+        "url": "https://leetcode.com/problems/design-ride-sharing-system",
+        "topics": [
+          "Hash Table",
+          "Design",
+          "Queue",
+          "Data Stream"
+        ]
+      },
+      {
+        "id": 29,
+        "title": "Find Median from Data Stream",
+        "difficulty": "Hard",
+        "frequency": 46,
+        "url": "https://leetcode.com/problems/find-median-from-data-stream",
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ]
+      }
+    ]
+  }
+}

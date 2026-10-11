@@ -1,0 +1,69 @@
+{
+  "name": "LINE",
+  "slug": "LINE",
+  "dataKey": "line",
+  "updatedAt": "2026-10-11T10:11:24.218Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Sliding Window Maximum",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/sliding-window-maximum",
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue",
+          "Range Minimum/Maximum Query"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Minimum Cost to Cut a Stick",
+        "difficulty": "Hard",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Sorting"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Sliding Window Maximum",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/sliding-window-maximum",
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue",
+          "Range Minimum/Maximum Query"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Minimum Cost to Cut a Stick",
+        "difficulty": "Hard",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Sorting"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Hulu",
+  "slug": "Hulu",
+  "dataKey": "hulu",
+  "updatedAt": "2026-10-11T10:11:24.183Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Number of Valid Subarrays",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/number-of-valid-subarrays",
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Basic Calculator III",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/basic-calculator-iii",
+        "topics": [
+          "Math",
+          "String",
+          "Stack",
+          "Recursion"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Binary Tree Pruning",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/binary-tree-pruning",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Sum of Two Integers",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/sum-of-two-integers",
+        "topics": [
+          "Math",
+          "Bit Manipulation"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "K-th Smallest in Lexicographical Order",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order",
+        "topics": [
+          "Trie"
+        ]
+      }
+    ]
+  }
+}

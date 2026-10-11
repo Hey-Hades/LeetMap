@@ -1,0 +1,453 @@
+{
+  "name": "Deutsche Bank",
+  "slug": "Deutsche Bank",
+  "dataKey": "deutsche_bank",
+  "updatedAt": "2026-10-11T10:11:24.084Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [
+      {
+        "id": 1,
+        "title": "Reverse Words in a String",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/reverse-words-in-a-string",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ]
+      }
+    ],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Reverse Words in a String",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/reverse-words-in-a-string",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ]
+      }
+    ],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Collecting Chocolates",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/collecting-chocolates",
+        "topics": [
+          "Array",
+          "Enumeration"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Different Ways to Add Parentheses",
+        "difficulty": "Medium",
+        "frequency": 94,
+        "url": "https://leetcode.com/problems/different-ways-to-add-parentheses",
+        "topics": [
+          "Math",
+          "String",
+          "Dynamic Programming",
+          "Recursion",
+          "Memoization",
+          "Bracket Sequences"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Longest Common Prefix",
+        "difficulty": "Easy",
+        "frequency": 86,
+        "url": "https://leetcode.com/problems/longest-common-prefix",
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "Easy",
+        "frequency": 75,
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 75,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Pascal's Triangle",
+        "difficulty": "Easy",
+        "frequency": 75,
+        "url": "https://leetcode.com/problems/pascals-triangle",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Squares of a Sorted Array",
+        "difficulty": "Easy",
+        "frequency": 75,
+        "url": "https://leetcode.com/problems/squares-of-a-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Count Increasing Quadruplets",
+        "difficulty": "Hard",
+        "frequency": 75,
+        "url": "https://leetcode.com/problems/count-increasing-quadruplets",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Binary Indexed Tree",
+          "Enumeration",
+          "Prefix Sum"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Coin Change",
+        "difficulty": "Medium",
+        "frequency": 75,
+        "url": "https://leetcode.com/problems/coin-change",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search",
+          "Knapsack Problem",
+          "Complete Knapsack"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "N-Queens II",
+        "difficulty": "Hard",
+        "frequency": 75,
+        "url": "https://leetcode.com/problems/n-queens-ii",
+        "topics": [
+          "Backtracking",
+          "Algorithm X"
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Split Array With Same Average",
+        "difficulty": "Hard",
+        "frequency": 75,
+        "url": "https://leetcode.com/problems/split-array-with-same-average",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Dynamic Programming",
+          "Bit Manipulation",
+          "Meet in the Middle",
+          "Bitmask"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Smallest K-Length Subsequence With Occurrences of a Letter",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter",
+        "topics": [
+          "String",
+          "Stack",
+          "Greedy",
+          "Monotonic Stack"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Apply Operations to Maximize Frequency Score",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/apply-operations-to-maximize-frequency-score",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Sliding Window",
+          "Sorting",
+          "Prefix Sum"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Find the Maximum Sum of Node Values",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy",
+          "Bit Manipulation",
+          "Tree",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Maximum Coins Heroes Can Collect",
+        "difficulty": "Medium",
+        "frequency": 97,
+        "url": "https://leetcode.com/problems/maximum-coins-heroes-can-collect",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Sorting",
+          "Prefix Sum"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "The Time When the Network Becomes Idle",
+        "difficulty": "Medium",
+        "frequency": 97,
+        "url": "https://leetcode.com/problems/the-time-when-the-network-becomes-idle",
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Graph Theory"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Maximum Running Time of N Computers",
+        "difficulty": "Hard",
+        "frequency": 97,
+        "url": "https://leetcode.com/problems/maximum-running-time-of-n-computers",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Greedy",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Pour Water Between Buckets to Make Water Levels Equal",
+        "difficulty": "Medium",
+        "frequency": 97,
+        "url": "https://leetcode.com/problems/pour-water-between-buckets-to-make-water-levels-equal",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Minimum Operations to Make the Array Increasing",
+        "difficulty": "Easy",
+        "frequency": 97,
+        "url": "https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing",
+        "topics": [
+          "Array",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Minimum Operations to Collect Elements",
+        "difficulty": "Easy",
+        "frequency": 97,
+        "url": "https://leetcode.com/problems/minimum-operations-to-collect-elements",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Bit Manipulation"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Collecting Chocolates",
+        "difficulty": "Medium",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/collecting-chocolates",
+        "topics": [
+          "Array",
+          "Enumeration"
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Different Ways to Add Parentheses",
+        "difficulty": "Medium",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/different-ways-to-add-parentheses",
+        "topics": [
+          "Math",
+          "String",
+          "Dynamic Programming",
+          "Recursion",
+          "Memoization",
+          "Bracket Sequences"
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Longest Common Prefix",
+        "difficulty": "Easy",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/longest-common-prefix",
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Reverse Words in a String",
+        "difficulty": "Medium",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/reverse-words-in-a-string",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 62,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "Easy",
+        "frequency": 62,
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Squares of a Sorted Array",
+        "difficulty": "Easy",
+        "frequency": 62,
+        "url": "https://leetcode.com/problems/squares-of-a-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 17,
+        "title": "N-Queens II",
+        "difficulty": "Hard",
+        "frequency": 62,
+        "url": "https://leetcode.com/problems/n-queens-ii",
+        "topics": [
+          "Backtracking",
+          "Algorithm X"
+        ]
+      },
+      {
+        "id": 18,
+        "title": "Pascal's Triangle",
+        "difficulty": "Easy",
+        "frequency": 62,
+        "url": "https://leetcode.com/problems/pascals-triangle",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Split Array With Same Average",
+        "difficulty": "Hard",
+        "frequency": 62,
+        "url": "https://leetcode.com/problems/split-array-with-same-average",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Dynamic Programming",
+          "Bit Manipulation",
+          "Meet in the Middle",
+          "Bitmask"
+        ]
+      },
+      {
+        "id": 20,
+        "title": "Count Increasing Quadruplets",
+        "difficulty": "Hard",
+        "frequency": 62,
+        "url": "https://leetcode.com/problems/count-increasing-quadruplets",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Binary Indexed Tree",
+          "Enumeration",
+          "Prefix Sum"
+        ]
+      },
+      {
+        "id": 21,
+        "title": "Coin Change",
+        "difficulty": "Medium",
+        "frequency": 62,
+        "url": "https://leetcode.com/problems/coin-change",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search",
+          "Knapsack Problem",
+          "Complete Knapsack"
+        ]
+      },
+      {
+        "id": 22,
+        "title": "Spiral Matrix",
+        "difficulty": "Medium",
+        "frequency": 62,
+        "url": "https://leetcode.com/problems/spiral-matrix",
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ]
+      }
+    ]
+  }
+}

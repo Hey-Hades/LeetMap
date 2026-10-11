@@ -1,0 +1,90 @@
+{
+  "name": "USAA",
+  "slug": "USAA",
+  "dataKey": "usaa",
+  "updatedAt": "2026-10-11T10:11:24.440Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Longest Common Prefix",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/longest-common-prefix",
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ]
+      }
+    ],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Longest Word in Dictionary through Deleting",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/longest-word-in-dictionary-through-deleting",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "String",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Longest Common Prefix",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/longest-common-prefix",
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Longest Common Prefix",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/longest-common-prefix",
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Longest Word in Dictionary through Deleting",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/longest-word-in-dictionary-through-deleting",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "String",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Valid Parentheses",
+        "difficulty": "Easy",
+        "frequency": 80,
+        "url": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ]
+      }
+    ]
+  }
+}

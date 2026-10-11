@@ -1,0 +1,35 @@
+{
+  "name": "Veeva Systems",
+  "slug": "Veeva Systems",
+  "dataKey": "veeva_systems",
+  "updatedAt": "2026-10-11T10:11:24.442Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Count and Say",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/count-and-say",
+        "topics": [
+          "String"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Count and Say",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/count-and-say",
+        "topics": [
+          "String"
+        ]
+      }
+    ]
+  }
+}

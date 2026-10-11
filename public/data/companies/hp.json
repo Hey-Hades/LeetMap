@@ -1,0 +1,121 @@
+{
+  "name": "HP",
+  "slug": "HP",
+  "dataKey": "hp",
+  "updatedAt": "2026-10-11T10:11:24.176Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks",
+        "topics": [
+          "String",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Minimum Cost Homecoming of a Robot in a Grid",
+        "difficulty": "Medium",
+        "frequency": 91,
+        "url": "https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid",
+        "topics": [
+          "Array",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Longest Palindrome",
+        "difficulty": "Easy",
+        "frequency": 76,
+        "url": "https://leetcode.com/problems/longest-palindrome",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Valid Parentheses",
+        "difficulty": "Easy",
+        "frequency": 76,
+        "url": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks",
+        "topics": [
+          "String",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Minimum Cost Homecoming of a Robot in a Grid",
+        "difficulty": "Medium",
+        "frequency": 91,
+        "url": "https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid",
+        "topics": [
+          "Array",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Valid Parentheses",
+        "difficulty": "Easy",
+        "frequency": 84,
+        "url": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Longest Palindrome",
+        "difficulty": "Easy",
+        "frequency": 75,
+        "url": "https://leetcode.com/problems/longest-palindrome",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Valid Parenthesis String",
+        "difficulty": "Medium",
+        "frequency": 75,
+        "url": "https://leetcode.com/problems/valid-parenthesis-string",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Stack",
+          "Greedy",
+          "Bracket Sequences"
+        ]
+      }
+    ]
+  }
+}

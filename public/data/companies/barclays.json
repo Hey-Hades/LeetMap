@@ -1,0 +1,370 @@
+{
+  "name": "Barclays",
+  "slug": "Barclays",
+  "dataKey": "barclays",
+  "updatedAt": "2026-10-11T10:11:23.985Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [
+      {
+        "id": 1,
+        "title": "Remove Boxes",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/remove-boxes",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Memoization"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Second Highest Salary",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/second-highest-salary",
+        "topics": [
+          "Database"
+        ]
+      }
+    ],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Partition Labels",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/partition-labels",
+        "topics": [
+          "Hash Table",
+          "Two Pointers",
+          "String",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Remove Boxes",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/remove-boxes",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Memoization"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Second Highest Salary",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/second-highest-salary",
+        "topics": [
+          "Database"
+        ]
+      }
+    ],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Lexicographically Smallest Generated String",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/lexicographically-smallest-generated-string",
+        "topics": [
+          "String",
+          "Greedy",
+          "String Matching"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Lexicographical Numbers",
+        "difficulty": "Medium",
+        "frequency": 56,
+        "url": "https://leetcode.com/problems/lexicographical-numbers",
+        "topics": [
+          "Depth-First Search",
+          "Trie"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Number of Islands",
+        "difficulty": "Medium",
+        "frequency": 56,
+        "url": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Second Highest Salary",
+        "difficulty": "Medium",
+        "frequency": 56,
+        "url": "https://leetcode.com/problems/second-highest-salary",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Longest Common Prefix",
+        "difficulty": "Easy",
+        "frequency": 56,
+        "url": "https://leetcode.com/problems/longest-common-prefix",
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Next Greater Element I",
+        "difficulty": "Easy",
+        "frequency": 56,
+        "url": "https://leetcode.com/problems/next-greater-element-i",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Stack",
+          "Monotonic Stack"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Reverse Words in a String",
+        "difficulty": "Medium",
+        "frequency": 56,
+        "url": "https://leetcode.com/problems/reverse-words-in-a-string",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Minimum Number of Days to Make m Bouquets",
+        "difficulty": "Medium",
+        "frequency": 56,
+        "url": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Lexicographically Smallest Generated String",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/lexicographically-smallest-generated-string",
+        "topics": [
+          "String",
+          "Greedy",
+          "String Matching"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Double Modular Exponentiation",
+        "difficulty": "Medium",
+        "frequency": 87,
+        "url": "https://leetcode.com/problems/double-modular-exponentiation",
+        "topics": [
+          "Array",
+          "Math",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Furthest Point From Origin",
+        "difficulty": "Easy",
+        "frequency": 84,
+        "url": "https://leetcode.com/problems/furthest-point-from-origin",
+        "topics": [
+          "String",
+          "Counting"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+        "difficulty": "Medium",
+        "frequency": 82,
+        "url": "https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k",
+        "topics": [
+          "Array",
+          "Matrix",
+          "Prefix Sum"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Mark Elements on Array by Performing Queries",
+        "difficulty": "Medium",
+        "frequency": 82,
+        "url": "https://leetcode.com/problems/mark-elements-on-array-by-performing-queries",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Second Highest Salary",
+        "difficulty": "Medium",
+        "frequency": 67,
+        "url": "https://leetcode.com/problems/second-highest-salary",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Partition Labels",
+        "difficulty": "Medium",
+        "frequency": 61,
+        "url": "https://leetcode.com/problems/partition-labels",
+        "topics": [
+          "Hash Table",
+          "Two Pointers",
+          "String",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 61,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Lexicographical Numbers",
+        "difficulty": "Medium",
+        "frequency": 53,
+        "url": "https://leetcode.com/problems/lexicographical-numbers",
+        "topics": [
+          "Depth-First Search",
+          "Trie"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Valid Parentheses",
+        "difficulty": "Easy",
+        "frequency": 53,
+        "url": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Number of Islands",
+        "difficulty": "Medium",
+        "frequency": 53,
+        "url": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Longest Common Prefix",
+        "difficulty": "Easy",
+        "frequency": 53,
+        "url": "https://leetcode.com/problems/longest-common-prefix",
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Next Greater Element I",
+        "difficulty": "Easy",
+        "frequency": 53,
+        "url": "https://leetcode.com/problems/next-greater-element-i",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Stack",
+          "Monotonic Stack"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Reverse Words in a String",
+        "difficulty": "Medium",
+        "frequency": 53,
+        "url": "https://leetcode.com/problems/reverse-words-in-a-string",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Minimum Number of Days to Make m Bouquets",
+        "difficulty": "Medium",
+        "frequency": 53,
+        "url": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Remove Boxes",
+        "difficulty": "Hard",
+        "frequency": 53,
+        "url": "https://leetcode.com/problems/remove-boxes",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Memoization"
+        ]
+      }
+    ]
+  }
+}

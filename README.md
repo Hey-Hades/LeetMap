@@ -52,8 +52,28 @@ Run the development server.
 npm run dev
 ```
 
- HEAD
 Open **http://localhost:5173**.
 
-Open **http://localhost:5173**.
-c728647 (docs: update README and favicon)
+## 🔄 Automatic Question Scraping
+
+LeetMap includes an automated scraping pipeline that pulls and organizes questions for **470+ companies** across all time frames (`30 days`, `3 months`, `6 months`, `6+ months`, `All time`) from the open-source repository.
+
+### Manual Scraping
+Run the scraper anytime from the command line:
+
+```bash
+# Scrape all companies and update datasets
+npm run scrape
+
+# Scrape a specific company (e.g., Google)
+node scrape.js --company Google
+
+# Clean up temp files if needed
+npm run scrape:clean
+```
+
+### Automatic Scheduled Scraping
+A GitHub Actions workflow (`.github/workflows/scrape-questions.yml`) is configured to:
+- Run automatically every Sunday at midnight UTC.
+- Or trigger manually via GitHub Actions with one click (`workflow_dispatch`).
+- Commit new question updates and push to GitHub, triggering an automatic Vercel redeployment.

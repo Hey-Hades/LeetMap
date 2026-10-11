@@ -1,0 +1,126 @@
+{
+  "name": "Bolt",
+  "slug": "Bolt",
+  "dataKey": "bolt",
+  "updatedAt": "2026-10-11T10:11:24.016Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Get Watched Videos by Your Friends",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/get-watched-videos-by-your-friends",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Sorting"
+        ]
+      }
+    ],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Subarray Sum Equals K",
+        "difficulty": "Medium",
+        "frequency": 80,
+        "url": "https://leetcode.com/problems/subarray-sum-equals-k",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Minimum String Length After Removing Substrings",
+        "difficulty": "Easy",
+        "frequency": 80,
+        "url": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings",
+        "topics": [
+          "String",
+          "Stack",
+          "Simulation"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Check if All Characters Have Equal Number of Occurrences",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "Easy",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Subarray Sum Equals K",
+        "difficulty": "Medium",
+        "frequency": 71,
+        "url": "https://leetcode.com/problems/subarray-sum-equals-k",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Minimum String Length After Removing Substrings",
+        "difficulty": "Easy",
+        "frequency": 71,
+        "url": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings",
+        "topics": [
+          "String",
+          "Stack",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Get Watched Videos by Your Friends",
+        "difficulty": "Medium",
+        "frequency": 71,
+        "url": "https://leetcode.com/problems/get-watched-videos-by-your-friends",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Sorting"
+        ]
+      }
+    ]
+  }
+}

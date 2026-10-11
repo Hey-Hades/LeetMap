@@ -1,0 +1,51 @@
+{
+  "name": "fourkites",
+  "slug": "fourkites",
+  "dataKey": "fourkites",
+  "updatedAt": "2026-10-11T10:11:24.116Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Longest Unequal Adjacent Groups Subsequence II",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii",
+        "topics": [
+          "Array",
+          "String",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Longest Subarray With Maximum Bitwise AND",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and",
+        "topics": [
+          "Array",
+          "Bit Manipulation",
+          "Brainteaser"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Longest Unequal Adjacent Groups Subsequence I",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i",
+        "topics": [
+          "Array",
+          "String",
+          "Dynamic Programming",
+          "Greedy"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "ciena",
+  "slug": "ciena",
+  "dataKey": "ciena",
+  "updatedAt": "2026-10-11T10:11:24.041Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Active Users",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/active-users",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Number of Unique Flavors After Sharing K Candies",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Active Users",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/active-users",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Number of Unique Flavors After Sharing K Candies",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "name": "Lowe's",
+  "slug": "Lowe's",
+  "dataKey": "lowe_s",
+  "updatedAt": "2026-10-11T10:11:24.222Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Find the Original Typed String I",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/find-the-original-typed-string-i",
+        "topics": [
+          "String"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Minimum Operations to Make Array Values Equal to K",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 67,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Find the Original Typed String I",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/find-the-original-typed-string-i",
+        "topics": [
+          "String"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Minimum Operations to Make Array Values Equal to K",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "The Number of Good Subsets",
+        "difficulty": "Hard",
+        "frequency": 95,
+        "url": "https://leetcode.com/problems/the-number-of-good-subsets",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Dynamic Programming",
+          "Bit Manipulation",
+          "Counting",
+          "Number Theory",
+          "Bitmask",
+          "Sieve Theory"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Groups of Strings",
+        "difficulty": "Hard",
+        "frequency": 95,
+        "url": "https://leetcode.com/problems/groups-of-strings",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Bit Manipulation",
+          "Union-Find"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 65,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "LRU Cache",
+        "difficulty": "Medium",
+        "frequency": 65,
+        "url": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ]
+      }
+    ]
+  }
+}

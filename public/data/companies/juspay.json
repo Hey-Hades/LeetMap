@@ -1,0 +1,564 @@
+{
+  "name": "Juspay",
+  "slug": "Juspay",
+  "dataKey": "juspay",
+  "updatedAt": "2026-10-11T10:11:24.209Z",
+  "problems": {
+    "1. Thirty Days.csv": [
+      {
+        "id": 1,
+        "title": "Minimum Cost Homecoming of a Robot in a Grid",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid",
+        "topics": [
+          "Array",
+          "Greedy"
+        ]
+      }
+    ],
+    "2. Three Months.csv": [
+      {
+        "id": 1,
+        "title": "Minimum Cost Homecoming of a Robot in a Grid",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid",
+        "topics": [
+          "Array",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Minimum Number of Operations to Make Array Continuous",
+        "difficulty": "Hard",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Operations on Tree",
+        "difficulty": "Medium",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/operations-on-tree",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Design"
+        ]
+      }
+    ],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Minimum Number of Operations to Make Array Continuous",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Minimum Cost Homecoming of a Robot in a Grid",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid",
+        "topics": [
+          "Array",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Maximum Product Subarray",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/maximum-product-subarray",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Operations on Tree",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/operations-on-tree",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Design"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Sliding Window Maximum",
+        "difficulty": "Hard",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/sliding-window-maximum",
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue",
+          "Range Minimum/Maximum Query"
+        ]
+      }
+    ],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Operations on Tree",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/operations-on-tree",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Design"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Longest Subsequence With Decreasing Adjacent Difference",
+        "difficulty": "Medium",
+        "frequency": 84,
+        "url": "https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Find Closest Node to Given Two Nodes",
+        "difficulty": "Medium",
+        "frequency": 64,
+        "url": "https://leetcode.com/problems/find-closest-node-to-given-two-nodes",
+        "topics": [
+          "Depth-First Search",
+          "Graph Theory"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Largest Color Value in a Directed Graph",
+        "difficulty": "Hard",
+        "frequency": 58,
+        "url": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Graph Theory",
+          "Topological Sort",
+          "Memoization",
+          "Counting",
+          "Directed Acyclic Graph"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Shortest Path in a Weighted Tree",
+        "difficulty": "Hard",
+        "frequency": 58,
+        "url": "https://leetcode.com/problems/shortest-path-in-a-weighted-tree",
+        "topics": [
+          "Array",
+          "Tree",
+          "Depth-First Search",
+          "Binary Indexed Tree",
+          "Segment Tree"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Sliding Window Maximum",
+        "difficulty": "Hard",
+        "frequency": 58,
+        "url": "https://leetcode.com/problems/sliding-window-maximum",
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue",
+          "Range Minimum/Maximum Query"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Longest Cycle in a Graph",
+        "difficulty": "Hard",
+        "frequency": 50,
+        "url": "https://leetcode.com/problems/longest-cycle-in-a-graph",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort",
+          "Kosaraju's Algorithm",
+          "Tarjan's SCC Algorithm"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Set Matrix Zeroes",
+        "difficulty": "Medium",
+        "frequency": 50,
+        "url": "https://leetcode.com/problems/set-matrix-zeroes",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
+        "frequency": 50,
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Gas Station",
+        "difficulty": "Medium",
+        "frequency": 50,
+        "url": "https://leetcode.com/problems/gas-station",
+        "topics": [
+          "Array",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Maximum Score From Removing Substrings",
+        "difficulty": "Medium",
+        "frequency": 50,
+        "url": "https://leetcode.com/problems/maximum-score-from-removing-substrings",
+        "topics": [
+          "String",
+          "Stack",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Asteroid Collision",
+        "difficulty": "Medium",
+        "frequency": 50,
+        "url": "https://leetcode.com/problems/asteroid-collision",
+        "topics": [
+          "Array",
+          "Stack",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 50,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 50,
+        "url": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Operations on Tree",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/operations-on-tree",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Design"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Find Closest Node to Given Two Nodes",
+        "difficulty": "Medium",
+        "frequency": 84,
+        "url": "https://leetcode.com/problems/find-closest-node-to-given-two-nodes",
+        "topics": [
+          "Depth-First Search",
+          "Graph Theory"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Longest Subsequence With Decreasing Adjacent Difference",
+        "difficulty": "Medium",
+        "frequency": 82,
+        "url": "https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Longest Cycle in a Graph",
+        "difficulty": "Hard",
+        "frequency": 80,
+        "url": "https://leetcode.com/problems/longest-cycle-in-a-graph",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort",
+          "Kosaraju's Algorithm",
+          "Tarjan's SCC Algorithm"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Node With Highest Edge Score",
+        "difficulty": "Medium",
+        "frequency": 76,
+        "url": "https://leetcode.com/problems/node-with-highest-edge-score",
+        "topics": [
+          "Hash Table",
+          "Graph Theory"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Toggle Light Bulbs",
+        "difficulty": "Easy",
+        "frequency": 76,
+        "url": "https://leetcode.com/problems/toggle-light-bulbs",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sorting",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Sliding Window Maximum",
+        "difficulty": "Hard",
+        "frequency": 66,
+        "url": "https://leetcode.com/problems/sliding-window-maximum",
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue",
+          "Range Minimum/Maximum Query"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Largest Color Value in a Directed Graph",
+        "difficulty": "Hard",
+        "frequency": 56,
+        "url": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Graph Theory",
+          "Topological Sort",
+          "Memoization",
+          "Counting",
+          "Directed Acyclic Graph"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Shortest Path in a Weighted Tree",
+        "difficulty": "Hard",
+        "frequency": 56,
+        "url": "https://leetcode.com/problems/shortest-path-in-a-weighted-tree",
+        "topics": [
+          "Array",
+          "Tree",
+          "Depth-First Search",
+          "Binary Indexed Tree",
+          "Segment Tree"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Minimum Number of Operations to Make Array Continuous",
+        "difficulty": "Hard",
+        "frequency": 56,
+        "url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Minimum Cost Homecoming of a Robot in a Grid",
+        "difficulty": "Medium",
+        "frequency": 56,
+        "url": "https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid",
+        "topics": [
+          "Array",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Set Matrix Zeroes",
+        "difficulty": "Medium",
+        "frequency": 48,
+        "url": "https://leetcode.com/problems/set-matrix-zeroes",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
+        "frequency": 48,
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Maximum Score From Removing Substrings",
+        "difficulty": "Medium",
+        "frequency": 48,
+        "url": "https://leetcode.com/problems/maximum-score-from-removing-substrings",
+        "topics": [
+          "String",
+          "Stack",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Gas Station",
+        "difficulty": "Medium",
+        "frequency": 48,
+        "url": "https://leetcode.com/problems/gas-station",
+        "topics": [
+          "Array",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Asteroid Collision",
+        "difficulty": "Medium",
+        "frequency": 48,
+        "url": "https://leetcode.com/problems/asteroid-collision",
+        "topics": [
+          "Array",
+          "Stack",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 48,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 18,
+        "title": "Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 48,
+        "url": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Maximum Product Subarray",
+        "difficulty": "Medium",
+        "frequency": 48,
+        "url": "https://leetcode.com/problems/maximum-product-subarray",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 20,
+        "title": "Container With Most Water",
+        "difficulty": "Medium",
+        "frequency": 48,
+        "url": "https://leetcode.com/problems/container-with-most-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ]
+      }
+    ]
+  }
+}

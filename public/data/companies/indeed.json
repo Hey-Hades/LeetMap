@@ -1,0 +1,100 @@
+{
+  "name": "Indeed",
+  "slug": "Indeed",
+  "dataKey": "indeed",
+  "updatedAt": "2026-10-11T10:11:24.188Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Check if Every Row and Column Contains All Numbers",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Sum of Even Numbers After Queries",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/sum-of-even-numbers-after-queries",
+        "topics": [
+          "Array",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Binary Tree Tilt",
+        "difficulty": "Easy",
+        "frequency": 97,
+        "url": "https://leetcode.com/problems/binary-tree-tilt",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree",
+          "DP on Trees"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Minimum Cost to Split an Array",
+        "difficulty": "Hard",
+        "frequency": 97,
+        "url": "https://leetcode.com/problems/minimum-cost-to-split-an-array",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Dynamic Programming",
+          "Counting"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Find Players With Zero or One Losses",
+        "difficulty": "Medium",
+        "frequency": 97,
+        "url": "https://leetcode.com/problems/find-players-with-zero-or-one-losses",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sorting",
+          "Counting"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Minimum Moves to Equal Array Elements",
+        "difficulty": "Medium",
+        "frequency": 97,
+        "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements",
+        "topics": [
+          "Array",
+          "Math"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Check if Every Row and Column Contains All Numbers",
+        "difficulty": "Easy",
+        "frequency": 75,
+        "url": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ]
+      }
+    ]
+  }
+}

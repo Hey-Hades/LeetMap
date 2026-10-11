@@ -1,0 +1,147 @@
+{
+  "name": "Guidewire",
+  "slug": "Guidewire",
+  "dataKey": "guidewire",
+  "updatedAt": "2026-10-11T10:11:24.165Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Minimum Moves to Spread Stones Over Grid",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Matrix",
+          "Bitmask"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Minimum Number of Operations to Sort a Binary Tree by Level",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level",
+        "topics": [
+          "Tree",
+          "Breadth-First Search",
+          "Binary Tree"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Get Watched Videos by Your Friends",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/get-watched-videos-by-your-friends",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Construct the Longest New String",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/construct-the-longest-new-string",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Greedy",
+          "Brainteaser"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Print Words Vertically",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/print-words-vertically",
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Minimum Moves to Spread Stones Over Grid",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Matrix",
+          "Bitmask"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Minimum Number of Operations to Sort a Binary Tree by Level",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level",
+        "topics": [
+          "Tree",
+          "Breadth-First Search",
+          "Binary Tree"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Print Words Vertically",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/print-words-vertically",
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Get Watched Videos by Your Friends",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/get-watched-videos-by-your-friends",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Construct the Longest New String",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/construct-the-longest-new-string",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Greedy",
+          "Brainteaser"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "name": "Directi",
+  "slug": "Directi",
+  "dataKey": "directi",
+  "updatedAt": "2026-10-11T10:11:24.087Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Minimum Cost to Buy Apples",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-cost-to-buy-apples",
+        "topics": [
+          "Array",
+          "Graph Theory",
+          "Heap (Priority Queue)",
+          "Shortest Path"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Maximum XOR of Two Non-Overlapping Subtrees",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Graph Theory",
+          "Trie"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Difference Between Maximum and Minimum Price Sum",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Tree",
+          "Depth-First Search",
+          "DP on Trees"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Number of Sub-arrays With Odd Sum",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum",
+        "topics": [
+          "Array",
+          "Math",
+          "Dynamic Programming",
+          "Prefix Sum"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Find the Winner of an Array Game",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/find-the-winner-of-an-array-game",
+        "topics": [
+          "Array",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Find Longest Awesome Substring",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/find-longest-awesome-substring",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Bit Manipulation"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Min Cost to Connect All Points",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/min-cost-to-connect-all-points",
+        "topics": [
+          "Array",
+          "Union-Find",
+          "Graph Theory",
+          "Minimum Spanning Tree",
+          "Prim's Algorithm",
+          "Kruskal's Algorithm",
+          "Borůvka's Algorithm"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Largest Submatrix With Rearrangements",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/largest-submatrix-with-rearrangements",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Matrix"
+        ]
+      }
+    ]
+  }
+}

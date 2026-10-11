@@ -1,0 +1,60 @@
+{
+  "name": "Larsen & Toubro",
+  "slug": "Larsen & Toubro",
+  "dataKey": "larsen___toubro",
+  "updatedAt": "2026-10-11T10:11:24.213Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Longest Common Prefix",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/longest-common-prefix",
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Find the Sum of Encrypted Integers",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/find-the-sum-of-encrypted-integers",
+        "topics": [
+          "Array",
+          "Math"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray",
+        "topics": [
+          "Array"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Longest Common Prefix",
+        "difficulty": "Easy",
+        "frequency": 71,
+        "url": "https://leetcode.com/problems/longest-common-prefix",
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ]
+      }
+    ]
+  }
+}

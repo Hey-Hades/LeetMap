@@ -1,0 +1,103 @@
+{
+  "name": "Acko",
+  "slug": "Acko",
+  "dataKey": "acko",
+  "updatedAt": "2026-10-11T10:11:23.899Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Fill Missing Data",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/fill-missing-data",
+        "topics": []
+      },
+      {
+        "id": 2,
+        "title": "Count All Valid Pickup and Delivery Options",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Combinatorics"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Parallel Courses III",
+        "difficulty": "Hard",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/parallel-courses-iii",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Invalid Tweets",
+        "difficulty": "Easy",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/invalid-tweets",
+        "topics": [
+          "Database"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Fill Missing Data",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/fill-missing-data",
+        "topics": []
+      },
+      {
+        "id": 2,
+        "title": "Count All Valid Pickup and Delivery Options",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Combinatorics"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Parallel Courses III",
+        "difficulty": "Hard",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/parallel-courses-iii",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Invalid Tweets",
+        "difficulty": "Easy",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/invalid-tweets",
+        "topics": [
+          "Database"
+        ]
+      }
+    ]
+  }
+}

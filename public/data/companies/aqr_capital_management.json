@@ -1,0 +1,89 @@
+{
+  "name": "AQR Capital Management",
+  "slug": "AQR Capital Management",
+  "dataKey": "aqr_capital_management",
+  "updatedAt": "2026-10-11T10:11:23.967Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Jump Game VI",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/jump-game-vi",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Queue",
+          "Heap (Priority Queue)",
+          "Monotonic Queue"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Add Two Numbers",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/add-two-numbers",
+        "topics": [
+          "Linked List",
+          "Math",
+          "Recursion"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Best Time to Buy and Sell Stock with Cooldown",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Jump Game VI",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/jump-game-vi",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Queue",
+          "Heap (Priority Queue)",
+          "Monotonic Queue"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Best Time to Buy and Sell Stock with Cooldown",
+        "difficulty": "Medium",
+        "frequency": 64,
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Add Two Numbers",
+        "difficulty": "Medium",
+        "frequency": 64,
+        "url": "https://leetcode.com/problems/add-two-numbers",
+        "topics": [
+          "Linked List",
+          "Math",
+          "Recursion"
+        ]
+      }
+    ]
+  }
+}

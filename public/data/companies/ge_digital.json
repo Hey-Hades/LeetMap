@@ -1,0 +1,70 @@
+{
+  "name": "GE Digital",
+  "slug": "GE Digital",
+  "dataKey": "ge_digital",
+  "updatedAt": "2026-10-11T10:11:24.120Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Minimum Cost to Set Cooking Time",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-cost-to-set-cooking-time",
+        "topics": [
+          "Math",
+          "Enumeration"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Minimum Remove to Make Valid Parentheses",
+        "difficulty": "Medium",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Degree of an Array",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/degree-of-an-array",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Minimum Cost to Set Cooking Time",
+        "difficulty": "Medium",
+        "frequency": 80,
+        "url": "https://leetcode.com/problems/minimum-cost-to-set-cooking-time",
+        "topics": [
+          "Math",
+          "Enumeration"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Minimum Remove to Make Valid Parentheses",
+        "difficulty": "Medium",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ]
+      }
+    ]
+  }
+}

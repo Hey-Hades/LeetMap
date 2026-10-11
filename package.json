@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "scrape": "node scrape.js",
+    "scrape:clean": "node scrape.js --clean"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.110.2",

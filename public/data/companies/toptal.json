@@ -1,0 +1,64 @@
+{
+  "name": "Toptal",
+  "slug": "Toptal",
+  "dataKey": "toptal",
+  "updatedAt": "2026-10-11T10:11:24.422Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Airplane Seat Assignment Probability",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/airplane-seat-assignment-probability",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Brainteaser",
+          "Probability and Statistics"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "String Compression II",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/string-compression-ii",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Airplane Seat Assignment Probability",
+        "difficulty": "Medium",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/airplane-seat-assignment-probability",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Brainteaser",
+          "Probability and Statistics"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+        "difficulty": "Medium",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+        "topics": [
+          "String",
+          "Bit Manipulation",
+          "Simulation"
+        ]
+      }
+    ]
+  }
+}

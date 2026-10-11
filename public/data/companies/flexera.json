@@ -1,0 +1,40 @@
+{
+  "name": "Flexera",
+  "slug": "Flexera",
+  "dataKey": "flexera",
+  "updatedAt": "2026-10-11T10:11:24.109Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Lexicographically Minimum String After Removing Stars",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Greedy",
+          "Heap (Priority Queue)"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Clear Digits",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/clear-digits",
+        "topics": [
+          "String",
+          "Stack",
+          "Simulation"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Mindtickle",
+  "slug": "Mindtickle",
+  "dataKey": "mindtickle",
+  "updatedAt": "2026-10-11T10:11:24.268Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Trapping Rain Water",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Find Array Given Subset Sums",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/find-array-given-subset-sums",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sorting",
+          "Counting"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Get the Maximum Score",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/get-the-maximum-score",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Number of Ways to Wear Different Hats to Each Other",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Bit Manipulation",
+          "Bitmask",
+          "Bipartite Graph",
+          "Matching (Graph)",
+          "Perfect Matching"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Trapping Rain Water",
+        "difficulty": "Hard",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ]
+      }
+    ]
+  }
+}

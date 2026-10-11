@@ -1,0 +1,45 @@
+name: Auto Scrape Questions
+
+on:
+  schedule:
+    # Runs every Sunday at 00:00 UTC (weekly auto-update)
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+    # Allows manual trigger via GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Scraper
+        run: npm run scrape
+
+      - name: Commit and Push if Changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          git add src/services/companies.json public/data/companies/
+          
+          if git diff --staged --quiet; then
+            echo "No changes in questions or companies detected."
+          else
+            git commit -m "chore(data): auto-update company questions [skip ci]"
+            git push
+            echo "Successfully updated and pushed new question data."
+          fi

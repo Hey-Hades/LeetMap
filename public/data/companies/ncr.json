@@ -1,0 +1,95 @@
+{
+  "name": "NCR",
+  "slug": "NCR",
+  "dataKey": "ncr",
+  "updatedAt": "2026-10-11T10:11:24.285Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Number of People Aware of a Secret",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/number-of-people-aware-of-a-secret",
+        "topics": [
+          "Dynamic Programming",
+          "Queue",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Minimize Malware Spread",
+        "difficulty": "Hard",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/minimize-malware-spread",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Design Authentication Manager",
+        "difficulty": "Medium",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/design-authentication-manager",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Number of People Aware of a Secret",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/number-of-people-aware-of-a-secret",
+        "topics": [
+          "Dynamic Programming",
+          "Queue",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Minimize Malware Spread",
+        "difficulty": "Hard",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/minimize-malware-spread",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Design Authentication Manager",
+        "difficulty": "Medium",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/design-authentication-manager",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Sumo Logic",
+  "slug": "Sumo Logic",
+  "dataKey": "sumo_logic",
+  "updatedAt": "2026-10-11T10:11:24.399Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Minimize Hamming Distance After Swap Operations",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Union-Find"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Satisfiability of Equality Equations",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/satisfiability-of-equality-equations",
+        "topics": [
+          "Array",
+          "String",
+          "Union-Find",
+          "Graph Theory"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Minimize Hamming Distance After Swap Operations",
+        "difficulty": "Medium",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Union-Find"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+        "difficulty": "Medium",
+        "frequency": 71,
+        "url": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Ordered Set",
+          "Monotonic Queue"
+        ]
+      }
+    ]
+  }
+}

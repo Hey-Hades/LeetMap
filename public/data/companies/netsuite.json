@@ -1,0 +1,35 @@
+{
+  "name": "Netsuite",
+  "slug": "Netsuite",
+  "dataKey": "netsuite",
+  "updatedAt": "2026-10-11T10:11:24.290Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Employee Bonus",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/employee-bonus",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Average Salary Excluding the Minimum and Maximum Salary",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary",
+        "topics": [
+          "Array",
+          "Sorting"
+        ]
+      }
+    ]
+  }
+}

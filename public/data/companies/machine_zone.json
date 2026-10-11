@@ -1,0 +1,36 @@
+{
+  "name": "Machine Zone",
+  "slug": "Machine Zone",
+  "dataKey": "machine_zone",
+  "updatedAt": "2026-10-11T10:11:24.226Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Range Module",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/range-module",
+        "topics": [
+          "Design",
+          "Segment Tree",
+          "Ordered Set"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Number of Transactions per Visit",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/number-of-transactions-per-visit",
+        "topics": [
+          "Database"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Thomson Reuters",
+  "slug": "Thomson Reuters",
+  "dataKey": "thomson_reuters",
+  "updatedAt": "2026-10-11T10:11:24.412Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Minimum Time to Type Word Using Special Typewriter",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter",
+        "topics": [
+          "String",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Longest Substring Of All Vowels in Order",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/longest-substring-of-all-vowels-in-order",
+        "topics": [
+          "String",
+          "Sliding Window"
+        ]
+      }
+    ]
+  }
+}

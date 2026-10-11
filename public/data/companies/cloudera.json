@@ -1,0 +1,45 @@
+{
+  "name": "Cloudera",
+  "slug": "Cloudera",
+  "dataKey": "cloudera",
+  "updatedAt": "2026-10-11T10:11:24.050Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Number Complement",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/number-complement",
+        "topics": [
+          "Bit Manipulation"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Complement of Base 10 Integer",
+        "difficulty": "Easy",
+        "frequency": 98,
+        "url": "https://leetcode.com/problems/complement-of-base-10-integer",
+        "topics": [
+          "Bit Manipulation"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Lexicographically Smallest Equivalent String",
+        "difficulty": "Medium",
+        "frequency": 68,
+        "url": "https://leetcode.com/problems/lexicographically-smallest-equivalent-string",
+        "topics": [
+          "String",
+          "Union-Find"
+        ]
+      }
+    ]
+  }
+}

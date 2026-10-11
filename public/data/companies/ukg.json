@@ -1,0 +1,311 @@
+{
+  "name": "UKG",
+  "slug": "UKG",
+  "dataKey": "ukg",
+  "updatedAt": "2026-10-11T10:11:24.437Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [
+      {
+        "id": 1,
+        "title": "Split Array Largest Sum",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/split-array-largest-sum",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Greedy",
+          "Prefix Sum"
+        ]
+      }
+    ],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Split Array Largest Sum",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/split-array-largest-sum",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Greedy",
+          "Prefix Sum"
+        ]
+      }
+    ],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Maximum Area Rectangle With Point Constraints II",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii",
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Geometry",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Maximum Area Rectangle With Point Constraints I",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i",
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Geometry",
+          "Sorting",
+          "Enumeration"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Special Binary String",
+        "difficulty": "Hard",
+        "frequency": 98,
+        "url": "https://leetcode.com/problems/special-binary-string",
+        "topics": [
+          "String",
+          "Divide and Conquer",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Minimum Length of Anagram Concatenation",
+        "difficulty": "Medium",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Count the Number of Good Subsequences",
+        "difficulty": "Medium",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String",
+          "Combinatorics",
+          "Counting"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Maximize Greatness of an Array",
+        "difficulty": "Medium",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Valid Word",
+        "difficulty": "Easy",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/valid-word",
+        "topics": [
+          "String"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Make a Positive Array",
+        "difficulty": "Medium",
+        "frequency": 63,
+        "url": "https://leetcode.com/problems/make-a-positive-array",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Prefix Sum"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Valid Palindrome",
+        "difficulty": "Easy",
+        "frequency": 63,
+        "url": "https://leetcode.com/problems/valid-palindrome",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Special Binary String",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/special-binary-string",
+        "topics": [
+          "String",
+          "Divide and Conquer",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Maximum Area Rectangle With Point Constraints I",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i",
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Geometry",
+          "Sorting",
+          "Enumeration"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Maximum Area Rectangle With Point Constraints II",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii",
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Geometry",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Minimum Length of Anagram Concatenation",
+        "difficulty": "Medium",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Count the Number of Good Subsequences",
+        "difficulty": "Medium",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String",
+          "Combinatorics",
+          "Counting"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Maximize Greatness of an Array",
+        "difficulty": "Medium",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Valid Word",
+        "difficulty": "Easy",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/valid-word",
+        "topics": [
+          "String"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Split Array Largest Sum",
+        "difficulty": "Hard",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/split-array-largest-sum",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Greedy",
+          "Prefix Sum"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Make a Positive Array",
+        "difficulty": "Medium",
+        "frequency": 63,
+        "url": "https://leetcode.com/problems/make-a-positive-array",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Prefix Sum"
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Valid Palindrome",
+        "difficulty": "Easy",
+        "frequency": 63,
+        "url": "https://leetcode.com/problems/valid-palindrome",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Kakao",
+  "slug": "Kakao",
+  "dataKey": "kakao",
+  "updatedAt": "2026-10-11T10:11:24.210Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Maximum Points in an Archery Competition",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/maximum-points-in-an-archery-competition",
+        "topics": [
+          "Array",
+          "Backtracking",
+          "Bit Manipulation",
+          "Enumeration"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Minimum Moves to Reach Target with Rotations",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations",
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ]
+      }
+    ]
+  }
+}

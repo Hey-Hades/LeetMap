@@ -1,0 +1,74 @@
+{
+  "name": "HiLabs",
+  "slug": "HiLabs",
+  "dataKey": "hilabs",
+  "updatedAt": "2026-10-11T10:11:24.171Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Water Bottles",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/water-bottles",
+        "topics": [
+          "Math",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Parsing A Boolean Expression",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/parsing-a-boolean-expression",
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Maximize the Number of Partitions After Operations",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Bit Manipulation",
+          "Bitmask"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Water Bottles",
+        "difficulty": "Easy",
+        "frequency": 70,
+        "url": "https://leetcode.com/problems/water-bottles",
+        "topics": [
+          "Math",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Parsing A Boolean Expression",
+        "difficulty": "Hard",
+        "frequency": 70,
+        "url": "https://leetcode.com/problems/parsing-a-boolean-expression",
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ]
+      }
+    ]
+  }
+}

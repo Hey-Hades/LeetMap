@@ -1,0 +1,97 @@
+{
+  "name": "Honeywell",
+  "slug": "Honeywell",
+  "dataKey": "honeywell",
+  "updatedAt": "2026-10-11T10:11:24.174Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Maximum Matrix Sum",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/maximum-matrix-sum",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Count Zero Request Servers",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/count-zero-request-servers",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Minimum Distance to the Target Element",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-distance-to-the-target-element",
+        "topics": [
+          "Array"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Maximum Matrix Sum",
+        "difficulty": "Medium",
+        "frequency": 77,
+        "url": "https://leetcode.com/problems/maximum-matrix-sum",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Count Zero Request Servers",
+        "difficulty": "Medium",
+        "frequency": 77,
+        "url": "https://leetcode.com/problems/count-zero-request-servers",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 68,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      }
+    ]
+  }
+}

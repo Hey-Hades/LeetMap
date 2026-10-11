@@ -1,0 +1,75 @@
+{
+  "name": "Poshmark",
+  "slug": "Poshmark",
+  "dataKey": "poshmark",
+  "updatedAt": "2026-10-11T10:11:24.335Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Max Chunks To Make Sorted",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/max-chunks-to-make-sorted",
+        "topics": [
+          "Array",
+          "Stack",
+          "Greedy",
+          "Sorting",
+          "Monotonic Stack"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Market Analysis II",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/market-analysis-ii",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Count Unguarded Cells in the Grid",
+        "difficulty": "Medium",
+        "frequency": 98,
+        "url": "https://leetcode.com/problems/count-unguarded-cells-in-the-grid",
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Market Analysis I",
+        "difficulty": "Medium",
+        "frequency": 98,
+        "url": "https://leetcode.com/problems/market-analysis-i",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Max Chunks To Make Sorted",
+        "difficulty": "Medium",
+        "frequency": 77,
+        "url": "https://leetcode.com/problems/max-chunks-to-make-sorted",
+        "topics": [
+          "Array",
+          "Stack",
+          "Greedy",
+          "Sorting",
+          "Monotonic Stack"
+        ]
+      }
+    ]
+  }
+}

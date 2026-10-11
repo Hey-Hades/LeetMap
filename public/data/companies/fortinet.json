@@ -1,0 +1,109 @@
+{
+  "name": "Fortinet",
+  "slug": "Fortinet",
+  "dataKey": "fortinet",
+  "updatedAt": "2026-10-11T10:11:24.115Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Construct String With Repeat Limit",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/construct-string-with-repeat-limit",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Greedy",
+          "Heap (Priority Queue)",
+          "Counting"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Percentage of Users Attended a Contest",
+        "difficulty": "Easy",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/percentage-of-users-attended-a-contest",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Number of Ways to Paint N × 3 Grid",
+        "difficulty": "Hard",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid",
+        "topics": [
+          "Dynamic Programming",
+          "Graph Coloring"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Valid Palindrome II",
+        "difficulty": "Easy",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/valid-palindrome-ii",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Greedy"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Construct String With Repeat Limit",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/construct-string-with-repeat-limit",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Greedy",
+          "Heap (Priority Queue)",
+          "Counting"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Percentage of Users Attended a Contest",
+        "difficulty": "Easy",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/percentage-of-users-attended-a-contest",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Number of Ways to Paint N × 3 Grid",
+        "difficulty": "Hard",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid",
+        "topics": [
+          "Dynamic Programming",
+          "Graph Coloring"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Valid Palindrome II",
+        "difficulty": "Easy",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/valid-palindrome-ii",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Greedy"
+        ]
+      }
+    ]
+  }
+}

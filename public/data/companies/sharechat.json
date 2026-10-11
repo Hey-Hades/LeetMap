@@ -1,0 +1,40 @@
+{
+  "name": "ShareChat",
+  "slug": "ShareChat",
+  "dataKey": "sharechat",
+  "updatedAt": "2026-10-11T10:11:24.369Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Maximum Count of Positive Integer and Negative Integer",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Counting"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Amount of Time for Binary Tree to Be Infected",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected",
+        "topics": [
+          "Hash Table",
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ]
+      }
+    ]
+  }
+}

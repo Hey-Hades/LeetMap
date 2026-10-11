@@ -1,0 +1,69 @@
+{
+  "name": "Mixpanel",
+  "slug": "Mixpanel",
+  "dataKey": "mixpanel",
+  "updatedAt": "2026-10-11T10:11:24.272Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Flatten Nested List Iterator",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/flatten-nested-list-iterator",
+        "topics": [
+          "Stack",
+          "Tree",
+          "Depth-First Search",
+          "Design",
+          "Queue",
+          "Iterator"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Interval List Intersections",
+        "difficulty": "Medium",
+        "frequency": 95,
+        "url": "https://leetcode.com/problems/interval-list-intersections",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sweep Line"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Interval List Intersections",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/interval-list-intersections",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sweep Line"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Flatten Nested List Iterator",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/flatten-nested-list-iterator",
+        "topics": [
+          "Stack",
+          "Tree",
+          "Depth-First Search",
+          "Design",
+          "Queue",
+          "Iterator"
+        ]
+      }
+    ]
+  }
+}

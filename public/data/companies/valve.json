@@ -1,0 +1,87 @@
+{
+  "name": "Valve",
+  "slug": "Valve",
+  "dataKey": "valve",
+  "updatedAt": "2026-10-11T10:11:24.441Z",
+  "problems": {
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "String to Integer (atoi)",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/string-to-integer-atoi",
+        "topics": [
+          "String"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Deep Merge of Two Objects",
+        "difficulty": "Medium",
+        "frequency": 80,
+        "url": "https://leetcode.com/problems/deep-merge-of-two-objects",
+        "topics": []
+      },
+      {
+        "id": 3,
+        "title": "Design Parking System",
+        "difficulty": "Easy",
+        "frequency": 80,
+        "url": "https://leetcode.com/problems/design-parking-system",
+        "topics": [
+          "Design",
+          "Simulation",
+          "Counting"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Dota2 Senate",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/dota2-senate",
+        "topics": [
+          "String",
+          "Greedy",
+          "Queue"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "String to Integer (atoi)",
+        "difficulty": "Medium",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/string-to-integer-atoi",
+        "topics": [
+          "String"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Deep Merge of Two Objects",
+        "difficulty": "Medium",
+        "frequency": 71,
+        "url": "https://leetcode.com/problems/deep-merge-of-two-objects",
+        "topics": []
+      },
+      {
+        "id": 4,
+        "title": "Design Parking System",
+        "difficulty": "Easy",
+        "frequency": 71,
+        "url": "https://leetcode.com/problems/design-parking-system",
+        "topics": [
+          "Design",
+          "Simulation",
+          "Counting"
+        ]
+      }
+    ]
+  }
+}
