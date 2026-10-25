@@ -2,50 +2,11 @@
   "name": "Odoo",
   "slug": "Odoo",
   "dataKey": "odoo",
-  "updatedAt": "2026-10-18T02:12:32.109Z",
+  "updatedAt": "2026-10-25T02:23:17.375Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [
-      {
-        "id": 1,
-        "title": "Valid Parentheses",
-        "difficulty": "Easy",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/valid-parentheses",
-        "topics": [
-          "String",
-          "Stack",
-          "Bracket Sequences"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Majority Element",
-        "difficulty": "Easy",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/majority-element",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Divide and Conquer",
-          "Sorting",
-          "Counting",
-          "Boyer–Moore Majority Vote Algorithm"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Min Stack",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/min-stack",
-        "topics": [
-          "Stack",
-          "Design"
-        ]
-      }
-    ],
+    "3. Six Months.csv": [],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -77,7 +38,7 @@
         "id": 2,
         "title": "Min Stack",
         "difficulty": "Medium",
-        "frequency": 93,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/min-stack",
         "topics": [
           "Stack",
@@ -88,7 +49,7 @@
         "id": 3,
         "title": "Majority Element",
         "difficulty": "Easy",
-        "frequency": 83,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/majority-element",
         "topics": [
           "Array",

@@ -2,7 +2,7 @@
   "name": "Sumo Logic",
   "slug": "Sumo Logic",
   "dataKey": "sumo_logic",
-  "updatedAt": "2026-10-18T02:12:32.152Z",
+  "updatedAt": "2026-10-25T02:23:17.408Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -45,21 +45,6 @@
           "Array",
           "Depth-First Search",
           "Union-Find"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
-        "difficulty": "Medium",
-        "frequency": 71,
-        "url": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
-        "topics": [
-          "Array",
-          "Queue",
-          "Sliding Window",
-          "Heap (Priority Queue)",
-          "Ordered Set",
-          "Monotonic Queue"
         ]
       }
     ]

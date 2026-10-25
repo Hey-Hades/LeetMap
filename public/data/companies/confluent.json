@@ -2,53 +2,11 @@
   "name": "Confluent",
   "slug": "Confluent",
   "dataKey": "confluent",
-  "updatedAt": "2026-10-18T02:12:31.963Z",
+  "updatedAt": "2026-10-25T02:23:17.255Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
     "3. Six Months.csv": [
-      {
-        "id": 1,
-        "title": "Valid Sudoku",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/valid-sudoku",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Matrix"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Sudoku Solver",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/sudoku-solver",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Backtracking",
-          "Matrix",
-          "Algorithm X",
-          "Dancing Links"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Design Authentication Manager",
-        "difficulty": "Medium",
-        "frequency": 90,
-        "url": "https://leetcode.com/problems/design-authentication-manager",
-        "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Doubly-Linked List"
-        ]
-      }
-    ],
-    "4. More Than Six Months.csv": [
       {
         "id": 1,
         "title": "LRU Cache",
@@ -61,22 +19,11 @@
           "Design",
           "Doubly-Linked List"
         ]
-      },
+      }
+    ],
+    "4. More Than Six Months.csv": [
       {
-        "id": 2,
-        "title": "Time Based Key-Value Store",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/time-based-key-value-store",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Binary Search",
-          "Design"
-        ]
-      },
-      {
-        "id": 3,
+        "id": 1,
         "title": "Valid Sudoku",
         "difficulty": "Medium",
         "frequency": 100,
@@ -88,10 +35,10 @@
         ]
       },
       {
-        "id": 4,
+        "id": 2,
         "title": "Sudoku Solver",
         "difficulty": "Hard",
-        "frequency": 98,
+        "frequency": 97,
         "url": "https://leetcode.com/problems/sudoku-solver",
         "topics": [
           "Array",
@@ -103,10 +50,36 @@
         ]
       },
       {
+        "id": 3,
+        "title": "LRU Cache",
+        "difficulty": "Medium",
+        "frequency": 93,
+        "url": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Time Based Key-Value Store",
+        "difficulty": "Medium",
+        "frequency": 93,
+        "url": "https://leetcode.com/problems/time-based-key-value-store",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ]
+      },
+      {
         "id": 5,
         "title": "Design Authentication Manager",
         "difficulty": "Medium",
-        "frequency": 82,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/design-authentication-manager",
         "topics": [
           "Hash Table",
@@ -119,7 +92,7 @@
         "id": 6,
         "title": "Combination Sum",
         "difficulty": "Medium",
-        "frequency": 77,
+        "frequency": 73,
         "url": "https://leetcode.com/problems/combination-sum",
         "topics": [
           "Array",
@@ -128,19 +101,17 @@
       },
       {
         "id": 7,
-        "title": "Debounce",
-        "difficulty": "Medium",
-        "frequency": 62,
-        "url": "https://leetcode.com/problems/debounce",
-        "topics": []
-      },
-      {
-        "id": 8,
-        "title": "Cache With Time Limit",
-        "difficulty": "Medium",
-        "frequency": 62,
-        "url": "https://leetcode.com/problems/cache-with-time-limit",
-        "topics": []
+        "title": "Couples Holding Hands",
+        "difficulty": "Hard",
+        "frequency": 67,
+        "url": "https://leetcode.com/problems/couples-holding-hands",
+        "topics": [
+          "Greedy",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ]
       }
     ],
     "5. All.csv": [
@@ -160,7 +131,7 @@
         "id": 2,
         "title": "Sudoku Solver",
         "difficulty": "Hard",
-        "frequency": 98,
+        "frequency": 97,
         "url": "https://leetcode.com/problems/sudoku-solver",
         "topics": [
           "Array",
@@ -188,7 +159,7 @@
         "id": 4,
         "title": "Time Based Key-Value Store",
         "difficulty": "Medium",
-        "frequency": 95,
+        "frequency": 93,
         "url": "https://leetcode.com/problems/time-based-key-value-store",
         "topics": [
           "Hash Table",
@@ -201,7 +172,7 @@
         "id": 5,
         "title": "Minimum Time to Eat All Grains",
         "difficulty": "Hard",
-        "frequency": 88,
+        "frequency": 87,
         "url": "https://leetcode.com/problems/minimum-time-to-eat-all-grains",
         "topics": [
           "Array",
@@ -214,7 +185,7 @@
         "id": 6,
         "title": "Design Authentication Manager",
         "difficulty": "Medium",
-        "frequency": 85,
+        "frequency": 84,
         "url": "https://leetcode.com/problems/design-authentication-manager",
         "topics": [
           "Hash Table",
@@ -227,7 +198,7 @@
         "id": 7,
         "title": "Combination Sum",
         "difficulty": "Medium",
-        "frequency": 73,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/combination-sum",
         "topics": [
           "Array",
@@ -236,17 +207,23 @@
       },
       {
         "id": 8,
-        "title": "Debounce",
-        "difficulty": "Medium",
-        "frequency": 58,
-        "url": "https://leetcode.com/problems/debounce",
-        "topics": []
+        "title": "Couples Holding Hands",
+        "difficulty": "Hard",
+        "frequency": 66,
+        "url": "https://leetcode.com/problems/couples-holding-hands",
+        "topics": [
+          "Greedy",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ]
       },
       {
         "id": 9,
         "title": "Cache With Time Limit",
         "difficulty": "Medium",
-        "frequency": 58,
+        "frequency": 57,
         "url": "https://leetcode.com/problems/cache-with-time-limit",
         "topics": []
       }

@@ -2,24 +2,10 @@
   "name": "HashedIn",
   "slug": "HashedIn",
   "dataKey": "hashedin",
-  "updatedAt": "2026-10-18T02:12:32.029Z",
+  "updatedAt": "2026-10-25T02:23:17.309Z",
   "problems": {
     "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [
-      {
-        "id": 1,
-        "title": "Group Anagrams",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/group-anagrams",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      }
-    ],
+    "2. Three Months.csv": [],
     "3. Six Months.csv": [
       {
         "id": 1,
@@ -38,29 +24,9 @@
     "4. More Than Six Months.csv": [
       {
         "id": 1,
-        "title": "Find Candidates for Data Scientist Position",
-        "difficulty": "Easy",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/find-candidates-for-data-scientist-position",
-        "topics": [
-          "Database"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Maximize Items",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/maximize-items",
-        "topics": [
-          "Database"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Subarrays with K Different Integers",
         "difficulty": "Hard",
-        "frequency": 87,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/subarrays-with-k-different-integers",
         "topics": [
           "Array",
@@ -70,21 +36,10 @@
         ]
       },
       {
-        "id": 4,
-        "title": "Minimum Time to Repair Cars",
-        "difficulty": "Medium",
-        "frequency": 77,
-        "url": "https://leetcode.com/problems/minimum-time-to-repair-cars",
-        "topics": [
-          "Array",
-          "Binary Search"
-        ]
-      },
-      {
-        "id": 5,
+        "id": 2,
         "title": "Jump Game",
         "difficulty": "Medium",
-        "frequency": 77,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/jump-game",
         "topics": [
           "Array",
@@ -93,10 +48,23 @@
         ]
       },
       {
-        "id": 6,
+        "id": 3,
+        "title": "Group Anagrams",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 4,
         "title": "Longest Substring Without Repeating Characters",
         "difficulty": "Medium",
-        "frequency": 77,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
         "topics": [
           "Hash Table",
@@ -105,21 +73,10 @@
         ]
       },
       {
-        "id": 7,
-        "title": "Maximum Product Subarray",
-        "difficulty": "Medium",
-        "frequency": 70,
-        "url": "https://leetcode.com/problems/maximum-product-subarray",
-        "topics": [
-          "Array",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 8,
+        "id": 5,
         "title": "Trapping Rain Water",
         "difficulty": "Hard",
-        "frequency": 70,
+        "frequency": 81,
         "url": "https://leetcode.com/problems/trapping-rain-water",
         "topics": [
           "Array",
@@ -130,10 +87,21 @@
         ]
       },
       {
-        "id": 9,
+        "id": 6,
+        "title": "Minimum Time to Repair Cars",
+        "difficulty": "Medium",
+        "frequency": 81,
+        "url": "https://leetcode.com/problems/minimum-time-to-repair-cars",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ]
+      },
+      {
+        "id": 7,
         "title": "Jump Game II",
         "difficulty": "Medium",
-        "frequency": 70,
+        "frequency": 81,
         "url": "https://leetcode.com/problems/jump-game-ii",
         "topics": [
           "Array",
@@ -142,23 +110,10 @@
         ]
       },
       {
-        "id": 10,
-        "title": "Group Anagrams",
-        "difficulty": "Medium",
-        "frequency": 70,
-        "url": "https://leetcode.com/problems/group-anagrams",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 11,
+        "id": 8,
         "title": "Longest Palindromic Substring",
         "difficulty": "Medium",
-        "frequency": 70,
+        "frequency": 81,
         "url": "https://leetcode.com/problems/longest-palindromic-substring",
         "topics": [
           "Two Pointers",
@@ -168,10 +123,10 @@
         ]
       },
       {
-        "id": 12,
+        "id": 9,
         "title": "Subarray Sums Divisible by K",
         "difficulty": "Medium",
-        "frequency": 70,
+        "frequency": 81,
         "url": "https://leetcode.com/problems/subarray-sums-divisible-by-k",
         "topics": [
           "Array",
@@ -180,10 +135,21 @@
         ]
       },
       {
-        "id": 13,
+        "id": 10,
+        "title": "Maximum Product Subarray",
+        "difficulty": "Medium",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/maximum-product-subarray",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 11,
         "title": "Minimum Cost to Make Array Equal",
         "difficulty": "Hard",
-        "frequency": 60,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/minimum-cost-to-make-array-equal",
         "topics": [
           "Array",
@@ -194,10 +160,10 @@
         ]
       },
       {
-        "id": 14,
+        "id": 12,
         "title": "Next Permutation",
         "difficulty": "Medium",
-        "frequency": 60,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/next-permutation",
         "topics": [
           "Array",
@@ -205,10 +171,10 @@
         ]
       },
       {
-        "id": 15,
+        "id": 13,
         "title": "Chalkboard XOR Game",
         "difficulty": "Hard",
-        "frequency": 60,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/chalkboard-xor-game",
         "topics": [
           "Array",
@@ -221,10 +187,10 @@
         ]
       },
       {
-        "id": 16,
+        "id": 14,
         "title": "Beautiful Arrangement",
         "difficulty": "Medium",
-        "frequency": 60,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/beautiful-arrangement",
         "topics": [
           "Array",
@@ -235,21 +201,10 @@
         ]
       },
       {
-        "id": 17,
-        "title": "Isomorphic Strings",
-        "difficulty": "Easy",
-        "frequency": 60,
-        "url": "https://leetcode.com/problems/isomorphic-strings",
-        "topics": [
-          "Hash Table",
-          "String"
-        ]
-      },
-      {
-        "id": 18,
+        "id": 15,
         "title": "Number of Islands",
         "difficulty": "Medium",
-        "frequency": 60,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/number-of-islands",
         "topics": [
           "Array",
@@ -260,10 +215,10 @@
         ]
       },
       {
-        "id": 19,
+        "id": 16,
         "title": "Koko Eating Bananas",
         "difficulty": "Medium",
-        "frequency": 60,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/koko-eating-bananas",
         "topics": [
           "Array",
@@ -271,10 +226,10 @@
         ]
       },
       {
-        "id": 20,
+        "id": 17,
         "title": "Edit Distance",
         "difficulty": "Medium",
-        "frequency": 60,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/edit-distance",
         "topics": [
           "String",
@@ -282,10 +237,10 @@
         ]
       },
       {
-        "id": 21,
+        "id": 18,
         "title": "Container With Most Water",
         "difficulty": "Medium",
-        "frequency": 60,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/container-with-most-water",
         "topics": [
           "Array",
@@ -294,10 +249,10 @@
         ]
       },
       {
-        "id": 22,
+        "id": 19,
         "title": "Longest Common Prefix",
         "difficulty": "Easy",
-        "frequency": 60,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/longest-common-prefix",
         "topics": [
           "Array",
@@ -306,10 +261,10 @@
         ]
       },
       {
-        "id": 23,
+        "id": 20,
         "title": "Two Sum",
         "difficulty": "Easy",
-        "frequency": 60,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/two-sum",
         "topics": [
           "Array",
@@ -317,10 +272,10 @@
         ]
       },
       {
-        "id": 24,
+        "id": 21,
         "title": "Minimum Possible Integer After at Most K Adjacent Swaps On Digits",
         "difficulty": "Hard",
-        "frequency": 60,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits",
         "topics": [
           "String",
@@ -330,10 +285,10 @@
         ]
       },
       {
-        "id": 25,
+        "id": 22,
         "title": "Best Time to Buy and Sell Stock IV",
         "difficulty": "Hard",
-        "frequency": 60,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
         "topics": [
           "Array",
@@ -341,10 +296,10 @@
         ]
       },
       {
-        "id": 26,
+        "id": 23,
         "title": "Jump Game IV",
         "difficulty": "Hard",
-        "frequency": 60,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/jump-game-iv",
         "topics": [
           "Array",
@@ -353,10 +308,10 @@
         ]
       },
       {
-        "id": 27,
+        "id": 24,
         "title": "Sort Colors",
         "difficulty": "Medium",
-        "frequency": 60,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/sort-colors",
         "topics": [
           "Array",
@@ -367,44 +322,35 @@
         ]
       },
       {
-        "id": 28,
+        "id": 25,
         "title": "Decode String",
         "difficulty": "Medium",
-        "frequency": 60,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/decode-string",
         "topics": [
           "String",
           "Stack",
           "Recursion"
         ]
+      },
+      {
+        "id": 26,
+        "title": "Restore IP Addresses",
+        "difficulty": "Medium",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/restore-ip-addresses",
+        "topics": [
+          "String",
+          "Backtracking"
+        ]
       }
     ],
     "5. All.csv": [
       {
         "id": 1,
-        "title": "Find Candidates for Data Scientist Position",
-        "difficulty": "Easy",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/find-candidates-for-data-scientist-position",
-        "topics": [
-          "Database"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Maximize Items",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/maximize-items",
-        "topics": [
-          "Database"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Maximum Points Inside the Square",
         "difficulty": "Medium",
-        "frequency": 97,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/maximum-points-inside-the-square",
         "topics": [
           "Array",
@@ -415,10 +361,10 @@
         ]
       },
       {
-        "id": 4,
+        "id": 2,
         "title": "Group Anagrams",
         "difficulty": "Medium",
-        "frequency": 87,
+        "frequency": 90,
         "url": "https://leetcode.com/problems/group-anagrams",
         "topics": [
           "Array",
@@ -428,10 +374,10 @@
         ]
       },
       {
-        "id": 5,
+        "id": 3,
         "title": "Subarrays with K Different Integers",
         "difficulty": "Hard",
-        "frequency": 87,
+        "frequency": 90,
         "url": "https://leetcode.com/problems/subarrays-with-k-different-integers",
         "topics": [
           "Array",
@@ -441,10 +387,10 @@
         ]
       },
       {
-        "id": 6,
+        "id": 4,
         "title": "Jump Game",
         "difficulty": "Medium",
-        "frequency": 77,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/jump-game",
         "topics": [
           "Array",
@@ -453,21 +399,10 @@
         ]
       },
       {
-        "id": 7,
-        "title": "Minimum Time to Repair Cars",
-        "difficulty": "Medium",
-        "frequency": 77,
-        "url": "https://leetcode.com/problems/minimum-time-to-repair-cars",
-        "topics": [
-          "Array",
-          "Binary Search"
-        ]
-      },
-      {
-        "id": 8,
+        "id": 5,
         "title": "Longest Substring Without Repeating Characters",
         "difficulty": "Medium",
-        "frequency": 77,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
         "topics": [
           "Hash Table",
@@ -476,10 +411,10 @@
         ]
       },
       {
-        "id": 9,
+        "id": 6,
         "title": "Trapping Rain Water",
         "difficulty": "Hard",
-        "frequency": 70,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/trapping-rain-water",
         "topics": [
           "Array",
@@ -490,10 +425,10 @@
         ]
       },
       {
-        "id": 10,
+        "id": 7,
         "title": "Jump Game II",
         "difficulty": "Medium",
-        "frequency": 70,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/jump-game-ii",
         "topics": [
           "Array",
@@ -502,21 +437,21 @@
         ]
       },
       {
-        "id": 11,
-        "title": "Maximum Product Subarray",
+        "id": 8,
+        "title": "Minimum Time to Repair Cars",
         "difficulty": "Medium",
-        "frequency": 70,
-        "url": "https://leetcode.com/problems/maximum-product-subarray",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/minimum-time-to-repair-cars",
         "topics": [
           "Array",
-          "Dynamic Programming"
+          "Binary Search"
         ]
       },
       {
-        "id": 12,
+        "id": 9,
         "title": "Longest Palindromic Substring",
         "difficulty": "Medium",
-        "frequency": 70,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/longest-palindromic-substring",
         "topics": [
           "Two Pointers",
@@ -526,10 +461,10 @@
         ]
       },
       {
-        "id": 13,
+        "id": 10,
         "title": "Subarray Sums Divisible by K",
         "difficulty": "Medium",
-        "frequency": 70,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/subarray-sums-divisible-by-k",
         "topics": [
           "Array",
@@ -538,10 +473,10 @@
         ]
       },
       {
-        "id": 14,
+        "id": 11,
         "title": "Minimum Cost to Make Array Equal",
         "difficulty": "Hard",
-        "frequency": 59,
+        "frequency": 62,
         "url": "https://leetcode.com/problems/minimum-cost-to-make-array-equal",
         "topics": [
           "Array",
@@ -552,10 +487,10 @@
         ]
       },
       {
-        "id": 15,
+        "id": 12,
         "title": "Next Permutation",
         "difficulty": "Medium",
-        "frequency": 59,
+        "frequency": 62,
         "url": "https://leetcode.com/problems/next-permutation",
         "topics": [
           "Array",
@@ -563,10 +498,10 @@
         ]
       },
       {
-        "id": 16,
+        "id": 13,
         "title": "Chalkboard XOR Game",
         "difficulty": "Hard",
-        "frequency": 59,
+        "frequency": 62,
         "url": "https://leetcode.com/problems/chalkboard-xor-game",
         "topics": [
           "Array",
@@ -579,10 +514,10 @@
         ]
       },
       {
-        "id": 17,
+        "id": 14,
         "title": "Beautiful Arrangement",
         "difficulty": "Medium",
-        "frequency": 59,
+        "frequency": 62,
         "url": "https://leetcode.com/problems/beautiful-arrangement",
         "topics": [
           "Array",
@@ -593,10 +528,10 @@
         ]
       },
       {
-        "id": 18,
+        "id": 15,
         "title": "Number of Islands",
         "difficulty": "Medium",
-        "frequency": 59,
+        "frequency": 62,
         "url": "https://leetcode.com/problems/number-of-islands",
         "topics": [
           "Array",
@@ -607,10 +542,21 @@
         ]
       },
       {
-        "id": 19,
+        "id": 16,
+        "title": "Maximum Product Subarray",
+        "difficulty": "Medium",
+        "frequency": 62,
+        "url": "https://leetcode.com/problems/maximum-product-subarray",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 17,
         "title": "Edit Distance",
         "difficulty": "Medium",
-        "frequency": 59,
+        "frequency": 62,
         "url": "https://leetcode.com/problems/edit-distance",
         "topics": [
           "String",
@@ -618,21 +564,10 @@
         ]
       },
       {
-        "id": 20,
-        "title": "Isomorphic Strings",
-        "difficulty": "Easy",
-        "frequency": 59,
-        "url": "https://leetcode.com/problems/isomorphic-strings",
-        "topics": [
-          "Hash Table",
-          "String"
-        ]
-      },
-      {
-        "id": 21,
+        "id": 18,
         "title": "Container With Most Water",
         "difficulty": "Medium",
-        "frequency": 59,
+        "frequency": 62,
         "url": "https://leetcode.com/problems/container-with-most-water",
         "topics": [
           "Array",
@@ -641,10 +576,10 @@
         ]
       },
       {
-        "id": 22,
+        "id": 19,
         "title": "Koko Eating Bananas",
         "difficulty": "Medium",
-        "frequency": 59,
+        "frequency": 62,
         "url": "https://leetcode.com/problems/koko-eating-bananas",
         "topics": [
           "Array",
@@ -652,10 +587,10 @@
         ]
       },
       {
-        "id": 23,
+        "id": 20,
         "title": "Longest Common Prefix",
         "difficulty": "Easy",
-        "frequency": 59,
+        "frequency": 62,
         "url": "https://leetcode.com/problems/longest-common-prefix",
         "topics": [
           "Array",
@@ -664,10 +599,10 @@
         ]
       },
       {
-        "id": 24,
+        "id": 21,
         "title": "Best Time to Buy and Sell Stock IV",
         "difficulty": "Hard",
-        "frequency": 59,
+        "frequency": 62,
         "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
         "topics": [
           "Array",
@@ -675,10 +610,10 @@
         ]
       },
       {
-        "id": 25,
+        "id": 22,
         "title": "Decode String",
         "difficulty": "Medium",
-        "frequency": 59,
+        "frequency": 62,
         "url": "https://leetcode.com/problems/decode-string",
         "topics": [
           "String",
@@ -687,10 +622,10 @@
         ]
       },
       {
-        "id": 26,
+        "id": 23,
         "title": "Two Sum",
         "difficulty": "Easy",
-        "frequency": 59,
+        "frequency": 62,
         "url": "https://leetcode.com/problems/two-sum",
         "topics": [
           "Array",
@@ -698,10 +633,10 @@
         ]
       },
       {
-        "id": 27,
+        "id": 24,
         "title": "Minimum Possible Integer After at Most K Adjacent Swaps On Digits",
         "difficulty": "Hard",
-        "frequency": 59,
+        "frequency": 62,
         "url": "https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits",
         "topics": [
           "String",
@@ -711,10 +646,10 @@
         ]
       },
       {
-        "id": 28,
+        "id": 25,
         "title": "Restore IP Addresses",
         "difficulty": "Medium",
-        "frequency": 59,
+        "frequency": 62,
         "url": "https://leetcode.com/problems/restore-ip-addresses",
         "topics": [
           "String",
@@ -722,10 +657,10 @@
         ]
       },
       {
-        "id": 29,
+        "id": 26,
         "title": "Jump Game IV",
         "difficulty": "Hard",
-        "frequency": 59,
+        "frequency": 62,
         "url": "https://leetcode.com/problems/jump-game-iv",
         "topics": [
           "Array",
@@ -734,10 +669,10 @@
         ]
       },
       {
-        "id": 30,
+        "id": 27,
         "title": "Sort Colors",
         "difficulty": "Medium",
-        "frequency": 59,
+        "frequency": 62,
         "url": "https://leetcode.com/problems/sort-colors",
         "topics": [
           "Array",
@@ -748,10 +683,10 @@
         ]
       },
       {
-        "id": 31,
+        "id": 28,
         "title": "Coin Change",
         "difficulty": "Medium",
-        "frequency": 59,
+        "frequency": 62,
         "url": "https://leetcode.com/problems/coin-change",
         "topics": [
           "Array",

@@ -2,28 +2,28 @@
   "name": "LTI",
   "slug": "LTI",
   "dataKey": "lti",
-  "updatedAt": "2026-10-18T02:12:32.047Z",
+  "updatedAt": "2026-10-25T02:23:17.325Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [
-      {
-        "id": 1,
-        "title": "Second Highest Salary",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/second-highest-salary",
-        "topics": [
-          "Database"
-        ]
-      }
-    ],
+    "3. Six Months.csv": [],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
+        "title": "Move Zeroes",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/move-zeroes",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ]
+      },
+      {
+        "id": 2,
         "title": "Maximum White Tiles Covered by a Carpet",
         "difficulty": "Medium",
-        "frequency": 100,
+        "frequency": 92,
         "url": "https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet",
         "topics": [
           "Array",
@@ -35,21 +35,10 @@
         ]
       },
       {
-        "id": 2,
-        "title": "Move Zeroes",
-        "difficulty": "Easy",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/move-zeroes",
-        "topics": [
-          "Array",
-          "Two Pointers"
-        ]
-      },
-      {
         "id": 3,
         "title": "Closest Subsequence Sum",
         "difficulty": "Hard",
-        "frequency": 88,
+        "frequency": 81,
         "url": "https://leetcode.com/problems/closest-subsequence-sum",
         "topics": [
           "Array",
@@ -65,7 +54,7 @@
         "id": 4,
         "title": "Count Zero Request Servers",
         "difficulty": "Medium",
-        "frequency": 88,
+        "frequency": 81,
         "url": "https://leetcode.com/problems/count-zero-request-servers",
         "topics": [
           "Array",
@@ -76,26 +65,34 @@
       },
       {
         "id": 5,
-        "title": "Fibonacci Number",
-        "difficulty": "Easy",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/fibonacci-number",
-        "topics": [
-          "Math",
-          "Dynamic Programming",
-          "Recursion",
-          "Memoization"
-        ]
-      },
-      {
-        "id": 6,
         "title": "Valid Palindrome",
         "difficulty": "Easy",
-        "frequency": 88,
+        "frequency": 81,
         "url": "https://leetcode.com/problems/valid-palindrome",
         "topics": [
           "Two Pointers",
           "String"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 81,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Second Highest Salary",
+        "difficulty": "Medium",
+        "frequency": 81,
+        "url": "https://leetcode.com/problems/second-highest-salary",
+        "topics": [
+          "Database"
         ]
       }
     ],
@@ -128,13 +125,13 @@
       },
       {
         "id": 3,
-        "title": "Valid Palindrome",
+        "title": "Two Sum",
         "difficulty": "Easy",
         "frequency": 92,
-        "url": "https://leetcode.com/problems/valid-palindrome",
+        "url": "https://leetcode.com/problems/two-sum",
         "topics": [
-          "Two Pointers",
-          "String"
+          "Array",
+          "Hash Table"
         ]
       },
       {
@@ -168,15 +165,13 @@
       },
       {
         "id": 6,
-        "title": "Fibonacci Number",
+        "title": "Valid Palindrome",
         "difficulty": "Easy",
         "frequency": 81,
-        "url": "https://leetcode.com/problems/fibonacci-number",
+        "url": "https://leetcode.com/problems/valid-palindrome",
         "topics": [
-          "Math",
-          "Dynamic Programming",
-          "Recursion",
-          "Memoization"
+          "Two Pointers",
+          "String"
         ]
       },
       {
@@ -197,6 +192,30 @@
         "url": "https://leetcode.com/problems/palindrome-number",
         "topics": [
           "Math"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Add Two Numbers",
+        "difficulty": "Medium",
+        "frequency": 81,
+        "url": "https://leetcode.com/problems/add-two-numbers",
+        "topics": [
+          "Linked List",
+          "Math",
+          "Recursion"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
+        "frequency": 81,
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
         ]
       }
     ]

@@ -2,11 +2,24 @@
   "name": "PayPay",
   "slug": "PayPay",
   "dataKey": "paypay",
-  "updatedAt": "2026-10-18T02:12:32.122Z",
+  "updatedAt": "2026-10-25T02:23:17.381Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Decode String",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/decode-string",
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ]
+      }
+    ],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -135,6 +148,52 @@
         "topics": [
           "Array",
           "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Peak Index in a Mountain Array",
+        "difficulty": "Medium",
+        "frequency": 68,
+        "url": "https://leetcode.com/problems/peak-index-in-a-mountain-array",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Ternary Search"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 68,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Decode String",
+        "difficulty": "Medium",
+        "frequency": 68,
+        "url": "https://leetcode.com/problems/decode-string",
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Search in Rotated Sorted Array",
+        "difficulty": "Medium",
+        "frequency": 68,
+        "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+        "topics": [
+          "Array",
+          "Binary Search"
         ]
       }
     ]

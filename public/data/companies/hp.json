@@ -2,7 +2,7 @@
   "name": "HP",
   "slug": "HP",
   "dataKey": "hp",
-  "updatedAt": "2026-10-18T02:12:32.027Z",
+  "updatedAt": "2026-10-25T02:23:17.308Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -32,6 +32,18 @@
       },
       {
         "id": 3,
+        "title": "Valid Parentheses",
+        "difficulty": "Easy",
+        "frequency": 85,
+        "url": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ]
+      },
+      {
+        "id": 4,
         "title": "Longest Palindrome",
         "difficulty": "Easy",
         "frequency": 76,
@@ -40,18 +52,6 @@
           "Hash Table",
           "String",
           "Greedy"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Valid Parentheses",
-        "difficulty": "Easy",
-        "frequency": 76,
-        "url": "https://leetcode.com/problems/valid-parentheses",
-        "topics": [
-          "String",
-          "Stack",
-          "Bracket Sequences"
         ]
       }
     ],
@@ -82,7 +82,7 @@
         "id": 3,
         "title": "Valid Parentheses",
         "difficulty": "Easy",
-        "frequency": 84,
+        "frequency": 91,
         "url": "https://leetcode.com/problems/valid-parentheses",
         "topics": [
           "String",

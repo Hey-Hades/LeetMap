@@ -2,7 +2,7 @@
   "name": "Amdocs",
   "slug": "Amdocs",
   "dataKey": "amdocs",
-  "updatedAt": "2026-10-18T02:12:31.897Z",
+  "updatedAt": "2026-10-25T02:23:17.211Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -21,6 +21,17 @@
           "Heap (Priority Queue)",
           "Matrix",
           "Ordered Set"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Single Number",
+        "difficulty": "Easy",
+        "frequency": 75,
+        "url": "https://leetcode.com/problems/single-number",
+        "topics": [
+          "Array",
+          "Bit Manipulation"
         ]
       }
     ],
@@ -79,7 +90,7 @@
         "id": 5,
         "title": "Single Number",
         "difficulty": "Easy",
-        "frequency": 64,
+        "frequency": 73,
         "url": "https://leetcode.com/problems/single-number",
         "topics": [
           "Array",

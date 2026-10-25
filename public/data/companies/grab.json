@@ -2,11 +2,27 @@
   "name": "Grab",
   "slug": "Grab",
   "dataKey": "grab",
-  "updatedAt": "2026-10-18T02:12:32.024Z",
+  "updatedAt": "2026-10-25T02:23:17.304Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
     "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Coin Change",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/coin-change",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search",
+          "Knapsack Problem",
+          "Complete Knapsack"
+        ]
+      }
+    ],
+    "4. More Than Six Months.csv": [
       {
         "id": 1,
         "title": "Accounts Merge",
@@ -22,14 +38,12 @@
           "Union-Find",
           "Sorting"
         ]
-      }
-    ],
-    "4. More Than Six Months.csv": [
+      },
       {
-        "id": 1,
+        "id": 2,
         "title": "Daily Temperatures",
         "difficulty": "Medium",
-        "frequency": 100,
+        "frequency": 92,
         "url": "https://leetcode.com/problems/daily-temperatures",
         "topics": [
           "Array",
@@ -38,10 +52,10 @@
         ]
       },
       {
-        "id": 2,
+        "id": 3,
         "title": "Simplify Path",
         "difficulty": "Medium",
-        "frequency": 100,
+        "frequency": 92,
         "url": "https://leetcode.com/problems/simplify-path",
         "topics": [
           "String",
@@ -49,10 +63,10 @@
         ]
       },
       {
-        "id": 3,
+        "id": 4,
         "title": "House Robber",
         "difficulty": "Medium",
-        "frequency": 100,
+        "frequency": 92,
         "url": "https://leetcode.com/problems/house-robber",
         "topics": [
           "Array",
@@ -60,73 +74,10 @@
         ]
       },
       {
-        "id": 4,
-        "title": "Two Sum",
-        "difficulty": "Easy",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/two-sum",
-        "topics": [
-          "Array",
-          "Hash Table"
-        ]
-      },
-      {
         "id": 5,
-        "title": "Valid Parentheses",
-        "difficulty": "Easy",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/valid-parentheses",
-        "topics": [
-          "String",
-          "Stack",
-          "Bracket Sequences"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Number of Steps to Reduce a Number in Binary Representation to One",
-        "difficulty": "Medium",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
-        "topics": [
-          "String",
-          "Bit Manipulation",
-          "Simulation"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Accounts Merge",
-        "difficulty": "Medium",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/accounts-merge",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Depth-First Search",
-          "Breadth-First Search",
-          "Union-Find",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 8,
-        "title": "Subarray Sum Equals K",
-        "difficulty": "Medium",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/subarray-sum-equals-k",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Prefix Sum"
-        ]
-      },
-      {
-        "id": 9,
         "title": "Repeated Substring Pattern",
         "difficulty": "Easy",
-        "frequency": 88,
+        "frequency": 92,
         "url": "https://leetcode.com/problems/repeated-substring-pattern",
         "topics": [
           "String",
@@ -136,10 +87,34 @@
         ]
       },
       {
-        "id": 10,
+        "id": 6,
+        "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+        "difficulty": "Medium",
+        "frequency": 81,
+        "url": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+        "topics": [
+          "String",
+          "Bit Manipulation",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Subarray Sum Equals K",
+        "difficulty": "Medium",
+        "frequency": 81,
+        "url": "https://leetcode.com/problems/subarray-sum-equals-k",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ]
+      },
+      {
+        "id": 8,
         "title": "Longest Palindromic Substring",
         "difficulty": "Medium",
-        "frequency": 88,
+        "frequency": 81,
         "url": "https://leetcode.com/problems/longest-palindromic-substring",
         "topics": [
           "Two Pointers",
@@ -214,29 +189,6 @@
       },
       {
         "id": 6,
-        "title": "Two Sum",
-        "difficulty": "Easy",
-        "frequency": 76,
-        "url": "https://leetcode.com/problems/two-sum",
-        "topics": [
-          "Array",
-          "Hash Table"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Valid Parentheses",
-        "difficulty": "Easy",
-        "frequency": 76,
-        "url": "https://leetcode.com/problems/valid-parentheses",
-        "topics": [
-          "String",
-          "Stack",
-          "Bracket Sequences"
-        ]
-      },
-      {
-        "id": 8,
         "title": "Simplify Path",
         "difficulty": "Medium",
         "frequency": 76,
@@ -247,7 +199,7 @@
         ]
       },
       {
-        "id": 9,
+        "id": 7,
         "title": "Daily Temperatures",
         "difficulty": "Medium",
         "frequency": 76,
@@ -259,7 +211,7 @@
         ]
       },
       {
-        "id": 10,
+        "id": 8,
         "title": "House Robber",
         "difficulty": "Medium",
         "frequency": 76,
@@ -270,7 +222,7 @@
         ]
       },
       {
-        "id": 11,
+        "id": 9,
         "title": "Repeated Substring Pattern",
         "difficulty": "Easy",
         "frequency": 76,
@@ -280,6 +232,29 @@
           "String Matching",
           "Z Algorithm",
           "Knuth–Morris–Pratt Algorithm"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 66,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Valid Parentheses",
+        "difficulty": "Easy",
+        "frequency": 66,
+        "url": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
         ]
       },
       {
@@ -329,6 +304,33 @@
           "String",
           "Dynamic Programming",
           "Manacher"
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Group Anagrams",
+        "difficulty": "Medium",
+        "frequency": 66,
+        "url": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Coin Change",
+        "difficulty": "Medium",
+        "frequency": 66,
+        "url": "https://leetcode.com/problems/coin-change",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search",
+          "Knapsack Problem",
+          "Complete Knapsack"
         ]
       }
     ]

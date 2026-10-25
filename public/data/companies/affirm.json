@@ -2,7 +2,7 @@
   "name": "Affirm",
   "slug": "Affirm",
   "dataKey": "affirm",
-  "updatedAt": "2026-10-18T02:12:31.853Z",
+  "updatedAt": "2026-10-25T02:23:17.177Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -26,7 +26,7 @@
         "id": 2,
         "title": "Shortest Uncommon Substring in an Array",
         "difficulty": "Medium",
-        "frequency": 87,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
         "topics": [
           "Array",
@@ -37,22 +37,9 @@
       },
       {
         "id": 3,
-        "title": "Group Anagrams",
-        "difficulty": "Medium",
-        "frequency": 71,
-        "url": "https://leetcode.com/problems/group-anagrams",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
         "difficulty": "Hard",
-        "frequency": 71,
+        "frequency": 70,
         "url": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
         "topics": [
           "Array",
@@ -63,10 +50,10 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Design Hit Counter",
         "difficulty": "Medium",
-        "frequency": 63,
+        "frequency": 65,
         "url": "https://leetcode.com/problems/design-hit-counter",
         "topics": [
           "Array",
@@ -77,21 +64,23 @@
         ]
       },
       {
-        "id": 6,
-        "title": "String Compression",
+        "id": 5,
+        "title": "Group Anagrams",
         "difficulty": "Medium",
-        "frequency": 63,
-        "url": "https://leetcode.com/problems/string-compression",
+        "frequency": 60,
+        "url": "https://leetcode.com/problems/group-anagrams",
         "topics": [
-          "Two Pointers",
-          "String"
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
         ]
       },
       {
-        "id": 7,
+        "id": 6,
         "title": "Valid Anagram",
         "difficulty": "Easy",
-        "frequency": 63,
+        "frequency": 60,
         "url": "https://leetcode.com/problems/valid-anagram",
         "topics": [
           "Hash Table",
@@ -100,10 +89,21 @@
         ]
       },
       {
+        "id": 7,
+        "title": "String Compression",
+        "difficulty": "Medium",
+        "frequency": 52,
+        "url": "https://leetcode.com/problems/string-compression",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ]
+      },
+      {
         "id": 8,
         "title": "Coin Change",
         "difficulty": "Medium",
-        "frequency": 58,
+        "frequency": 52,
         "url": "https://leetcode.com/problems/coin-change",
         "topics": [
           "Array",
@@ -117,7 +117,7 @@
         "id": 9,
         "title": "Optimal Account Balancing",
         "difficulty": "Hard",
-        "frequency": 50,
+        "frequency": 52,
         "url": "https://leetcode.com/problems/optimal-account-balancing",
         "topics": [
           "Array",
@@ -147,7 +147,7 @@
         "id": 2,
         "title": "Shortest Uncommon Substring in an Array",
         "difficulty": "Medium",
-        "frequency": 86,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
         "topics": [
           "Array",
@@ -160,7 +160,7 @@
         "id": 3,
         "title": "Parse Lisp Expression",
         "difficulty": "Hard",
-        "frequency": 76,
+        "frequency": 78,
         "url": "https://leetcode.com/problems/parse-lisp-expression",
         "topics": [
           "Hash Table",
@@ -171,22 +171,9 @@
       },
       {
         "id": 4,
-        "title": "Group Anagrams",
-        "difficulty": "Medium",
-        "frequency": 70,
-        "url": "https://leetcode.com/problems/group-anagrams",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 5,
         "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
         "difficulty": "Hard",
-        "frequency": 70,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
         "topics": [
           "Array",
@@ -197,10 +184,10 @@
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "title": "Design Hit Counter",
         "difficulty": "Medium",
-        "frequency": 63,
+        "frequency": 65,
         "url": "https://leetcode.com/problems/design-hit-counter",
         "topics": [
           "Array",
@@ -211,21 +198,23 @@
         ]
       },
       {
-        "id": 7,
-        "title": "String Compression",
+        "id": 6,
+        "title": "Group Anagrams",
         "difficulty": "Medium",
-        "frequency": 63,
-        "url": "https://leetcode.com/problems/string-compression",
+        "frequency": 60,
+        "url": "https://leetcode.com/problems/group-anagrams",
         "topics": [
-          "Two Pointers",
-          "String"
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
         ]
       },
       {
-        "id": 8,
+        "id": 7,
         "title": "Valid Anagram",
         "difficulty": "Easy",
-        "frequency": 63,
+        "frequency": 60,
         "url": "https://leetcode.com/problems/valid-anagram",
         "topics": [
           "Hash Table",
@@ -234,10 +223,21 @@
         ]
       },
       {
+        "id": 8,
+        "title": "String Compression",
+        "difficulty": "Medium",
+        "frequency": 52,
+        "url": "https://leetcode.com/problems/string-compression",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ]
+      },
+      {
         "id": 9,
         "title": "Coin Change",
         "difficulty": "Medium",
-        "frequency": 57,
+        "frequency": 52,
         "url": "https://leetcode.com/problems/coin-change",
         "topics": [
           "Array",
@@ -251,7 +251,7 @@
         "id": 10,
         "title": "Optimal Account Balancing",
         "difficulty": "Hard",
-        "frequency": 50,
+        "frequency": 52,
         "url": "https://leetcode.com/problems/optimal-account-balancing",
         "topics": [
           "Array",

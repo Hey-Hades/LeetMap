@@ -2,11 +2,24 @@
   "name": "Stripe",
   "slug": "Stripe",
   "dataKey": "stripe",
-  "updatedAt": "2026-10-18T02:12:32.152Z",
+  "updatedAt": "2026-10-25T02:23:17.407Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ]
+      }
+    ],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -23,7 +36,7 @@
         "id": 2,
         "title": "Invalid Transactions",
         "difficulty": "Medium",
-        "frequency": 93,
+        "frequency": 97,
         "url": "https://leetcode.com/problems/invalid-transactions",
         "topics": [
           "Array",
@@ -51,7 +64,7 @@
         "id": 4,
         "title": "Brace Expansion",
         "difficulty": "Medium",
-        "frequency": 89,
+        "frequency": 84,
         "url": "https://leetcode.com/problems/brace-expansion",
         "topics": [
           "String",
@@ -63,35 +76,6 @@
       },
       {
         "id": 5,
-        "title": "Evaluate Division",
-        "difficulty": "Medium",
-        "frequency": 84,
-        "url": "https://leetcode.com/problems/evaluate-division",
-        "topics": [
-          "Array",
-          "String",
-          "Depth-First Search",
-          "Breadth-First Search",
-          "Union-Find",
-          "Graph Theory",
-          "Shortest Path",
-          "Bellman–Ford Algorithm",
-          "Floyd–Warshall Algorithm"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Minimum Penalty for a Shop",
-        "difficulty": "Medium",
-        "frequency": 77,
-        "url": "https://leetcode.com/problems/minimum-penalty-for-a-shop",
-        "topics": [
-          "String",
-          "Prefix Sum"
-        ]
-      },
-      {
-        "id": 7,
         "title": "Parallel Courses III",
         "difficulty": "Hard",
         "frequency": 67,
@@ -105,7 +89,7 @@
         ]
       },
       {
-        "id": 8,
+        "id": 6,
         "title": "One Edit Distance",
         "difficulty": "Medium",
         "frequency": 67,
@@ -116,7 +100,7 @@
         ]
       },
       {
-        "id": 9,
+        "id": 7,
         "title": "Number of Black Blocks",
         "difficulty": "Medium",
         "frequency": 67,
@@ -128,7 +112,7 @@
         ]
       },
       {
-        "id": 10,
+        "id": 8,
         "title": "Simple Bank System",
         "difficulty": "Medium",
         "frequency": 67,
@@ -138,6 +122,19 @@
           "Hash Table",
           "Design",
           "Simulation"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+        "difficulty": "Medium",
+        "frequency": 67,
+        "url": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
         ]
       }
     ],
@@ -157,7 +154,7 @@
         "id": 2,
         "title": "Calculate Amount Paid in Taxes",
         "difficulty": "Easy",
-        "frequency": 93,
+        "frequency": 97,
         "url": "https://leetcode.com/problems/calculate-amount-paid-in-taxes",
         "topics": [
           "Array",
@@ -168,7 +165,7 @@
         "id": 3,
         "title": "Invalid Transactions",
         "difficulty": "Medium",
-        "frequency": 90,
+        "frequency": 94,
         "url": "https://leetcode.com/problems/invalid-transactions",
         "topics": [
           "Array",
@@ -181,7 +178,7 @@
         "id": 4,
         "title": "Cheapest Flights Within K Stops",
         "difficulty": "Medium",
-        "frequency": 82,
+        "frequency": 86,
         "url": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
         "topics": [
           "Dynamic Programming",
@@ -196,7 +193,7 @@
         "id": 5,
         "title": "Brace Expansion",
         "difficulty": "Medium",
-        "frequency": 82,
+        "frequency": 81,
         "url": "https://leetcode.com/problems/brace-expansion",
         "topics": [
           "String",
@@ -208,27 +205,21 @@
       },
       {
         "id": 6,
-        "title": "Evaluate Division",
+        "title": "Merge Intervals",
         "difficulty": "Medium",
-        "frequency": 77,
-        "url": "https://leetcode.com/problems/evaluate-division",
+        "frequency": 74,
+        "url": "https://leetcode.com/problems/merge-intervals",
         "topics": [
           "Array",
-          "String",
-          "Depth-First Search",
-          "Breadth-First Search",
-          "Union-Find",
-          "Graph Theory",
-          "Shortest Path",
-          "Bellman–Ford Algorithm",
-          "Floyd–Warshall Algorithm"
+          "Sorting",
+          "Quicksort"
         ]
       },
       {
         "id": 7,
         "title": "Parallel Courses III",
         "difficulty": "Hard",
-        "frequency": 61,
+        "frequency": 64,
         "url": "https://leetcode.com/problems/parallel-courses-iii",
         "topics": [
           "Array",
@@ -242,7 +233,7 @@
         "id": 8,
         "title": "One Edit Distance",
         "difficulty": "Medium",
-        "frequency": 61,
+        "frequency": 64,
         "url": "https://leetcode.com/problems/one-edit-distance",
         "topics": [
           "Two Pointers",
@@ -253,7 +244,7 @@
         "id": 9,
         "title": "Number of Black Blocks",
         "difficulty": "Medium",
-        "frequency": 61,
+        "frequency": 64,
         "url": "https://leetcode.com/problems/number-of-black-blocks",
         "topics": [
           "Array",
@@ -265,7 +256,7 @@
         "id": 10,
         "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
         "difficulty": "Medium",
-        "frequency": 61,
+        "frequency": 64,
         "url": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
         "topics": [
           "Array",
@@ -278,7 +269,7 @@
         "id": 11,
         "title": "Simple Bank System",
         "difficulty": "Medium",
-        "frequency": 61,
+        "frequency": 64,
         "url": "https://leetcode.com/problems/simple-bank-system",
         "topics": [
           "Array",
@@ -289,25 +280,13 @@
       },
       {
         "id": 12,
-        "title": "Merge Intervals",
+        "title": "Next Permutation",
         "difficulty": "Medium",
-        "frequency": 61,
-        "url": "https://leetcode.com/problems/merge-intervals",
+        "frequency": 64,
+        "url": "https://leetcode.com/problems/next-permutation",
         "topics": [
           "Array",
-          "Sorting",
-          "Quicksort"
-        ]
-      },
-      {
-        "id": 13,
-        "title": "Remove Covered Intervals",
-        "difficulty": "Medium",
-        "frequency": 61,
-        "url": "https://leetcode.com/problems/remove-covered-intervals",
-        "topics": [
-          "Array",
-          "Sorting"
+          "Two Pointers"
         ]
       }
     ]

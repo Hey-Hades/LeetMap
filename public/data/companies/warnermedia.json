@@ -2,7 +2,7 @@
   "name": "Warnermedia",
   "slug": "Warnermedia",
   "dataKey": "warnermedia",
-  "updatedAt": "2026-10-18T02:12:32.185Z",
+  "updatedAt": "2026-10-25T02:23:17.434Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -22,31 +22,6 @@
       },
       {
         "id": 2,
-        "title": "Product of Array Except Self",
-        "difficulty": "Medium",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/product-of-array-except-self",
-        "topics": [
-          "Array",
-          "Prefix Sum"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Merge k Sorted Lists",
-        "difficulty": "Hard",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/merge-k-sorted-lists",
-        "topics": [
-          "Linked List",
-          "Divide and Conquer",
-          "Heap (Priority Queue)",
-          "Merge Sort",
-          "Tournament Sort"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Flatten Nested List Iterator",
         "difficulty": "Medium",
         "frequency": 89,
@@ -58,17 +33,6 @@
           "Design",
           "Queue",
           "Iterator"
-        ]
-      },
-      {
-        "id": 5,
-        "title": "Two Sum",
-        "difficulty": "Easy",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/two-sum",
-        "topics": [
-          "Array",
-          "Hash Table"
         ]
       }
     ],
@@ -97,45 +61,9 @@
       },
       {
         "id": 3,
-        "title": "Two Sum",
-        "difficulty": "Easy",
-        "frequency": 78,
-        "url": "https://leetcode.com/problems/two-sum",
-        "topics": [
-          "Array",
-          "Hash Table"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Merge k Sorted Lists",
-        "difficulty": "Hard",
-        "frequency": 69,
-        "url": "https://leetcode.com/problems/merge-k-sorted-lists",
-        "topics": [
-          "Linked List",
-          "Divide and Conquer",
-          "Heap (Priority Queue)",
-          "Merge Sort",
-          "Tournament Sort"
-        ]
-      },
-      {
-        "id": 5,
-        "title": "Product of Array Except Self",
-        "difficulty": "Medium",
-        "frequency": 69,
-        "url": "https://leetcode.com/problems/product-of-array-except-self",
-        "topics": [
-          "Array",
-          "Prefix Sum"
-        ]
-      },
-      {
-        "id": 6,
         "title": "Flatten Nested List Iterator",
         "difficulty": "Medium",
-        "frequency": 69,
+        "frequency": 70,
         "url": "https://leetcode.com/problems/flatten-nested-list-iterator",
         "topics": [
           "Stack",
@@ -147,10 +75,21 @@
         ]
       },
       {
-        "id": 7,
+        "id": 4,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 70,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 5,
         "title": "Integer to Roman",
         "difficulty": "Medium",
-        "frequency": 69,
+        "frequency": 70,
         "url": "https://leetcode.com/problems/integer-to-roman",
         "topics": [
           "Hash Table",

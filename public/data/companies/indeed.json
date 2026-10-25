@@ -2,25 +2,12 @@
   "name": "Indeed",
   "slug": "Indeed",
   "dataKey": "indeed",
-  "updatedAt": "2026-10-18T02:12:32.039Z",
+  "updatedAt": "2026-10-25T02:23:17.316Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
     "3. Six Months.csv": [],
-    "4. More Than Six Months.csv": [
-      {
-        "id": 1,
-        "title": "Check if Every Row and Column Contains All Numbers",
-        "difficulty": "Easy",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Matrix"
-        ]
-      }
-    ],
+    "4. More Than Six Months.csv": [],
     "5. All.csv": [
       {
         "id": 1,
@@ -81,18 +68,6 @@
         "topics": [
           "Array",
           "Math"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Check if Every Row and Column Contains All Numbers",
-        "difficulty": "Easy",
-        "frequency": 75,
-        "url": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Matrix"
         ]
       }
     ]

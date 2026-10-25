@@ -2,29 +2,29 @@
   "name": "Meesho",
   "slug": "Meesho",
   "dataKey": "meesho",
-  "updatedAt": "2026-10-18T02:12:32.058Z",
+  "updatedAt": "2026-10-25T02:23:17.335Z",
   "problems": {
-    "1. Thirty Days.csv": [],
+    "1. Thirty Days.csv": [
+      {
+        "id": 1,
+        "title": "Jump Game II",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/jump-game-ii",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ]
+      }
+    ],
     "2. Three Months.csv": [
       {
         "id": 1,
-        "title": "Subarray Product Less Than K",
+        "title": "Jump Game II",
         "difficulty": "Medium",
         "frequency": 100,
-        "url": "https://leetcode.com/problems/subarray-product-less-than-k",
-        "topics": [
-          "Array",
-          "Binary Search",
-          "Sliding Window",
-          "Prefix Sum"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Best Time to Buy and Sell Stock II",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+        "url": "https://leetcode.com/problems/jump-game-ii",
         "topics": [
           "Array",
           "Dynamic Programming",
@@ -52,6 +52,18 @@
         "difficulty": "Medium",
         "frequency": 100,
         "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Jump Game II",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/jump-game-ii",
         "topics": [
           "Array",
           "Dynamic Programming",
@@ -121,40 +133,6 @@
       },
       {
         "id": 6,
-        "title": "Consecutive Numbers",
-        "difficulty": "Medium",
-        "frequency": 75,
-        "url": "https://leetcode.com/problems/consecutive-numbers",
-        "topics": [
-          "Database"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Design Twitter",
-        "difficulty": "Medium",
-        "frequency": 75,
-        "url": "https://leetcode.com/problems/design-twitter",
-        "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Heap (Priority Queue)"
-        ]
-      },
-      {
-        "id": 8,
-        "title": "Minimum Time to Complete Trips",
-        "difficulty": "Medium",
-        "frequency": 75,
-        "url": "https://leetcode.com/problems/minimum-time-to-complete-trips",
-        "topics": [
-          "Array",
-          "Binary Search"
-        ]
-      },
-      {
-        "id": 9,
         "title": "Number of Ways to Form a Target String Given a Dictionary",
         "difficulty": "Hard",
         "frequency": 75,
@@ -166,7 +144,7 @@
         ]
       },
       {
-        "id": 10,
+        "id": 7,
         "title": "Exchange Seats",
         "difficulty": "Medium",
         "frequency": 75,
@@ -176,7 +154,7 @@
         ]
       },
       {
-        "id": 11,
+        "id": 8,
         "title": "Minimum Edge Reversals So Every Node Is Reachable",
         "difficulty": "Hard",
         "frequency": 68,
@@ -189,19 +167,20 @@
         ]
       },
       {
-        "id": 12,
-        "title": "Minimum Number of Taps to Open to Water a Garden",
-        "difficulty": "Hard",
+        "id": 9,
+        "title": "Design Twitter",
+        "difficulty": "Medium",
         "frequency": 68,
-        "url": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+        "url": "https://leetcode.com/problems/design-twitter",
         "topics": [
-          "Array",
-          "Dynamic Programming",
-          "Greedy"
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Heap (Priority Queue)"
         ]
       },
       {
-        "id": 13,
+        "id": 10,
         "title": "Next Permutation",
         "difficulty": "Medium",
         "frequency": 68,
@@ -212,7 +191,7 @@
         ]
       },
       {
-        "id": 14,
+        "id": 11,
         "title": "Possible Bipartition",
         "difficulty": "Medium",
         "frequency": 68,
@@ -227,156 +206,10 @@
         ]
       },
       {
-        "id": 15,
-        "title": "Maximum Profit in Job Scheduling",
-        "difficulty": "Hard",
-        "frequency": 68,
-        "url": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
-        "topics": [
-          "Array",
-          "Binary Search",
-          "Dynamic Programming",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 16,
-        "title": "Distinct Subsequences",
-        "difficulty": "Hard",
-        "frequency": 68,
-        "url": "https://leetcode.com/problems/distinct-subsequences",
-        "topics": [
-          "String",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 17,
-        "title": "Delete and Earn",
-        "difficulty": "Medium",
-        "frequency": 58,
-        "url": "https://leetcode.com/problems/delete-and-earn",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 18,
-        "title": "Painting the Walls",
-        "difficulty": "Hard",
-        "frequency": 58,
-        "url": "https://leetcode.com/problems/painting-the-walls",
-        "topics": [
-          "Array",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 19,
-        "title": "Jump Game",
-        "difficulty": "Medium",
-        "frequency": 58,
-        "url": "https://leetcode.com/problems/jump-game",
-        "topics": [
-          "Array",
-          "Dynamic Programming",
-          "Greedy"
-        ]
-      },
-      {
-        "id": 20,
-        "title": "Asteroid Collision",
-        "difficulty": "Medium",
-        "frequency": 58,
-        "url": "https://leetcode.com/problems/asteroid-collision",
-        "topics": [
-          "Array",
-          "Stack",
-          "Simulation"
-        ]
-      },
-      {
-        "id": 21,
-        "title": "Number of Visible People in a Queue",
-        "difficulty": "Hard",
-        "frequency": 58,
-        "url": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
-        "topics": [
-          "Array",
-          "Stack",
-          "Monotonic Stack"
-        ]
-      },
-      {
-        "id": 22,
-        "title": "Odd Even Linked List",
-        "difficulty": "Medium",
-        "frequency": 58,
-        "url": "https://leetcode.com/problems/odd-even-linked-list",
-        "topics": [
-          "Linked List"
-        ]
-      },
-      {
-        "id": 23,
-        "title": "Number of Islands",
-        "difficulty": "Medium",
-        "frequency": 58,
-        "url": "https://leetcode.com/problems/number-of-islands",
-        "topics": [
-          "Array",
-          "Depth-First Search",
-          "Breadth-First Search",
-          "Union-Find",
-          "Matrix"
-        ]
-      },
-      {
-        "id": 24,
-        "title": "3Sum",
-        "difficulty": "Medium",
-        "frequency": 58,
-        "url": "https://leetcode.com/problems/3sum",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 25,
-        "title": "Collect Coins in a Tree",
-        "difficulty": "Hard",
-        "frequency": 58,
-        "url": "https://leetcode.com/problems/collect-coins-in-a-tree",
-        "topics": [
-          "Array",
-          "Tree",
-          "Graph Theory",
-          "Topological Sort"
-        ]
-      },
-      {
-        "id": 26,
-        "title": "Find Median from Data Stream",
-        "difficulty": "Hard",
-        "frequency": 58,
-        "url": "https://leetcode.com/problems/find-median-from-data-stream",
-        "topics": [
-          "Two Pointers",
-          "Design",
-          "Sorting",
-          "Heap (Priority Queue)",
-          "Data Stream"
-        ]
-      },
-      {
-        "id": 27,
+        "id": 12,
         "title": "Split Array With Same Average",
         "difficulty": "Hard",
-        "frequency": 58,
+        "frequency": 68,
         "url": "https://leetcode.com/problems/split-array-with-same-average",
         "topics": [
           "Array",
@@ -389,10 +222,140 @@
         ]
       },
       {
-        "id": 28,
+        "id": 13,
+        "title": "Maximum Profit in Job Scheduling",
+        "difficulty": "Hard",
+        "frequency": 68,
+        "url": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Distinct Subsequences",
+        "difficulty": "Hard",
+        "frequency": 68,
+        "url": "https://leetcode.com/problems/distinct-subsequences",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Minimum Number of Taps to Open to Water a Garden",
+        "difficulty": "Hard",
+        "frequency": 59,
+        "url": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Consecutive Numbers",
+        "difficulty": "Medium",
+        "frequency": 59,
+        "url": "https://leetcode.com/problems/consecutive-numbers",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Minimum Time to Complete Trips",
+        "difficulty": "Medium",
+        "frequency": 59,
+        "url": "https://leetcode.com/problems/minimum-time-to-complete-trips",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ]
+      },
+      {
+        "id": 18,
+        "title": "Asteroid Collision",
+        "difficulty": "Medium",
+        "frequency": 59,
+        "url": "https://leetcode.com/problems/asteroid-collision",
+        "topics": [
+          "Array",
+          "Stack",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Number of Visible People in a Queue",
+        "difficulty": "Hard",
+        "frequency": 59,
+        "url": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
+        ]
+      },
+      {
+        "id": 20,
+        "title": "Odd Even Linked List",
+        "difficulty": "Medium",
+        "frequency": 59,
+        "url": "https://leetcode.com/problems/odd-even-linked-list",
+        "topics": [
+          "Linked List"
+        ]
+      },
+      {
+        "id": 21,
+        "title": "Number of Islands",
+        "difficulty": "Medium",
+        "frequency": 59,
+        "url": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 22,
+        "title": "3Sum",
+        "difficulty": "Medium",
+        "frequency": 59,
+        "url": "https://leetcode.com/problems/3sum",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 23,
+        "title": "Collect Coins in a Tree",
+        "difficulty": "Hard",
+        "frequency": 59,
+        "url": "https://leetcode.com/problems/collect-coins-in-a-tree",
+        "topics": [
+          "Array",
+          "Tree",
+          "Graph Theory",
+          "Topological Sort"
+        ]
+      },
+      {
+        "id": 24,
         "title": "Robot Collisions",
         "difficulty": "Hard",
-        "frequency": 58,
+        "frequency": 59,
         "url": "https://leetcode.com/problems/robot-collisions",
         "topics": [
           "Array",
@@ -402,10 +365,10 @@
         ]
       },
       {
-        "id": 29,
+        "id": 25,
         "title": "Minimum Window Substring",
         "difficulty": "Hard",
-        "frequency": 58,
+        "frequency": 59,
         "url": "https://leetcode.com/problems/minimum-window-substring",
         "topics": [
           "Hash Table",
@@ -414,10 +377,10 @@
         ]
       },
       {
-        "id": 30,
+        "id": 26,
         "title": "Erect the Fence",
         "difficulty": "Hard",
-        "frequency": 58,
+        "frequency": 59,
         "url": "https://leetcode.com/problems/erect-the-fence",
         "topics": [
           "Array",
@@ -428,10 +391,10 @@
         ]
       },
       {
-        "id": 31,
+        "id": 27,
         "title": "Max Points on a Line",
         "difficulty": "Hard",
-        "frequency": 58,
+        "frequency": 59,
         "url": "https://leetcode.com/problems/max-points-on-a-line",
         "topics": [
           "Array",
@@ -443,10 +406,10 @@
         ]
       },
       {
-        "id": 32,
+        "id": 28,
         "title": "Maximum Subarray",
         "difficulty": "Medium",
-        "frequency": 58,
+        "frequency": 59,
         "url": "https://leetcode.com/problems/maximum-subarray",
         "topics": [
           "Array",
@@ -584,30 +547,9 @@
       },
       {
         "id": 11,
-        "title": "Consecutive Numbers",
-        "difficulty": "Medium",
-        "frequency": 74,
-        "url": "https://leetcode.com/problems/consecutive-numbers",
-        "topics": [
-          "Database"
-        ]
-      },
-      {
-        "id": 12,
-        "title": "Minimum Time to Complete Trips",
-        "difficulty": "Medium",
-        "frequency": 74,
-        "url": "https://leetcode.com/problems/minimum-time-to-complete-trips",
-        "topics": [
-          "Array",
-          "Binary Search"
-        ]
-      },
-      {
-        "id": 13,
         "title": "Number of Ways to Form a Target String Given a Dictionary",
         "difficulty": "Hard",
-        "frequency": 74,
+        "frequency": 75,
         "url": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary",
         "topics": [
           "Array",
@@ -616,30 +558,17 @@
         ]
       },
       {
-        "id": 14,
-        "title": "Design Twitter",
-        "difficulty": "Medium",
-        "frequency": 74,
-        "url": "https://leetcode.com/problems/design-twitter",
-        "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Heap (Priority Queue)"
-        ]
-      },
-      {
-        "id": 15,
+        "id": 12,
         "title": "Exchange Seats",
         "difficulty": "Medium",
-        "frequency": 74,
+        "frequency": 75,
         "url": "https://leetcode.com/problems/exchange-seats",
         "topics": [
           "Database"
         ]
       },
       {
-        "id": 16,
+        "id": 13,
         "title": "Minimum Edge Reversals So Every Node Is Reachable",
         "difficulty": "Hard",
         "frequency": 67,
@@ -652,19 +581,20 @@
         ]
       },
       {
-        "id": 17,
-        "title": "Minimum Number of Taps to Open to Water a Garden",
-        "difficulty": "Hard",
+        "id": 14,
+        "title": "Design Twitter",
+        "difficulty": "Medium",
         "frequency": 67,
-        "url": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+        "url": "https://leetcode.com/problems/design-twitter",
         "topics": [
-          "Array",
-          "Dynamic Programming",
-          "Greedy"
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Heap (Priority Queue)"
         ]
       },
       {
-        "id": 18,
+        "id": 15,
         "title": "Next Permutation",
         "difficulty": "Medium",
         "frequency": 67,
@@ -675,7 +605,7 @@
         ]
       },
       {
-        "id": 19,
+        "id": 16,
         "title": "Odd Even Linked List",
         "difficulty": "Medium",
         "frequency": 67,
@@ -685,7 +615,7 @@
         ]
       },
       {
-        "id": 20,
+        "id": 17,
         "title": "Possible Bipartition",
         "difficulty": "Medium",
         "frequency": 67,
@@ -700,7 +630,23 @@
         ]
       },
       {
-        "id": 21,
+        "id": 18,
+        "title": "Split Array With Same Average",
+        "difficulty": "Hard",
+        "frequency": 67,
+        "url": "https://leetcode.com/problems/split-array-with-same-average",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Dynamic Programming",
+          "Bit Manipulation",
+          "Meet in the Middle",
+          "Bitmask"
+        ]
+      },
+      {
+        "id": 19,
         "title": "Distinct Subsequences",
         "difficulty": "Hard",
         "frequency": 67,
@@ -711,7 +657,7 @@
         ]
       },
       {
-        "id": 22,
+        "id": 20,
         "title": "Maximum Profit in Job Scheduling",
         "difficulty": "Hard",
         "frequency": 67,
@@ -724,34 +670,11 @@
         ]
       },
       {
-        "id": 23,
-        "title": "Delete and Earn",
-        "difficulty": "Medium",
-        "frequency": 57,
-        "url": "https://leetcode.com/problems/delete-and-earn",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 24,
-        "title": "Painting the Walls",
+        "id": 21,
+        "title": "Minimum Number of Taps to Open to Water a Garden",
         "difficulty": "Hard",
         "frequency": 57,
-        "url": "https://leetcode.com/problems/painting-the-walls",
-        "topics": [
-          "Array",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 25,
-        "title": "Jump Game",
-        "difficulty": "Medium",
-        "frequency": 57,
-        "url": "https://leetcode.com/problems/jump-game",
+        "url": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
         "topics": [
           "Array",
           "Dynamic Programming",
@@ -759,7 +682,28 @@
         ]
       },
       {
-        "id": 26,
+        "id": 22,
+        "title": "Consecutive Numbers",
+        "difficulty": "Medium",
+        "frequency": 57,
+        "url": "https://leetcode.com/problems/consecutive-numbers",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 23,
+        "title": "Minimum Time to Complete Trips",
+        "difficulty": "Medium",
+        "frequency": 57,
+        "url": "https://leetcode.com/problems/minimum-time-to-complete-trips",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ]
+      },
+      {
+        "id": 24,
         "title": "Asteroid Collision",
         "difficulty": "Medium",
         "frequency": 57,
@@ -771,7 +715,7 @@
         ]
       },
       {
-        "id": 27,
+        "id": 25,
         "title": "Number of Visible People in a Queue",
         "difficulty": "Hard",
         "frequency": 57,
@@ -783,7 +727,7 @@
         ]
       },
       {
-        "id": 28,
+        "id": 26,
         "title": "Number of Islands",
         "difficulty": "Medium",
         "frequency": 57,
@@ -797,7 +741,7 @@
         ]
       },
       {
-        "id": 29,
+        "id": 27,
         "title": "3Sum",
         "difficulty": "Medium",
         "frequency": 57,
@@ -809,7 +753,7 @@
         ]
       },
       {
-        "id": 30,
+        "id": 28,
         "title": "Collect Coins in a Tree",
         "difficulty": "Hard",
         "frequency": 57,
@@ -822,37 +766,7 @@
         ]
       },
       {
-        "id": 31,
-        "title": "Find Median from Data Stream",
-        "difficulty": "Hard",
-        "frequency": 57,
-        "url": "https://leetcode.com/problems/find-median-from-data-stream",
-        "topics": [
-          "Two Pointers",
-          "Design",
-          "Sorting",
-          "Heap (Priority Queue)",
-          "Data Stream"
-        ]
-      },
-      {
-        "id": 32,
-        "title": "Split Array With Same Average",
-        "difficulty": "Hard",
-        "frequency": 57,
-        "url": "https://leetcode.com/problems/split-array-with-same-average",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Math",
-          "Dynamic Programming",
-          "Bit Manipulation",
-          "Meet in the Middle",
-          "Bitmask"
-        ]
-      },
-      {
-        "id": 33,
+        "id": 29,
         "title": "Robot Collisions",
         "difficulty": "Hard",
         "frequency": 57,
@@ -865,7 +779,7 @@
         ]
       },
       {
-        "id": 34,
+        "id": 30,
         "title": "Minimum Window Substring",
         "difficulty": "Hard",
         "frequency": 57,
@@ -877,7 +791,7 @@
         ]
       },
       {
-        "id": 35,
+        "id": 31,
         "title": "Erect the Fence",
         "difficulty": "Hard",
         "frequency": 57,
@@ -891,7 +805,7 @@
         ]
       },
       {
-        "id": 36,
+        "id": 32,
         "title": "Max Points on a Line",
         "difficulty": "Hard",
         "frequency": 57,
@@ -906,7 +820,7 @@
         ]
       },
       {
-        "id": 37,
+        "id": 33,
         "title": "Maximum Subarray",
         "difficulty": "Medium",
         "frequency": 57,
@@ -918,19 +832,7 @@
         ]
       },
       {
-        "id": 38,
-        "title": "Longest Consecutive Sequence",
-        "difficulty": "Medium",
-        "frequency": 57,
-        "url": "https://leetcode.com/problems/longest-consecutive-sequence",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Union-Find"
-        ]
-      },
-      {
-        "id": 39,
+        "id": 34,
         "title": "Subarray Product Less Than K",
         "difficulty": "Medium",
         "frequency": 57,
@@ -943,11 +845,23 @@
         ]
       },
       {
-        "id": 40,
+        "id": 35,
         "title": "Best Time to Buy and Sell Stock II",
         "difficulty": "Medium",
         "frequency": 57,
         "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 36,
+        "title": "Jump Game II",
+        "difficulty": "Medium",
+        "frequency": 57,
+        "url": "https://leetcode.com/problems/jump-game-ii",
         "topics": [
           "Array",
           "Dynamic Programming",

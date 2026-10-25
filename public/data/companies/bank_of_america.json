@@ -2,11 +2,35 @@
   "name": "Bank of America",
   "slug": "Bank of America",
   "dataKey": "bank_of_america",
-  "updatedAt": "2026-10-18T02:12:31.916Z",
+  "updatedAt": "2026-10-25T02:23:17.225Z",
   "problems": {
     "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [],
-    "3. Six Months.csv": [],
+    "2. Three Months.csv": [
+      {
+        "id": 1,
+        "title": "Pascal's Triangle",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/pascals-triangle",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      }
+    ],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Pascal's Triangle",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/pascals-triangle",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      }
+    ],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -24,7 +48,7 @@
         "id": 2,
         "title": "Best Time to Buy and Sell Stock",
         "difficulty": "Easy",
-        "frequency": 83,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
         "topics": [
           "Array",
@@ -35,9 +59,20 @@
     "5. All.csv": [
       {
         "id": 1,
-        "title": "Valid Parentheses",
+        "title": "Pascal's Triangle",
         "difficulty": "Easy",
         "frequency": 100,
+        "url": "https://leetcode.com/problems/pascals-triangle",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Valid Parentheses",
+        "difficulty": "Easy",
+        "frequency": 93,
         "url": "https://leetcode.com/problems/valid-parentheses",
         "topics": [
           "String",
@@ -46,10 +81,10 @@
         ]
       },
       {
-        "id": 2,
+        "id": 3,
         "title": "Best Time to Buy and Sell Stock",
         "difficulty": "Easy",
-        "frequency": 82,
+        "frequency": 93,
         "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
         "topics": [
           "Array",

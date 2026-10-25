@@ -2,7 +2,7 @@
   "name": "Pwc",
   "slug": "Pwc",
   "dataKey": "pwc",
-  "updatedAt": "2026-10-18T02:12:32.129Z",
+  "updatedAt": "2026-10-25T02:23:17.390Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -21,14 +21,14 @@
       },
       {
         "id": 2,
-        "title": "Median of Two Sorted Arrays",
-        "difficulty": "Hard",
-        "frequency": 74,
-        "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+        "title": "Longest Common Prefix",
+        "difficulty": "Easy",
+        "frequency": 84,
+        "url": "https://leetcode.com/problems/longest-common-prefix",
         "topics": [
           "Array",
-          "Binary Search",
-          "Divide and Conquer"
+          "String",
+          "Trie"
         ]
       },
       {
@@ -45,14 +45,13 @@
       },
       {
         "id": 4,
-        "title": "Longest Common Prefix",
+        "title": "Valid Palindrome",
         "difficulty": "Easy",
         "frequency": 74,
-        "url": "https://leetcode.com/problems/longest-common-prefix",
+        "url": "https://leetcode.com/problems/valid-palindrome",
         "topics": [
-          "Array",
-          "String",
-          "Trie"
+          "Two Pointers",
+          "String"
         ]
       }
     ],
@@ -82,25 +81,61 @@
       },
       {
         "id": 3,
-        "title": "Median of Two Sorted Arrays",
-        "difficulty": "Hard",
-        "frequency": 74,
-        "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
-        "topics": [
-          "Array",
-          "Binary Search",
-          "Divide and Conquer"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Roman to Integer",
         "difficulty": "Easy",
-        "frequency": 74,
+        "frequency": 73,
         "url": "https://leetcode.com/problems/roman-to-integer",
         "topics": [
           "Hash Table",
           "Math",
+          "String"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Next Permutation",
+        "difficulty": "Medium",
+        "frequency": 73,
+        "url": "https://leetcode.com/problems/next-permutation",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
+        "frequency": 73,
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Valid Parenthesis String",
+        "difficulty": "Medium",
+        "frequency": 73,
+        "url": "https://leetcode.com/problems/valid-parenthesis-string",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Stack",
+          "Greedy",
+          "Bracket Sequences"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Valid Palindrome",
+        "difficulty": "Easy",
+        "frequency": 73,
+        "url": "https://leetcode.com/problems/valid-palindrome",
+        "topics": [
+          "Two Pointers",
           "String"
         ]
       }

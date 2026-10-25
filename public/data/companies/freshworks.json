@@ -2,25 +2,10 @@
   "name": "FreshWorks",
   "slug": "FreshWorks",
   "dataKey": "freshworks",
-  "updatedAt": "2026-10-18T02:12:31.987Z",
+  "updatedAt": "2026-10-25T02:23:17.278Z",
   "problems": {
     "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [
-      {
-        "id": 1,
-        "title": "Merge k Sorted Lists",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/merge-k-sorted-lists",
-        "topics": [
-          "Linked List",
-          "Divide and Conquer",
-          "Heap (Priority Queue)",
-          "Merge Sort",
-          "Tournament Sort"
-        ]
-      }
-    ],
+    "2. Three Months.csv": [],
     "3. Six Months.csv": [
       {
         "id": 1,
@@ -54,7 +39,7 @@
         "id": 2,
         "title": "Valid Parentheses",
         "difficulty": "Easy",
-        "frequency": 92,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/valid-parentheses",
         "topics": [
           "String",
@@ -64,21 +49,9 @@
       },
       {
         "id": 3,
-        "title": "Container With Most Water",
-        "difficulty": "Medium",
-        "frequency": 81,
-        "url": "https://leetcode.com/problems/container-with-most-water",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Greedy"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Meeting Rooms II",
         "difficulty": "Medium",
-        "frequency": 81,
+        "frequency": 92,
         "url": "https://leetcode.com/problems/meeting-rooms-ii",
         "topics": [
           "Array",
@@ -90,6 +63,18 @@
         ]
       },
       {
+        "id": 4,
+        "title": "Container With Most Water",
+        "difficulty": "Medium",
+        "frequency": 81,
+        "url": "https://leetcode.com/problems/container-with-most-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ]
+      },
+      {
         "id": 5,
         "title": "Remove Duplicates from Sorted Array II",
         "difficulty": "Medium",
@@ -98,6 +83,30 @@
         "topics": [
           "Array",
           "Two Pointers"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Group Anagrams",
+        "difficulty": "Medium",
+        "frequency": 81,
+        "url": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Product of Array Except Self",
+        "difficulty": "Medium",
+        "frequency": 81,
+        "url": "https://leetcode.com/problems/product-of-array-except-self",
+        "topics": [
+          "Array",
+          "Prefix Sum"
         ]
       }
     ],
@@ -211,6 +220,17 @@
         "topics": [
           "Array",
           "Binary Search"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 81,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
         ]
       }
     ]

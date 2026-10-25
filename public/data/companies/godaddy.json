@@ -2,11 +2,35 @@
   "name": "GoDaddy",
   "slug": "GoDaddy",
   "dataKey": "godaddy",
-  "updatedAt": "2026-10-18T02:12:31.990Z",
+  "updatedAt": "2026-10-25T02:23:17.282Z",
   "problems": {
     "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [],
-    "3. Six Months.csv": [],
+    "2. Three Months.csv": [
+      {
+        "id": 1,
+        "title": "Ways to Make a Fair Array",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/ways-to-make-a-fair-array",
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ]
+      }
+    ],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Ways to Make a Fair Array",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/ways-to-make-a-fair-array",
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ]
+      }
+    ],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -24,7 +48,7 @@
         "id": 2,
         "title": "Valid Parentheses",
         "difficulty": "Easy",
-        "frequency": 93,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/valid-parentheses",
         "topics": [
           "String",
@@ -36,7 +60,7 @@
         "id": 3,
         "title": "Minimum Degree of a Connected Trio in a Graph",
         "difficulty": "Hard",
-        "frequency": 82,
+        "frequency": 78,
         "url": "https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph",
         "topics": [
           "Graph Theory",
@@ -60,7 +84,7 @@
         "id": 2,
         "title": "String Compression",
         "difficulty": "Medium",
-        "frequency": 100,
+        "frequency": 97,
         "url": "https://leetcode.com/problems/string-compression",
         "topics": [
           "Two Pointers",
@@ -71,7 +95,7 @@
         "id": 3,
         "title": "Merge Intervals",
         "difficulty": "Medium",
-        "frequency": 89,
+        "frequency": 87,
         "url": "https://leetcode.com/problems/merge-intervals",
         "topics": [
           "Array",
@@ -83,7 +107,7 @@
         "id": 4,
         "title": "Valid Parentheses",
         "difficulty": "Easy",
-        "frequency": 78,
+        "frequency": 76,
         "url": "https://leetcode.com/problems/valid-parentheses",
         "topics": [
           "String",
@@ -95,11 +119,22 @@
         "id": 5,
         "title": "Minimum Degree of a Connected Trio in a Graph",
         "difficulty": "Hard",
-        "frequency": 69,
+        "frequency": 67,
         "url": "https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph",
         "topics": [
           "Graph Theory",
           "Enumeration"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Ways to Make a Fair Array",
+        "difficulty": "Medium",
+        "frequency": 67,
+        "url": "https://leetcode.com/problems/ways-to-make-a-fair-array",
+        "topics": [
+          "Array",
+          "Prefix Sum"
         ]
       }
     ]

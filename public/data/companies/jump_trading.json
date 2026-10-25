@@ -2,7 +2,7 @@
   "name": "Jump Trading",
   "slug": "Jump Trading",
   "dataKey": "jump_trading",
-  "updatedAt": "2026-10-18T02:12:32.045Z",
+  "updatedAt": "2026-10-25T02:23:17.323Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -25,7 +25,7 @@
         "id": 2,
         "title": "Permutation Sequence",
         "difficulty": "Hard",
-        "frequency": 100,
+        "frequency": 93,
         "url": "https://leetcode.com/problems/permutation-sequence",
         "topics": [
           "Math",
@@ -36,6 +36,19 @@
     "5. All.csv": [
       {
         "id": 1,
+        "title": "Happy Number",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/happy-number",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "Two Pointers",
+          "Floyd's Cycle Finding Algorithm"
+        ]
+      },
+      {
+        "id": 2,
         "title": "Permutation Sequence",
         "difficulty": "Hard",
         "frequency": 100,
@@ -43,19 +56,6 @@
         "topics": [
           "Math",
           "Recursion"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Happy Number",
-        "difficulty": "Easy",
-        "frequency": 93,
-        "url": "https://leetcode.com/problems/happy-number",
-        "topics": [
-          "Hash Table",
-          "Math",
-          "Two Pointers",
-          "Floyd's Cycle Finding Algorithm"
         ]
       }
     ]

@@ -2,24 +2,11 @@
   "name": "Flexport",
   "slug": "Flexport",
   "dataKey": "flexport",
-  "updatedAt": "2026-10-18T02:12:31.985Z",
+  "updatedAt": "2026-10-25T02:23:17.276Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [
-      {
-        "id": 1,
-        "title": "Bulls and Cows",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/bulls-and-cows",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Counting"
-        ]
-      }
-    ],
+    "3. Six Months.csv": [],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -50,7 +37,7 @@
         "id": 3,
         "title": "Letter Combinations of a Phone Number",
         "difficulty": "Medium",
-        "frequency": 71,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
         "topics": [
           "Hash Table",
@@ -62,7 +49,7 @@
         "id": 4,
         "title": "My Calendar I",
         "difficulty": "Medium",
-        "frequency": 71,
+        "frequency": 64,
         "url": "https://leetcode.com/problems/my-calendar-i",
         "topics": [
           "Array",
@@ -74,51 +61,24 @@
       },
       {
         "id": 5,
-        "title": "Bag of Tokens",
+        "title": "Validate IP Address",
         "difficulty": "Medium",
-        "frequency": 63,
-        "url": "https://leetcode.com/problems/bag-of-tokens",
+        "frequency": 64,
+        "url": "https://leetcode.com/problems/validate-ip-address",
         "topics": [
-          "Array",
-          "Two Pointers",
-          "Greedy",
-          "Sorting"
+          "String"
         ]
       },
       {
         "id": 6,
-        "title": "Subarray Product Less Than K",
+        "title": "Bulls and Cows",
         "difficulty": "Medium",
-        "frequency": 63,
-        "url": "https://leetcode.com/problems/subarray-product-less-than-k",
+        "frequency": 64,
+        "url": "https://leetcode.com/problems/bulls-and-cows",
         "topics": [
-          "Array",
-          "Binary Search",
-          "Sliding Window",
-          "Prefix Sum"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Longest Increasing Subsequence",
-        "difficulty": "Medium",
-        "frequency": 63,
-        "url": "https://leetcode.com/problems/longest-increasing-subsequence",
-        "topics": [
-          "Array",
-          "Binary Search",
-          "Dynamic Programming",
-          "Longest Increasing Subsequence"
-        ]
-      },
-      {
-        "id": 8,
-        "title": "Validate IP Address",
-        "difficulty": "Medium",
-        "frequency": 63,
-        "url": "https://leetcode.com/problems/validate-ip-address",
-        "topics": [
-          "String"
+          "Hash Table",
+          "String",
+          "Counting"
         ]
       }
     ],
@@ -152,7 +112,7 @@
         "id": 3,
         "title": "Time Based Key-Value Store",
         "difficulty": "Medium",
-        "frequency": 91,
+        "frequency": 92,
         "url": "https://leetcode.com/problems/time-based-key-value-store",
         "topics": [
           "Hash Table",
@@ -163,9 +123,21 @@
       },
       {
         "id": 4,
+        "title": "Letter Combinations of a Phone Number",
+        "difficulty": "Medium",
+        "frequency": 77,
+        "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking"
+        ]
+      },
+      {
+        "id": 5,
         "title": "My Calendar I",
         "difficulty": "Medium",
-        "frequency": 71,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/my-calendar-i",
         "topics": [
           "Array",
@@ -176,71 +148,20 @@
         ]
       },
       {
-        "id": 5,
-        "title": "Letter Combinations of a Phone Number",
-        "difficulty": "Medium",
-        "frequency": 71,
-        "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Backtracking"
-        ]
-      },
-      {
         "id": 6,
-        "title": "Longest Increasing Subsequence",
-        "difficulty": "Medium",
-        "frequency": 62,
-        "url": "https://leetcode.com/problems/longest-increasing-subsequence",
-        "topics": [
-          "Array",
-          "Binary Search",
-          "Dynamic Programming",
-          "Longest Increasing Subsequence"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Subarray Product Less Than K",
-        "difficulty": "Medium",
-        "frequency": 62,
-        "url": "https://leetcode.com/problems/subarray-product-less-than-k",
-        "topics": [
-          "Array",
-          "Binary Search",
-          "Sliding Window",
-          "Prefix Sum"
-        ]
-      },
-      {
-        "id": 8,
-        "title": "Bag of Tokens",
-        "difficulty": "Medium",
-        "frequency": 62,
-        "url": "https://leetcode.com/problems/bag-of-tokens",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Greedy",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 9,
         "title": "Validate IP Address",
         "difficulty": "Medium",
-        "frequency": 62,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/validate-ip-address",
         "topics": [
           "String"
         ]
       },
       {
-        "id": 10,
+        "id": 7,
         "title": "Bulls and Cows",
         "difficulty": "Medium",
-        "frequency": 62,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/bulls-and-cows",
         "topics": [
           "Hash Table",

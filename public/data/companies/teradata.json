@@ -2,35 +2,47 @@
   "name": "Teradata",
   "slug": "Teradata",
   "dataKey": "teradata",
-  "updatedAt": "2026-10-18T02:12:32.156Z",
+  "updatedAt": "2026-10-25T02:23:17.410Z",
   "problems": {
     "1. Thirty Days.csv": [
       {
         "id": 1,
-        "title": "Maximize the Minimum Powered City",
+        "title": "Minimum Cost to Hire K Workers",
         "difficulty": "Hard",
         "frequency": 100,
-        "url": "https://leetcode.com/problems/maximize-the-minimum-powered-city",
+        "url": "https://leetcode.com/problems/minimum-cost-to-hire-k-workers",
         "topics": [
           "Array",
-          "Binary Search",
           "Greedy",
-          "Queue",
-          "Sliding Window",
-          "Prefix Sum"
+          "Sorting",
+          "Heap (Priority Queue)"
         ]
       },
       {
         "id": 2,
-        "title": "Reducing Dishes",
+        "title": "Minimum Jumps to Reach End via Prime Teleportation",
+        "difficulty": "Medium",
+        "frequency": 99,
+        "url": "https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Breadth-First Search",
+          "Number Theory"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Find the Sum of the Power of All Subsequences",
         "difficulty": "Hard",
-        "frequency": 72,
-        "url": "https://leetcode.com/problems/reducing-dishes",
+        "frequency": 91,
+        "url": "https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences",
         "topics": [
           "Array",
           "Dynamic Programming",
-          "Greedy",
-          "Sorting"
+          "Knapsack Problem",
+          "0-1 Knapsack"
         ]
       }
     ],
@@ -52,9 +64,49 @@
       },
       {
         "id": 2,
+        "title": "Minimum Cost to Hire K Workers",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-cost-to-hire-k-workers",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Minimum Jumps to Reach End via Prime Teleportation",
+        "difficulty": "Medium",
+        "frequency": 98,
+        "url": "https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Breadth-First Search",
+          "Number Theory"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Find the Sum of the Power of All Subsequences",
+        "difficulty": "Hard",
+        "frequency": 91,
+        "url": "https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Knapsack Problem",
+          "0-1 Knapsack"
+        ]
+      },
+      {
+        "id": 5,
         "title": "Reducing Dishes",
         "difficulty": "Hard",
-        "frequency": 72,
+        "frequency": 74,
         "url": "https://leetcode.com/problems/reducing-dishes",
         "topics": [
           "Array",
@@ -82,9 +134,49 @@
       },
       {
         "id": 2,
+        "title": "Minimum Cost to Hire K Workers",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-cost-to-hire-k-workers",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Minimum Jumps to Reach End via Prime Teleportation",
+        "difficulty": "Medium",
+        "frequency": 98,
+        "url": "https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Breadth-First Search",
+          "Number Theory"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Find the Sum of the Power of All Subsequences",
+        "difficulty": "Hard",
+        "frequency": 91,
+        "url": "https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Knapsack Problem",
+          "0-1 Knapsack"
+        ]
+      },
+      {
+        "id": 5,
         "title": "Reducing Dishes",
         "difficulty": "Hard",
-        "frequency": 71,
+        "frequency": 74,
         "url": "https://leetcode.com/problems/reducing-dishes",
         "topics": [
           "Array",
@@ -111,7 +203,7 @@
         "id": 2,
         "title": "Count Pairs in Two Arrays",
         "difficulty": "Medium",
-        "frequency": 68,
+        "frequency": 67,
         "url": "https://leetcode.com/problems/count-pairs-in-two-arrays",
         "topics": [
           "Array",
@@ -124,9 +216,22 @@
     "5. All.csv": [
       {
         "id": 1,
-        "title": "Maximize the Minimum Powered City",
+        "title": "Minimum Cost to Hire K Workers",
         "difficulty": "Hard",
         "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-cost-to-hire-k-workers",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Maximize the Minimum Powered City",
+        "difficulty": "Hard",
+        "frequency": 99,
         "url": "https://leetcode.com/problems/maximize-the-minimum-powered-city",
         "topics": [
           "Array",
@@ -138,10 +243,24 @@
         ]
       },
       {
-        "id": 2,
+        "id": 3,
+        "title": "Minimum Jumps to Reach End via Prime Teleportation",
+        "difficulty": "Medium",
+        "frequency": 97,
+        "url": "https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Breadth-First Search",
+          "Number Theory"
+        ]
+      },
+      {
+        "id": 4,
         "title": "Remove Boxes",
         "difficulty": "Hard",
-        "frequency": 95,
+        "frequency": 91,
         "url": "https://leetcode.com/problems/remove-boxes",
         "topics": [
           "Array",
@@ -150,10 +269,23 @@
         ]
       },
       {
-        "id": 3,
+        "id": 5,
+        "title": "Find the Sum of the Power of All Subsequences",
+        "difficulty": "Hard",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Knapsack Problem",
+          "0-1 Knapsack"
+        ]
+      },
+      {
+        "id": 6,
         "title": "Minimum Operations to Make Binary Palindrome",
         "difficulty": "Medium",
-        "frequency": 90,
+        "frequency": 86,
         "url": "https://leetcode.com/problems/minimum-operations-to-make-binary-palindrome",
         "topics": [
           "Array",
@@ -163,10 +295,10 @@
         ]
       },
       {
-        "id": 4,
+        "id": 7,
         "title": "Reducing Dishes",
         "difficulty": "Hard",
-        "frequency": 69,
+        "frequency": 71,
         "url": "https://leetcode.com/problems/reducing-dishes",
         "topics": [
           "Array",
@@ -176,10 +308,10 @@
         ]
       },
       {
-        "id": 5,
+        "id": 8,
         "title": "Count Pairs in Two Arrays",
         "difficulty": "Medium",
-        "frequency": 61,
+        "frequency": 56,
         "url": "https://leetcode.com/problems/count-pairs-in-two-arrays",
         "topics": [
           "Array",

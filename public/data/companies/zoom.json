@@ -2,7 +2,7 @@
   "name": "Zoom",
   "slug": "Zoom",
   "dataKey": "zoom",
-  "updatedAt": "2026-10-18T02:12:32.206Z",
+  "updatedAt": "2026-10-25T02:23:17.447Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -20,6 +20,19 @@
           "Backtracking",
           "Trie",
           "Matrix"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "LRU Cache",
+        "difficulty": "Medium",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
         ]
       }
     ],

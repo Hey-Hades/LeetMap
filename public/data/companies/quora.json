@@ -2,41 +2,11 @@
   "name": "Quora",
   "slug": "Quora",
   "dataKey": "quora",
-  "updatedAt": "2026-10-18T02:12:32.131Z",
+  "updatedAt": "2026-10-25T02:23:17.391Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [
-      {
-        "id": 1,
-        "title": "Insert Delete GetRandom O(1)",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Math",
-          "Design",
-          "Randomized"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Serialize and Deserialize Binary Tree",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
-        "topics": [
-          "String",
-          "Tree",
-          "Depth-First Search",
-          "Breadth-First Search",
-          "Design",
-          "Binary Tree"
-        ]
-      }
-    ],
+    "3. Six Months.csv": [],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -56,7 +26,7 @@
         "id": 2,
         "title": "Text Justification",
         "difficulty": "Hard",
-        "frequency": 95,
+        "frequency": 93,
         "url": "https://leetcode.com/problems/text-justification",
         "topics": [
           "Array",
@@ -68,7 +38,7 @@
         "id": 3,
         "title": "Longest Common Prefix",
         "difficulty": "Easy",
-        "frequency": 88,
+        "frequency": 81,
         "url": "https://leetcode.com/problems/longest-common-prefix",
         "topics": [
           "Array",
@@ -78,32 +48,9 @@
       },
       {
         "id": 4,
-        "title": "Construct Target Array With Multiple Sums",
-        "difficulty": "Hard",
-        "frequency": 79,
-        "url": "https://leetcode.com/problems/construct-target-array-with-multiple-sums",
-        "topics": [
-          "Array",
-          "Heap (Priority Queue)"
-        ]
-      },
-      {
-        "id": 5,
-        "title": "Subarray Sum Equals K",
-        "difficulty": "Medium",
-        "frequency": 79,
-        "url": "https://leetcode.com/problems/subarray-sum-equals-k",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Prefix Sum"
-        ]
-      },
-      {
-        "id": 6,
         "title": "Serialize and Deserialize Binary Tree",
         "difficulty": "Hard",
-        "frequency": 79,
+        "frequency": 81,
         "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
         "topics": [
           "String",
@@ -112,6 +59,29 @@
           "Breadth-First Search",
           "Design",
           "Binary Tree"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Construct Target Array With Multiple Sums",
+        "difficulty": "Hard",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/construct-target-array-with-multiple-sums",
+        "topics": [
+          "Array",
+          "Heap (Priority Queue)"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Subarray Sum Equals K",
+        "difficulty": "Medium",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/subarray-sum-equals-k",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
         ]
       }
     ],

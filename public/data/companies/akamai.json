@@ -2,36 +2,11 @@
   "name": "Akamai",
   "slug": "Akamai",
   "dataKey": "akamai",
-  "updatedAt": "2026-10-18T02:12:31.858Z",
+  "updatedAt": "2026-10-25T02:23:17.181Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [
-      {
-        "id": 1,
-        "title": "Contiguous Array",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/contiguous-array",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Prefix Sum"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Palindromic Substrings",
-        "difficulty": "Medium",
-        "frequency": 79,
-        "url": "https://leetcode.com/problems/palindromic-substrings",
-        "topics": [
-          "Two Pointers",
-          "String",
-          "Dynamic Programming"
-        ]
-      }
-    ],
+    "3. Six Months.csv": [],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -46,16 +21,28 @@
       },
       {
         "id": 2,
+        "title": "Contiguous Array",
+        "difficulty": "Medium",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/contiguous-array",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ]
+      },
+      {
+        "id": 3,
         "title": "Add Two Integers",
         "difficulty": "Easy",
-        "frequency": 83,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/add-two-integers",
         "topics": [
           "Math"
         ]
       },
       {
-        "id": 3,
+        "id": 4,
         "title": "First Unique Character in a String",
         "difficulty": "Easy",
         "frequency": 72,
@@ -68,7 +55,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 5,
         "title": "Unique Paths",
         "difficulty": "Medium",
         "frequency": 72,
@@ -80,7 +67,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 6,
         "title": "Spiral Matrix",
         "difficulty": "Medium",
         "frequency": 72,
@@ -92,7 +79,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 7,
         "title": "Two Sum",
         "difficulty": "Easy",
         "frequency": 72,
@@ -103,7 +90,7 @@
         ]
       },
       {
-        "id": 7,
+        "id": 8,
         "title": "Longest Substring Without Repeating Characters",
         "difficulty": "Medium",
         "frequency": 72,
@@ -112,6 +99,30 @@
           "Hash Table",
           "String",
           "Sliding Window"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Longest Palindrome",
+        "difficulty": "Easy",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/longest-palindrome",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Palindromic Substrings",
+        "difficulty": "Medium",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/palindromic-substrings",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
         ]
       }
     ],
@@ -267,6 +278,29 @@
         "topics": [
           "Array",
           "Sorting"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Defuse the Bomb",
+        "difficulty": "Easy",
+        "frequency": 64,
+        "url": "https://leetcode.com/problems/defuse-the-bomb",
+        "topics": [
+          "Array",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Longest Palindrome",
+        "difficulty": "Easy",
+        "frequency": 64,
+        "url": "https://leetcode.com/problems/longest-palindrome",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Greedy"
         ]
       }
     ]

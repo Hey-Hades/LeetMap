@@ -2,11 +2,26 @@
   "name": "Rakuten",
   "slug": "Rakuten",
   "dataKey": "rakuten",
-  "updatedAt": "2026-10-18T02:12:32.131Z",
+  "updatedAt": "2026-10-25T02:23:17.392Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Trapping Rain Water",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ]
+      }
+    ],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -21,19 +36,6 @@
       },
       {
         "id": 2,
-        "title": "LRU Cache",
-        "difficulty": "Medium",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/lru-cache",
-        "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Doubly-Linked List"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Rotate Image",
         "difficulty": "Medium",
         "frequency": 88,
@@ -45,7 +47,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 3,
         "title": "String Compression",
         "difficulty": "Medium",
         "frequency": 88,
@@ -56,7 +58,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Rotting Oranges",
         "difficulty": "Medium",
         "frequency": 88,
@@ -68,7 +70,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "title": "Climbing Stairs",
         "difficulty": "Easy",
         "frequency": 88,
@@ -83,19 +85,6 @@
     "5. All.csv": [
       {
         "id": 1,
-        "title": "LRU Cache",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/lru-cache",
-        "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Doubly-Linked List"
-        ]
-      },
-      {
-        "id": 2,
         "title": "Combination Sum II",
         "difficulty": "Medium",
         "frequency": 100,
@@ -106,7 +95,34 @@
         ]
       },
       {
+        "id": 2,
+        "title": "Trapping Rain Water",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ]
+      },
+      {
         "id": 3,
+        "title": "LRU Cache",
+        "difficulty": "Medium",
+        "frequency": 88,
+        "url": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ]
+      },
+      {
+        "id": 4,
         "title": "Rotate Image",
         "difficulty": "Medium",
         "frequency": 88,
@@ -118,7 +134,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 5,
         "title": "String Compression",
         "difficulty": "Medium",
         "frequency": 88,
@@ -129,7 +145,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 6,
         "title": "Rotting Oranges",
         "difficulty": "Medium",
         "frequency": 88,
@@ -141,7 +157,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 7,
         "title": "Climbing Stairs",
         "difficulty": "Easy",
         "frequency": 88,
@@ -153,17 +169,15 @@
         ]
       },
       {
-        "id": 7,
-        "title": "Trapping Rain Water",
-        "difficulty": "Hard",
+        "id": 8,
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
         "frequency": 88,
-        "url": "https://leetcode.com/problems/trapping-rain-water",
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
         "topics": [
-          "Array",
-          "Two Pointers",
-          "Dynamic Programming",
-          "Stack",
-          "Monotonic Stack"
+          "Hash Table",
+          "String",
+          "Sliding Window"
         ]
       }
     ]

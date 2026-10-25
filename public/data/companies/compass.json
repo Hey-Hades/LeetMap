@@ -2,7 +2,7 @@
   "name": "Compass",
   "slug": "Compass",
   "dataKey": "compass",
-  "updatedAt": "2026-10-18T02:12:31.962Z",
+  "updatedAt": "2026-10-25T02:23:17.255Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [
@@ -18,6 +18,18 @@
           "Binary Search",
           "Design"
         ]
+      },
+      {
+        "id": 2,
+        "title": "Decode String",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/decode-string",
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ]
       }
     ],
     "3. Six Months.csv": [
@@ -32,6 +44,18 @@
           "String",
           "Binary Search",
           "Design"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Decode String",
+        "difficulty": "Medium",
+        "frequency": 91,
+        "url": "https://leetcode.com/problems/decode-string",
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
         ]
       }
     ],
@@ -74,19 +98,6 @@
       },
       {
         "id": 4,
-        "title": "Group Anagrams",
-        "difficulty": "Medium",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/group-anagrams",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 5,
         "title": "Camelcase Matching",
         "difficulty": "Medium",
         "frequency": 89,
@@ -100,21 +111,7 @@
         ]
       },
       {
-        "id": 6,
-        "title": "Subtree of Another Tree",
-        "difficulty": "Easy",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/subtree-of-another-tree",
-        "topics": [
-          "Tree",
-          "Depth-First Search",
-          "String Matching",
-          "Binary Tree",
-          "Hash Function"
-        ]
-      },
-      {
-        "id": 7,
+        "id": 5,
         "title": "Meeting Rooms II",
         "difficulty": "Medium",
         "frequency": 89,
@@ -129,7 +126,7 @@
         ]
       },
       {
-        "id": 8,
+        "id": 6,
         "title": "Reconstruct Itinerary",
         "difficulty": "Hard",
         "frequency": 89,
@@ -163,6 +160,18 @@
       },
       {
         "id": 2,
+        "title": "Decode String",
+        "difficulty": "Medium",
+        "frequency": 96,
+        "url": "https://leetcode.com/problems/decode-string",
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ]
+      },
+      {
+        "id": 3,
         "title": "Total Distance Traveled",
         "difficulty": "Easy",
         "frequency": 84,
@@ -170,18 +179,6 @@
         "topics": [
           "Math",
           "Simulation"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Decode String",
-        "difficulty": "Medium",
-        "frequency": 84,
-        "url": "https://leetcode.com/problems/decode-string",
-        "topics": [
-          "String",
-          "Stack",
-          "Recursion"
         ]
       },
       {
@@ -200,33 +197,6 @@
       },
       {
         "id": 5,
-        "title": "Group Anagrams",
-        "difficulty": "Medium",
-        "frequency": 74,
-        "url": "https://leetcode.com/problems/group-anagrams",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Subtree of Another Tree",
-        "difficulty": "Easy",
-        "frequency": 74,
-        "url": "https://leetcode.com/problems/subtree-of-another-tree",
-        "topics": [
-          "Tree",
-          "Depth-First Search",
-          "String Matching",
-          "Binary Tree",
-          "Hash Function"
-        ]
-      },
-      {
-        "id": 7,
         "title": "Reconstruct Itinerary",
         "difficulty": "Hard",
         "frequency": 74,
@@ -244,7 +214,7 @@
         ]
       },
       {
-        "id": 8,
+        "id": 6,
         "title": "Meeting Rooms II",
         "difficulty": "Medium",
         "frequency": 74,
@@ -259,7 +229,7 @@
         ]
       },
       {
-        "id": 9,
+        "id": 7,
         "title": "Word Break",
         "difficulty": "Medium",
         "frequency": 74,

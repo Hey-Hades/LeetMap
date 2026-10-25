@@ -2,23 +2,10 @@
   "name": "Shopify",
   "slug": "Shopify",
   "dataKey": "shopify",
-  "updatedAt": "2026-10-18T02:12:32.143Z",
+  "updatedAt": "2026-10-25T02:23:17.400Z",
   "problems": {
     "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [
-      {
-        "id": 1,
-        "title": "Walking Robot Simulation",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/walking-robot-simulation",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Simulation"
-        ]
-      }
-    ],
+    "2. Three Months.csv": [],
     "3. Six Months.csv": [
       {
         "id": 1,
@@ -50,7 +37,7 @@
         "id": 2,
         "title": "LRU Cache",
         "difficulty": "Medium",
-        "frequency": 82,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/lru-cache",
         "topics": [
           "Hash Table",
@@ -61,22 +48,9 @@
       },
       {
         "id": 3,
-        "title": "Encode and Decode TinyURL",
-        "difficulty": "Medium",
-        "frequency": 61,
-        "url": "https://leetcode.com/problems/encode-and-decode-tinyurl",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Design",
-          "Hash Function"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Paint House",
         "difficulty": "Medium",
-        "frequency": 61,
+        "frequency": 66,
         "url": "https://leetcode.com/problems/paint-house",
         "topics": [
           "Array",
@@ -84,17 +58,16 @@
         ]
       },
       {
-        "id": 5,
-        "title": "Design In-Memory File System",
-        "difficulty": "Hard",
-        "frequency": 54,
-        "url": "https://leetcode.com/problems/design-in-memory-file-system",
+        "id": 4,
+        "title": "Encode and Decode TinyURL",
+        "difficulty": "Medium",
+        "frequency": 58,
+        "url": "https://leetcode.com/problems/encode-and-decode-tinyurl",
         "topics": [
           "Hash Table",
           "String",
           "Design",
-          "Trie",
-          "Sorting"
+          "Hash Function"
         ]
       }
     ],
@@ -115,7 +88,7 @@
         "id": 2,
         "title": "LRU Cache",
         "difficulty": "Medium",
-        "frequency": 80,
+        "frequency": 83,
         "url": "https://leetcode.com/problems/lru-cache",
         "topics": [
           "Hash Table",
@@ -126,22 +99,9 @@
       },
       {
         "id": 3,
-        "title": "Encode and Decode TinyURL",
-        "difficulty": "Medium",
-        "frequency": 65,
-        "url": "https://leetcode.com/problems/encode-and-decode-tinyurl",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Design",
-          "Hash Function"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Paint House",
         "difficulty": "Medium",
-        "frequency": 65,
+        "frequency": 70,
         "url": "https://leetcode.com/problems/paint-house",
         "topics": [
           "Array",
@@ -149,17 +109,16 @@
         ]
       },
       {
-        "id": 5,
-        "title": "Design In-Memory File System",
-        "difficulty": "Hard",
-        "frequency": 52,
-        "url": "https://leetcode.com/problems/design-in-memory-file-system",
+        "id": 4,
+        "title": "Encode and Decode TinyURL",
+        "difficulty": "Medium",
+        "frequency": 64,
+        "url": "https://leetcode.com/problems/encode-and-decode-tinyurl",
         "topics": [
           "Hash Table",
           "String",
           "Design",
-          "Trie",
-          "Sorting"
+          "Hash Function"
         ]
       }
     ]

@@ -2,60 +2,9 @@
   "name": "BNY Mellon",
   "slug": "BNY Mellon",
   "dataKey": "bny_mellon",
-  "updatedAt": "2026-10-18T02:12:31.915Z",
+  "updatedAt": "2026-10-25T02:23:17.224Z",
   "problems": {
-    "1. Thirty Days.csv": [
-      {
-        "id": 1,
-        "title": "Cherry Pickup",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/cherry-pickup",
-        "topics": [
-          "Array",
-          "Dynamic Programming",
-          "Matrix"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Lexicographically Maximum MEX Array",
-        "difficulty": "Hard",
-        "frequency": 93,
-        "url": "https://leetcode.com/problems/lexicographically-maximum-mex-array",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Greedy",
-          "Queue"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "LFU Cache",
-        "difficulty": "Hard",
-        "frequency": 84,
-        "url": "https://leetcode.com/problems/lfu-cache",
-        "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Doubly-Linked List"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Find the Maximum Length of a Good Subsequence II",
-        "difficulty": "Hard",
-        "frequency": 84,
-        "url": "https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Dynamic Programming"
-        ]
-      }
-    ],
+    "1. Thirty Days.csv": [],
     "2. Three Months.csv": [
       {
         "id": 1,
@@ -73,7 +22,7 @@
         "id": 2,
         "title": "Lexicographically Maximum MEX Array",
         "difficulty": "Hard",
-        "frequency": 93,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/lexicographically-maximum-mex-array",
         "topics": [
           "Array",
@@ -86,7 +35,7 @@
         "id": 3,
         "title": "LFU Cache",
         "difficulty": "Hard",
-        "frequency": 84,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/lfu-cache",
         "topics": [
           "Hash Table",
@@ -99,7 +48,7 @@
         "id": 4,
         "title": "Find the Maximum Length of a Good Subsequence II",
         "difficulty": "Hard",
-        "frequency": 84,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii",
         "topics": [
           "Array",
@@ -125,7 +74,7 @@
         "id": 2,
         "title": "Lexicographically Maximum MEX Array",
         "difficulty": "Hard",
-        "frequency": 93,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/lexicographically-maximum-mex-array",
         "topics": [
           "Array",
@@ -138,7 +87,7 @@
         "id": 3,
         "title": "LFU Cache",
         "difficulty": "Hard",
-        "frequency": 83,
+        "frequency": 78,
         "url": "https://leetcode.com/problems/lfu-cache",
         "topics": [
           "Hash Table",
@@ -151,12 +100,24 @@
         "id": 4,
         "title": "Find the Maximum Length of a Good Subsequence II",
         "difficulty": "Hard",
-        "frequency": 83,
+        "frequency": 78,
         "url": "https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii",
         "topics": [
           "Array",
           "Hash Table",
           "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 78,
+        "url": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
         ]
       }
     ],
@@ -203,36 +164,9 @@
       },
       {
         "id": 4,
-        "title": "Group Anagrams",
-        "difficulty": "Medium",
-        "frequency": 75,
-        "url": "https://leetcode.com/problems/group-anagrams",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 5,
-        "title": "Find the Count of Monotonic Pairs II",
-        "difficulty": "Hard",
-        "frequency": 75,
-        "url": "https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii",
-        "topics": [
-          "Array",
-          "Math",
-          "Dynamic Programming",
-          "Combinatorics",
-          "Prefix Sum"
-        ]
-      },
-      {
-        "id": 6,
         "title": "Count Number of Maximum Bitwise-OR Subsets",
         "difficulty": "Medium",
-        "frequency": 75,
+        "frequency": 76,
         "url": "https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets",
         "topics": [
           "Array",
@@ -242,10 +176,10 @@
         ]
       },
       {
-        "id": 7,
+        "id": 5,
         "title": "Best Time to Buy and Sell Stock",
         "difficulty": "Easy",
-        "frequency": 75,
+        "frequency": 76,
         "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
         "topics": [
           "Array",
@@ -253,10 +187,10 @@
         ]
       },
       {
-        "id": 8,
+        "id": 6,
         "title": "Kth Largest Element in an Array",
         "difficulty": "Medium",
-        "frequency": 75,
+        "frequency": 76,
         "url": "https://leetcode.com/problems/kth-largest-element-in-an-array",
         "topics": [
           "Array",
@@ -267,10 +201,10 @@
         ]
       },
       {
-        "id": 9,
+        "id": 7,
         "title": "Palindromic Substrings",
         "difficulty": "Medium",
-        "frequency": 75,
+        "frequency": 76,
         "url": "https://leetcode.com/problems/palindromic-substrings",
         "topics": [
           "Two Pointers",
@@ -279,16 +213,28 @@
         ]
       },
       {
-        "id": 10,
+        "id": 8,
         "title": "Count Good Subarrays",
         "difficulty": "Hard",
-        "frequency": 75,
+        "frequency": 76,
         "url": "https://leetcode.com/problems/count-good-subarrays",
         "topics": [
           "Array",
           "Stack",
           "Bit Manipulation",
           "Monotonic Stack"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
+        "frequency": 76,
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
         ]
       }
     ],
@@ -365,7 +311,7 @@
         "id": 6,
         "title": "Cherry Pickup",
         "difficulty": "Hard",
-        "frequency": 82,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/cherry-pickup",
         "topics": [
           "Array",
@@ -375,19 +321,6 @@
       },
       {
         "id": 7,
-        "title": "Group Anagrams",
-        "difficulty": "Medium",
-        "frequency": 75,
-        "url": "https://leetcode.com/problems/group-anagrams",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 8,
         "title": "Car Fleet",
         "difficulty": "Medium",
         "frequency": 75,
@@ -400,7 +333,7 @@
         ]
       },
       {
-        "id": 9,
+        "id": 8,
         "title": "Bitwise ORs of Subarrays",
         "difficulty": "Medium",
         "frequency": 75,
@@ -412,7 +345,7 @@
         ]
       },
       {
-        "id": 10,
+        "id": 9,
         "title": "LFU Cache",
         "difficulty": "Hard",
         "frequency": 75,
@@ -425,7 +358,7 @@
         ]
       },
       {
-        "id": 11,
+        "id": 10,
         "title": "Lexicographically Maximum MEX Array",
         "difficulty": "Hard",
         "frequency": 75,
@@ -438,24 +371,22 @@
         ]
       },
       {
-        "id": 12,
-        "title": "Find the Count of Monotonic Pairs II",
-        "difficulty": "Hard",
-        "frequency": 64,
-        "url": "https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii",
+        "id": 11,
+        "title": "Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 75,
+        "url": "https://leetcode.com/problems/merge-intervals",
         "topics": [
           "Array",
-          "Math",
-          "Dynamic Programming",
-          "Combinatorics",
-          "Prefix Sum"
+          "Sorting",
+          "Quicksort"
         ]
       },
       {
-        "id": 13,
+        "id": 12,
         "title": "Count Number of Maximum Bitwise-OR Subsets",
         "difficulty": "Medium",
-        "frequency": 64,
+        "frequency": 65,
         "url": "https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets",
         "topics": [
           "Array",
@@ -465,10 +396,10 @@
         ]
       },
       {
-        "id": 14,
+        "id": 13,
         "title": "Best Time to Buy and Sell Stock",
         "difficulty": "Easy",
-        "frequency": 64,
+        "frequency": 65,
         "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
         "topics": [
           "Array",
@@ -476,10 +407,10 @@
         ]
       },
       {
-        "id": 15,
+        "id": 14,
         "title": "Kth Largest Element in an Array",
         "difficulty": "Medium",
-        "frequency": 64,
+        "frequency": 65,
         "url": "https://leetcode.com/problems/kth-largest-element-in-an-array",
         "topics": [
           "Array",
@@ -490,10 +421,10 @@
         ]
       },
       {
-        "id": 16,
+        "id": 15,
         "title": "Palindromic Substrings",
         "difficulty": "Medium",
-        "frequency": 64,
+        "frequency": 65,
         "url": "https://leetcode.com/problems/palindromic-substrings",
         "topics": [
           "Two Pointers",
@@ -502,10 +433,10 @@
         ]
       },
       {
-        "id": 17,
+        "id": 16,
         "title": "Longest Substring Without Repeating Characters",
         "difficulty": "Medium",
-        "frequency": 64,
+        "frequency": 65,
         "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
         "topics": [
           "Hash Table",
@@ -514,10 +445,10 @@
         ]
       },
       {
-        "id": 18,
+        "id": 17,
         "title": "Count Good Subarrays",
         "difficulty": "Hard",
-        "frequency": 64,
+        "frequency": 65,
         "url": "https://leetcode.com/problems/count-good-subarrays",
         "topics": [
           "Array",
@@ -527,10 +458,10 @@
         ]
       },
       {
-        "id": 19,
+        "id": 18,
         "title": "Find the Maximum Length of a Good Subsequence II",
         "difficulty": "Hard",
-        "frequency": 64,
+        "frequency": 65,
         "url": "https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii",
         "topics": [
           "Array",

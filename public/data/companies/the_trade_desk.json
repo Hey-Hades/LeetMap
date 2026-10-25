@@ -2,7 +2,7 @@
   "name": "The Trade Desk",
   "slug": "The Trade Desk",
   "dataKey": "the_trade_desk",
-  "updatedAt": "2026-10-18T02:12:32.158Z",
+  "updatedAt": "2026-10-25T02:23:17.412Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -35,19 +35,6 @@
       },
       {
         "id": 3,
-        "title": "Simple Bank System",
-        "difficulty": "Medium",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/simple-bank-system",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Design",
-          "Simulation"
-        ]
-      },
-      {
-        "id": 4,
         "title": "String Compression",
         "difficulty": "Medium",
         "frequency": 89,
@@ -99,19 +86,6 @@
       },
       {
         "id": 4,
-        "title": "Simple Bank System",
-        "difficulty": "Medium",
-        "frequency": 69,
-        "url": "https://leetcode.com/problems/simple-bank-system",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Design",
-          "Simulation"
-        ]
-      },
-      {
-        "id": 5,
         "title": "String Compression",
         "difficulty": "Medium",
         "frequency": 69,
@@ -119,6 +93,33 @@
         "topics": [
           "Two Pointers",
           "String"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Word Abbreviation",
+        "difficulty": "Hard",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/word-abbreviation",
+        "topics": [
+          "Array",
+          "String",
+          "Greedy",
+          "Trie",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Unique Word Abbreviation",
+        "difficulty": "Medium",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/unique-word-abbreviation",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Design"
         ]
       }
     ]

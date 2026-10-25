@@ -2,24 +2,9 @@
   "name": "Hudson River Trading",
   "slug": "Hudson River Trading",
   "dataKey": "hudson_river_trading",
-  "updatedAt": "2026-10-18T02:12:32.035Z",
+  "updatedAt": "2026-10-25T02:23:17.312Z",
   "problems": {
-    "1. Thirty Days.csv": [
-      {
-        "id": 1,
-        "title": "Block Placement Queries",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/block-placement-queries",
-        "topics": [
-          "Array",
-          "Binary Search",
-          "Binary Indexed Tree",
-          "Segment Tree",
-          "Ordered Set"
-        ]
-      }
-    ],
+    "1. Thirty Days.csv": [],
     "2. Three Months.csv": [
       {
         "id": 1,
@@ -39,19 +24,6 @@
     "3. Six Months.csv": [
       {
         "id": 1,
-        "title": "Design Memory Allocator",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/design-memory-allocator",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Design",
-          "Simulation"
-        ]
-      },
-      {
-        "id": 2,
         "title": "Block Placement Queries",
         "difficulty": "Hard",
         "frequency": 100,
@@ -76,6 +48,18 @@
           "Array",
           "String",
           "Simulation"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Longest Common Prefix",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/longest-common-prefix",
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
         ]
       }
     ],
@@ -116,6 +100,19 @@
       },
       {
         "id": 4,
+        "title": "Largest Combination With Bitwise AND Greater Than Zero",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Bit Manipulation",
+          "Counting"
+        ]
+      },
+      {
+        "id": 5,
         "title": "Add Edges to Make Degrees of All Nodes Even",
         "difficulty": "Hard",
         "frequency": 97,
@@ -126,7 +123,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 6,
         "title": "Longest Path With Different Adjacent Characters",
         "difficulty": "Hard",
         "frequency": 97,
@@ -141,7 +138,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 7,
         "title": "Maximum Total Importance of Roads",
         "difficulty": "Medium",
         "frequency": 97,
@@ -154,7 +151,7 @@
         ]
       },
       {
-        "id": 7,
+        "id": 8,
         "title": "Number of Steps to Reduce a Number to Zero",
         "difficulty": "Easy",
         "frequency": 97,
@@ -165,7 +162,7 @@
         ]
       },
       {
-        "id": 8,
+        "id": 9,
         "title": "Maximum 69 Number",
         "difficulty": "Easy",
         "frequency": 97,
@@ -176,7 +173,7 @@
         ]
       },
       {
-        "id": 9,
+        "id": 10,
         "title": "Apply Operations to Make All Array Elements Equal to Zero",
         "difficulty": "Medium",
         "frequency": 97,
@@ -184,19 +181,6 @@
         "topics": [
           "Array",
           "Prefix Sum"
-        ]
-      },
-      {
-        "id": 10,
-        "title": "Largest Combination With Bitwise AND Greater Than Zero",
-        "difficulty": "Medium",
-        "frequency": 97,
-        "url": "https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Bit Manipulation",
-          "Counting"
         ]
       },
       {
@@ -213,6 +197,20 @@
       },
       {
         "id": 12,
+        "title": "Block Placement Queries",
+        "difficulty": "Hard",
+        "frequency": 73,
+        "url": "https://leetcode.com/problems/block-placement-queries",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Ordered Set"
+        ]
+      },
+      {
+        "id": 13,
         "title": "Longest Common Prefix",
         "difficulty": "Easy",
         "frequency": 63,
@@ -224,7 +222,7 @@
         ]
       },
       {
-        "id": 13,
+        "id": 14,
         "title": "Text Justification",
         "difficulty": "Hard",
         "frequency": 63,
@@ -236,7 +234,7 @@
         ]
       },
       {
-        "id": 14,
+        "id": 15,
         "title": "Design Memory Allocator",
         "difficulty": "Medium",
         "frequency": 63,
@@ -249,7 +247,7 @@
         ]
       },
       {
-        "id": 15,
+        "id": 16,
         "title": "Shortest Word Distance",
         "difficulty": "Easy",
         "frequency": 63,
@@ -257,20 +255,6 @@
         "topics": [
           "Array",
           "String"
-        ]
-      },
-      {
-        "id": 16,
-        "title": "Block Placement Queries",
-        "difficulty": "Hard",
-        "frequency": 63,
-        "url": "https://leetcode.com/problems/block-placement-queries",
-        "topics": [
-          "Array",
-          "Binary Search",
-          "Binary Indexed Tree",
-          "Segment Tree",
-          "Ordered Set"
         ]
       }
     ]

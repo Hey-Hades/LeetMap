@@ -2,7 +2,7 @@
   "name": "Hive",
   "slug": "Hive",
   "dataKey": "hive",
-  "updatedAt": "2026-10-18T02:12:32.030Z",
+  "updatedAt": "2026-10-25T02:23:17.310Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -37,39 +37,9 @@
       },
       {
         "id": 2,
-        "title": "As Far from Land as Possible",
-        "difficulty": "Medium",
-        "frequency": 93,
-        "url": "https://leetcode.com/problems/as-far-from-land-as-possible",
-        "topics": [
-          "Array",
-          "Dynamic Programming",
-          "Breadth-First Search",
-          "Matrix"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Sort an Array",
-        "difficulty": "Medium",
-        "frequency": 82,
-        "url": "https://leetcode.com/problems/sort-an-array",
-        "topics": [
-          "Array",
-          "Divide and Conquer",
-          "Sorting",
-          "Heap (Priority Queue)",
-          "Merge Sort",
-          "Bucket Sort",
-          "Radix Sort",
-          "Counting Sort"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Serialize and Deserialize Binary Tree",
         "difficulty": "Hard",
-        "frequency": 82,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
         "topics": [
           "String",
@@ -81,10 +51,23 @@
         ]
       },
       {
-        "id": 5,
+        "id": 3,
+        "title": "As Far from Land as Possible",
+        "difficulty": "Medium",
+        "frequency": 88,
+        "url": "https://leetcode.com/problems/as-far-from-land-as-possible",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 4,
         "title": "Trapping Rain Water",
         "difficulty": "Hard",
-        "frequency": 82,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/trapping-rain-water",
         "topics": [
           "Array",
@@ -92,6 +75,23 @@
           "Dynamic Programming",
           "Stack",
           "Monotonic Stack"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Sort an Array",
+        "difficulty": "Medium",
+        "frequency": 78,
+        "url": "https://leetcode.com/problems/sort-an-array",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Merge Sort",
+          "Bucket Sort",
+          "Radix Sort",
+          "Counting Sort"
         ]
       }
     ],
@@ -154,6 +154,18 @@
       },
       {
         "id": 5,
+        "title": "Text Justification",
+        "difficulty": "Hard",
+        "frequency": 87,
+        "url": "https://leetcode.com/problems/text-justification",
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 6,
         "title": "Sort an Array",
         "difficulty": "Medium",
         "frequency": 78,
@@ -167,32 +179,6 @@
           "Bucket Sort",
           "Radix Sort",
           "Counting Sort"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Text Justification",
-        "difficulty": "Hard",
-        "frequency": 78,
-        "url": "https://leetcode.com/problems/text-justification",
-        "topics": [
-          "Array",
-          "String",
-          "Simulation"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Find Median from Data Stream",
-        "difficulty": "Hard",
-        "frequency": 78,
-        "url": "https://leetcode.com/problems/find-median-from-data-stream",
-        "topics": [
-          "Two Pointers",
-          "Design",
-          "Sorting",
-          "Heap (Priority Queue)",
-          "Data Stream"
         ]
       }
     ]

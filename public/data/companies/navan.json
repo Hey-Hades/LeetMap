@@ -2,7 +2,7 @@
   "name": "Navan",
   "slug": "Navan",
   "dataKey": "navan",
-  "updatedAt": "2026-10-18T02:12:32.101Z",
+  "updatedAt": "2026-10-25T02:23:17.368Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -30,6 +30,19 @@
           "String",
           "Breadth-First Search",
           "Bidirectional Search"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "LRU Cache",
+        "difficulty": "Medium",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
         ]
       }
     ],

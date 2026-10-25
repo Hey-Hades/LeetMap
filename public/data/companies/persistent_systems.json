@@ -2,17 +2,41 @@
   "name": "persistent systems",
   "slug": "persistent systems",
   "dataKey": "persistent_systems",
-  "updatedAt": "2026-10-18T02:12:32.212Z",
+  "updatedAt": "2026-10-25T02:23:17.453Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ]
+      }
+    ],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
-        "title": "Longest Common Prefix",
+        "title": "Two Sum",
         "difficulty": "Easy",
         "frequency": 100,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Longest Common Prefix",
+        "difficulty": "Easy",
+        "frequency": 93,
         "url": "https://leetcode.com/problems/longest-common-prefix",
         "topics": [
           "Array",
@@ -21,10 +45,10 @@
         ]
       },
       {
-        "id": 2,
+        "id": 3,
         "title": "Valid Parentheses",
         "difficulty": "Easy",
-        "frequency": 88,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/valid-parentheses",
         "topics": [
           "String",
@@ -33,34 +57,10 @@
         ]
       },
       {
-        "id": 3,
-        "title": "Two Sum",
-        "difficulty": "Easy",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/two-sum",
-        "topics": [
-          "Array",
-          "Hash Table"
-        ]
-      },
-      {
         "id": 4,
-        "title": "Group Anagrams",
-        "difficulty": "Medium",
-        "frequency": 78,
-        "url": "https://leetcode.com/problems/group-anagrams",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 5,
         "title": "Merge Sorted Array",
         "difficulty": "Easy",
-        "frequency": 78,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/merge-sorted-array",
         "topics": [
           "Array",
@@ -69,10 +69,10 @@
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "title": "Longest Palindromic Substring",
         "difficulty": "Medium",
-        "frequency": 78,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/longest-palindromic-substring",
         "topics": [
           "Two Pointers",
@@ -82,10 +82,10 @@
         ]
       },
       {
-        "id": 7,
+        "id": 6,
         "title": "Longest Substring Without Repeating Characters",
         "difficulty": "Medium",
-        "frequency": 78,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
         "topics": [
           "Hash Table",
@@ -107,33 +107,9 @@
       },
       {
         "id": 2,
-        "title": "Longest Common Prefix",
-        "difficulty": "Easy",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/longest-common-prefix",
-        "topics": [
-          "Array",
-          "String",
-          "Trie"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Valid Parentheses",
-        "difficulty": "Easy",
-        "frequency": 78,
-        "url": "https://leetcode.com/problems/valid-parentheses",
-        "topics": [
-          "String",
-          "Stack",
-          "Bracket Sequences"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Two Sum",
         "difficulty": "Easy",
-        "frequency": 78,
+        "frequency": 84,
         "url": "https://leetcode.com/problems/two-sum",
         "topics": [
           "Array",
@@ -141,10 +117,10 @@
         ]
       },
       {
-        "id": 5,
+        "id": 3,
         "title": "Longest Substring Without Repeating Characters",
         "difficulty": "Medium",
-        "frequency": 78,
+        "frequency": 84,
         "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
         "topics": [
           "Hash Table",
@@ -153,20 +129,31 @@
         ]
       },
       {
-        "id": 6,
-        "title": "Group Anagrams",
-        "difficulty": "Medium",
-        "frequency": 69,
-        "url": "https://leetcode.com/problems/group-anagrams",
+        "id": 4,
+        "title": "Longest Common Prefix",
+        "difficulty": "Easy",
+        "frequency": 78,
+        "url": "https://leetcode.com/problems/longest-common-prefix",
         "topics": [
           "Array",
-          "Hash Table",
           "String",
-          "Sorting"
+          "Trie"
         ]
       },
       {
-        "id": 7,
+        "id": 5,
+        "title": "Valid Parentheses",
+        "difficulty": "Easy",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ]
+      },
+      {
+        "id": 6,
         "title": "Longest Palindromic Substring",
         "difficulty": "Medium",
         "frequency": 69,
@@ -179,7 +166,7 @@
         ]
       },
       {
-        "id": 8,
+        "id": 7,
         "title": "Merge Sorted Array",
         "difficulty": "Easy",
         "frequency": 69,

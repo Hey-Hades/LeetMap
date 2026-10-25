@@ -2,7 +2,7 @@
   "name": "Otter.ai",
   "slug": "Otter.ai",
   "dataKey": "otter_ai",
-  "updatedAt": "2026-10-18T02:12:32.119Z",
+  "updatedAt": "2026-10-25T02:23:17.379Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -23,38 +23,11 @@
       },
       {
         "id": 2,
-        "title": "Word Break",
-        "difficulty": "Medium",
-        "frequency": 93,
-        "url": "https://leetcode.com/problems/word-break",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Dynamic Programming",
-          "Trie",
-          "Memoization",
-          "Brute-Force Search"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Flatten Deeply Nested Array",
         "difficulty": "Medium",
-        "frequency": 83,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/flatten-deeply-nested-array",
         "topics": []
-      },
-      {
-        "id": 4,
-        "title": "Frog Jump",
-        "difficulty": "Hard",
-        "frequency": 83,
-        "url": "https://leetcode.com/problems/frog-jump",
-        "topics": [
-          "Array",
-          "Dynamic Programming"
-        ]
       }
     ],
     "5. All.csv": [
@@ -73,36 +46,9 @@
       },
       {
         "id": 2,
-        "title": "Word Break",
-        "difficulty": "Medium",
-        "frequency": 93,
-        "url": "https://leetcode.com/problems/word-break",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Dynamic Programming",
-          "Trie",
-          "Memoization",
-          "Brute-Force Search"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Frog Jump",
-        "difficulty": "Hard",
-        "frequency": 83,
-        "url": "https://leetcode.com/problems/frog-jump",
-        "topics": [
-          "Array",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Flatten Deeply Nested Array",
         "difficulty": "Medium",
-        "frequency": 83,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/flatten-deeply-nested-array",
         "topics": []
       }

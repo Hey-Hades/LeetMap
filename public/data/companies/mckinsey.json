@@ -2,7 +2,7 @@
   "name": "McKinsey",
   "slug": "McKinsey",
   "dataKey": "mckinsey",
-  "updatedAt": "2026-10-18T02:12:32.056Z",
+  "updatedAt": "2026-10-25T02:23:17.331Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -32,6 +32,19 @@
           "Depth-First Search",
           "Breadth-First Search",
           "Matrix"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Get Equal Substrings Within Budget",
+        "difficulty": "Medium",
+        "frequency": 70,
+        "url": "https://leetcode.com/problems/get-equal-substrings-within-budget",
+        "topics": [
+          "String",
+          "Binary Search",
+          "Sliding Window",
+          "Prefix Sum"
         ]
       }
     ]

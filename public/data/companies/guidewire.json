@@ -2,11 +2,37 @@
   "name": "Guidewire",
   "slug": "Guidewire",
   "dataKey": "guidewire",
-  "updatedAt": "2026-10-18T02:12:32.026Z",
+  "updatedAt": "2026-10-25T02:23:17.307Z",
   "problems": {
     "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [],
-    "3. Six Months.csv": [],
+    "2. Three Months.csv": [
+      {
+        "id": 1,
+        "title": "Maximize the Total Height of Unique Towers",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/maximize-the-total-height-of-unique-towers",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting"
+        ]
+      }
+    ],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Maximize the Total Height of Unique Towers",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/maximize-the-total-height-of-unique-towers",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting"
+        ]
+      }
+    ],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -140,6 +166,18 @@
           "Dynamic Programming",
           "Greedy",
           "Brainteaser"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Maximize the Total Height of Unique Towers",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/maximize-the-total-height-of-unique-towers",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting"
         ]
       }
     ]

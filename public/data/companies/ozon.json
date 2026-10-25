@@ -2,10 +2,23 @@
   "name": "Ozon",
   "slug": "Ozon",
   "dataKey": "ozon",
-  "updatedAt": "2026-10-18T02:12:32.119Z",
+  "updatedAt": "2026-10-25T02:23:17.379Z",
   "problems": {
     "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [],
+    "2. Three Months.csv": [
+      {
+        "id": 1,
+        "title": "Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ]
+      }
+    ],
     "3. Six Months.csv": [
       {
         "id": 1,
@@ -45,12 +58,14 @@
       },
       {
         "id": 3,
-        "title": "Department Top Three Salaries",
-        "difficulty": "Hard",
+        "title": "Merge Intervals",
+        "difficulty": "Medium",
         "frequency": 83,
-        "url": "https://leetcode.com/problems/department-top-three-salaries",
+        "url": "https://leetcode.com/problems/merge-intervals",
         "topics": [
-          "Database"
+          "Array",
+          "Sorting",
+          "Quicksort"
         ]
       },
       {
@@ -67,14 +82,12 @@
       },
       {
         "id": 5,
-        "title": "Merge Intervals",
-        "difficulty": "Medium",
+        "title": "Department Top Three Salaries",
+        "difficulty": "Hard",
         "frequency": 74,
-        "url": "https://leetcode.com/problems/merge-intervals",
+        "url": "https://leetcode.com/problems/department-top-three-salaries",
         "topics": [
-          "Array",
-          "Sorting",
-          "Quicksort"
+          "Database"
         ]
       },
       {
@@ -114,6 +127,18 @@
       },
       {
         "id": 9,
+        "title": "Squares of a Sorted Array",
+        "difficulty": "Easy",
+        "frequency": 74,
+        "url": "https://leetcode.com/problems/squares-of-a-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 10,
         "title": "Two Sum",
         "difficulty": "Easy",
         "frequency": 74,
@@ -124,15 +149,14 @@
         ]
       },
       {
-        "id": 10,
-        "title": "Squares of a Sorted Array",
-        "difficulty": "Easy",
+        "id": 11,
+        "title": "Min Stack",
+        "difficulty": "Medium",
         "frequency": 74,
-        "url": "https://leetcode.com/problems/squares-of-a-sorted-array",
+        "url": "https://leetcode.com/problems/min-stack",
         "topics": [
-          "Array",
-          "Two Pointers",
-          "Sorting"
+          "Stack",
+          "Design"
         ]
       }
     ],
@@ -149,21 +173,9 @@
       },
       {
         "id": 2,
-        "title": "Valid Parentheses",
-        "difficulty": "Easy",
-        "frequency": 90,
-        "url": "https://leetcode.com/problems/valid-parentheses",
-        "topics": [
-          "String",
-          "Stack",
-          "Bracket Sequences"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Merge Intervals",
         "difficulty": "Medium",
-        "frequency": 90,
+        "frequency": 96,
         "url": "https://leetcode.com/problems/merge-intervals",
         "topics": [
           "Array",
@@ -172,31 +184,22 @@
         ]
       },
       {
-        "id": 4,
-        "title": "Two Sum",
+        "id": 3,
+        "title": "Valid Parentheses",
         "difficulty": "Easy",
-        "frequency": 83,
-        "url": "https://leetcode.com/problems/two-sum",
+        "frequency": 87,
+        "url": "https://leetcode.com/problems/valid-parentheses",
         "topics": [
-          "Array",
-          "Hash Table"
+          "String",
+          "Stack",
+          "Bracket Sequences"
         ]
       },
       {
-        "id": 5,
-        "title": "Department Top Three Salaries",
-        "difficulty": "Hard",
-        "frequency": 83,
-        "url": "https://leetcode.com/problems/department-top-three-salaries",
-        "topics": [
-          "Database"
-        ]
-      },
-      {
-        "id": 6,
+        "id": 4,
         "title": "Decode String",
         "difficulty": "Medium",
-        "frequency": 83,
+        "frequency": 80,
         "url": "https://leetcode.com/problems/decode-string",
         "topics": [
           "String",
@@ -205,10 +208,21 @@
         ]
       },
       {
-        "id": 7,
+        "id": 5,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 70,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 6,
         "title": "Squares of a Sorted Array",
         "difficulty": "Easy",
-        "frequency": 73,
+        "frequency": 70,
         "url": "https://leetcode.com/problems/squares-of-a-sorted-array",
         "topics": [
           "Array",
@@ -217,10 +231,20 @@
         ]
       },
       {
+        "id": 7,
+        "title": "Department Top Three Salaries",
+        "difficulty": "Hard",
+        "frequency": 70,
+        "url": "https://leetcode.com/problems/department-top-three-salaries",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
         "id": 8,
         "title": "Best Time to Buy and Sell Stock",
         "difficulty": "Easy",
-        "frequency": 73,
+        "frequency": 70,
         "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
         "topics": [
           "Array",
@@ -231,7 +255,7 @@
         "id": 9,
         "title": "Valid Anagram",
         "difficulty": "Easy",
-        "frequency": 73,
+        "frequency": 70,
         "url": "https://leetcode.com/problems/valid-anagram",
         "topics": [
           "Hash Table",
@@ -243,7 +267,7 @@
         "id": 10,
         "title": "Longest Substring Without Repeating Characters",
         "difficulty": "Medium",
-        "frequency": 73,
+        "frequency": 70,
         "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
         "topics": [
           "Hash Table",
@@ -255,11 +279,21 @@
         "id": 11,
         "title": "Min Stack",
         "difficulty": "Medium",
-        "frequency": 73,
+        "frequency": 70,
         "url": "https://leetcode.com/problems/min-stack",
         "topics": [
           "Stack",
           "Design"
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Department Highest Salary",
+        "difficulty": "Medium",
+        "frequency": 70,
+        "url": "https://leetcode.com/problems/department-highest-salary",
+        "topics": [
+          "Database"
         ]
       }
     ]

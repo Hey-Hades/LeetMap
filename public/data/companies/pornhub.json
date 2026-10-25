@@ -2,7 +2,7 @@
   "name": "PornHub",
   "slug": "PornHub",
   "dataKey": "pornhub",
-  "updatedAt": "2026-10-18T02:12:32.127Z",
+  "updatedAt": "2026-10-25T02:23:17.387Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -10,18 +10,6 @@
     "4. More Than Six Months.csv": [
       {
         "id": 1,
-        "title": "Longest Substring Without Repeating Characters",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sliding Window"
-        ]
-      },
-      {
-        "id": 2,
         "title": "Coin Change II",
         "difficulty": "Medium",
         "frequency": 100,
@@ -34,22 +22,7 @@
         ]
       },
       {
-        "id": 3,
-        "title": "Majority Element",
-        "difficulty": "Easy",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/majority-element",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Divide and Conquer",
-          "Sorting",
-          "Counting",
-          "Boyer–Moore Majority Vote Algorithm"
-        ]
-      },
-      {
-        "id": 4,
+        "id": 2,
         "title": "Spiral Matrix",
         "difficulty": "Medium",
         "frequency": 100,
@@ -61,7 +34,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 3,
         "title": "Longest Palindromic Substring",
         "difficulty": "Medium",
         "frequency": 100,
@@ -74,7 +47,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 4,
         "title": "Count Salary Categories",
         "difficulty": "Medium",
         "frequency": 100,
@@ -84,7 +57,7 @@
         ]
       },
       {
-        "id": 7,
+        "id": 5,
         "title": "Valid Parenthesis String",
         "difficulty": "Medium",
         "frequency": 100,
@@ -98,7 +71,7 @@
         ]
       },
       {
-        "id": 8,
+        "id": 6,
         "title": "Next Permutation",
         "difficulty": "Medium",
         "frequency": 100,
@@ -106,6 +79,42 @@
         "topics": [
           "Array",
           "Two Pointers"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Palindrome Number",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/palindrome-number",
+        "topics": [
+          "Math"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Trapping Rain Water",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Container With Most Water",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/container-with-most-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
         ]
       }
     ],
@@ -123,18 +132,6 @@
       },
       {
         "id": 2,
-        "title": "Longest Substring Without Repeating Characters",
-        "difficulty": "Medium",
-        "frequency": 87,
-        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sliding Window"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Coin Change II",
         "difficulty": "Medium",
         "frequency": 87,
@@ -147,7 +144,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 3,
         "title": "Spiral Matrix",
         "difficulty": "Medium",
         "frequency": 87,
@@ -159,7 +156,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Count Salary Categories",
         "difficulty": "Medium",
         "frequency": 87,
@@ -169,7 +166,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "title": "Valid Parenthesis String",
         "difficulty": "Medium",
         "frequency": 87,
@@ -183,7 +180,7 @@
         ]
       },
       {
-        "id": 7,
+        "id": 6,
         "title": "Palindrome Number",
         "difficulty": "Easy",
         "frequency": 87,
@@ -193,22 +190,7 @@
         ]
       },
       {
-        "id": 8,
-        "title": "Majority Element",
-        "difficulty": "Easy",
-        "frequency": 87,
-        "url": "https://leetcode.com/problems/majority-element",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Divide and Conquer",
-          "Sorting",
-          "Counting",
-          "Boyer–Moore Majority Vote Algorithm"
-        ]
-      },
-      {
-        "id": 9,
+        "id": 7,
         "title": "Container With Most Water",
         "difficulty": "Medium",
         "frequency": 87,
@@ -220,7 +202,7 @@
         ]
       },
       {
-        "id": 10,
+        "id": 8,
         "title": "Longest Palindromic Substring",
         "difficulty": "Medium",
         "frequency": 87,
@@ -233,7 +215,7 @@
         ]
       },
       {
-        "id": 11,
+        "id": 9,
         "title": "Surrounded Regions",
         "difficulty": "Medium",
         "frequency": 87,
@@ -244,6 +226,32 @@
           "Breadth-First Search",
           "Union-Find",
           "Matrix"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Subsets",
+        "difficulty": "Medium",
+        "frequency": 87,
+        "url": "https://leetcode.com/problems/subsets",
+        "topics": [
+          "Array",
+          "Backtracking",
+          "Bit Manipulation"
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Trapping Rain Water",
+        "difficulty": "Hard",
+        "frequency": 87,
+        "url": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
         ]
       }
     ]

@@ -2,41 +2,48 @@
   "name": "Nokia",
   "slug": "Nokia",
   "dataKey": "nokia",
-  "updatedAt": "2026-10-18T02:12:32.104Z",
+  "updatedAt": "2026-10-25T02:23:17.371Z",
   "problems": {
-    "1. Thirty Days.csv": [],
+    "1. Thirty Days.csv": [
+      {
+        "id": 1,
+        "title": "Validate IP Address",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/validate-ip-address",
+        "topics": [
+          "String"
+        ]
+      }
+    ],
     "2. Three Months.csv": [
       {
         "id": 1,
-        "title": "Reverse Linked List",
-        "difficulty": "Easy",
+        "title": "Validate IP Address",
+        "difficulty": "Medium",
         "frequency": 100,
-        "url": "https://leetcode.com/problems/reverse-linked-list",
+        "url": "https://leetcode.com/problems/validate-ip-address",
         "topics": [
-          "Linked List",
-          "Recursion"
+          "String"
         ]
       }
     ],
     "3. Six Months.csv": [
       {
         "id": 1,
-        "title": "Robot Collisions",
-        "difficulty": "Hard",
+        "title": "Validate IP Address",
+        "difficulty": "Medium",
         "frequency": 100,
-        "url": "https://leetcode.com/problems/robot-collisions",
+        "url": "https://leetcode.com/problems/validate-ip-address",
         "topics": [
-          "Array",
-          "Stack",
-          "Sorting",
-          "Simulation"
+          "String"
         ]
       },
       {
         "id": 2,
         "title": "Reverse Linked List",
         "difficulty": "Easy",
-        "frequency": 100,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/reverse-linked-list",
         "topics": [
           "Linked List",
@@ -47,6 +54,18 @@
     "4. More Than Six Months.csv": [
       {
         "id": 1,
+        "title": "Minimum Cost of Buying Candies With Discount",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 2,
         "title": "Valid Anagram",
         "difficulty": "Easy",
         "frequency": 100,
@@ -58,22 +77,10 @@
         ]
       },
       {
-        "id": 2,
-        "title": "Minimum Cost of Buying Candies With Discount",
-        "difficulty": "Easy",
-        "frequency": 92,
-        "url": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount",
-        "topics": [
-          "Array",
-          "Greedy",
-          "Sorting"
-        ]
-      },
-      {
         "id": 3,
         "title": "Check If It Is a Good Array",
         "difficulty": "Hard",
-        "frequency": 81,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/check-if-it-is-a-good-array",
         "topics": [
           "Array",
@@ -89,7 +96,7 @@
         "id": 4,
         "title": "Valid Parentheses",
         "difficulty": "Easy",
-        "frequency": 81,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/valid-parentheses",
         "topics": [
           "String",
@@ -101,7 +108,7 @@
         "id": 5,
         "title": "Longest Common Prefix",
         "difficulty": "Easy",
-        "frequency": 81,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/longest-common-prefix",
         "topics": [
           "Array",
@@ -113,19 +120,42 @@
         "id": 6,
         "title": "LRU Cache",
         "difficulty": "Medium",
-        "frequency": 81,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/lru-cache",
         "topics": [
           "Hash Table",
           "Linked List",
           "Design",
           "Doubly-Linked List"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Koko Eating Bananas",
+        "difficulty": "Medium",
+        "frequency": 88,
+        "url": "https://leetcode.com/problems/koko-eating-bananas",
+        "topics": [
+          "Array",
+          "Binary Search"
         ]
       }
     ],
     "5. All.csv": [
       {
         "id": 1,
+        "title": "Minimum Cost of Buying Candies With Discount",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 2,
         "title": "Valid Anagram",
         "difficulty": "Easy",
         "frequency": 100,
@@ -137,22 +167,20 @@
         ]
       },
       {
-        "id": 2,
-        "title": "Minimum Cost of Buying Candies With Discount",
-        "difficulty": "Easy",
-        "frequency": 92,
-        "url": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount",
+        "id": 3,
+        "title": "Validate IP Address",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/validate-ip-address",
         "topics": [
-          "Array",
-          "Greedy",
-          "Sorting"
+          "String"
         ]
       },
       {
-        "id": 3,
+        "id": 4,
         "title": "LRU Cache",
         "difficulty": "Medium",
-        "frequency": 80,
+        "frequency": 87,
         "url": "https://leetcode.com/problems/lru-cache",
         "topics": [
           "Hash Table",
@@ -162,10 +190,10 @@
         ]
       },
       {
-        "id": 4,
+        "id": 5,
         "title": "Check If It Is a Good Array",
         "difficulty": "Hard",
-        "frequency": 80,
+        "frequency": 87,
         "url": "https://leetcode.com/problems/check-if-it-is-a-good-array",
         "topics": [
           "Array",
@@ -178,10 +206,10 @@
         ]
       },
       {
-        "id": 5,
+        "id": 6,
         "title": "Longest Common Prefix",
         "difficulty": "Easy",
-        "frequency": 80,
+        "frequency": 87,
         "url": "https://leetcode.com/problems/longest-common-prefix",
         "topics": [
           "Array",
@@ -190,10 +218,10 @@
         ]
       },
       {
-        "id": 6,
+        "id": 7,
         "title": "Valid Parentheses",
         "difficulty": "Easy",
-        "frequency": 80,
+        "frequency": 87,
         "url": "https://leetcode.com/problems/valid-parentheses",
         "topics": [
           "String",
@@ -202,10 +230,10 @@
         ]
       },
       {
-        "id": 7,
+        "id": 8,
         "title": "Robot Collisions",
         "difficulty": "Hard",
-        "frequency": 80,
+        "frequency": 87,
         "url": "https://leetcode.com/problems/robot-collisions",
         "topics": [
           "Array",
@@ -215,10 +243,10 @@
         ]
       },
       {
-        "id": 8,
+        "id": 9,
         "title": "Koko Eating Bananas",
         "difficulty": "Medium",
-        "frequency": 80,
+        "frequency": 87,
         "url": "https://leetcode.com/problems/koko-eating-bananas",
         "topics": [
           "Array",
@@ -226,14 +254,26 @@
         ]
       },
       {
-        "id": 9,
+        "id": 10,
         "title": "Reverse Linked List",
         "difficulty": "Easy",
-        "frequency": 80,
+        "frequency": 87,
         "url": "https://leetcode.com/problems/reverse-linked-list",
         "topics": [
           "Linked List",
           "Recursion"
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Fizz Buzz",
+        "difficulty": "Easy",
+        "frequency": 87,
+        "url": "https://leetcode.com/problems/fizz-buzz",
+        "topics": [
+          "Math",
+          "String",
+          "Simulation"
         ]
       }
     ]

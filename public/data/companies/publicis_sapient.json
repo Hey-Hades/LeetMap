@@ -2,11 +2,25 @@
   "name": "Publicis Sapient",
   "slug": "Publicis Sapient",
   "dataKey": "publicis_sapient",
-  "updatedAt": "2026-10-18T02:12:32.128Z",
+  "updatedAt": "2026-10-25T02:23:17.389Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Largest Palindromic Number",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/largest-palindromic-number",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Greedy",
+          "Counting"
+        ]
+      }
+    ],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -60,26 +74,14 @@
       },
       {
         "id": 5,
-        "title": "Group Anagrams",
+        "title": "Longest Repeating Character Replacement",
         "difficulty": "Medium",
         "frequency": 88,
-        "url": "https://leetcode.com/problems/group-anagrams",
+        "url": "https://leetcode.com/problems/longest-repeating-character-replacement",
         "topics": [
-          "Array",
           "Hash Table",
           "String",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Two Sum",
-        "difficulty": "Easy",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/two-sum",
-        "topics": [
-          "Array",
-          "Hash Table"
+          "Sliding Window"
         ]
       }
     ],
@@ -122,22 +124,9 @@
       },
       {
         "id": 4,
-        "title": "Group Anagrams",
-        "difficulty": "Medium",
-        "frequency": 67,
-        "url": "https://leetcode.com/problems/group-anagrams",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 5,
         "title": "Trapping Rain Water",
         "difficulty": "Hard",
-        "frequency": 67,
+        "frequency": 68,
         "url": "https://leetcode.com/problems/trapping-rain-water",
         "topics": [
           "Array",
@@ -148,10 +137,10 @@
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "title": "Longest Substring Without Repeating Characters",
         "difficulty": "Medium",
-        "frequency": 67,
+        "frequency": 68,
         "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
         "topics": [
           "Hash Table",
@@ -160,10 +149,10 @@
         ]
       },
       {
-        "id": 7,
+        "id": 6,
         "title": "Longest Repeating Character Replacement",
         "difficulty": "Medium",
-        "frequency": 67,
+        "frequency": 68,
         "url": "https://leetcode.com/problems/longest-repeating-character-replacement",
         "topics": [
           "Hash Table",
@@ -172,10 +161,10 @@
         ]
       },
       {
-        "id": 8,
+        "id": 7,
         "title": "Container With Most Water",
         "difficulty": "Medium",
-        "frequency": 67,
+        "frequency": 68,
         "url": "https://leetcode.com/problems/container-with-most-water",
         "topics": [
           "Array",
@@ -184,14 +173,28 @@
         ]
       },
       {
-        "id": 9,
-        "title": "Two Sum",
+        "id": 8,
+        "title": "Valid Parentheses",
         "difficulty": "Easy",
-        "frequency": 67,
-        "url": "https://leetcode.com/problems/two-sum",
+        "frequency": 68,
+        "url": "https://leetcode.com/problems/valid-parentheses",
         "topics": [
-          "Array",
-          "Hash Table"
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Largest Palindromic Number",
+        "difficulty": "Medium",
+        "frequency": 68,
+        "url": "https://leetcode.com/problems/largest-palindromic-number",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Greedy",
+          "Counting"
         ]
       }
     ]

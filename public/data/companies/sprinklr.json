@@ -2,22 +2,9 @@
   "name": "Sprinklr",
   "slug": "Sprinklr",
   "dataKey": "sprinklr",
-  "updatedAt": "2026-10-18T02:12:32.150Z",
+  "updatedAt": "2026-10-25T02:23:17.405Z",
   "problems": {
-    "1. Thirty Days.csv": [
-      {
-        "id": 1,
-        "title": "Maximum Sum of Two Non-Overlapping Subarrays",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays",
-        "topics": [
-          "Array",
-          "Dynamic Programming",
-          "Sliding Window"
-        ]
-      }
-    ],
+    "1. Thirty Days.csv": [],
     "2. Three Months.csv": [
       {
         "id": 1,
@@ -29,17 +16,6 @@
           "Array",
           "Dynamic Programming",
           "Sliding Window"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Gas Station",
-        "difficulty": "Medium",
-        "frequency": 96,
-        "url": "https://leetcode.com/problems/gas-station",
-        "topics": [
-          "Array",
-          "Greedy"
         ]
       }
     ],
@@ -60,25 +36,11 @@
         "id": 2,
         "title": "Gas Station",
         "difficulty": "Medium",
-        "frequency": 96,
+        "frequency": 97,
         "url": "https://leetcode.com/problems/gas-station",
         "topics": [
           "Array",
           "Greedy"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
-        "difficulty": "Hard",
-        "frequency": 74,
-        "url": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array",
-        "topics": [
-          "Array",
-          "Dynamic Programming",
-          "Stack",
-          "Greedy",
-          "Monotonic Stack"
         ]
       }
     ],
@@ -98,6 +60,33 @@
       },
       {
         "id": 2,
+        "title": "Create Components With Same Value",
+        "difficulty": "Hard",
+        "frequency": 78,
+        "url": "https://leetcode.com/problems/create-components-with-same-value",
+        "topics": [
+          "Array",
+          "Math",
+          "Tree",
+          "Depth-First Search",
+          "Enumeration"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Sum of Subarray Minimums",
+        "difficulty": "Medium",
+        "frequency": 78,
+        "url": "https://leetcode.com/problems/sum-of-subarray-minimums",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ]
+      },
+      {
+        "id": 4,
         "title": "Isomorphic Strings",
         "difficulty": "Easy",
         "frequency": 78,
@@ -108,7 +97,7 @@
         ]
       },
       {
-        "id": 3,
+        "id": 5,
         "title": "Subarray Sum Equals K",
         "difficulty": "Medium",
         "frequency": 78,
@@ -120,10 +109,10 @@
         ]
       },
       {
-        "id": 4,
+        "id": 6,
         "title": "Asteroid Collision",
         "difficulty": "Medium",
-        "frequency": 71,
+        "frequency": 70,
         "url": "https://leetcode.com/problems/asteroid-collision",
         "topics": [
           "Array",
@@ -132,37 +121,10 @@
         ]
       },
       {
-        "id": 5,
-        "title": "Create Components With Same Value",
-        "difficulty": "Hard",
-        "frequency": 71,
-        "url": "https://leetcode.com/problems/create-components-with-same-value",
-        "topics": [
-          "Array",
-          "Math",
-          "Tree",
-          "Depth-First Search",
-          "Enumeration"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Sum of Subarray Minimums",
-        "difficulty": "Medium",
-        "frequency": 71,
-        "url": "https://leetcode.com/problems/sum-of-subarray-minimums",
-        "topics": [
-          "Array",
-          "Dynamic Programming",
-          "Stack",
-          "Monotonic Stack"
-        ]
-      },
-      {
         "id": 7,
         "title": "Odd Even Jump",
         "difficulty": "Hard",
-        "frequency": 71,
+        "frequency": 70,
         "url": "https://leetcode.com/problems/odd-even-jump",
         "topics": [
           "Array",
@@ -177,7 +139,7 @@
         "id": 8,
         "title": "Cherry Pickup II",
         "difficulty": "Hard",
-        "frequency": 71,
+        "frequency": 70,
         "url": "https://leetcode.com/problems/cherry-pickup-ii",
         "topics": [
           "Array",
@@ -343,18 +305,6 @@
       },
       {
         "id": 21,
-        "title": "Validate Stack Sequences",
-        "difficulty": "Medium",
-        "frequency": 61,
-        "url": "https://leetcode.com/problems/validate-stack-sequences",
-        "topics": [
-          "Array",
-          "Stack",
-          "Simulation"
-        ]
-      },
-      {
-        "id": 22,
         "title": "House Robber III",
         "difficulty": "Medium",
         "frequency": 61,
@@ -368,17 +318,49 @@
         ]
       },
       {
-        "id": 23,
-        "title": "Trapping Rain Water",
-        "difficulty": "Hard",
+        "id": 22,
+        "title": "Find K Pairs with Smallest Sums",
+        "difficulty": "Medium",
         "frequency": 61,
-        "url": "https://leetcode.com/problems/trapping-rain-water",
+        "url": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums",
         "topics": [
           "Array",
-          "Two Pointers",
-          "Dynamic Programming",
-          "Stack",
-          "Monotonic Stack"
+          "Heap (Priority Queue)"
+        ]
+      },
+      {
+        "id": 23,
+        "title": "Median of Two Sorted Arrays",
+        "difficulty": "Hard",
+        "frequency": 61,
+        "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Divide and Conquer"
+        ]
+      },
+      {
+        "id": 24,
+        "title": "Edit Distance",
+        "difficulty": "Medium",
+        "frequency": 61,
+        "url": "https://leetcode.com/problems/edit-distance",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 25,
+        "title": "Maximum Points You Can Obtain from Cards",
+        "difficulty": "Medium",
+        "frequency": 61,
+        "url": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards",
+        "topics": [
+          "Array",
+          "Sliding Window",
+          "Prefix Sum"
         ]
       }
     ],
@@ -584,7 +566,7 @@
         "id": 16,
         "title": "Maximum Sum of Two Non-Overlapping Subarrays",
         "difficulty": "Medium",
-        "frequency": 82,
+        "frequency": 86,
         "url": "https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays",
         "topics": [
           "Array",
@@ -596,7 +578,7 @@
         "id": 17,
         "title": "Gas Station",
         "difficulty": "Medium",
-        "frequency": 78,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/gas-station",
         "topics": [
           "Array",
@@ -694,20 +676,6 @@
       },
       {
         "id": 25,
-        "title": "Trapping Rain Water",
-        "difficulty": "Hard",
-        "frequency": 65,
-        "url": "https://leetcode.com/problems/trapping-rain-water",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Dynamic Programming",
-          "Stack",
-          "Monotonic Stack"
-        ]
-      },
-      {
-        "id": 26,
         "title": "Max Points on a Line",
         "difficulty": "Hard",
         "frequency": 54,
@@ -722,7 +690,7 @@
         ]
       },
       {
-        "id": 27,
+        "id": 26,
         "title": "Regular Expression Matching",
         "difficulty": "Hard",
         "frequency": 54,
@@ -734,7 +702,7 @@
         ]
       },
       {
-        "id": 28,
+        "id": 27,
         "title": "Student Attendance Record II",
         "difficulty": "Hard",
         "frequency": 54,
@@ -744,7 +712,7 @@
         ]
       },
       {
-        "id": 29,
+        "id": 28,
         "title": "Shortest Path with Alternating Colors",
         "difficulty": "Medium",
         "frequency": 54,
@@ -755,7 +723,7 @@
         ]
       },
       {
-        "id": 30,
+        "id": 29,
         "title": "Longest Univalue Path",
         "difficulty": "Medium",
         "frequency": 54,
@@ -768,7 +736,7 @@
         ]
       },
       {
-        "id": 31,
+        "id": 30,
         "title": "Maximum Sum Circular Subarray",
         "difficulty": "Medium",
         "frequency": 54,
@@ -782,7 +750,7 @@
         ]
       },
       {
-        "id": 32,
+        "id": 31,
         "title": "Maximal Rectangle",
         "difficulty": "Hard",
         "frequency": 54,
@@ -796,7 +764,7 @@
         ]
       },
       {
-        "id": 33,
+        "id": 32,
         "title": "Longest Valid Parentheses",
         "difficulty": "Hard",
         "frequency": 54,
@@ -809,7 +777,7 @@
         ]
       },
       {
-        "id": 34,
+        "id": 33,
         "title": "Frog Jump",
         "difficulty": "Hard",
         "frequency": 54,
@@ -820,7 +788,7 @@
         ]
       },
       {
-        "id": 35,
+        "id": 34,
         "title": "132 Pattern",
         "difficulty": "Medium",
         "frequency": 54,
@@ -834,19 +802,7 @@
         ]
       },
       {
-        "id": 36,
-        "title": "Validate Stack Sequences",
-        "difficulty": "Medium",
-        "frequency": 54,
-        "url": "https://leetcode.com/problems/validate-stack-sequences",
-        "topics": [
-          "Array",
-          "Stack",
-          "Simulation"
-        ]
-      },
-      {
-        "id": 37,
+        "id": 35,
         "title": "House Robber III",
         "difficulty": "Medium",
         "frequency": 54,
@@ -860,7 +816,7 @@
         ]
       },
       {
-        "id": 38,
+        "id": 36,
         "title": "Sliding Window Maximum",
         "difficulty": "Hard",
         "frequency": 54,
@@ -875,7 +831,7 @@
         ]
       },
       {
-        "id": 39,
+        "id": 37,
         "title": "Edit Distance",
         "difficulty": "Medium",
         "frequency": 54,
@@ -886,7 +842,7 @@
         ]
       },
       {
-        "id": 40,
+        "id": 38,
         "title": "Maximum Points You Can Obtain from Cards",
         "difficulty": "Medium",
         "frequency": 54,
@@ -898,7 +854,21 @@
         ]
       },
       {
-        "id": 41,
+        "id": 39,
+        "title": "Trapping Rain Water",
+        "difficulty": "Hard",
+        "frequency": 54,
+        "url": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ]
+      },
+      {
+        "id": 40,
         "title": "All Nodes Distance K in Binary Tree",
         "difficulty": "Medium",
         "frequency": 54,
@@ -912,7 +882,7 @@
         ]
       },
       {
-        "id": 42,
+        "id": 41,
         "title": "LRU Cache",
         "difficulty": "Medium",
         "frequency": 54,
@@ -925,7 +895,7 @@
         ]
       },
       {
-        "id": 43,
+        "id": 42,
         "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
         "difficulty": "Hard",
         "frequency": 54,
@@ -936,6 +906,41 @@
           "Stack",
           "Greedy",
           "Monotonic Stack"
+        ]
+      },
+      {
+        "id": 43,
+        "title": "Find K Pairs with Smallest Sums",
+        "difficulty": "Medium",
+        "frequency": 54,
+        "url": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums",
+        "topics": [
+          "Array",
+          "Heap (Priority Queue)"
+        ]
+      },
+      {
+        "id": 44,
+        "title": "Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 54,
+        "url": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ]
+      },
+      {
+        "id": 45,
+        "title": "Median of Two Sorted Arrays",
+        "difficulty": "Hard",
+        "frequency": 54,
+        "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Divide and Conquer"
         ]
       }
     ]

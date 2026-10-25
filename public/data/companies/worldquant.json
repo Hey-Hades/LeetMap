@@ -2,7 +2,7 @@
   "name": "WorldQuant",
   "slug": "WorldQuant",
   "dataKey": "worldquant",
-  "updatedAt": "2026-10-18T02:12:32.193Z",
+  "updatedAt": "2026-10-25T02:23:17.439Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -100,6 +100,20 @@
           "Sorting",
           "Heap (Priority Queue)",
           "Data Stream"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Maximal Rectangle",
+        "difficulty": "Hard",
+        "frequency": 83,
+        "url": "https://leetcode.com/problems/maximal-rectangle",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Stack",
+          "Matrix",
+          "Monotonic Stack"
         ]
       }
     ]

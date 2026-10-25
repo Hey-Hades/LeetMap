@@ -2,16 +2,72 @@
   "name": "Virtu Financial",
   "slug": "Virtu Financial",
   "dataKey": "virtu_financial",
-  "updatedAt": "2026-10-18T02:12:32.181Z",
+  "updatedAt": "2026-10-25T02:23:17.431Z",
   "problems": {
-    "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [],
+    "1. Thirty Days.csv": [
+      {
+        "id": 1,
+        "title": "Optimal Account Balancing",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/optimal-account-balancing",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Bitmask"
+        ]
+      }
+    ],
+    "2. Three Months.csv": [
+      {
+        "id": 1,
+        "title": "Optimal Account Balancing",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/optimal-account-balancing",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Bitmask"
+        ]
+      }
+    ],
     "3. Six Months.csv": [
       {
         "id": 1,
+        "title": "Optimal Account Balancing",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/optimal-account-balancing",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Bitmask"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Valid Parentheses",
+        "difficulty": "Easy",
+        "frequency": 88,
+        "url": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ]
+      },
+      {
+        "id": 3,
         "title": "Array Transformation",
         "difficulty": "Easy",
-        "frequency": 100,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/array-transformation",
         "topics": [
           "Array",
@@ -19,15 +75,15 @@
         ]
       },
       {
-        "id": 2,
-        "title": "Valid Parentheses",
-        "difficulty": "Easy",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/valid-parentheses",
+        "id": 4,
+        "title": "Reaching Points",
+        "difficulty": "Hard",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/reaching-points",
         "topics": [
-          "String",
-          "Stack",
-          "Bracket Sequences"
+          "Math",
+          "Euclidean Algorithm",
+          "Greatest Common Divisor"
         ]
       }
     ],
@@ -105,7 +161,7 @@
         "id": 2,
         "title": "How Many Apples Can You Put into the Basket",
         "difficulty": "Easy",
-        "frequency": 98,
+        "frequency": 97,
         "url": "https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket",
         "topics": [
           "Array",
@@ -148,14 +204,52 @@
       },
       {
         "id": 6,
+        "title": "Optimal Account Balancing",
+        "difficulty": "Hard",
+        "frequency": 75,
+        "url": "https://leetcode.com/problems/optimal-account-balancing",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Bitmask"
+        ]
+      },
+      {
+        "id": 7,
         "title": "Valid Parentheses",
         "difficulty": "Easy",
-        "frequency": 57,
+        "frequency": 64,
         "url": "https://leetcode.com/problems/valid-parentheses",
         "topics": [
           "String",
           "Stack",
           "Bracket Sequences"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Is Subsequence",
+        "difficulty": "Easy",
+        "frequency": 56,
+        "url": "https://leetcode.com/problems/is-subsequence",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Reaching Points",
+        "difficulty": "Hard",
+        "frequency": 56,
+        "url": "https://leetcode.com/problems/reaching-points",
+        "topics": [
+          "Math",
+          "Euclidean Algorithm",
+          "Greatest Common Divisor"
         ]
       }
     ]

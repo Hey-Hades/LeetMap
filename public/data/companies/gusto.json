@@ -2,25 +2,11 @@
   "name": "Gusto",
   "slug": "Gusto",
   "dataKey": "gusto",
-  "updatedAt": "2026-10-18T02:12:32.027Z",
+  "updatedAt": "2026-10-25T02:23:17.307Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [
-      {
-        "id": 1,
-        "title": "Time Based Key-Value Store",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/time-based-key-value-store",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Binary Search",
-          "Design"
-        ]
-      }
-    ],
+    "3. Six Months.csv": [],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -38,71 +24,7 @@
         "id": 2,
         "title": "Time Based Key-Value Store",
         "difficulty": "Medium",
-        "frequency": 84,
-        "url": "https://leetcode.com/problems/time-based-key-value-store",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Binary Search",
-          "Design"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Add Bold Tag in String",
-        "difficulty": "Medium",
-        "frequency": 76,
-        "url": "https://leetcode.com/problems/add-bold-tag-in-string",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Trie",
-          "String Matching",
-          "Aho–Corasick Algorithm"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Distribute Money to Maximum Children",
-        "difficulty": "Easy",
-        "frequency": 64,
-        "url": "https://leetcode.com/problems/distribute-money-to-maximum-children",
-        "topics": [
-          "Math",
-          "Greedy"
-        ]
-      },
-      {
-        "id": 5,
-        "title": "House Robber",
-        "difficulty": "Medium",
-        "frequency": 52,
-        "url": "https://leetcode.com/problems/house-robber",
-        "topics": [
-          "Array",
-          "Dynamic Programming"
-        ]
-      }
-    ],
-    "5. All.csv": [
-      {
-        "id": 1,
-        "title": "Integer to English Words",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/integer-to-english-words",
-        "topics": [
-          "Math",
-          "String",
-          "Recursion"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Time Based Key-Value Store",
-        "difficulty": "Medium",
-        "frequency": 86,
+        "frequency": 83,
         "url": "https://leetcode.com/problems/time-based-key-value-store",
         "topics": [
           "Hash Table",
@@ -130,7 +52,71 @@
         "id": 4,
         "title": "Distribute Money to Maximum Children",
         "difficulty": "Easy",
-        "frequency": 67,
+        "frequency": 68,
+        "url": "https://leetcode.com/problems/distribute-money-to-maximum-children",
+        "topics": [
+          "Math",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "House Robber",
+        "difficulty": "Medium",
+        "frequency": 51,
+        "url": "https://leetcode.com/problems/house-robber",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Integer to English Words",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/integer-to-english-words",
+        "topics": [
+          "Math",
+          "String",
+          "Recursion"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Time Based Key-Value Store",
+        "difficulty": "Medium",
+        "frequency": 83,
+        "url": "https://leetcode.com/problems/time-based-key-value-store",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Add Bold Tag in String",
+        "difficulty": "Medium",
+        "frequency": 78,
+        "url": "https://leetcode.com/problems/add-bold-tag-in-string",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie",
+          "String Matching",
+          "Aho–Corasick Algorithm"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Distribute Money to Maximum Children",
+        "difficulty": "Easy",
+        "frequency": 68,
         "url": "https://leetcode.com/problems/distribute-money-to-maximum-children",
         "topics": [
           "Math",

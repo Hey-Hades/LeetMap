@@ -2,28 +2,15 @@
   "name": "Grammarly",
   "slug": "Grammarly",
   "dataKey": "grammarly",
-  "updatedAt": "2026-10-18T02:12:32.024Z",
+  "updatedAt": "2026-10-25T02:23:17.305Z",
   "problems": {
-    "1. Thirty Days.csv": [
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [
       {
         "id": 1,
-        "title": "Two Best Non-Overlapping Events",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/two-best-non-overlapping-events",
-        "topics": [
-          "Array",
-          "Binary Search",
-          "Dynamic Programming",
-          "Sorting",
-          "Heap (Priority Queue)"
-        ]
-      },
-      {
-        "id": 2,
         "title": "Recover a Tree From Preorder Traversal",
         "difficulty": "Hard",
-        "frequency": 91,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/recover-a-tree-from-preorder-traversal",
         "topics": [
           "String",
@@ -31,54 +18,28 @@
           "Depth-First Search",
           "Binary Tree"
         ]
-      }
-    ],
-    "2. Three Months.csv": [
-      {
-        "id": 1,
-        "title": "Non-overlapping Intervals",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/non-overlapping-intervals",
-        "topics": [
-          "Array",
-          "Dynamic Programming",
-          "Greedy",
-          "Sorting"
-        ]
       },
       {
         "id": 2,
-        "title": "Two Best Non-Overlapping Events",
+        "title": "Word Break",
         "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/two-best-non-overlapping-events",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/word-break",
         "topics": [
           "Array",
-          "Binary Search",
+          "Hash Table",
+          "String",
           "Dynamic Programming",
-          "Sorting",
-          "Heap (Priority Queue)"
+          "Trie",
+          "Memoization",
+          "Brute-Force Search"
         ]
       },
       {
         "id": 3,
-        "title": "Recover a Tree From Preorder Traversal",
-        "difficulty": "Hard",
-        "frequency": 94,
-        "url": "https://leetcode.com/problems/recover-a-tree-from-preorder-traversal",
-        "topics": [
-          "String",
-          "Tree",
-          "Depth-First Search",
-          "Binary Tree"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Search Insert Position",
         "difficulty": "Easy",
-        "frequency": 85,
+        "frequency": 90,
         "url": "https://leetcode.com/problems/search-insert-position",
         "topics": [
           "Array",
@@ -86,30 +47,30 @@
         ]
       },
       {
-        "id": 5,
-        "title": "Minimum Substring Partition of Equal Character Frequency",
+        "id": 4,
+        "title": "Two Best Non-Overlapping Events",
         "difficulty": "Medium",
-        "frequency": 85,
-        "url": "https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/two-best-non-overlapping-events",
         "topics": [
-          "Hash Table",
-          "String",
+          "Array",
+          "Binary Search",
           "Dynamic Programming",
-          "Counting"
+          "Sorting",
+          "Heap (Priority Queue)"
         ]
       },
       {
-        "id": 6,
-        "title": "Word Search",
+        "id": 5,
+        "title": "Non-overlapping Intervals",
         "difficulty": "Medium",
-        "frequency": 70,
-        "url": "https://leetcode.com/problems/word-search",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/non-overlapping-intervals",
         "topics": [
           "Array",
-          "String",
-          "Backtracking",
-          "Depth-First Search",
-          "Matrix"
+          "Dynamic Programming",
+          "Greedy",
+          "Sorting"
         ]
       }
     ],
@@ -143,20 +104,9 @@
       },
       {
         "id": 3,
-        "title": "Search Insert Position",
-        "difficulty": "Easy",
-        "frequency": 95,
-        "url": "https://leetcode.com/problems/search-insert-position",
-        "topics": [
-          "Array",
-          "Binary Search"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Recover a Tree From Preorder Traversal",
         "difficulty": "Hard",
-        "frequency": 89,
+        "frequency": 97,
         "url": "https://leetcode.com/problems/recover-a-tree-from-preorder-traversal",
         "topics": [
           "String",
@@ -166,10 +116,21 @@
         ]
       },
       {
+        "id": 4,
+        "title": "Search Insert Position",
+        "difficulty": "Easy",
+        "frequency": 87,
+        "url": "https://leetcode.com/problems/search-insert-position",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ]
+      },
+      {
         "id": 5,
         "title": "Minimum Substring Partition of Equal Character Frequency",
         "difficulty": "Medium",
-        "frequency": 80,
+        "frequency": 87,
         "url": "https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency",
         "topics": [
           "Hash Table",
@@ -180,20 +141,9 @@
       },
       {
         "id": 6,
-        "title": "Remove All Adjacent Duplicates In String",
-        "difficulty": "Easy",
-        "frequency": 64,
-        "url": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string",
-        "topics": [
-          "String",
-          "Stack"
-        ]
-      },
-      {
-        "id": 7,
         "title": "Word Search",
         "difficulty": "Medium",
-        "frequency": 64,
+        "frequency": 67,
         "url": "https://leetcode.com/problems/word-search",
         "topics": [
           "Array",
@@ -201,6 +151,22 @@
           "Backtracking",
           "Depth-First Search",
           "Matrix"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Word Break",
+        "difficulty": "Medium",
+        "frequency": 67,
+        "url": "https://leetcode.com/problems/word-break",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Trie",
+          "Memoization",
+          "Brute-Force Search"
         ]
       }
     ],
@@ -221,7 +187,7 @@
         "id": 2,
         "title": "Remove All Adjacent Duplicates In String",
         "difficulty": "Easy",
-        "frequency": 89,
+        "frequency": 97,
         "url": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string",
         "topics": [
           "String",
@@ -230,20 +196,20 @@
       },
       {
         "id": 3,
-        "title": "Search in Rotated Sorted Array",
+        "title": "Remove All Adjacent Duplicates in String II",
         "difficulty": "Medium",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+        "frequency": 96,
+        "url": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
         "topics": [
-          "Array",
-          "Binary Search"
+          "String",
+          "Stack"
         ]
       },
       {
         "id": 4,
         "title": "Insert Delete GetRandom O(1)",
         "difficulty": "Medium",
-        "frequency": 88,
+        "frequency": 96,
         "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
         "topics": [
           "Array",
@@ -257,7 +223,7 @@
         "id": 5,
         "title": "Vowel Spellchecker",
         "difficulty": "Medium",
-        "frequency": 88,
+        "frequency": 92,
         "url": "https://leetcode.com/problems/vowel-spellchecker",
         "topics": [
           "Array",
@@ -267,32 +233,20 @@
       },
       {
         "id": 6,
-        "title": "Remove All Adjacent Duplicates in String II",
+        "title": "Search in Rotated Sorted Array",
         "difficulty": "Medium",
-        "frequency": 87,
-        "url": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
         "topics": [
-          "String",
-          "Stack"
+          "Array",
+          "Binary Search"
         ]
       },
       {
         "id": 7,
-        "title": "Climbing Stairs",
-        "difficulty": "Easy",
-        "frequency": 85,
-        "url": "https://leetcode.com/problems/climbing-stairs",
-        "topics": [
-          "Math",
-          "Dynamic Programming",
-          "Memoization"
-        ]
-      },
-      {
-        "id": 8,
         "title": "Repeated DNA Sequences",
         "difficulty": "Medium",
-        "frequency": 81,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/repeated-dna-sequences",
         "topics": [
           "Hash Table",
@@ -306,22 +260,22 @@
         ]
       },
       {
-        "id": 9,
-        "title": "Sqrt(x)",
+        "id": 8,
+        "title": "Climbing Stairs",
         "difficulty": "Easy",
-        "frequency": 76,
-        "url": "https://leetcode.com/problems/sqrtx",
+        "frequency": 88,
+        "url": "https://leetcode.com/problems/climbing-stairs",
         "topics": [
           "Math",
-          "Binary Search",
-          "Newton's Method"
+          "Dynamic Programming",
+          "Memoization"
         ]
       },
       {
-        "id": 10,
+        "id": 9,
         "title": "Generate Parentheses",
         "difficulty": "Medium",
-        "frequency": 74,
+        "frequency": 83,
         "url": "https://leetcode.com/problems/generate-parentheses",
         "topics": [
           "String",
@@ -331,10 +285,22 @@
         ]
       },
       {
+        "id": 10,
+        "title": "Sqrt(x)",
+        "difficulty": "Easy",
+        "frequency": 83,
+        "url": "https://leetcode.com/problems/sqrtx",
+        "topics": [
+          "Math",
+          "Binary Search",
+          "Newton's Method"
+        ]
+      },
+      {
         "id": 11,
         "title": "Perfect Number",
         "difficulty": "Easy",
-        "frequency": 71,
+        "frequency": 80,
         "url": "https://leetcode.com/problems/perfect-number",
         "topics": [
           "Math"
@@ -344,7 +310,7 @@
         "id": 12,
         "title": "Logger Rate Limiter",
         "difficulty": "Easy",
-        "frequency": 71,
+        "frequency": 77,
         "url": "https://leetcode.com/problems/logger-rate-limiter",
         "topics": [
           "Hash Table",
@@ -356,7 +322,7 @@
         "id": 13,
         "title": "Sum of Left Leaves",
         "difficulty": "Easy",
-        "frequency": 71,
+        "frequency": 77,
         "url": "https://leetcode.com/problems/sum-of-left-leaves",
         "topics": [
           "Tree",
@@ -369,7 +335,7 @@
         "id": 14,
         "title": "Evaluate Reverse Polish Notation",
         "difficulty": "Medium",
-        "frequency": 62,
+        "frequency": 68,
         "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
         "topics": [
           "Array",
@@ -379,23 +345,20 @@
       },
       {
         "id": 15,
-        "title": "Word Search",
-        "difficulty": "Medium",
-        "frequency": 56,
-        "url": "https://leetcode.com/problems/word-search",
+        "title": "Search Insert Position",
+        "difficulty": "Easy",
+        "frequency": 68,
+        "url": "https://leetcode.com/problems/search-insert-position",
         "topics": [
           "Array",
-          "String",
-          "Backtracking",
-          "Depth-First Search",
-          "Matrix"
+          "Binary Search"
         ]
       },
       {
         "id": 16,
         "title": "Implement Trie (Prefix Tree)",
         "difficulty": "Medium",
-        "frequency": 56,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/implement-trie-prefix-tree",
         "topics": [
           "Hash Table",
@@ -408,7 +371,7 @@
         "id": 17,
         "title": "Check If a String Contains All Binary Codes of Size K",
         "difficulty": "Medium",
-        "frequency": 56,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k",
         "topics": [
           "Hash Table",
@@ -423,7 +386,7 @@
         "id": 18,
         "title": "Number of Islands",
         "difficulty": "Medium",
-        "frequency": 48,
+        "frequency": 52,
         "url": "https://leetcode.com/problems/number-of-islands",
         "topics": [
           "Array",
@@ -435,21 +398,23 @@
       },
       {
         "id": 19,
-        "title": "Special Binary String",
-        "difficulty": "Hard",
-        "frequency": 48,
-        "url": "https://leetcode.com/problems/special-binary-string",
+        "title": "Word Search",
+        "difficulty": "Medium",
+        "frequency": 52,
+        "url": "https://leetcode.com/problems/word-search",
         "topics": [
+          "Array",
           "String",
-          "Divide and Conquer",
-          "Sorting"
+          "Backtracking",
+          "Depth-First Search",
+          "Matrix"
         ]
       },
       {
         "id": 20,
         "title": "Decode the Slanted Ciphertext",
         "difficulty": "Medium",
-        "frequency": 48,
+        "frequency": 52,
         "url": "https://leetcode.com/problems/decode-the-slanted-ciphertext",
         "topics": [
           "String",
@@ -458,24 +423,9 @@
       },
       {
         "id": 21,
-        "title": "Maximum Palindromes After Operations",
-        "difficulty": "Medium",
-        "frequency": 48,
-        "url": "https://leetcode.com/problems/maximum-palindromes-after-operations",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Greedy",
-          "Sorting",
-          "Counting"
-        ]
-      },
-      {
-        "id": 22,
         "title": "Trapping Rain Water",
         "difficulty": "Hard",
-        "frequency": 48,
+        "frequency": 52,
         "url": "https://leetcode.com/problems/trapping-rain-water",
         "topics": [
           "Array",
@@ -486,15 +436,58 @@
         ]
       },
       {
-        "id": 23,
+        "id": 22,
         "title": "Unique Paths",
         "difficulty": "Medium",
-        "frequency": 48,
+        "frequency": 52,
         "url": "https://leetcode.com/problems/unique-paths",
         "topics": [
           "Math",
           "Dynamic Programming",
           "Combinatorics"
+        ]
+      },
+      {
+        "id": 23,
+        "title": "Word Break",
+        "difficulty": "Medium",
+        "frequency": 52,
+        "url": "https://leetcode.com/problems/word-break",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Trie",
+          "Memoization",
+          "Brute-Force Search"
+        ]
+      },
+      {
+        "id": 24,
+        "title": "Non-overlapping Intervals",
+        "difficulty": "Medium",
+        "frequency": 52,
+        "url": "https://leetcode.com/problems/non-overlapping-intervals",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 25,
+        "title": "Two Best Non-Overlapping Events",
+        "difficulty": "Medium",
+        "frequency": 52,
+        "url": "https://leetcode.com/problems/two-best-non-overlapping-events",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Sorting",
+          "Heap (Priority Queue)"
         ]
       }
     ],
@@ -515,7 +508,7 @@
         "id": 2,
         "title": "Remove All Adjacent Duplicates In String",
         "difficulty": "Easy",
-        "frequency": 92,
+        "frequency": 97,
         "url": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string",
         "topics": [
           "String",
@@ -524,21 +517,20 @@
       },
       {
         "id": 3,
-        "title": "Vowel Spellchecker",
+        "title": "Remove All Adjacent Duplicates in String II",
         "difficulty": "Medium",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/vowel-spellchecker",
+        "frequency": 96,
+        "url": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
         "topics": [
-          "Array",
-          "Hash Table",
-          "String"
+          "String",
+          "Stack"
         ]
       },
       {
         "id": 4,
         "title": "Insert Delete GetRandom O(1)",
         "difficulty": "Medium",
-        "frequency": 89,
+        "frequency": 96,
         "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
         "topics": [
           "Array",
@@ -550,9 +542,21 @@
       },
       {
         "id": 5,
+        "title": "Vowel Spellchecker",
+        "difficulty": "Medium",
+        "frequency": 92,
+        "url": "https://leetcode.com/problems/vowel-spellchecker",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String"
+        ]
+      },
+      {
+        "id": 6,
         "title": "Search in Rotated Sorted Array",
         "difficulty": "Medium",
-        "frequency": 89,
+        "frequency": 90,
         "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
         "topics": [
           "Array",
@@ -560,33 +564,37 @@
         ]
       },
       {
-        "id": 6,
-        "title": "Remove All Adjacent Duplicates in String II",
-        "difficulty": "Medium",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
-        "topics": [
-          "String",
-          "Stack"
-        ]
-      },
-      {
         "id": 7,
-        "title": "Climbing Stairs",
-        "difficulty": "Easy",
-        "frequency": 84,
-        "url": "https://leetcode.com/problems/climbing-stairs",
+        "title": "Non-overlapping Intervals",
+        "difficulty": "Medium",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/non-overlapping-intervals",
         "topics": [
-          "Math",
+          "Array",
           "Dynamic Programming",
-          "Memoization"
+          "Greedy",
+          "Sorting"
         ]
       },
       {
         "id": 8,
+        "title": "Two Best Non-Overlapping Events",
+        "difficulty": "Medium",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/two-best-non-overlapping-events",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ]
+      },
+      {
+        "id": 9,
         "title": "Repeated DNA Sequences",
         "difficulty": "Medium",
-        "frequency": 81,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/repeated-dna-sequences",
         "topics": [
           "Hash Table",
@@ -600,49 +608,33 @@
         ]
       },
       {
-        "id": 9,
-        "title": "Non-overlapping Intervals",
-        "difficulty": "Medium",
-        "frequency": 81,
-        "url": "https://leetcode.com/problems/non-overlapping-intervals",
-        "topics": [
-          "Array",
-          "Dynamic Programming",
-          "Greedy",
-          "Sorting"
-        ]
-      },
-      {
         "id": 10,
-        "title": "Two Best Non-Overlapping Events",
-        "difficulty": "Medium",
-        "frequency": 81,
-        "url": "https://leetcode.com/problems/two-best-non-overlapping-events",
+        "title": "Climbing Stairs",
+        "difficulty": "Easy",
+        "frequency": 88,
+        "url": "https://leetcode.com/problems/climbing-stairs",
         "topics": [
-          "Array",
-          "Binary Search",
+          "Math",
           "Dynamic Programming",
-          "Sorting",
-          "Heap (Priority Queue)"
+          "Memoization"
         ]
       },
       {
         "id": 11,
-        "title": "Sqrt(x)",
+        "title": "Search Insert Position",
         "difficulty": "Easy",
-        "frequency": 78,
-        "url": "https://leetcode.com/problems/sqrtx",
+        "frequency": 85,
+        "url": "https://leetcode.com/problems/search-insert-position",
         "topics": [
-          "Math",
-          "Binary Search",
-          "Newton's Method"
+          "Array",
+          "Binary Search"
         ]
       },
       {
         "id": 12,
         "title": "Generate Parentheses",
         "difficulty": "Medium",
-        "frequency": 76,
+        "frequency": 83,
         "url": "https://leetcode.com/problems/generate-parentheses",
         "topics": [
           "String",
@@ -653,55 +645,21 @@
       },
       {
         "id": 13,
-        "title": "Search Insert Position",
+        "title": "Sqrt(x)",
         "difficulty": "Easy",
-        "frequency": 76,
-        "url": "https://leetcode.com/problems/search-insert-position",
+        "frequency": 83,
+        "url": "https://leetcode.com/problems/sqrtx",
         "topics": [
-          "Array",
-          "Binary Search"
+          "Math",
+          "Binary Search",
+          "Newton's Method"
         ]
       },
       {
         "id": 14,
-        "title": "Perfect Number",
-        "difficulty": "Easy",
-        "frequency": 73,
-        "url": "https://leetcode.com/problems/perfect-number",
-        "topics": [
-          "Math"
-        ]
-      },
-      {
-        "id": 15,
-        "title": "Sum of Left Leaves",
-        "difficulty": "Easy",
-        "frequency": 73,
-        "url": "https://leetcode.com/problems/sum-of-left-leaves",
-        "topics": [
-          "Tree",
-          "Depth-First Search",
-          "Breadth-First Search",
-          "Binary Tree"
-        ]
-      },
-      {
-        "id": 16,
-        "title": "Logger Rate Limiter",
-        "difficulty": "Easy",
-        "frequency": 70,
-        "url": "https://leetcode.com/problems/logger-rate-limiter",
-        "topics": [
-          "Hash Table",
-          "Design",
-          "Data Stream"
-        ]
-      },
-      {
-        "id": 17,
         "title": "Recover a Tree From Preorder Traversal",
         "difficulty": "Hard",
-        "frequency": 70,
+        "frequency": 83,
         "url": "https://leetcode.com/problems/recover-a-tree-from-preorder-traversal",
         "topics": [
           "String",
@@ -711,36 +669,45 @@
         ]
       },
       {
-        "id": 18,
-        "title": "Word Search",
-        "difficulty": "Medium",
-        "frequency": 66,
-        "url": "https://leetcode.com/problems/word-search",
+        "id": 15,
+        "title": "Perfect Number",
+        "difficulty": "Easy",
+        "frequency": 80,
+        "url": "https://leetcode.com/problems/perfect-number",
         "topics": [
-          "Array",
-          "String",
-          "Backtracking",
+          "Math"
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Logger Rate Limiter",
+        "difficulty": "Easy",
+        "frequency": 76,
+        "url": "https://leetcode.com/problems/logger-rate-limiter",
+        "topics": [
+          "Hash Table",
+          "Design",
+          "Data Stream"
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Sum of Left Leaves",
+        "difficulty": "Easy",
+        "frequency": 76,
+        "url": "https://leetcode.com/problems/sum-of-left-leaves",
+        "topics": [
+          "Tree",
           "Depth-First Search",
-          "Matrix"
+          "Breadth-First Search",
+          "Binary Tree"
         ]
       },
       {
-        "id": 19,
-        "title": "Evaluate Reverse Polish Notation",
-        "difficulty": "Medium",
-        "frequency": 61,
-        "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
-        "topics": [
-          "Array",
-          "Math",
-          "Stack"
-        ]
-      },
-      {
-        "id": 20,
+        "id": 18,
         "title": "Minimum Substring Partition of Equal Character Frequency",
         "difficulty": "Medium",
-        "frequency": 61,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency",
         "topics": [
           "Hash Table",
@@ -750,38 +717,10 @@
         ]
       },
       {
-        "id": 21,
-        "title": "Implement Trie (Prefix Tree)",
-        "difficulty": "Medium",
-        "frequency": 55,
-        "url": "https://leetcode.com/problems/implement-trie-prefix-tree",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Design",
-          "Trie"
-        ]
-      },
-      {
-        "id": 22,
-        "title": "Check If a String Contains All Binary Codes of Size K",
-        "difficulty": "Medium",
-        "frequency": 55,
-        "url": "https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Bit Manipulation",
-          "Rolling Hash",
-          "Hash Function",
-          "Directed Acyclic Graph"
-        ]
-      },
-      {
-        "id": 23,
+        "id": 19,
         "title": "Word Break",
         "difficulty": "Medium",
-        "frequency": 46,
+        "frequency": 67,
         "url": "https://leetcode.com/problems/word-break",
         "topics": [
           "Array",
@@ -794,26 +733,64 @@
         ]
       },
       {
-        "id": 24,
-        "title": "Word Break II",
-        "difficulty": "Hard",
-        "frequency": 46,
-        "url": "https://leetcode.com/problems/word-break-ii",
+        "id": 20,
+        "title": "Word Search",
+        "difficulty": "Medium",
+        "frequency": 67,
+        "url": "https://leetcode.com/problems/word-search",
         "topics": [
           "Array",
-          "Hash Table",
           "String",
-          "Dynamic Programming",
           "Backtracking",
-          "Trie",
-          "Memoization"
+          "Depth-First Search",
+          "Matrix"
         ]
       },
       {
-        "id": 25,
+        "id": 21,
+        "title": "Evaluate Reverse Polish Notation",
+        "difficulty": "Medium",
+        "frequency": 67,
+        "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+        "topics": [
+          "Array",
+          "Math",
+          "Stack"
+        ]
+      },
+      {
+        "id": 22,
+        "title": "Implement Trie (Prefix Tree)",
+        "difficulty": "Medium",
+        "frequency": 60,
+        "url": "https://leetcode.com/problems/implement-trie-prefix-tree",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie"
+        ]
+      },
+      {
+        "id": 23,
+        "title": "Check If a String Contains All Binary Codes of Size K",
+        "difficulty": "Medium",
+        "frequency": 60,
+        "url": "https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Bit Manipulation",
+          "Rolling Hash",
+          "Hash Function",
+          "Directed Acyclic Graph"
+        ]
+      },
+      {
+        "id": 24,
         "title": "Number of Islands",
         "difficulty": "Medium",
-        "frequency": 46,
+        "frequency": 51,
         "url": "https://leetcode.com/problems/number-of-islands",
         "topics": [
           "Array",
@@ -824,22 +801,10 @@
         ]
       },
       {
-        "id": 26,
-        "title": "Special Binary String",
-        "difficulty": "Hard",
-        "frequency": 46,
-        "url": "https://leetcode.com/problems/special-binary-string",
-        "topics": [
-          "String",
-          "Divide and Conquer",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 27,
+        "id": 25,
         "title": "Decode the Slanted Ciphertext",
         "difficulty": "Medium",
-        "frequency": 46,
+        "frequency": 51,
         "url": "https://leetcode.com/problems/decode-the-slanted-ciphertext",
         "topics": [
           "String",
@@ -847,25 +812,10 @@
         ]
       },
       {
-        "id": 28,
-        "title": "Maximum Palindromes After Operations",
-        "difficulty": "Medium",
-        "frequency": 46,
-        "url": "https://leetcode.com/problems/maximum-palindromes-after-operations",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Greedy",
-          "Sorting",
-          "Counting"
-        ]
-      },
-      {
-        "id": 29,
+        "id": 26,
         "title": "Trapping Rain Water",
         "difficulty": "Hard",
-        "frequency": 46,
+        "frequency": 51,
         "url": "https://leetcode.com/problems/trapping-rain-water",
         "topics": [
           "Array",
@@ -876,10 +826,10 @@
         ]
       },
       {
-        "id": 30,
+        "id": 27,
         "title": "Unique Paths",
         "difficulty": "Medium",
-        "frequency": 46,
+        "frequency": 51,
         "url": "https://leetcode.com/problems/unique-paths",
         "topics": [
           "Math",

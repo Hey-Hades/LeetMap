@@ -2,7 +2,7 @@
   "name": "Datadog",
   "slug": "Datadog",
   "dataKey": "datadog",
-  "updatedAt": "2026-10-18T02:12:31.971Z",
+  "updatedAt": "2026-10-25T02:23:17.266Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -25,7 +25,7 @@
         "id": 2,
         "title": "Coin Change",
         "difficulty": "Medium",
-        "frequency": 94,
+        "frequency": 92,
         "url": "https://leetcode.com/problems/coin-change",
         "topics": [
           "Array",
@@ -51,7 +51,7 @@
         "id": 4,
         "title": "Valid Word Abbreviation",
         "difficulty": "Easy",
-        "frequency": 90,
+        "frequency": 87,
         "url": "https://leetcode.com/problems/valid-word-abbreviation",
         "topics": [
           "Two Pointers",
@@ -62,7 +62,7 @@
         "id": 5,
         "title": "Design Add and Search Words Data Structure",
         "difficulty": "Medium",
-        "frequency": 85,
+        "frequency": 87,
         "url": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
         "topics": [
           "String",
@@ -75,7 +75,7 @@
         "id": 6,
         "title": "Maximum Depth of N-ary Tree",
         "difficulty": "Easy",
-        "frequency": 83,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/maximum-depth-of-n-ary-tree",
         "topics": [
           "Tree",
@@ -87,7 +87,7 @@
         "id": 7,
         "title": "Design Circular Queue",
         "difficulty": "Medium",
-        "frequency": 79,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/design-circular-queue",
         "topics": [
           "Array",
@@ -100,7 +100,7 @@
         "id": 8,
         "title": "People Whose List of Favorite Companies Is Not a Subset of Another List",
         "difficulty": "Medium",
-        "frequency": 69,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list",
         "topics": [
           "Array",
@@ -112,7 +112,7 @@
         "id": 9,
         "title": "House Robber",
         "difficulty": "Medium",
-        "frequency": 69,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/house-robber",
         "topics": [
           "Array",
@@ -121,9 +121,32 @@
       },
       {
         "id": 10,
+        "title": "Maximum Vacation Days",
+        "difficulty": "Hard",
+        "frequency": 62,
+        "url": "https://leetcode.com/problems/maximum-vacation-days",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 11,
+        "title": "House Robber II",
+        "difficulty": "Medium",
+        "frequency": 62,
+        "url": "https://leetcode.com/problems/house-robber-ii",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 12,
         "title": "Binary Tree Maximum Path Sum",
         "difficulty": "Hard",
-        "frequency": 59,
+        "frequency": 53,
         "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
         "topics": [
           "Dynamic Programming",
@@ -134,22 +157,10 @@
         ]
       },
       {
-        "id": 11,
-        "title": "Maximum Vacation Days",
-        "difficulty": "Hard",
-        "frequency": 59,
-        "url": "https://leetcode.com/problems/maximum-vacation-days",
-        "topics": [
-          "Array",
-          "Dynamic Programming",
-          "Matrix"
-        ]
-      },
-      {
-        "id": 12,
+        "id": 13,
         "title": "Sliding Window Median",
         "difficulty": "Hard",
-        "frequency": 59,
+        "frequency": 53,
         "url": "https://leetcode.com/problems/sliding-window-median",
         "topics": [
           "Array",
@@ -157,17 +168,6 @@
           "Sliding Window",
           "Heap (Priority Queue)",
           "Treap"
-        ]
-      },
-      {
-        "id": 13,
-        "title": "House Robber II",
-        "difficulty": "Medium",
-        "frequency": 59,
-        "url": "https://leetcode.com/problems/house-robber-ii",
-        "topics": [
-          "Array",
-          "Dynamic Programming"
         ]
       }
     ],
@@ -189,7 +189,7 @@
         "id": 2,
         "title": "Coin Change",
         "difficulty": "Medium",
-        "frequency": 94,
+        "frequency": 92,
         "url": "https://leetcode.com/problems/coin-change",
         "topics": [
           "Array",
@@ -215,7 +215,7 @@
         "id": 4,
         "title": "Valid Word Abbreviation",
         "difficulty": "Easy",
-        "frequency": 90,
+        "frequency": 87,
         "url": "https://leetcode.com/problems/valid-word-abbreviation",
         "topics": [
           "Two Pointers",
@@ -226,7 +226,7 @@
         "id": 5,
         "title": "Design Add and Search Words Data Structure",
         "difficulty": "Medium",
-        "frequency": 85,
+        "frequency": 87,
         "url": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
         "topics": [
           "String",
@@ -239,7 +239,7 @@
         "id": 6,
         "title": "Maximum Depth of N-ary Tree",
         "difficulty": "Easy",
-        "frequency": 83,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/maximum-depth-of-n-ary-tree",
         "topics": [
           "Tree",
@@ -251,7 +251,7 @@
         "id": 7,
         "title": "Design Circular Queue",
         "difficulty": "Medium",
-        "frequency": 79,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/design-circular-queue",
         "topics": [
           "Array",
@@ -264,7 +264,7 @@
         "id": 8,
         "title": "People Whose List of Favorite Companies Is Not a Subset of Another List",
         "difficulty": "Medium",
-        "frequency": 69,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list",
         "topics": [
           "Array",
@@ -276,7 +276,7 @@
         "id": 9,
         "title": "House Robber",
         "difficulty": "Medium",
-        "frequency": 69,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/house-robber",
         "topics": [
           "Array",
@@ -287,7 +287,7 @@
         "id": 10,
         "title": "Maximum Vacation Days",
         "difficulty": "Hard",
-        "frequency": 59,
+        "frequency": 62,
         "url": "https://leetcode.com/problems/maximum-vacation-days",
         "topics": [
           "Array",
@@ -297,9 +297,20 @@
       },
       {
         "id": 11,
+        "title": "House Robber II",
+        "difficulty": "Medium",
+        "frequency": 62,
+        "url": "https://leetcode.com/problems/house-robber-ii",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 12,
         "title": "Sliding Window Median",
         "difficulty": "Hard",
-        "frequency": 59,
+        "frequency": 53,
         "url": "https://leetcode.com/problems/sliding-window-median",
         "topics": [
           "Array",
@@ -310,10 +321,10 @@
         ]
       },
       {
-        "id": 12,
+        "id": 13,
         "title": "Binary Tree Maximum Path Sum",
         "difficulty": "Hard",
-        "frequency": 59,
+        "frequency": 53,
         "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
         "topics": [
           "Dynamic Programming",
@@ -321,17 +332,6 @@
           "Depth-First Search",
           "Binary Tree",
           "DP on Trees"
-        ]
-      },
-      {
-        "id": 13,
-        "title": "House Robber II",
-        "difficulty": "Medium",
-        "frequency": 59,
-        "url": "https://leetcode.com/problems/house-robber-ii",
-        "topics": [
-          "Array",
-          "Dynamic Programming"
         ]
       }
     ]

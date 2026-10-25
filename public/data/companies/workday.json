@@ -2,11 +2,23 @@
   "name": "Workday",
   "slug": "Workday",
   "dataKey": "workday",
-  "updatedAt": "2026-10-18T02:12:32.192Z",
+  "updatedAt": "2026-10-25T02:23:17.439Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Permutations",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/permutations",
+        "topics": [
+          "Array",
+          "Backtracking"
+        ]
+      }
+    ],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -23,7 +35,7 @@
         "id": 2,
         "title": "Group Anagrams",
         "difficulty": "Medium",
-        "frequency": 81,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/group-anagrams",
         "topics": [
           "Array",
@@ -36,7 +48,7 @@
         "id": 3,
         "title": "Container With Most Water",
         "difficulty": "Medium",
-        "frequency": 81,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/container-with-most-water",
         "topics": [
           "Array",
@@ -46,16 +58,19 @@
       },
       {
         "id": 4,
-        "title": "Sort Colors",
+        "title": "Top K Frequent Elements",
         "difficulty": "Medium",
-        "frequency": 81,
-        "url": "https://leetcode.com/problems/sort-colors",
+        "frequency": 82,
+        "url": "https://leetcode.com/problems/top-k-frequent-elements",
         "topics": [
           "Array",
-          "Two Pointers",
+          "Hash Table",
+          "Divide and Conquer",
           "Sorting",
-          "Quicksort",
-          "Bubble Sort"
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
         ]
       }
     ],
@@ -98,16 +113,13 @@
       },
       {
         "id": 4,
-        "title": "Sort Colors",
+        "title": "Permutations",
         "difficulty": "Medium",
-        "frequency": 81,
-        "url": "https://leetcode.com/problems/sort-colors",
+        "frequency": 92,
+        "url": "https://leetcode.com/problems/permutations",
         "topics": [
           "Array",
-          "Two Pointers",
-          "Sorting",
-          "Quicksort",
-          "Bubble Sort"
+          "Backtracking"
         ]
       },
       {
@@ -125,17 +137,6 @@
           "Bucket Sort",
           "Counting",
           "Quickselect"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Permutations",
-        "difficulty": "Medium",
-        "frequency": 81,
-        "url": "https://leetcode.com/problems/permutations",
-        "topics": [
-          "Array",
-          "Backtracking"
         ]
       }
     ]

@@ -2,39 +2,9 @@
   "name": "DevRev",
   "slug": "DevRev",
   "dataKey": "devrev",
-  "updatedAt": "2026-10-18T02:12:31.974Z",
+  "updatedAt": "2026-10-25T02:23:17.269Z",
   "problems": {
-    "1. Thirty Days.csv": [
-      {
-        "id": 1,
-        "title": "Shortest Subarray with Sum at Least K",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k",
-        "topics": [
-          "Array",
-          "Binary Search",
-          "Queue",
-          "Sliding Window",
-          "Heap (Priority Queue)",
-          "Prefix Sum",
-          "Monotonic Queue"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Maximum Subsequence Score",
-        "difficulty": "Medium",
-        "frequency": 75,
-        "url": "https://leetcode.com/problems/maximum-subsequence-score",
-        "topics": [
-          "Array",
-          "Greedy",
-          "Sorting",
-          "Heap (Priority Queue)"
-        ]
-      }
-    ],
+    "1. Thirty Days.csv": [],
     "2. Three Months.csv": [
       {
         "id": 1,
@@ -63,6 +33,18 @@
           "Greedy",
           "Sorting",
           "Heap (Priority Queue)"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Count Square Submatrices with All Ones",
+        "difficulty": "Medium",
+        "frequency": 75,
+        "url": "https://leetcode.com/problems/count-square-submatrices-with-all-ones",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
         ]
       }
     ],
@@ -94,6 +76,18 @@
           "Greedy",
           "Sorting",
           "Heap (Priority Queue)"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Count Square Submatrices with All Ones",
+        "difficulty": "Medium",
+        "frequency": 75,
+        "url": "https://leetcode.com/problems/count-square-submatrices-with-all-ones",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
         ]
       }
     ],
@@ -175,6 +169,18 @@
           "Greedy",
           "Sorting",
           "Heap (Priority Queue)"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Count Square Submatrices with All Ones",
+        "difficulty": "Medium",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/count-square-submatrices-with-all-ones",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
         ]
       }
     ]

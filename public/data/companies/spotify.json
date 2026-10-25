@@ -2,54 +2,15 @@
   "name": "Spotify",
   "slug": "Spotify",
   "dataKey": "spotify",
-  "updatedAt": "2026-10-18T02:12:32.149Z",
+  "updatedAt": "2026-10-25T02:23:17.404Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [
       {
         "id": 1,
-        "title": "Longest Substring Without Repeating Characters",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sliding Window"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Kth Largest Element in an Array",
-        "difficulty": "Medium",
-        "frequency": 90,
-        "url": "https://leetcode.com/problems/kth-largest-element-in-an-array",
-        "topics": [
-          "Array",
-          "Divide and Conquer",
-          "Sorting",
-          "Heap (Priority Queue)",
-          "Quickselect"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Analyze User Website Visit Pattern",
-        "difficulty": "Medium",
-        "frequency": 90,
-        "url": "https://leetcode.com/problems/analyze-user-website-visit-pattern",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Find Median from Data Stream",
         "difficulty": "Hard",
-        "frequency": 90,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/find-median-from-data-stream",
         "topics": [
           "Two Pointers",
@@ -75,22 +36,9 @@
       },
       {
         "id": 2,
-        "title": "Moving Average from Data Stream",
-        "difficulty": "Easy",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/moving-average-from-data-stream",
-        "topics": [
-          "Array",
-          "Design",
-          "Queue",
-          "Data Stream"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Analyze User Website Visit Pattern",
         "difficulty": "Medium",
-        "frequency": 88,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/analyze-user-website-visit-pattern",
         "topics": [
           "Array",
@@ -100,10 +48,10 @@
         ]
       },
       {
-        "id": 4,
+        "id": 3,
         "title": "Kth Largest Element in an Array",
         "difficulty": "Medium",
-        "frequency": 88,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/kth-largest-element-in-an-array",
         "topics": [
           "Array",
@@ -114,16 +62,29 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Find Median from Data Stream",
         "difficulty": "Hard",
-        "frequency": 72,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/find-median-from-data-stream",
         "topics": [
           "Two Pointers",
           "Design",
           "Sorting",
           "Heap (Priority Queue)",
+          "Data Stream"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Moving Average from Data Stream",
+        "difficulty": "Easy",
+        "frequency": 75,
+        "url": "https://leetcode.com/problems/moving-average-from-data-stream",
+        "topics": [
+          "Array",
+          "Design",
+          "Queue",
           "Data Stream"
         ]
       }
@@ -146,7 +107,7 @@
         "id": 2,
         "title": "Analyze User Website Visit Pattern",
         "difficulty": "Medium",
-        "frequency": 82,
+        "frequency": 83,
         "url": "https://leetcode.com/problems/analyze-user-website-visit-pattern",
         "topics": [
           "Array",
@@ -159,7 +120,7 @@
         "id": 3,
         "title": "Two Sum",
         "difficulty": "Easy",
-        "frequency": 80,
+        "frequency": 78,
         "url": "https://leetcode.com/problems/two-sum",
         "topics": [
           "Array",
@@ -168,9 +129,21 @@
       },
       {
         "id": 4,
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
+        "frequency": 78,
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 5,
         "title": "Kth Largest Element in an Array",
         "difficulty": "Medium",
-        "frequency": 80,
+        "frequency": 78,
         "url": "https://leetcode.com/problems/kth-largest-element-in-an-array",
         "topics": [
           "Array",
@@ -181,10 +154,10 @@
         ]
       },
       {
-        "id": 5,
+        "id": 6,
         "title": "Valid Parentheses",
         "difficulty": "Easy",
-        "frequency": 78,
+        "frequency": 75,
         "url": "https://leetcode.com/problems/valid-parentheses",
         "topics": [
           "String",
@@ -193,22 +166,10 @@
         ]
       },
       {
-        "id": 6,
-        "title": "Longest Substring Without Repeating Characters",
-        "difficulty": "Medium",
-        "frequency": 71,
-        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sliding Window"
-        ]
-      },
-      {
         "id": 7,
         "title": "Sliding Window Median",
         "difficulty": "Hard",
-        "frequency": 66,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/sliding-window-median",
         "topics": [
           "Array",
@@ -269,6 +230,17 @@
           "Breadth-First Search",
           "Binary Tree"
         ]
+      },
+      {
+        "id": 12,
+        "title": "Valid Palindrome",
+        "difficulty": "Easy",
+        "frequency": 53,
+        "url": "https://leetcode.com/problems/valid-palindrome",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ]
       }
     ],
     "5. All.csv": [
@@ -287,9 +259,21 @@
       },
       {
         "id": 2,
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
+        "frequency": 87,
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 3,
         "title": "Analyze User Website Visit Pattern",
         "difficulty": "Medium",
-        "frequency": 86,
+        "frequency": 87,
         "url": "https://leetcode.com/problems/analyze-user-website-visit-pattern",
         "topics": [
           "Array",
@@ -299,22 +283,10 @@
         ]
       },
       {
-        "id": 3,
-        "title": "Longest Substring Without Repeating Characters",
-        "difficulty": "Medium",
-        "frequency": 85,
-        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sliding Window"
-        ]
-      },
-      {
         "id": 4,
         "title": "Kth Largest Element in an Array",
         "difficulty": "Medium",
-        "frequency": 85,
+        "frequency": 83,
         "url": "https://leetcode.com/problems/kth-largest-element-in-an-array",
         "topics": [
           "Array",
@@ -339,7 +311,7 @@
         "id": 6,
         "title": "Leetcodify Friends Recommendations",
         "difficulty": "Hard",
-        "frequency": 77,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/leetcodify-friends-recommendations",
         "topics": [
           "Database"
@@ -349,7 +321,7 @@
         "id": 7,
         "title": "Leetcodify Similar Friends",
         "difficulty": "Hard",
-        "frequency": 77,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/leetcodify-similar-friends",
         "topics": [
           "Database"
@@ -359,7 +331,7 @@
         "id": 8,
         "title": "Valid Parentheses",
         "difficulty": "Easy",
-        "frequency": 77,
+        "frequency": 73,
         "url": "https://leetcode.com/problems/valid-parentheses",
         "topics": [
           "String",
@@ -371,7 +343,7 @@
         "id": 9,
         "title": "Sliding Window Median",
         "difficulty": "Hard",
-        "frequency": 67,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/sliding-window-median",
         "topics": [
           "Array",
@@ -385,7 +357,7 @@
         "id": 10,
         "title": "Find Median from Data Stream",
         "difficulty": "Hard",
-        "frequency": 63,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/find-median-from-data-stream",
         "topics": [
           "Two Pointers",
@@ -399,7 +371,7 @@
         "id": 11,
         "title": "Ransom Note",
         "difficulty": "Easy",
-        "frequency": 57,
+        "frequency": 65,
         "url": "https://leetcode.com/problems/ransom-note",
         "topics": [
           "Hash Table",
@@ -411,7 +383,7 @@
         "id": 12,
         "title": "Fibonacci Number",
         "difficulty": "Easy",
-        "frequency": 57,
+        "frequency": 59,
         "url": "https://leetcode.com/problems/fibonacci-number",
         "topics": [
           "Math",
@@ -424,7 +396,7 @@
         "id": 13,
         "title": "Maximum Depth of Binary Tree",
         "difficulty": "Easy",
-        "frequency": 49,
+        "frequency": 51,
         "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
         "topics": [
           "Tree",
@@ -437,11 +409,23 @@
         "id": 14,
         "title": "Valid Palindrome",
         "difficulty": "Easy",
-        "frequency": 49,
+        "frequency": 51,
         "url": "https://leetcode.com/problems/valid-palindrome",
         "topics": [
           "Two Pointers",
           "String"
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Valid Anagram",
+        "difficulty": "Easy",
+        "frequency": 51,
+        "url": "https://leetcode.com/problems/valid-anagram",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
         ]
       }
     ]

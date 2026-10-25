@@ -2,11 +2,23 @@
   "name": "HSBC",
   "slug": "HSBC",
   "dataKey": "hsbc",
-  "updatedAt": "2026-10-18T02:12:32.028Z",
+  "updatedAt": "2026-10-25T02:23:17.309Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      }
+    ],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -119,6 +131,18 @@
       },
       {
         "id": 4,
+        "title": "Climbing Stairs",
+        "difficulty": "Easy",
+        "frequency": 92,
+        "url": "https://leetcode.com/problems/climbing-stairs",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
+        ]
+      },
+      {
+        "id": 5,
         "title": "Best Time to Buy and Sell Stock",
         "difficulty": "Easy",
         "frequency": 81,
@@ -129,7 +153,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 6,
         "title": "Longest Common Prefix",
         "difficulty": "Easy",
         "frequency": 81,
@@ -141,15 +165,14 @@
         ]
       },
       {
-        "id": 6,
-        "title": "Climbing Stairs",
+        "id": 7,
+        "title": "Two Sum",
         "difficulty": "Easy",
         "frequency": 81,
-        "url": "https://leetcode.com/problems/climbing-stairs",
+        "url": "https://leetcode.com/problems/two-sum",
         "topics": [
-          "Math",
-          "Dynamic Programming",
-          "Memoization"
+          "Array",
+          "Hash Table"
         ]
       }
     ]

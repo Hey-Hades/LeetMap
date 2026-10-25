@@ -2,25 +2,11 @@
   "name": "Cloudflare",
   "slug": "Cloudflare",
   "dataKey": "cloudflare",
-  "updatedAt": "2026-10-18T02:12:31.957Z",
+  "updatedAt": "2026-10-25T02:23:17.252Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [
-      {
-        "id": 1,
-        "title": "Design Circular Queue",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/design-circular-queue",
-        "topics": [
-          "Array",
-          "Linked List",
-          "Design",
-          "Queue"
-        ]
-      }
-    ],
+    "3. Six Months.csv": [],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -39,7 +25,7 @@
         "id": 2,
         "title": "Reaching Points",
         "difficulty": "Hard",
-        "frequency": 89,
+        "frequency": 91,
         "url": "https://leetcode.com/problems/reaching-points",
         "topics": [
           "Math",
@@ -63,7 +49,7 @@
         "id": 4,
         "title": "3Sum",
         "difficulty": "Medium",
-        "frequency": 82,
+        "frequency": 80,
         "url": "https://leetcode.com/problems/3sum",
         "topics": [
           "Array",
@@ -75,7 +61,7 @@
         "id": 5,
         "title": "4Sum",
         "difficulty": "Medium",
-        "frequency": 73,
+        "frequency": 74,
         "url": "https://leetcode.com/problems/4sum",
         "topics": [
           "Array",
@@ -87,7 +73,7 @@
         "id": 6,
         "title": "LRU Cache",
         "difficulty": "Medium",
-        "frequency": 73,
+        "frequency": 71,
         "url": "https://leetcode.com/problems/lru-cache",
         "topics": [
           "Hash Table",
@@ -100,7 +86,7 @@
         "id": 7,
         "title": "Merge k Sorted Lists",
         "difficulty": "Hard",
-        "frequency": 69,
+        "frequency": 71,
         "url": "https://leetcode.com/problems/merge-k-sorted-lists",
         "topics": [
           "Linked List",
@@ -114,7 +100,7 @@
         "id": 8,
         "title": "Design Hit Counter",
         "difficulty": "Medium",
-        "frequency": 65,
+        "frequency": 66,
         "url": "https://leetcode.com/problems/design-hit-counter",
         "topics": [
           "Array",
@@ -128,7 +114,7 @@
         "id": 9,
         "title": "Number of Islands",
         "difficulty": "Medium",
-        "frequency": 65,
+        "frequency": 66,
         "url": "https://leetcode.com/problems/number-of-islands",
         "topics": [
           "Array",
@@ -142,7 +128,7 @@
         "id": 10,
         "title": "Logger Rate Limiter",
         "difficulty": "Easy",
-        "frequency": 59,
+        "frequency": 66,
         "url": "https://leetcode.com/problems/logger-rate-limiter",
         "topics": [
           "Hash Table",
@@ -154,7 +140,7 @@
         "id": 11,
         "title": "Course Schedule",
         "difficulty": "Medium",
-        "frequency": 51,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/course-schedule",
         "topics": [
           "Depth-First Search",
@@ -183,7 +169,7 @@
         "id": 2,
         "title": "Reaching Points",
         "difficulty": "Hard",
-        "frequency": 87,
+        "frequency": 90,
         "url": "https://leetcode.com/problems/reaching-points",
         "topics": [
           "Math",
@@ -195,7 +181,7 @@
         "id": 3,
         "title": "Design a Stack With Increment Operation",
         "difficulty": "Medium",
-        "frequency": 85,
+        "frequency": 86,
         "url": "https://leetcode.com/problems/design-a-stack-with-increment-operation",
         "topics": [
           "Array",
@@ -207,7 +193,7 @@
         "id": 4,
         "title": "3Sum",
         "difficulty": "Medium",
-        "frequency": 81,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/3sum",
         "topics": [
           "Array",
@@ -219,7 +205,7 @@
         "id": 5,
         "title": "4Sum",
         "difficulty": "Medium",
-        "frequency": 71,
+        "frequency": 74,
         "url": "https://leetcode.com/problems/4sum",
         "topics": [
           "Array",
@@ -229,22 +215,9 @@
       },
       {
         "id": 6,
-        "title": "LRU Cache",
-        "difficulty": "Medium",
-        "frequency": 71,
-        "url": "https://leetcode.com/problems/lru-cache",
-        "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Doubly-Linked List"
-        ]
-      },
-      {
-        "id": 7,
         "title": "Merge k Sorted Lists",
         "difficulty": "Hard",
-        "frequency": 71,
+        "frequency": 74,
         "url": "https://leetcode.com/problems/merge-k-sorted-lists",
         "topics": [
           "Linked List",
@@ -255,10 +228,23 @@
         ]
       },
       {
+        "id": 7,
+        "title": "LRU Cache",
+        "difficulty": "Medium",
+        "frequency": 70,
+        "url": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ]
+      },
+      {
         "id": 8,
         "title": "Design Hit Counter",
         "difficulty": "Medium",
-        "frequency": 64,
+        "frequency": 66,
         "url": "https://leetcode.com/problems/design-hit-counter",
         "topics": [
           "Array",
@@ -272,7 +258,7 @@
         "id": 9,
         "title": "Number of Islands",
         "difficulty": "Medium",
-        "frequency": 64,
+        "frequency": 66,
         "url": "https://leetcode.com/problems/number-of-islands",
         "topics": [
           "Array",
@@ -286,7 +272,7 @@
         "id": 10,
         "title": "Logger Rate Limiter",
         "difficulty": "Easy",
-        "frequency": 64,
+        "frequency": 66,
         "url": "https://leetcode.com/problems/logger-rate-limiter",
         "topics": [
           "Hash Table",
@@ -298,7 +284,7 @@
         "id": 11,
         "title": "Course Schedule",
         "difficulty": "Medium",
-        "frequency": 58,
+        "frequency": 60,
         "url": "https://leetcode.com/problems/course-schedule",
         "topics": [
           "Depth-First Search",

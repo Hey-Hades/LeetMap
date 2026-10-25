@@ -2,66 +2,11 @@
   "name": "SoFi",
   "slug": "SoFi",
   "dataKey": "sofi",
-  "updatedAt": "2026-10-18T02:12:32.147Z",
+  "updatedAt": "2026-10-25T02:23:17.403Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [
-      {
-        "id": 1,
-        "title": "Top K Frequent Elements",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/top-k-frequent-elements",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Divide and Conquer",
-          "Sorting",
-          "Heap (Priority Queue)",
-          "Bucket Sort",
-          "Counting",
-          "Quickselect"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Insert Delete GetRandom O(1)",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Math",
-          "Design",
-          "Randomized"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Maximum Number of Alloys",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/maximum-number-of-alloys",
-        "topics": [
-          "Array",
-          "Binary Search"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Text Justification",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/text-justification",
-        "topics": [
-          "Array",
-          "String",
-          "Simulation"
-        ]
-      }
-    ],
+    "3. Six Months.csv": [],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -90,60 +35,9 @@
       },
       {
         "id": 3,
-        "title": "Minimum Window Substring",
-        "difficulty": "Hard",
-        "frequency": 86,
-        "url": "https://leetcode.com/problems/minimum-window-substring",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sliding Window"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Insert Delete GetRandom O(1)",
-        "difficulty": "Medium",
-        "frequency": 86,
-        "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Math",
-          "Design",
-          "Randomized"
-        ]
-      },
-      {
-        "id": 5,
-        "title": "Asteroid Collision",
-        "difficulty": "Medium",
-        "frequency": 79,
-        "url": "https://leetcode.com/problems/asteroid-collision",
-        "topics": [
-          "Array",
-          "Stack",
-          "Simulation"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Maximum Number of Non-overlapping Palindrome Substrings",
-        "difficulty": "Hard",
-        "frequency": 79,
-        "url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings",
-        "topics": [
-          "Two Pointers",
-          "String",
-          "Dynamic Programming",
-          "Greedy"
-        ]
-      },
-      {
-        "id": 7,
         "title": "Top K Frequent Elements",
         "difficulty": "Medium",
-        "frequency": 79,
+        "frequency": 92,
         "url": "https://leetcode.com/problems/top-k-frequent-elements",
         "topics": [
           "Array",
@@ -157,10 +51,36 @@
         ]
       },
       {
-        "id": 8,
+        "id": 4,
+        "title": "Minimum Window Substring",
+        "difficulty": "Hard",
+        "frequency": 86,
+        "url": "https://leetcode.com/problems/minimum-window-substring",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Insert Delete GetRandom O(1)",
+        "difficulty": "Medium",
+        "frequency": 86,
+        "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ]
+      },
+      {
+        "id": 6,
         "title": "Number of Islands",
         "difficulty": "Medium",
-        "frequency": 69,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/number-of-islands",
         "topics": [
           "Array",
@@ -171,21 +91,10 @@
         ]
       },
       {
-        "id": 9,
-        "title": "Degree of an Array",
-        "difficulty": "Easy",
-        "frequency": 69,
-        "url": "https://leetcode.com/problems/degree-of-an-array",
-        "topics": [
-          "Array",
-          "Hash Table"
-        ]
-      },
-      {
-        "id": 10,
+        "id": 7,
         "title": "LRU Cache",
         "difficulty": "Medium",
-        "frequency": 69,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/lru-cache",
         "topics": [
           "Hash Table",
@@ -195,7 +104,32 @@
         ]
       },
       {
-        "id": 11,
+        "id": 8,
+        "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+        "difficulty": "Hard",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Asteroid Collision",
+        "difficulty": "Medium",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/asteroid-collision",
+        "topics": [
+          "Array",
+          "Stack",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 10,
         "title": "Merge k Sorted Lists",
         "difficulty": "Hard",
         "frequency": 69,
@@ -209,16 +143,26 @@
         ]
       },
       {
-        "id": 12,
-        "title": "Word Ladder",
-        "difficulty": "Hard",
+        "id": 11,
+        "title": "Degree of an Array",
+        "difficulty": "Easy",
         "frequency": 69,
-        "url": "https://leetcode.com/problems/word-ladder",
+        "url": "https://leetcode.com/problems/degree-of-an-array",
         "topics": [
-          "Hash Table",
-          "String",
-          "Breadth-First Search",
-          "Bidirectional Search"
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Meeting Scheduler",
+        "difficulty": "Medium",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/meeting-scheduler",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
         ]
       }
     ],
@@ -239,7 +183,7 @@
         "id": 2,
         "title": "Longest Mountain in Array",
         "difficulty": "Medium",
-        "frequency": 96,
+        "frequency": 92,
         "url": "https://leetcode.com/problems/longest-mountain-in-array",
         "topics": [
           "Array",
@@ -250,35 +194,9 @@
       },
       {
         "id": 3,
-        "title": "Insert Delete GetRandom O(1)",
-        "difficulty": "Medium",
-        "frequency": 96,
-        "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Math",
-          "Design",
-          "Randomized"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Minimum Window Substring",
-        "difficulty": "Hard",
-        "frequency": 91,
-        "url": "https://leetcode.com/problems/minimum-window-substring",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sliding Window"
-        ]
-      },
-      {
-        "id": 5,
         "title": "Top K Frequent Elements",
         "difficulty": "Medium",
-        "frequency": 91,
+        "frequency": 92,
         "url": "https://leetcode.com/problems/top-k-frequent-elements",
         "topics": [
           "Array",
@@ -292,10 +210,36 @@
         ]
       },
       {
+        "id": 4,
+        "title": "Minimum Window Substring",
+        "difficulty": "Hard",
+        "frequency": 86,
+        "url": "https://leetcode.com/problems/minimum-window-substring",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Insert Delete GetRandom O(1)",
+        "difficulty": "Medium",
+        "frequency": 86,
+        "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ]
+      },
+      {
         "id": 6,
         "title": "Number of Islands",
         "difficulty": "Medium",
-        "frequency": 78,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/number-of-islands",
         "topics": [
           "Array",
@@ -307,32 +251,9 @@
       },
       {
         "id": 7,
-        "title": "Asteroid Collision",
-        "difficulty": "Medium",
-        "frequency": 78,
-        "url": "https://leetcode.com/problems/asteroid-collision",
-        "topics": [
-          "Array",
-          "Stack",
-          "Simulation"
-        ]
-      },
-      {
-        "id": 8,
-        "title": "Degree of an Array",
-        "difficulty": "Easy",
-        "frequency": 78,
-        "url": "https://leetcode.com/problems/degree-of-an-array",
-        "topics": [
-          "Array",
-          "Hash Table"
-        ]
-      },
-      {
-        "id": 9,
         "title": "LRU Cache",
         "difficulty": "Medium",
-        "frequency": 78,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/lru-cache",
         "topics": [
           "Hash Table",
@@ -342,10 +263,10 @@
         ]
       },
       {
-        "id": 10,
+        "id": 8,
         "title": "Maximum Number of Non-overlapping Palindrome Substrings",
         "difficulty": "Hard",
-        "frequency": 78,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings",
         "topics": [
           "Two Pointers",
@@ -355,10 +276,33 @@
         ]
       },
       {
+        "id": 9,
+        "title": "Asteroid Collision",
+        "difficulty": "Medium",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/asteroid-collision",
+        "topics": [
+          "Array",
+          "Stack",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Degree of an Array",
+        "difficulty": "Easy",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/degree-of-an-array",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
         "id": 11,
         "title": "Merge k Sorted Lists",
         "difficulty": "Hard",
-        "frequency": 68,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/merge-k-sorted-lists",
         "topics": [
           "Linked List",
@@ -372,7 +316,7 @@
         "id": 12,
         "title": "Meeting Scheduler",
         "difficulty": "Medium",
-        "frequency": 68,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/meeting-scheduler",
         "topics": [
           "Array",
@@ -384,7 +328,7 @@
         "id": 13,
         "title": "Maximum Number of Alloys",
         "difficulty": "Medium",
-        "frequency": 68,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/maximum-number-of-alloys",
         "topics": [
           "Array",
@@ -393,22 +337,9 @@
       },
       {
         "id": 14,
-        "title": "Word Ladder",
-        "difficulty": "Hard",
-        "frequency": 68,
-        "url": "https://leetcode.com/problems/word-ladder",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Breadth-First Search",
-          "Bidirectional Search"
-        ]
-      },
-      {
-        "id": 15,
         "title": "Text Justification",
         "difficulty": "Hard",
-        "frequency": 68,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/text-justification",
         "topics": [
           "Array",

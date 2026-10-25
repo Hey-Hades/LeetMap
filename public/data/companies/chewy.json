@@ -2,29 +2,29 @@
   "name": "Chewy",
   "slug": "Chewy",
   "dataKey": "chewy",
-  "updatedAt": "2026-10-18T02:12:31.949Z",
+  "updatedAt": "2026-10-25T02:23:17.247Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [
-      {
-        "id": 1,
-        "title": "Move Zeroes",
-        "difficulty": "Easy",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/move-zeroes",
-        "topics": [
-          "Array",
-          "Two Pointers"
-        ]
-      }
-    ],
+    "3. Six Months.csv": [],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
+        "title": "Valid Parentheses",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ]
+      },
+      {
+        "id": 2,
         "title": "Top K Frequent Elements",
         "difficulty": "Medium",
-        "frequency": 100,
+        "frequency": 90,
         "url": "https://leetcode.com/problems/top-k-frequent-elements",
         "topics": [
           "Array",
@@ -38,22 +38,10 @@
         ]
       },
       {
-        "id": 2,
-        "title": "Valid Parentheses",
-        "difficulty": "Easy",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/valid-parentheses",
-        "topics": [
-          "String",
-          "Stack",
-          "Bracket Sequences"
-        ]
-      },
-      {
         "id": 3,
         "title": "Merge Intervals",
         "difficulty": "Medium",
-        "frequency": 100,
+        "frequency": 90,
         "url": "https://leetcode.com/problems/merge-intervals",
         "topics": [
           "Array",
@@ -65,7 +53,7 @@
         "id": 4,
         "title": "LRU Cache",
         "difficulty": "Medium",
-        "frequency": 100,
+        "frequency": 90,
         "url": "https://leetcode.com/problems/lru-cache",
         "topics": [
           "Hash Table",
@@ -78,9 +66,21 @@
     "5. All.csv": [
       {
         "id": 1,
+        "title": "Valid Parentheses",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ]
+      },
+      {
+        "id": 2,
         "title": "Top K Frequent Elements",
         "difficulty": "Medium",
-        "frequency": 100,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/top-k-frequent-elements",
         "topics": [
           "Array",
@@ -94,10 +94,10 @@
         ]
       },
       {
-        "id": 2,
+        "id": 3,
         "title": "LRU Cache",
         "difficulty": "Medium",
-        "frequency": 100,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/lru-cache",
         "topics": [
           "Hash Table",
@@ -107,22 +107,10 @@
         ]
       },
       {
-        "id": 3,
-        "title": "Valid Parentheses",
-        "difficulty": "Easy",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/valid-parentheses",
-        "topics": [
-          "String",
-          "Stack",
-          "Bracket Sequences"
-        ]
-      },
-      {
         "id": 4,
         "title": "Merge Intervals",
         "difficulty": "Medium",
-        "frequency": 100,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/merge-intervals",
         "topics": [
           "Array",
@@ -134,7 +122,7 @@
         "id": 5,
         "title": "Move Zeroes",
         "difficulty": "Easy",
-        "frequency": 100,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/move-zeroes",
         "topics": [
           "Array",

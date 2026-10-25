@@ -2,36 +2,11 @@
   "name": "Wissen Technology",
   "slug": "Wissen Technology",
   "dataKey": "wissen_technology",
-  "updatedAt": "2026-10-18T02:12:32.191Z",
+  "updatedAt": "2026-10-25T02:23:17.438Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [
-      {
-        "id": 1,
-        "title": "Longest Substring Without Repeating Characters",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sliding Window"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "3Sum",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/3sum",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Sorting"
-        ]
-      }
-    ],
+    "3. Six Months.csv": [],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -71,9 +46,43 @@
       },
       {
         "id": 4,
+        "title": "Remove Duplicates from Sorted Array II",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Remove Duplicates from Sorted Array",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "3Sum",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/3sum",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 7,
         "title": "Search a 2D Matrix",
         "difficulty": "Medium",
-        "frequency": 89,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/search-a-2d-matrix",
         "topics": [
           "Array",
@@ -82,10 +91,10 @@
         ]
       },
       {
-        "id": 5,
+        "id": 8,
         "title": "Sort Characters By Frequency",
         "difficulty": "Medium",
-        "frequency": 89,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/sort-characters-by-frequency",
         "topics": [
           "Hash Table",
@@ -97,21 +106,10 @@
         ]
       },
       {
-        "id": 6,
-        "title": "Remove Duplicates from Sorted Array II",
-        "difficulty": "Medium",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
-        "topics": [
-          "Array",
-          "Two Pointers"
-        ]
-      },
-      {
-        "id": 7,
+        "id": 9,
         "title": "Spiral Matrix",
         "difficulty": "Medium",
-        "frequency": 89,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/spiral-matrix",
         "topics": [
           "Array",
@@ -120,14 +118,15 @@
         ]
       },
       {
-        "id": 8,
-        "title": "Remove Duplicates from Sorted Array",
-        "difficulty": "Easy",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+        "id": 10,
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
+        "frequency": 88,
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
         "topics": [
-          "Array",
-          "Two Pointers"
+          "Hash Table",
+          "String",
+          "Sliding Window"
         ]
       }
     ],
@@ -205,6 +204,18 @@
       },
       {
         "id": 7,
+        "title": "Spiral Matrix",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/spiral-matrix",
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 8,
         "title": "Remove Duplicates from Sorted Array",
         "difficulty": "Easy",
         "frequency": 100,
@@ -215,7 +226,7 @@
         ]
       },
       {
-        "id": 8,
+        "id": 9,
         "title": "Search a 2D Matrix",
         "difficulty": "Medium",
         "frequency": 88,
@@ -227,7 +238,7 @@
         ]
       },
       {
-        "id": 9,
+        "id": 10,
         "title": "Sort Characters By Frequency",
         "difficulty": "Medium",
         "frequency": 88,
@@ -242,7 +253,7 @@
         ]
       },
       {
-        "id": 10,
+        "id": 11,
         "title": "Group Anagrams",
         "difficulty": "Medium",
         "frequency": 88,
@@ -252,18 +263,6 @@
           "Hash Table",
           "String",
           "Sorting"
-        ]
-      },
-      {
-        "id": 11,
-        "title": "Spiral Matrix",
-        "difficulty": "Medium",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/spiral-matrix",
-        "topics": [
-          "Array",
-          "Matrix",
-          "Simulation"
         ]
       }
     ]

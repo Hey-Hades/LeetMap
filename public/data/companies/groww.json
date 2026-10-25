@@ -2,24 +2,21 @@
   "name": "Groww",
   "slug": "Groww",
   "dataKey": "groww",
-  "updatedAt": "2026-10-18T02:12:32.025Z",
+  "updatedAt": "2026-10-25T02:23:17.306Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [
       {
         "id": 1,
-        "title": "Maximize Score After N Operations",
+        "title": "Maximum Number of Events That Can Be Attended II",
         "difficulty": "Hard",
         "frequency": 100,
-        "url": "https://leetcode.com/problems/maximize-score-after-n-operations",
+        "url": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii",
         "topics": [
           "Array",
-          "Math",
+          "Binary Search",
           "Dynamic Programming",
-          "Backtracking",
-          "Bit Manipulation",
-          "Number Theory",
-          "Bitmask"
+          "Sorting"
         ]
       }
     ],
@@ -39,6 +36,19 @@
           "Number Theory",
           "Bitmask"
         ]
+      },
+      {
+        "id": 2,
+        "title": "Maximum Number of Events That Can Be Attended II",
+        "difficulty": "Hard",
+        "frequency": 74,
+        "url": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Sorting"
+        ]
       }
     ],
     "4. More Than Six Months.csv": [
@@ -57,7 +67,7 @@
         "id": 2,
         "title": "Maximum Good Subarray Sum",
         "difficulty": "Medium",
-        "frequency": 93,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/maximum-good-subarray-sum",
         "topics": [
           "Array",
@@ -67,18 +77,6 @@
       },
       {
         "id": 3,
-        "title": "Container With Most Water",
-        "difficulty": "Medium",
-        "frequency": 82,
-        "url": "https://leetcode.com/problems/container-with-most-water",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Greedy"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Maximum Length of a Concatenated String with Unique Characters",
         "difficulty": "Medium",
         "frequency": 82,
@@ -91,7 +89,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Best Time to Buy and Sell Stock II",
         "difficulty": "Medium",
         "frequency": 82,
@@ -147,7 +145,7 @@
         "id": 4,
         "title": "Maximum Good Subarray Sum",
         "difficulty": "Medium",
-        "frequency": 77,
+        "frequency": 84,
         "url": "https://leetcode.com/problems/maximum-good-subarray-sum",
         "topics": [
           "Array",
@@ -170,18 +168,6 @@
       },
       {
         "id": 6,
-        "title": "Container With Most Water",
-        "difficulty": "Medium",
-        "frequency": 68,
-        "url": "https://leetcode.com/problems/container-with-most-water",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Greedy"
-        ]
-      },
-      {
-        "id": 7,
         "title": "Best Time to Buy and Sell Stock II",
         "difficulty": "Medium",
         "frequency": 68,
@@ -190,6 +176,19 @@
           "Array",
           "Dynamic Programming",
           "Greedy"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Maximum Number of Events That Can Be Attended II",
+        "difficulty": "Hard",
+        "frequency": 68,
+        "url": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Sorting"
         ]
       }
     ]

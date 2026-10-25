@@ -2,71 +2,18 @@
   "name": "Mitsogo",
   "slug": "Mitsogo",
   "dataKey": "mitsogo",
-  "updatedAt": "2026-10-18T02:12:32.096Z",
+  "updatedAt": "2026-10-25T02:23:17.364Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
     "3. Six Months.csv": [],
-    "4. More Than Six Months.csv": [
-      {
-        "id": 1,
-        "title": "Symmetric Coordinates",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/symmetric-coordinates",
-        "topics": [
-          "Database"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Pascal's Triangle",
-        "difficulty": "Easy",
-        "frequency": 68,
-        "url": "https://leetcode.com/problems/pascals-triangle",
-        "topics": [
-          "Array",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Next Permutation",
-        "difficulty": "Medium",
-        "frequency": 68,
-        "url": "https://leetcode.com/problems/next-permutation",
-        "topics": [
-          "Array",
-          "Two Pointers"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Zigzag Conversion",
-        "difficulty": "Medium",
-        "frequency": 68,
-        "url": "https://leetcode.com/problems/zigzag-conversion",
-        "topics": [
-          "String"
-        ]
-      }
-    ],
+    "4. More Than Six Months.csv": [],
     "5. All.csv": [
       {
         "id": 1,
-        "title": "Symmetric Coordinates",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/symmetric-coordinates",
-        "topics": [
-          "Database"
-        ]
-      },
-      {
-        "id": 2,
         "title": "Right Triangles",
         "difficulty": "Medium",
-        "frequency": 98,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/right-triangles",
         "topics": [
           "Array",
@@ -77,20 +24,20 @@
         ]
       },
       {
-        "id": 3,
+        "id": 2,
         "title": "Find the Integer Added to Array I",
         "difficulty": "Easy",
-        "frequency": 95,
+        "frequency": 97,
         "url": "https://leetcode.com/problems/find-the-integer-added-to-array-i",
         "topics": [
           "Array"
         ]
       },
       {
-        "id": 4,
+        "id": 3,
         "title": "Find the Integer Added to Array II",
         "difficulty": "Medium",
-        "frequency": 95,
+        "frequency": 97,
         "url": "https://leetcode.com/problems/find-the-integer-added-to-array-ii",
         "topics": [
           "Array",
@@ -100,10 +47,10 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Minimum Substring Partition of Equal Character Frequency",
         "difficulty": "Medium",
-        "frequency": 95,
+        "frequency": 97,
         "url": "https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency",
         "topics": [
           "Hash Table",
@@ -113,10 +60,10 @@
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "title": "Construct String with Minimum Cost",
         "difficulty": "Hard",
-        "frequency": 95,
+        "frequency": 97,
         "url": "https://leetcode.com/problems/construct-string-with-minimum-cost",
         "topics": [
           "Array",
@@ -126,10 +73,10 @@
         ]
       },
       {
-        "id": 7,
+        "id": 6,
         "title": "Maximum Total Reward Using Operations I",
         "difficulty": "Medium",
-        "frequency": 95,
+        "frequency": 97,
         "url": "https://leetcode.com/problems/maximum-total-reward-using-operations-i",
         "topics": [
           "Array",
@@ -139,10 +86,10 @@
         ]
       },
       {
-        "id": 8,
+        "id": 7,
         "title": "Maximum Total Reward Using Operations II",
         "difficulty": "Hard",
-        "frequency": 95,
+        "frequency": 97,
         "url": "https://leetcode.com/problems/maximum-total-reward-using-operations-ii",
         "topics": [
           "Array",
@@ -152,10 +99,10 @@
         ]
       },
       {
-        "id": 9,
+        "id": 8,
         "title": "Shortest Subarray With OR at Least K II",
         "difficulty": "Medium",
-        "frequency": 95,
+        "frequency": 97,
         "url": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii",
         "topics": [
           "Array",
@@ -164,10 +111,10 @@
         ]
       },
       {
-        "id": 10,
+        "id": 9,
         "title": "Shortest Subarray With OR at Least K I",
         "difficulty": "Easy",
-        "frequency": 95,
+        "frequency": 97,
         "url": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i",
         "topics": [
           "Array",
@@ -176,47 +123,15 @@
         ]
       },
       {
-        "id": 11,
+        "id": 10,
         "title": "Delayed Count of Equal Elements",
         "difficulty": "Medium",
-        "frequency": 95,
+        "frequency": 97,
         "url": "https://leetcode.com/problems/delayed-count-of-equal-elements",
         "topics": [
           "Array",
           "Hash Table",
           "Counting"
-        ]
-      },
-      {
-        "id": 12,
-        "title": "Pascal's Triangle",
-        "difficulty": "Easy",
-        "frequency": 62,
-        "url": "https://leetcode.com/problems/pascals-triangle",
-        "topics": [
-          "Array",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 13,
-        "title": "Zigzag Conversion",
-        "difficulty": "Medium",
-        "frequency": 62,
-        "url": "https://leetcode.com/problems/zigzag-conversion",
-        "topics": [
-          "String"
-        ]
-      },
-      {
-        "id": 14,
-        "title": "Next Permutation",
-        "difficulty": "Medium",
-        "frequency": 62,
-        "url": "https://leetcode.com/problems/next-permutation",
-        "topics": [
-          "Array",
-          "Two Pointers"
         ]
       }
     ]

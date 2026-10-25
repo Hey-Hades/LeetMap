@@ -2,7 +2,7 @@
   "name": "ThoughtWorks",
   "slug": "ThoughtWorks",
   "dataKey": "thoughtworks",
-  "updatedAt": "2026-10-18T02:12:32.159Z",
+  "updatedAt": "2026-10-25T02:23:17.412Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -10,62 +10,56 @@
     "4. More Than Six Months.csv": [
       {
         "id": 1,
-        "title": "Number of Subarrays That Match a Pattern II",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii",
-        "topics": [
-          "Array",
-          "Rolling Hash",
-          "String Matching",
-          "Hash Function"
-        ]
-      },
-      {
-        "id": 2,
         "title": "Two Sum",
         "difficulty": "Easy",
-        "frequency": 68,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/two-sum",
         "topics": [
           "Array",
           "Hash Table"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Find Closest Number to Zero",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/find-closest-number-to-zero",
+        "topics": [
+          "Array"
         ]
       }
     ],
     "5. All.csv": [
       {
         "id": 1,
-        "title": "Number of Subarrays That Match a Pattern II",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii",
-        "topics": [
-          "Array",
-          "Rolling Hash",
-          "String Matching",
-          "Hash Function"
-        ]
-      },
-      {
-        "id": 2,
         "title": "Number of Bit Changes to Make Two Integers Equal",
         "difficulty": "Easy",
-        "frequency": 95,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal",
         "topics": [
           "Bit Manipulation"
         ]
       },
       {
-        "id": 3,
+        "id": 2,
         "title": "Two Sum",
         "difficulty": "Easy",
-        "frequency": 66,
+        "frequency": 71,
         "url": "https://leetcode.com/problems/two-sum",
         "topics": [
           "Array",
           "Hash Table"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Find Closest Number to Zero",
+        "difficulty": "Easy",
+        "frequency": 71,
+        "url": "https://leetcode.com/problems/find-closest-number-to-zero",
+        "topics": [
+          "Array"
         ]
       }
     ]

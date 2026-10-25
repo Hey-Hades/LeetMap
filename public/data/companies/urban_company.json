@@ -2,7 +2,7 @@
   "name": "Urban Company",
   "slug": "Urban Company",
   "dataKey": "urban_company",
-  "updatedAt": "2026-10-18T02:12:32.177Z",
+  "updatedAt": "2026-10-25T02:23:17.428Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -37,17 +37,6 @@
       },
       {
         "id": 3,
-        "title": "Candy",
-        "difficulty": "Hard",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/candy",
-        "topics": [
-          "Array",
-          "Greedy"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Find Peak Element",
         "difficulty": "Medium",
         "frequency": 89,
@@ -58,7 +47,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Minimum Deletions to Make String Balanced",
         "difficulty": "Medium",
         "frequency": 89,
@@ -67,6 +56,24 @@
           "String",
           "Dynamic Programming",
           "Stack"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Evaluate Division",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/evaluate-division",
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory",
+          "Shortest Path",
+          "Bellman–Ford Algorithm",
+          "Floyd–Warshall Algorithm"
         ]
       }
     ],
@@ -86,17 +93,6 @@
       },
       {
         "id": 2,
-        "title": "Candy",
-        "difficulty": "Hard",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/candy",
-        "topics": [
-          "Array",
-          "Greedy"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Trapping Rain Water",
         "difficulty": "Hard",
         "frequency": 89,
@@ -110,7 +106,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 3,
         "title": "Find Peak Element",
         "difficulty": "Medium",
         "frequency": 89,
@@ -121,7 +117,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Minimum Deletions to Make String Balanced",
         "difficulty": "Medium",
         "frequency": 89,
@@ -133,7 +129,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "title": "Evaluate Division",
         "difficulty": "Medium",
         "frequency": 89,
@@ -151,7 +147,7 @@
         ]
       },
       {
-        "id": 7,
+        "id": 6,
         "title": "Frequency of the Most Frequent Element",
         "difficulty": "Medium",
         "frequency": 89,

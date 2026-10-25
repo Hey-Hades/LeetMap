@@ -2,64 +2,13 @@
   "name": "Autodesk",
   "slug": "Autodesk",
   "dataKey": "autodesk",
-  "updatedAt": "2026-10-18T02:12:31.912Z",
+  "updatedAt": "2026-10-25T02:23:17.222Z",
   "problems": {
     "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [
-      {
-        "id": 1,
-        "title": "Logger Rate Limiter",
-        "difficulty": "Easy",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/logger-rate-limiter",
-        "topics": [
-          "Hash Table",
-          "Design",
-          "Data Stream"
-        ]
-      }
-    ],
+    "2. Three Months.csv": [],
     "3. Six Months.csv": [
       {
         "id": 1,
-        "title": "Number of Islands",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/number-of-islands",
-        "topics": [
-          "Array",
-          "Depth-First Search",
-          "Breadth-First Search",
-          "Union-Find",
-          "Matrix"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Valid Parentheses",
-        "difficulty": "Easy",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/valid-parentheses",
-        "topics": [
-          "String",
-          "Stack",
-          "Bracket Sequences"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Text Justification",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/text-justification",
-        "topics": [
-          "Array",
-          "String",
-          "Simulation"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Logger Rate Limiter",
         "difficulty": "Easy",
         "frequency": 100,
@@ -74,20 +23,9 @@
     "4. More Than Six Months.csv": [
       {
         "id": 1,
-        "title": "Search in Rotated Sorted Array",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
-        "topics": [
-          "Array",
-          "Binary Search"
-        ]
-      },
-      {
-        "id": 2,
         "title": "Valid Parentheses",
         "difficulty": "Easy",
-        "frequency": 86,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/valid-parentheses",
         "topics": [
           "String",
@@ -96,10 +34,21 @@
         ]
       },
       {
+        "id": 2,
+        "title": "Search in Rotated Sorted Array",
+        "difficulty": "Medium",
+        "frequency": 94,
+        "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ]
+      },
+      {
         "id": 3,
         "title": "Median of Two Sorted Arrays",
         "difficulty": "Hard",
-        "frequency": 86,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
         "topics": [
           "Array",
@@ -111,7 +60,7 @@
         "id": 4,
         "title": "3Sum",
         "difficulty": "Medium",
-        "frequency": 86,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/3sum",
         "topics": [
           "Array",
@@ -123,7 +72,7 @@
         "id": 5,
         "title": "LRU Cache",
         "difficulty": "Medium",
-        "frequency": 86,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/lru-cache",
         "topics": [
           "Hash Table",
@@ -136,7 +85,7 @@
         "id": 6,
         "title": "Sort Colors",
         "difficulty": "Medium",
-        "frequency": 86,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/sort-colors",
         "topics": [
           "Array",
@@ -148,21 +97,32 @@
       },
       {
         "id": 7,
-        "title": "Sliding Window Maximum",
-        "difficulty": "Hard",
-        "frequency": 74,
-        "url": "https://leetcode.com/problems/sliding-window-maximum",
+        "title": "Group Anagrams",
+        "difficulty": "Medium",
+        "frequency": 85,
+        "url": "https://leetcode.com/problems/group-anagrams",
         "topics": [
           "Array",
-          "Queue",
-          "Sliding Window",
-          "Heap (Priority Queue)",
-          "Monotonic Queue",
-          "Range Minimum/Maximum Query"
+          "Hash Table",
+          "String",
+          "Sorting"
         ]
       },
       {
         "id": 8,
+        "title": "Longest Palindromic Substring",
+        "difficulty": "Medium",
+        "frequency": 85,
+        "url": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ]
+      },
+      {
+        "id": 9,
         "title": "Number of Subarrays That Match a Pattern I",
         "difficulty": "Medium",
         "frequency": 74,
@@ -175,7 +135,7 @@
         ]
       },
       {
-        "id": 9,
+        "id": 10,
         "title": "Reverse Nodes in k-Group",
         "difficulty": "Hard",
         "frequency": 74,
@@ -186,7 +146,7 @@
         ]
       },
       {
-        "id": 10,
+        "id": 11,
         "title": "Linked List Cycle",
         "difficulty": "Easy",
         "frequency": 74,
@@ -199,7 +159,7 @@
         ]
       },
       {
-        "id": 11,
+        "id": 12,
         "title": "Majority Element",
         "difficulty": "Easy",
         "frequency": 74,
@@ -214,7 +174,7 @@
         ]
       },
       {
-        "id": 12,
+        "id": 13,
         "title": "Spiral Matrix",
         "difficulty": "Medium",
         "frequency": 74,
@@ -226,7 +186,7 @@
         ]
       },
       {
-        "id": 13,
+        "id": 14,
         "title": "Koko Eating Bananas",
         "difficulty": "Medium",
         "frequency": 74,
@@ -237,7 +197,7 @@
         ]
       },
       {
-        "id": 14,
+        "id": 15,
         "title": "Maximum Subarray",
         "difficulty": "Medium",
         "frequency": 74,
@@ -249,7 +209,7 @@
         ]
       },
       {
-        "id": 15,
+        "id": 16,
         "title": "Set Matrix Zeroes",
         "difficulty": "Medium",
         "frequency": 74,
@@ -261,7 +221,7 @@
         ]
       },
       {
-        "id": 16,
+        "id": 17,
         "title": "Elimination Game",
         "difficulty": "Medium",
         "frequency": 74,
@@ -272,7 +232,7 @@
         ]
       },
       {
-        "id": 17,
+        "id": 18,
         "title": "Two Sum",
         "difficulty": "Easy",
         "frequency": 74,
@@ -283,33 +243,7 @@
         ]
       },
       {
-        "id": 18,
-        "title": "Group Anagrams",
-        "difficulty": "Medium",
-        "frequency": 74,
-        "url": "https://leetcode.com/problems/group-anagrams",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      },
-      {
         "id": 19,
-        "title": "Longest Palindromic Substring",
-        "difficulty": "Medium",
-        "frequency": 74,
-        "url": "https://leetcode.com/problems/longest-palindromic-substring",
-        "topics": [
-          "Two Pointers",
-          "String",
-          "Dynamic Programming",
-          "Manacher"
-        ]
-      },
-      {
-        "id": 20,
         "title": "Kth Largest Element in an Array",
         "difficulty": "Medium",
         "frequency": 74,
@@ -323,7 +257,7 @@
         ]
       },
       {
-        "id": 21,
+        "id": 20,
         "title": "Merge Intervals",
         "difficulty": "Medium",
         "frequency": 74,
@@ -335,7 +269,7 @@
         ]
       },
       {
-        "id": 22,
+        "id": 21,
         "title": "Word Break",
         "difficulty": "Medium",
         "frequency": 74,
@@ -348,6 +282,20 @@
           "Trie",
           "Memoization",
           "Brute-Force Search"
+        ]
+      },
+      {
+        "id": 22,
+        "title": "Number of Islands",
+        "difficulty": "Medium",
+        "frequency": 74,
+        "url": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
         ]
       }
     ],
@@ -373,6 +321,7 @@
         "url": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i",
         "topics": [
           "Array",
+          "Two Pointers",
           "Simulation"
         ]
       },
@@ -447,7 +396,7 @@
         "id": 8,
         "title": "Search in Rotated Sorted Array",
         "difficulty": "Medium",
-        "frequency": 87,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
         "topics": [
           "Array",
@@ -481,17 +430,15 @@
       },
       {
         "id": 11,
-        "title": "Sliding Window Maximum",
-        "difficulty": "Hard",
+        "title": "Group Anagrams",
+        "difficulty": "Medium",
         "frequency": 69,
-        "url": "https://leetcode.com/problems/sliding-window-maximum",
+        "url": "https://leetcode.com/problems/group-anagrams",
         "topics": [
           "Array",
-          "Queue",
-          "Sliding Window",
-          "Heap (Priority Queue)",
-          "Monotonic Queue",
-          "Range Minimum/Maximum Query"
+          "Hash Table",
+          "String",
+          "Sorting"
         ]
       },
       {
@@ -547,19 +494,6 @@
       },
       {
         "id": 16,
-        "title": "Group Anagrams",
-        "difficulty": "Medium",
-        "frequency": 59,
-        "url": "https://leetcode.com/problems/group-anagrams",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 17,
         "title": "Reverse Nodes in k-Group",
         "difficulty": "Hard",
         "frequency": 59,
@@ -570,7 +504,7 @@
         ]
       },
       {
-        "id": 18,
+        "id": 17,
         "title": "Majority Element",
         "difficulty": "Easy",
         "frequency": 59,
@@ -585,7 +519,7 @@
         ]
       },
       {
-        "id": 19,
+        "id": 18,
         "title": "Koko Eating Bananas",
         "difficulty": "Medium",
         "frequency": 59,
@@ -596,7 +530,7 @@
         ]
       },
       {
-        "id": 20,
+        "id": 19,
         "title": "Maximum Subarray",
         "difficulty": "Medium",
         "frequency": 59,
@@ -608,7 +542,7 @@
         ]
       },
       {
-        "id": 21,
+        "id": 20,
         "title": "Set Matrix Zeroes",
         "difficulty": "Medium",
         "frequency": 59,
@@ -620,7 +554,7 @@
         ]
       },
       {
-        "id": 22,
+        "id": 21,
         "title": "Elimination Game",
         "difficulty": "Medium",
         "frequency": 59,
@@ -631,7 +565,7 @@
         ]
       },
       {
-        "id": 23,
+        "id": 22,
         "title": "Linked List Cycle",
         "difficulty": "Easy",
         "frequency": 59,
@@ -644,7 +578,7 @@
         ]
       },
       {
-        "id": 24,
+        "id": 23,
         "title": "Spiral Matrix",
         "difficulty": "Medium",
         "frequency": 59,
@@ -656,7 +590,7 @@
         ]
       },
       {
-        "id": 25,
+        "id": 24,
         "title": "Two Sum",
         "difficulty": "Easy",
         "frequency": 59,
@@ -667,7 +601,7 @@
         ]
       },
       {
-        "id": 26,
+        "id": 25,
         "title": "Kth Largest Element in an Array",
         "difficulty": "Medium",
         "frequency": 59,
@@ -681,7 +615,7 @@
         ]
       },
       {
-        "id": 27,
+        "id": 26,
         "title": "Merge Intervals",
         "difficulty": "Medium",
         "frequency": 59,
@@ -693,7 +627,7 @@
         ]
       },
       {
-        "id": 28,
+        "id": 27,
         "title": "Word Break",
         "difficulty": "Medium",
         "frequency": 59,
@@ -709,7 +643,7 @@
         ]
       },
       {
-        "id": 29,
+        "id": 28,
         "title": "Number of Islands",
         "difficulty": "Medium",
         "frequency": 59,
@@ -723,7 +657,7 @@
         ]
       },
       {
-        "id": 30,
+        "id": 29,
         "title": "Text Justification",
         "difficulty": "Hard",
         "frequency": 59,
@@ -735,7 +669,7 @@
         ]
       },
       {
-        "id": 31,
+        "id": 30,
         "title": "Logger Rate Limiter",
         "difficulty": "Easy",
         "frequency": 59,
@@ -744,6 +678,31 @@
           "Hash Table",
           "Design",
           "Data Stream"
+        ]
+      },
+      {
+        "id": 31,
+        "title": "Happy Number",
+        "difficulty": "Easy",
+        "frequency": 59,
+        "url": "https://leetcode.com/problems/happy-number",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "Two Pointers",
+          "Floyd's Cycle Finding Algorithm"
+        ]
+      },
+      {
+        "id": 32,
+        "title": "Climbing Stairs",
+        "difficulty": "Easy",
+        "frequency": 59,
+        "url": "https://leetcode.com/problems/climbing-stairs",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
         ]
       }
     ]

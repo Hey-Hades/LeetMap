@@ -2,26 +2,22 @@
   "name": "HCL",
   "slug": "HCL",
   "dataKey": "hcl",
-  "updatedAt": "2026-10-18T02:12:32.027Z",
+  "updatedAt": "2026-10-25T02:23:17.308Z",
   "problems": {
-    "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [],
-    "3. Six Months.csv": [
+    "1. Thirty Days.csv": [
       {
         "id": 1,
-        "title": "Valid Perfect Square",
+        "title": "Best Time to Buy and Sell Stock",
         "difficulty": "Easy",
         "frequency": 100,
-        "url": "https://leetcode.com/problems/valid-perfect-square",
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
         "topics": [
-          "Math",
-          "Binary Search"
+          "Array",
+          "Dynamic Programming"
         ]
-      }
-    ],
-    "4. More Than Six Months.csv": [
+      },
       {
-        "id": 1,
+        "id": 2,
         "title": "Two Sum",
         "difficulty": "Easy",
         "frequency": 100,
@@ -30,48 +26,14 @@
           "Array",
           "Hash Table"
         ]
-      },
+      }
+    ],
+    "2. Three Months.csv": [
       {
-        "id": 2,
-        "title": "Valid Parentheses",
-        "difficulty": "Easy",
-        "frequency": 81,
-        "url": "https://leetcode.com/problems/valid-parentheses",
-        "topics": [
-          "String",
-          "Stack",
-          "Bracket Sequences"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Longest Substring Without Repeating Characters",
-        "difficulty": "Medium",
-        "frequency": 81,
-        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sliding Window"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Merge Sorted Array",
-        "difficulty": "Easy",
-        "frequency": 74,
-        "url": "https://leetcode.com/problems/merge-sorted-array",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 5,
+        "id": 1,
         "title": "Best Time to Buy and Sell Stock",
         "difficulty": "Easy",
-        "frequency": 74,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
         "topics": [
           "Array",
@@ -79,122 +41,42 @@
         ]
       },
       {
-        "id": 6,
-        "title": "Valid Palindrome",
+        "id": 2,
+        "title": "Two Sum",
         "difficulty": "Easy",
-        "frequency": 74,
-        "url": "https://leetcode.com/problems/valid-palindrome",
-        "topics": [
-          "Two Pointers",
-          "String"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Reverse String",
-        "difficulty": "Easy",
-        "frequency": 64,
-        "url": "https://leetcode.com/problems/reverse-string",
-        "topics": [
-          "Two Pointers",
-          "String"
-        ]
-      },
-      {
-        "id": 8,
-        "title": "Department Top Three Salaries",
-        "difficulty": "Hard",
-        "frequency": 64,
-        "url": "https://leetcode.com/problems/department-top-three-salaries",
-        "topics": [
-          "Database"
-        ]
-      },
-      {
-        "id": 9,
-        "title": "Second Highest Salary",
-        "difficulty": "Medium",
-        "frequency": 64,
-        "url": "https://leetcode.com/problems/second-highest-salary",
-        "topics": [
-          "Database"
-        ]
-      },
-      {
-        "id": 10,
-        "title": "Missing Number",
-        "difficulty": "Easy",
-        "frequency": 64,
-        "url": "https://leetcode.com/problems/missing-number",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/two-sum",
         "topics": [
           "Array",
-          "Hash Table",
-          "Math",
-          "Binary Search",
-          "Bit Manipulation",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 11,
-        "title": "Maximum Subarray",
-        "difficulty": "Medium",
-        "frequency": 64,
-        "url": "https://leetcode.com/problems/maximum-subarray",
-        "topics": [
-          "Array",
-          "Divide and Conquer",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 12,
-        "title": "Longest Palindromic Substring",
-        "difficulty": "Medium",
-        "frequency": 64,
-        "url": "https://leetcode.com/problems/longest-palindromic-substring",
-        "topics": [
-          "Two Pointers",
-          "String",
-          "Dynamic Programming",
-          "Manacher"
-        ]
-      },
-      {
-        "id": 13,
-        "title": "Palindromic Substrings",
-        "difficulty": "Medium",
-        "frequency": 64,
-        "url": "https://leetcode.com/problems/palindromic-substrings",
-        "topics": [
-          "Two Pointers",
-          "String",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 14,
-        "title": "Palindrome Number",
-        "difficulty": "Easy",
-        "frequency": 64,
-        "url": "https://leetcode.com/problems/palindrome-number",
-        "topics": [
-          "Math"
-        ]
-      },
-      {
-        "id": 15,
-        "title": "Reverse Words in a String",
-        "difficulty": "Medium",
-        "frequency": 64,
-        "url": "https://leetcode.com/problems/reverse-words-in-a-string",
-        "topics": [
-          "Two Pointers",
-          "String"
+          "Hash Table"
         ]
       }
     ],
-    "5. All.csv": [
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 88,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      }
+    ],
+    "4. More Than Six Months.csv": [
       {
         "id": 1,
         "title": "Two Sum",
@@ -222,7 +104,7 @@
         "id": 3,
         "title": "Longest Substring Without Repeating Characters",
         "difficulty": "Medium",
-        "frequency": 78,
+        "frequency": 83,
         "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
         "topics": [
           "Hash Table",
@@ -234,7 +116,7 @@
         "id": 4,
         "title": "Merge Sorted Array",
         "difficulty": "Easy",
-        "frequency": 78,
+        "frequency": 83,
         "url": "https://leetcode.com/problems/merge-sorted-array",
         "topics": [
           "Array",
@@ -246,7 +128,7 @@
         "id": 5,
         "title": "Valid Palindrome",
         "difficulty": "Easy",
-        "frequency": 78,
+        "frequency": 83,
         "url": "https://leetcode.com/problems/valid-palindrome",
         "topics": [
           "Two Pointers",
@@ -255,20 +137,23 @@
       },
       {
         "id": 6,
-        "title": "Best Time to Buy and Sell Stock",
-        "difficulty": "Easy",
-        "frequency": 71,
-        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "title": "Trapping Rain Water",
+        "difficulty": "Hard",
+        "frequency": 76,
+        "url": "https://leetcode.com/problems/trapping-rain-water",
         "topics": [
           "Array",
-          "Dynamic Programming"
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
         ]
       },
       {
         "id": 7,
         "title": "Reverse String",
         "difficulty": "Easy",
-        "frequency": 61,
+        "frequency": 66,
         "url": "https://leetcode.com/problems/reverse-string",
         "topics": [
           "Two Pointers",
@@ -277,77 +162,40 @@
       },
       {
         "id": 8,
-        "title": "Second Highest Salary",
-        "difficulty": "Medium",
-        "frequency": 61,
-        "url": "https://leetcode.com/problems/second-highest-salary",
-        "topics": [
-          "Database"
-        ]
-      },
-      {
-        "id": 9,
         "title": "Department Top Three Salaries",
         "difficulty": "Hard",
-        "frequency": 61,
+        "frequency": 66,
         "url": "https://leetcode.com/problems/department-top-three-salaries",
         "topics": [
           "Database"
         ]
       },
       {
-        "id": 10,
-        "title": "Longest Palindromic Substring",
-        "difficulty": "Medium",
-        "frequency": 61,
-        "url": "https://leetcode.com/problems/longest-palindromic-substring",
+        "id": 9,
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "Easy",
+        "frequency": 66,
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
         "topics": [
-          "Two Pointers",
-          "String",
-          "Dynamic Programming",
-          "Manacher"
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Second Highest Salary",
+        "difficulty": "Medium",
+        "frequency": 66,
+        "url": "https://leetcode.com/problems/second-highest-salary",
+        "topics": [
+          "Database"
         ]
       },
       {
         "id": 11,
-        "title": "Palindromic Substrings",
-        "difficulty": "Medium",
-        "frequency": 61,
-        "url": "https://leetcode.com/problems/palindromic-substrings",
-        "topics": [
-          "Two Pointers",
-          "String",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 12,
-        "title": "Reverse Words in a String",
-        "difficulty": "Medium",
-        "frequency": 61,
-        "url": "https://leetcode.com/problems/reverse-words-in-a-string",
-        "topics": [
-          "Two Pointers",
-          "String"
-        ]
-      },
-      {
-        "id": 13,
-        "title": "Maximum Subarray",
-        "difficulty": "Medium",
-        "frequency": 61,
-        "url": "https://leetcode.com/problems/maximum-subarray",
-        "topics": [
-          "Array",
-          "Divide and Conquer",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 14,
         "title": "Missing Number",
         "difficulty": "Easy",
-        "frequency": 61,
+        "frequency": 66,
         "url": "https://leetcode.com/problems/missing-number",
         "topics": [
           "Array",
@@ -359,10 +207,44 @@
         ]
       },
       {
+        "id": 12,
+        "title": "Maximum Subarray",
+        "difficulty": "Medium",
+        "frequency": 66,
+        "url": "https://leetcode.com/problems/maximum-subarray",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Palindromic Substrings",
+        "difficulty": "Medium",
+        "frequency": 66,
+        "url": "https://leetcode.com/problems/palindromic-substrings",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Palindrome Number",
+        "difficulty": "Easy",
+        "frequency": 66,
+        "url": "https://leetcode.com/problems/palindrome-number",
+        "topics": [
+          "Math"
+        ]
+      },
+      {
         "id": 15,
         "title": "Minimum Size Subarray Sum",
         "difficulty": "Medium",
-        "frequency": 61,
+        "frequency": 66,
         "url": "https://leetcode.com/problems/minimum-size-subarray-sum",
         "topics": [
           "Array",
@@ -370,23 +252,105 @@
           "Sliding Window",
           "Prefix Sum"
         ]
-      },
+      }
+    ],
+    "5. All.csv": [
       {
-        "id": 16,
-        "title": "Valid Perfect Square",
+        "id": 1,
+        "title": "Two Sum",
         "difficulty": "Easy",
-        "frequency": 61,
-        "url": "https://leetcode.com/problems/valid-perfect-square",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/two-sum",
         "topics": [
-          "Math",
-          "Binary Search"
+          "Array",
+          "Hash Table"
         ]
       },
       {
-        "id": 17,
+        "id": 2,
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "Easy",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Valid Parentheses",
+        "difficulty": "Easy",
+        "frequency": 81,
+        "url": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
+        "frequency": 76,
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Merge Sorted Array",
+        "difficulty": "Easy",
+        "frequency": 76,
+        "url": "https://leetcode.com/problems/merge-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Valid Palindrome",
+        "difficulty": "Easy",
+        "frequency": 76,
+        "url": "https://leetcode.com/problems/valid-palindrome",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Second Highest Salary",
+        "difficulty": "Medium",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/second-highest-salary",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Maximum Subarray",
+        "difficulty": "Medium",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/maximum-subarray",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 9,
         "title": "Trapping Rain Water",
         "difficulty": "Hard",
-        "frequency": 61,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/trapping-rain-water",
         "topics": [
           "Array",
@@ -397,13 +361,98 @@
         ]
       },
       {
-        "id": 18,
+        "id": 10,
+        "title": "Reverse String",
+        "difficulty": "Easy",
+        "frequency": 60,
+        "url": "https://leetcode.com/problems/reverse-string",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Department Top Three Salaries",
+        "difficulty": "Hard",
+        "frequency": 60,
+        "url": "https://leetcode.com/problems/department-top-three-salaries",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Palindromic Substrings",
+        "difficulty": "Medium",
+        "frequency": 60,
+        "url": "https://leetcode.com/problems/palindromic-substrings",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Missing Number",
+        "difficulty": "Easy",
+        "frequency": 60,
+        "url": "https://leetcode.com/problems/missing-number",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Binary Search",
+          "Bit Manipulation",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Minimum Size Subarray Sum",
+        "difficulty": "Medium",
+        "frequency": 60,
+        "url": "https://leetcode.com/problems/minimum-size-subarray-sum",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Sliding Window",
+          "Prefix Sum"
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Valid Perfect Square",
+        "difficulty": "Easy",
+        "frequency": 60,
+        "url": "https://leetcode.com/problems/valid-perfect-square",
+        "topics": [
+          "Math",
+          "Binary Search"
+        ]
+      },
+      {
+        "id": 16,
         "title": "Palindrome Number",
         "difficulty": "Easy",
-        "frequency": 61,
+        "frequency": 60,
         "url": "https://leetcode.com/problems/palindrome-number",
         "topics": [
           "Math"
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Group Anagrams",
+        "difficulty": "Medium",
+        "frequency": 60,
+        "url": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
         ]
       }
     ]

@@ -2,7 +2,7 @@
   "name": "ZS Associates",
   "slug": "ZS Associates",
   "dataKey": "zs_associates",
-  "updatedAt": "2026-10-18T02:12:32.197Z",
+  "updatedAt": "2026-10-25T02:23:17.442Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -20,16 +20,6 @@
       },
       {
         "id": 2,
-        "title": "Nth Highest Salary",
-        "difficulty": "Medium",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/nth-highest-salary",
-        "topics": [
-          "Database"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Product of Array Except Self",
         "difficulty": "Medium",
         "frequency": 89,
@@ -40,19 +30,7 @@
         ]
       },
       {
-        "id": 4,
-        "title": "Valid Parentheses",
-        "difficulty": "Easy",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/valid-parentheses",
-        "topics": [
-          "String",
-          "Stack",
-          "Bracket Sequences"
-        ]
-      },
-      {
-        "id": 5,
+        "id": 3,
         "title": "Longest Palindromic Substring",
         "difficulty": "Medium",
         "frequency": 89,
@@ -63,11 +41,35 @@
           "Dynamic Programming",
           "Manacher"
         ]
+      },
+      {
+        "id": 4,
+        "title": "Sum of Subarray Minimums",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/sum-of-subarray-minimums",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ]
       }
     ],
     "5. All.csv": [
       {
         "id": 1,
+        "title": "Product of Array Except Self",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/product-of-array-except-self",
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ]
+      },
+      {
+        "id": 2,
         "title": "Second Highest Salary",
         "difficulty": "Medium",
         "frequency": 100,
@@ -77,40 +79,7 @@
         ]
       },
       {
-        "id": 2,
-        "title": "Nth Highest Salary",
-        "difficulty": "Medium",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/nth-highest-salary",
-        "topics": [
-          "Database"
-        ]
-      },
-      {
         "id": 3,
-        "title": "Product of Array Except Self",
-        "difficulty": "Medium",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/product-of-array-except-self",
-        "topics": [
-          "Array",
-          "Prefix Sum"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Valid Parentheses",
-        "difficulty": "Easy",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/valid-parentheses",
-        "topics": [
-          "String",
-          "Stack",
-          "Bracket Sequences"
-        ]
-      },
-      {
-        "id": 5,
         "title": "Longest Palindromic Substring",
         "difficulty": "Medium",
         "frequency": 88,
@@ -123,7 +92,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 4,
         "title": "Sum of Subarray Minimums",
         "difficulty": "Medium",
         "frequency": 88,
@@ -133,6 +102,16 @@
           "Dynamic Programming",
           "Stack",
           "Monotonic Stack"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Department Top Three Salaries",
+        "difficulty": "Hard",
+        "frequency": 88,
+        "url": "https://leetcode.com/problems/department-top-three-salaries",
+        "topics": [
+          "Database"
         ]
       }
     ]

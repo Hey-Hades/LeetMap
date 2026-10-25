@@ -2,20 +2,32 @@
   "name": "Swiggy",
   "slug": "Swiggy",
   "dataKey": "swiggy",
-  "updatedAt": "2026-10-18T02:12:32.153Z",
+  "updatedAt": "2026-10-25T02:23:17.408Z",
   "problems": {
     "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [],
+    "2. Three Months.csv": [
+      {
+        "id": 1,
+        "title": "Distinct Subsequences",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/distinct-subsequences",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ]
+      }
+    ],
     "3. Six Months.csv": [
       {
         "id": 1,
-        "title": "Koko Eating Bananas",
-        "difficulty": "Medium",
+        "title": "Distinct Subsequences",
+        "difficulty": "Hard",
         "frequency": 100,
-        "url": "https://leetcode.com/problems/koko-eating-bananas",
+        "url": "https://leetcode.com/problems/distinct-subsequences",
         "topics": [
-          "Array",
-          "Binary Search"
+          "String",
+          "Dynamic Programming"
         ]
       }
     ],
@@ -33,9 +45,20 @@
       },
       {
         "id": 2,
+        "title": "Distinct Subsequences",
+        "difficulty": "Hard",
+        "frequency": 94,
+        "url": "https://leetcode.com/problems/distinct-subsequences",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 3,
         "title": "Next Greater Element I",
         "difficulty": "Easy",
-        "frequency": 88,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/next-greater-element-i",
         "topics": [
           "Array",
@@ -45,10 +68,10 @@
         ]
       },
       {
-        "id": 3,
+        "id": 4,
         "title": "Happy Number",
         "difficulty": "Easy",
-        "frequency": 82,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/happy-number",
         "topics": [
           "Hash Table",
@@ -58,10 +81,10 @@
         ]
       },
       {
-        "id": 4,
+        "id": 5,
         "title": "Course Schedule",
         "difficulty": "Medium",
-        "frequency": 82,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/course-schedule",
         "topics": [
           "Depth-First Search",
@@ -72,21 +95,32 @@
         ]
       },
       {
-        "id": 5,
-        "title": "Distinct Subsequences",
-        "difficulty": "Hard",
-        "frequency": 82,
-        "url": "https://leetcode.com/problems/distinct-subsequences",
+        "id": 6,
+        "title": "Edit Distance",
+        "difficulty": "Medium",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/edit-distance",
         "topics": [
           "String",
           "Dynamic Programming"
         ]
       },
       {
-        "id": 6,
+        "id": 7,
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "Easy",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 8,
         "title": "Integer to Roman",
         "difficulty": "Medium",
-        "frequency": 74,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/integer-to-roman",
         "topics": [
           "Hash Table",
@@ -95,10 +129,10 @@
         ]
       },
       {
-        "id": 7,
+        "id": 9,
         "title": "Daily Temperatures",
         "difficulty": "Medium",
-        "frequency": 74,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/daily-temperatures",
         "topics": [
           "Array",
@@ -107,10 +141,10 @@
         ]
       },
       {
-        "id": 8,
+        "id": 10,
         "title": "Fair Candy Swap",
         "difficulty": "Easy",
-        "frequency": 74,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/fair-candy-swap",
         "topics": [
           "Array",
@@ -120,21 +154,22 @@
         ]
       },
       {
-        "id": 9,
-        "title": "Edit Distance",
+        "id": 11,
+        "title": "Longest Substring Without Repeating Characters",
         "difficulty": "Medium",
-        "frequency": 74,
-        "url": "https://leetcode.com/problems/edit-distance",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
         "topics": [
+          "Hash Table",
           "String",
-          "Dynamic Programming"
+          "Sliding Window"
         ]
       },
       {
-        "id": 10,
+        "id": 12,
         "title": "Unique Binary Search Trees",
         "difficulty": "Medium",
-        "frequency": 74,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/unique-binary-search-trees",
         "topics": [
           "Math",
@@ -145,21 +180,21 @@
         ]
       },
       {
-        "id": 11,
-        "title": "Best Time to Buy and Sell Stock",
-        "difficulty": "Easy",
-        "frequency": 74,
-        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "id": 13,
+        "title": "Count Days Without Meetings",
+        "difficulty": "Medium",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/count-days-without-meetings",
         "topics": [
           "Array",
-          "Dynamic Programming"
+          "Sorting"
         ]
       },
       {
-        "id": 12,
+        "id": 14,
         "title": "Maximum Profit in Job Scheduling",
         "difficulty": "Hard",
-        "frequency": 63,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
         "topics": [
           "Array",
@@ -169,10 +204,10 @@
         ]
       },
       {
-        "id": 13,
+        "id": 15,
         "title": "Merge Sorted Array",
         "difficulty": "Easy",
-        "frequency": 63,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/merge-sorted-array",
         "topics": [
           "Array",
@@ -181,10 +216,10 @@
         ]
       },
       {
-        "id": 14,
+        "id": 16,
         "title": "Sort Colors",
         "difficulty": "Medium",
-        "frequency": 63,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/sort-colors",
         "topics": [
           "Array",
@@ -195,10 +230,10 @@
         ]
       },
       {
-        "id": 15,
+        "id": 17,
         "title": "Maximize Area of Square Hole in Grid",
         "difficulty": "Medium",
-        "frequency": 63,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/maximize-area-of-square-hole-in-grid",
         "topics": [
           "Array",
@@ -206,32 +241,20 @@
         ]
       },
       {
-        "id": 16,
-        "title": "Subarray Sum Equals K",
-        "difficulty": "Medium",
-        "frequency": 63,
-        "url": "https://leetcode.com/problems/subarray-sum-equals-k",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Prefix Sum"
-        ]
-      },
-      {
-        "id": 17,
+        "id": 18,
         "title": "Immediate Food Delivery II",
         "difficulty": "Medium",
-        "frequency": 63,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/immediate-food-delivery-ii",
         "topics": [
           "Database"
         ]
       },
       {
-        "id": 18,
+        "id": 19,
         "title": "Maximum Score From Removing Substrings",
         "difficulty": "Medium",
-        "frequency": 63,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/maximum-score-from-removing-substrings",
         "topics": [
           "String",
@@ -240,10 +263,10 @@
         ]
       },
       {
-        "id": 19,
+        "id": 20,
         "title": "LRU Cache",
         "difficulty": "Medium",
-        "frequency": 63,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/lru-cache",
         "topics": [
           "Hash Table",
@@ -253,10 +276,10 @@
         ]
       },
       {
-        "id": 20,
+        "id": 21,
         "title": "K Closest Points to Origin",
         "difficulty": "Medium",
-        "frequency": 63,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/k-closest-points-to-origin",
         "topics": [
           "Array",
@@ -270,10 +293,10 @@
         ]
       },
       {
-        "id": 21,
+        "id": 22,
         "title": "Minimum Number of Work Sessions to Finish the Tasks",
         "difficulty": "Medium",
-        "frequency": 63,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks",
         "topics": [
           "Array",
@@ -284,10 +307,10 @@
         ]
       },
       {
-        "id": 22,
+        "id": 23,
         "title": "Two City Scheduling",
         "difficulty": "Medium",
-        "frequency": 63,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/two-city-scheduling",
         "topics": [
           "Array",
@@ -298,10 +321,10 @@
         ]
       },
       {
-        "id": 23,
+        "id": 24,
         "title": "Sum of Two Integers",
         "difficulty": "Medium",
-        "frequency": 63,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/sum-of-two-integers",
         "topics": [
           "Math",
@@ -309,10 +332,10 @@
         ]
       },
       {
-        "id": 24,
+        "id": 25,
         "title": "Trapping Rain Water",
         "difficulty": "Hard",
-        "frequency": 63,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/trapping-rain-water",
         "topics": [
           "Array",
@@ -323,10 +346,10 @@
         ]
       },
       {
-        "id": 25,
+        "id": 26,
         "title": "Minimum Window Substring",
         "difficulty": "Hard",
-        "frequency": 63,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/minimum-window-substring",
         "topics": [
           "Hash Table",
@@ -335,10 +358,10 @@
         ]
       },
       {
-        "id": 26,
+        "id": 27,
         "title": "Maximum Subarray",
         "difficulty": "Medium",
-        "frequency": 63,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/maximum-subarray",
         "topics": [
           "Array",
@@ -347,10 +370,10 @@
         ]
       },
       {
-        "id": 27,
+        "id": 28,
         "title": "Longest Palindromic Substring",
         "difficulty": "Medium",
-        "frequency": 63,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/longest-palindromic-substring",
         "topics": [
           "Two Pointers",
@@ -360,10 +383,10 @@
         ]
       },
       {
-        "id": 28,
+        "id": 29,
         "title": "Longest Consecutive Sequence",
         "difficulty": "Medium",
-        "frequency": 63,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/longest-consecutive-sequence",
         "topics": [
           "Array",
@@ -372,10 +395,10 @@
         ]
       },
       {
-        "id": 29,
+        "id": 30,
         "title": "Maximum Product Subarray",
         "difficulty": "Medium",
-        "frequency": 63,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/maximum-product-subarray",
         "topics": [
           "Array",
@@ -383,39 +406,38 @@
         ]
       },
       {
-        "id": 30,
-        "title": "Longest Substring Without Repeating Characters",
-        "difficulty": "Medium",
-        "frequency": 63,
-        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sliding Window"
-        ]
-      },
-      {
         "id": 31,
-        "title": "Count Days Without Meetings",
-        "difficulty": "Medium",
-        "frequency": 63,
-        "url": "https://leetcode.com/problems/count-days-without-meetings",
-        "topics": [
-          "Array",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 32,
         "title": "Design Twitter",
         "difficulty": "Medium",
-        "frequency": 63,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/design-twitter",
         "topics": [
           "Hash Table",
           "Linked List",
           "Design",
           "Heap (Priority Queue)"
+        ]
+      },
+      {
+        "id": 32,
+        "title": "First Missing Positive",
+        "difficulty": "Hard",
+        "frequency": 61,
+        "url": "https://leetcode.com/problems/first-missing-positive",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 33,
+        "title": "Koko Eating Bananas",
+        "difficulty": "Medium",
+        "frequency": 61,
+        "url": "https://leetcode.com/problems/koko-eating-bananas",
+        "topics": [
+          "Array",
+          "Binary Search"
         ]
       }
     ],
@@ -433,6 +455,17 @@
       },
       {
         "id": 2,
+        "title": "Distinct Subsequences",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/distinct-subsequences",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 3,
         "title": "Count Good Meals",
         "difficulty": "Medium",
         "frequency": 97,
@@ -443,7 +476,7 @@
         ]
       },
       {
-        "id": 3,
+        "id": 4,
         "title": "Minimum Value to Get Positive Step by Step Sum",
         "difficulty": "Easy",
         "frequency": 94,
@@ -454,7 +487,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 5,
         "title": "Next Greater Element I",
         "difficulty": "Easy",
         "frequency": 82,
@@ -467,7 +500,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 6,
         "title": "Happy Number",
         "difficulty": "Easy",
         "frequency": 82,
@@ -477,17 +510,6 @@
           "Math",
           "Two Pointers",
           "Floyd's Cycle Finding Algorithm"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Distinct Subsequences",
-        "difficulty": "Hard",
-        "frequency": 82,
-        "url": "https://leetcode.com/problems/distinct-subsequences",
-        "topics": [
-          "String",
-          "Dynamic Programming"
         ]
       },
       {
@@ -591,18 +613,6 @@
       },
       {
         "id": 15,
-        "title": "Minimum Window Substring",
-        "difficulty": "Hard",
-        "frequency": 69,
-        "url": "https://leetcode.com/problems/minimum-window-substring",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sliding Window"
-        ]
-      },
-      {
-        "id": 16,
         "title": "Koko Eating Bananas",
         "difficulty": "Medium",
         "frequency": 69,
@@ -613,7 +623,7 @@
         ]
       },
       {
-        "id": 17,
+        "id": 16,
         "title": "Longest Substring Without Repeating Characters",
         "difficulty": "Medium",
         "frequency": 69,
@@ -625,7 +635,7 @@
         ]
       },
       {
-        "id": 18,
+        "id": 17,
         "title": "Unique Binary Search Trees",
         "difficulty": "Medium",
         "frequency": 69,
@@ -639,7 +649,7 @@
         ]
       },
       {
-        "id": 19,
+        "id": 18,
         "title": "Count Days Without Meetings",
         "difficulty": "Medium",
         "frequency": 69,
@@ -650,19 +660,7 @@
         ]
       },
       {
-        "id": 20,
-        "title": "Longest Consecutive Sequence",
-        "difficulty": "Medium",
-        "frequency": 69,
-        "url": "https://leetcode.com/problems/longest-consecutive-sequence",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Union-Find"
-        ]
-      },
-      {
-        "id": 21,
+        "id": 19,
         "title": "Sort Colors",
         "difficulty": "Medium",
         "frequency": 59,
@@ -676,7 +674,7 @@
         ]
       },
       {
-        "id": 22,
+        "id": 20,
         "title": "Maximum Profit in Job Scheduling",
         "difficulty": "Hard",
         "frequency": 59,
@@ -689,7 +687,7 @@
         ]
       },
       {
-        "id": 23,
+        "id": 21,
         "title": "First Missing Positive",
         "difficulty": "Hard",
         "frequency": 59,
@@ -700,19 +698,7 @@
         ]
       },
       {
-        "id": 24,
-        "title": "Subarray Sum Equals K",
-        "difficulty": "Medium",
-        "frequency": 59,
-        "url": "https://leetcode.com/problems/subarray-sum-equals-k",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Prefix Sum"
-        ]
-      },
-      {
-        "id": 25,
+        "id": 22,
         "title": "Immediate Food Delivery II",
         "difficulty": "Medium",
         "frequency": 59,
@@ -722,7 +708,7 @@
         ]
       },
       {
-        "id": 26,
+        "id": 23,
         "title": "Maximum Score From Removing Substrings",
         "difficulty": "Medium",
         "frequency": 59,
@@ -734,7 +720,7 @@
         ]
       },
       {
-        "id": 27,
+        "id": 24,
         "title": "K Closest Points to Origin",
         "difficulty": "Medium",
         "frequency": 59,
@@ -751,7 +737,7 @@
         ]
       },
       {
-        "id": 28,
+        "id": 25,
         "title": "Minimum Number of Work Sessions to Finish the Tasks",
         "difficulty": "Medium",
         "frequency": 59,
@@ -765,7 +751,7 @@
         ]
       },
       {
-        "id": 29,
+        "id": 26,
         "title": "Two City Scheduling",
         "difficulty": "Medium",
         "frequency": 59,
@@ -779,7 +765,19 @@
         ]
       },
       {
-        "id": 30,
+        "id": 27,
+        "title": "Minimum Window Substring",
+        "difficulty": "Hard",
+        "frequency": 59,
+        "url": "https://leetcode.com/problems/minimum-window-substring",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 28,
         "title": "Maximum Product Subarray",
         "difficulty": "Medium",
         "frequency": 59,
@@ -790,7 +788,7 @@
         ]
       },
       {
-        "id": 31,
+        "id": 29,
         "title": "Sum of Two Integers",
         "difficulty": "Medium",
         "frequency": 59,
@@ -801,7 +799,7 @@
         ]
       },
       {
-        "id": 32,
+        "id": 30,
         "title": "LRU Cache",
         "difficulty": "Medium",
         "frequency": 59,
@@ -814,7 +812,7 @@
         ]
       },
       {
-        "id": 33,
+        "id": 31,
         "title": "Maximum Subarray",
         "difficulty": "Medium",
         "frequency": 59,
@@ -826,7 +824,7 @@
         ]
       },
       {
-        "id": 34,
+        "id": 32,
         "title": "Longest Palindromic Substring",
         "difficulty": "Medium",
         "frequency": 59,
@@ -839,7 +837,7 @@
         ]
       },
       {
-        "id": 35,
+        "id": 33,
         "title": "Design Twitter",
         "difficulty": "Medium",
         "frequency": 59,
@@ -852,7 +850,19 @@
         ]
       },
       {
-        "id": 36,
+        "id": 34,
+        "title": "Longest Consecutive Sequence",
+        "difficulty": "Medium",
+        "frequency": 59,
+        "url": "https://leetcode.com/problems/longest-consecutive-sequence",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Union-Find"
+        ]
+      },
+      {
+        "id": 35,
         "title": "Merge Intervals",
         "difficulty": "Medium",
         "frequency": 59,

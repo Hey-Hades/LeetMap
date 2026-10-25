@@ -2,28 +2,15 @@
   "name": "Adobe",
   "slug": "Adobe",
   "dataKey": "adobe",
-  "updatedAt": "2026-10-18T02:12:31.852Z",
+  "updatedAt": "2026-10-25T02:23:17.176Z",
   "problems": {
     "1. Thirty Days.csv": [
       {
         "id": 1,
-        "title": "Count Subarrays With Fixed Bounds",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
-        "topics": [
-          "Array",
-          "Queue",
-          "Sliding Window",
-          "Monotonic Queue"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "LRU Cache",
+        "title": "Design Authentication Manager",
         "difficulty": "Medium",
-        "frequency": 84,
-        "url": "https://leetcode.com/problems/lru-cache",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/design-authentication-manager",
         "topics": [
           "Hash Table",
           "Linked List",
@@ -32,13 +19,14 @@
         ]
       },
       {
-        "id": 3,
-        "title": "Maximize Distance to Closest Person",
+        "id": 2,
+        "title": "Find Peak Element",
         "difficulty": "Medium",
-        "frequency": 84,
-        "url": "https://leetcode.com/problems/maximize-distance-to-closest-person",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/find-peak-element",
         "topics": [
-          "Array"
+          "Array",
+          "Binary Search"
         ]
       }
     ],
@@ -58,10 +46,24 @@
       },
       {
         "id": 2,
-        "title": "LRU Cache",
+        "title": "Find Median from Data Stream",
+        "difficulty": "Hard",
+        "frequency": 92,
+        "url": "https://leetcode.com/problems/find-median-from-data-stream",
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Design Authentication Manager",
         "difficulty": "Medium",
-        "frequency": 81,
-        "url": "https://leetcode.com/problems/lru-cache",
+        "frequency": 92,
+        "url": "https://leetcode.com/problems/design-authentication-manager",
         "topics": [
           "Hash Table",
           "Linked List",
@@ -70,7 +72,7 @@
         ]
       },
       {
-        "id": 3,
+        "id": 4,
         "title": "Maximize Distance to Closest Person",
         "difficulty": "Medium",
         "frequency": 81,
@@ -78,40 +80,60 @@
         "topics": [
           "Array"
         ]
+      },
+      {
+        "id": 5,
+        "title": "Building Boxes",
+        "difficulty": "Hard",
+        "frequency": 81,
+        "url": "https://leetcode.com/problems/building-boxes",
+        "topics": [
+          "Math",
+          "Binary Search",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Second Highest Salary",
+        "difficulty": "Medium",
+        "frequency": 81,
+        "url": "https://leetcode.com/problems/second-highest-salary",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Longest Palindromic Substring",
+        "difficulty": "Medium",
+        "frequency": 81,
+        "url": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Find Peak Element",
+        "difficulty": "Medium",
+        "frequency": 81,
+        "url": "https://leetcode.com/problems/find-peak-element",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ]
       }
     ],
     "3. Six Months.csv": [
       {
         "id": 1,
-        "title": "LRU Cache",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/lru-cache",
-        "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Doubly-Linked List"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Group Anagrams",
-        "difficulty": "Medium",
-        "frequency": 94,
-        "url": "https://leetcode.com/problems/group-anagrams",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Count Subarrays With Fixed Bounds",
         "difficulty": "Hard",
-        "frequency": 94,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
         "topics": [
           "Array",
@@ -121,24 +143,84 @@
         ]
       },
       {
-        "id": 4,
-        "title": "Binary Tree Maximum Path Sum",
+        "id": 2,
+        "title": "Find Median from Data Stream",
         "difficulty": "Hard",
-        "frequency": 86,
-        "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+        "frequency": 91,
+        "url": "https://leetcode.com/problems/find-median-from-data-stream",
         "topics": [
-          "Dynamic Programming",
-          "Tree",
-          "Depth-First Search",
-          "Binary Tree",
-          "DP on Trees"
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Building Boxes",
+        "difficulty": "Hard",
+        "frequency": 91,
+        "url": "https://leetcode.com/problems/building-boxes",
+        "topics": [
+          "Math",
+          "Binary Search",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Design Authentication Manager",
+        "difficulty": "Medium",
+        "frequency": 91,
+        "url": "https://leetcode.com/problems/design-authentication-manager",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
         ]
       },
       {
         "id": 5,
+        "title": "Find Peak Element",
+        "difficulty": "Medium",
+        "frequency": 91,
+        "url": "https://leetcode.com/problems/find-peak-element",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "LRU Cache",
+        "difficulty": "Medium",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Gas Station",
+        "difficulty": "Medium",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/gas-station",
+        "topics": [
+          "Array",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 8,
         "title": "Flatten Nested List Iterator",
         "difficulty": "Medium",
-        "frequency": 86,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/flatten-nested-list-iterator",
         "topics": [
           "Stack",
@@ -150,57 +232,10 @@
         ]
       },
       {
-        "id": 6,
-        "title": "Game of Life",
-        "difficulty": "Medium",
-        "frequency": 74,
-        "url": "https://leetcode.com/problems/game-of-life",
-        "topics": [
-          "Array",
-          "Matrix",
-          "Simulation"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Gas Station",
-        "difficulty": "Medium",
-        "frequency": 74,
-        "url": "https://leetcode.com/problems/gas-station",
-        "topics": [
-          "Array",
-          "Greedy"
-        ]
-      },
-      {
-        "id": 8,
-        "title": "Minimum Cost For Tickets",
-        "difficulty": "Medium",
-        "frequency": 74,
-        "url": "https://leetcode.com/problems/minimum-cost-for-tickets",
-        "topics": [
-          "Array",
-          "Dynamic Programming"
-        ]
-      },
-      {
         "id": 9,
-        "title": "Largest Number",
-        "difficulty": "Medium",
-        "frequency": 74,
-        "url": "https://leetcode.com/problems/largest-number",
-        "topics": [
-          "Array",
-          "String",
-          "Greedy",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 10,
         "title": "Best Time to Buy and Sell Stock",
         "difficulty": "Easy",
-        "frequency": 74,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
         "topics": [
           "Array",
@@ -208,25 +243,71 @@
         ]
       },
       {
-        "id": 11,
+        "id": 10,
         "title": "Maximize Distance to Closest Person",
         "difficulty": "Medium",
-        "frequency": 74,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/maximize-distance-to-closest-person",
         "topics": [
           "Array"
         ]
       },
       {
-        "id": 12,
+        "id": 11,
         "title": "Flatten a Multilevel Doubly Linked List",
         "difficulty": "Medium",
-        "frequency": 74,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list",
         "topics": [
           "Linked List",
           "Depth-First Search",
           "Doubly-Linked List"
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Merge Two Sorted Lists",
+        "difficulty": "Easy",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/merge-two-sorted-lists",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Second Highest Salary",
+        "difficulty": "Medium",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/second-highest-salary",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Longest Palindromic Substring",
+        "difficulty": "Medium",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Fruit Into Baskets",
+        "difficulty": "Medium",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/fruit-into-baskets",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window"
         ]
       }
     ],
@@ -247,7 +328,7 @@
         "id": 2,
         "title": "Group Anagrams",
         "difficulty": "Medium",
-        "frequency": 92,
+        "frequency": 94,
         "url": "https://leetcode.com/problems/group-anagrams",
         "topics": [
           "Array",
@@ -270,55 +351,9 @@
       },
       {
         "id": 4,
-        "title": "Two Sum",
-        "difficulty": "Easy",
-        "frequency": 87,
-        "url": "https://leetcode.com/problems/two-sum",
-        "topics": [
-          "Array",
-          "Hash Table"
-        ]
-      },
-      {
-        "id": 5,
-        "title": "Integer to Roman",
-        "difficulty": "Medium",
-        "frequency": 80,
-        "url": "https://leetcode.com/problems/integer-to-roman",
-        "topics": [
-          "Hash Table",
-          "Math",
-          "String"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Next Permutation",
-        "difficulty": "Medium",
-        "frequency": 80,
-        "url": "https://leetcode.com/problems/next-permutation",
-        "topics": [
-          "Array",
-          "Two Pointers"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Jump Game",
-        "difficulty": "Medium",
-        "frequency": 80,
-        "url": "https://leetcode.com/problems/jump-game",
-        "topics": [
-          "Array",
-          "Dynamic Programming",
-          "Greedy"
-        ]
-      },
-      {
-        "id": 8,
         "title": "LRU Cache",
         "difficulty": "Medium",
-        "frequency": 80,
+        "frequency": 87,
         "url": "https://leetcode.com/problems/lru-cache",
         "topics": [
           "Hash Table",
@@ -328,21 +363,18 @@
         ]
       },
       {
-        "id": 9,
-        "title": "Number of Islands",
-        "difficulty": "Medium",
+        "id": 5,
+        "title": "Two Sum",
+        "difficulty": "Easy",
         "frequency": 80,
-        "url": "https://leetcode.com/problems/number-of-islands",
+        "url": "https://leetcode.com/problems/two-sum",
         "topics": [
           "Array",
-          "Depth-First Search",
-          "Breadth-First Search",
-          "Union-Find",
-          "Matrix"
+          "Hash Table"
         ]
       },
       {
-        "id": 10,
+        "id": 6,
         "title": "Validate IP Address",
         "difficulty": "Medium",
         "frequency": 80,
@@ -352,7 +384,7 @@
         ]
       },
       {
-        "id": 11,
+        "id": 7,
         "title": "Longest Palindromic Substring",
         "difficulty": "Medium",
         "frequency": 76,
@@ -365,19 +397,31 @@
         ]
       },
       {
-        "id": 12,
-        "title": "Longest Common Prefix",
-        "difficulty": "Easy",
+        "id": 8,
+        "title": "Integer to Roman",
+        "difficulty": "Medium",
         "frequency": 76,
-        "url": "https://leetcode.com/problems/longest-common-prefix",
+        "url": "https://leetcode.com/problems/integer-to-roman",
         "topics": [
-          "Array",
-          "String",
-          "Trie"
+          "Hash Table",
+          "Math",
+          "String"
         ]
       },
       {
-        "id": 13,
+        "id": 9,
+        "title": "Valid Parentheses",
+        "difficulty": "Easy",
+        "frequency": 76,
+        "url": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ]
+      },
+      {
+        "id": 10,
         "title": "Minimum Window Substring",
         "difficulty": "Hard",
         "frequency": 76,
@@ -389,18 +433,7 @@
         ]
       },
       {
-        "id": 14,
-        "title": "Best Time to Buy and Sell Stock",
-        "difficulty": "Easy",
-        "frequency": 76,
-        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
-        "topics": [
-          "Array",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 15,
+        "id": 11,
         "title": "Maximum Product Subarray",
         "difficulty": "Medium",
         "frequency": 76,
@@ -411,7 +444,7 @@
         ]
       },
       {
-        "id": 16,
+        "id": 12,
         "title": "Sort Array by Increasing Frequency",
         "difficulty": "Easy",
         "frequency": 76,
@@ -423,7 +456,7 @@
         ]
       },
       {
-        "id": 17,
+        "id": 13,
         "title": "Longest Substring Without Repeating Characters",
         "difficulty": "Medium",
         "frequency": 71,
@@ -435,19 +468,30 @@
         ]
       },
       {
-        "id": 18,
-        "title": "Valid Parentheses",
+        "id": 14,
+        "title": "Longest Common Prefix",
         "difficulty": "Easy",
         "frequency": 71,
-        "url": "https://leetcode.com/problems/valid-parentheses",
+        "url": "https://leetcode.com/problems/longest-common-prefix",
         "topics": [
+          "Array",
           "String",
-          "Stack",
-          "Bracket Sequences"
+          "Trie"
         ]
       },
       {
-        "id": 19,
+        "id": 15,
+        "title": "Next Permutation",
+        "difficulty": "Medium",
+        "frequency": 71,
+        "url": "https://leetcode.com/problems/next-permutation",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ]
+      },
+      {
+        "id": 16,
         "title": "Trapping Rain Water",
         "difficulty": "Hard",
         "frequency": 71,
@@ -461,7 +505,55 @@
         ]
       },
       {
+        "id": 17,
+        "title": "Jump Game",
+        "difficulty": "Medium",
+        "frequency": 71,
+        "url": "https://leetcode.com/problems/jump-game",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 18,
+        "title": "Restore IP Addresses",
+        "difficulty": "Medium",
+        "frequency": 71,
+        "url": "https://leetcode.com/problems/restore-ip-addresses",
+        "topics": [
+          "String",
+          "Backtracking"
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "Easy",
+        "frequency": 71,
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
         "id": 20,
+        "title": "Lowest Common Ancestor of a Binary Tree",
+        "difficulty": "Medium",
+        "frequency": 71,
+        "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree",
+          "Binary Lifting",
+          "Lowest Common Ancestor"
+        ]
+      },
+      {
+        "id": 21,
         "title": "Top K Frequent Elements",
         "difficulty": "Medium",
         "frequency": 71,
@@ -478,19 +570,18 @@
         ]
       },
       {
-        "id": 21,
-        "title": "Minimum Processing Time",
+        "id": 22,
+        "title": "Koko Eating Bananas",
         "difficulty": "Medium",
         "frequency": 71,
-        "url": "https://leetcode.com/problems/minimum-processing-time",
+        "url": "https://leetcode.com/problems/koko-eating-bananas",
         "topics": [
           "Array",
-          "Greedy",
-          "Sorting"
+          "Binary Search"
         ]
       },
       {
-        "id": 22,
+        "id": 23,
         "title": "String to Integer (atoi)",
         "difficulty": "Medium",
         "frequency": 65,
@@ -500,7 +591,7 @@
         ]
       },
       {
-        "id": 23,
+        "id": 24,
         "title": "Spiral Matrix",
         "difficulty": "Medium",
         "frequency": 65,
@@ -512,43 +603,21 @@
         ]
       },
       {
-        "id": 24,
-        "title": "Restore IP Addresses",
-        "difficulty": "Medium",
-        "frequency": 65,
-        "url": "https://leetcode.com/problems/restore-ip-addresses",
-        "topics": [
-          "String",
-          "Backtracking"
-        ]
-      },
-      {
         "id": 25,
-        "title": "Lowest Common Ancestor of a Binary Tree",
+        "title": "Number of Islands",
         "difficulty": "Medium",
         "frequency": 65,
-        "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+        "url": "https://leetcode.com/problems/number-of-islands",
         "topics": [
-          "Tree",
+          "Array",
           "Depth-First Search",
-          "Binary Tree",
-          "Binary Lifting",
-          "Lowest Common Ancestor"
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
         ]
       },
       {
         "id": 26,
-        "title": "Koko Eating Bananas",
-        "difficulty": "Medium",
-        "frequency": 65,
-        "url": "https://leetcode.com/problems/koko-eating-bananas",
-        "topics": [
-          "Array",
-          "Binary Search"
-        ]
-      },
-      {
-        "id": 27,
         "title": "Fruit Into Baskets",
         "difficulty": "Medium",
         "frequency": 65,
@@ -560,19 +629,7 @@
         ]
       },
       {
-        "id": 28,
-        "title": "Rotting Oranges",
-        "difficulty": "Medium",
-        "frequency": 65,
-        "url": "https://leetcode.com/problems/rotting-oranges",
-        "topics": [
-          "Array",
-          "Breadth-First Search",
-          "Matrix"
-        ]
-      },
-      {
-        "id": 29,
+        "id": 27,
         "title": "Count Pairs Of Similar Strings",
         "difficulty": "Easy",
         "frequency": 65,
@@ -586,7 +643,7 @@
         ]
       },
       {
-        "id": 30,
+        "id": 28,
         "title": "Top K Frequent Words",
         "difficulty": "Medium",
         "frequency": 65,
@@ -603,7 +660,7 @@
         ]
       },
       {
-        "id": 31,
+        "id": 29,
         "title": "Search a 2D Matrix",
         "difficulty": "Medium",
         "frequency": 65,
@@ -615,7 +672,7 @@
         ]
       },
       {
-        "id": 32,
+        "id": 30,
         "title": "Shortest Path in a Grid with Obstacles Elimination",
         "difficulty": "Hard",
         "frequency": 65,
@@ -627,7 +684,21 @@
         ]
       },
       {
-        "id": 33,
+        "id": 31,
+        "title": "Binary Tree Maximum Path Sum",
+        "difficulty": "Hard",
+        "frequency": 65,
+        "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+        "topics": [
+          "Dynamic Programming",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree",
+          "DP on Trees"
+        ]
+      },
+      {
+        "id": 32,
         "title": "Add Two Numbers",
         "difficulty": "Medium",
         "frequency": 58,
@@ -639,29 +710,7 @@
         ]
       },
       {
-        "id": 34,
-        "title": "Median of Two Sorted Arrays",
-        "difficulty": "Hard",
-        "frequency": 58,
-        "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
-        "topics": [
-          "Array",
-          "Binary Search",
-          "Divide and Conquer"
-        ]
-      },
-      {
-        "id": 35,
-        "title": "Reverse Integer",
-        "difficulty": "Medium",
-        "frequency": 58,
-        "url": "https://leetcode.com/problems/reverse-integer",
-        "topics": [
-          "Math"
-        ]
-      },
-      {
-        "id": 36,
+        "id": 33,
         "title": "Roman to Integer",
         "difficulty": "Easy",
         "frequency": 58,
@@ -673,7 +722,7 @@
         ]
       },
       {
-        "id": 37,
+        "id": 34,
         "title": "Generate Parentheses",
         "difficulty": "Medium",
         "frequency": 58,
@@ -686,19 +735,7 @@
         ]
       },
       {
-        "id": 38,
-        "title": "Rotate Image",
-        "difficulty": "Medium",
-        "frequency": 58,
-        "url": "https://leetcode.com/problems/rotate-image",
-        "topics": [
-          "Array",
-          "Math",
-          "Matrix"
-        ]
-      },
-      {
-        "id": 39,
+        "id": 35,
         "title": "Binary Tree Zigzag Level Order Traversal",
         "difficulty": "Medium",
         "frequency": 58,
@@ -710,7 +747,7 @@
         ]
       },
       {
-        "id": 40,
+        "id": 36,
         "title": "Construct Binary Tree from Preorder and Inorder Traversal",
         "difficulty": "Medium",
         "frequency": 58,
@@ -724,7 +761,7 @@
         ]
       },
       {
-        "id": 41,
+        "id": 37,
         "title": "Largest Number",
         "difficulty": "Medium",
         "frequency": 58,
@@ -737,18 +774,7 @@
         ]
       },
       {
-        "id": 42,
-        "title": "House Robber",
-        "difficulty": "Medium",
-        "frequency": 58,
-        "url": "https://leetcode.com/problems/house-robber",
-        "topics": [
-          "Array",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 43,
+        "id": 38,
         "title": "Product of Array Except Self",
         "difficulty": "Medium",
         "frequency": 58,
@@ -759,22 +785,19 @@
         ]
       },
       {
-        "id": 44,
-        "title": "Meeting Rooms II",
+        "id": 39,
+        "title": "Rotting Oranges",
         "difficulty": "Medium",
         "frequency": 58,
-        "url": "https://leetcode.com/problems/meeting-rooms-ii",
+        "url": "https://leetcode.com/problems/rotting-oranges",
         "topics": [
           "Array",
-          "Two Pointers",
-          "Greedy",
-          "Sorting",
-          "Heap (Priority Queue)",
-          "Prefix Sum"
+          "Breadth-First Search",
+          "Matrix"
         ]
       },
       {
-        "id": 45,
+        "id": 40,
         "title": "Shopping Offers",
         "difficulty": "Medium",
         "frequency": 58,
@@ -791,7 +814,7 @@
         ]
       },
       {
-        "id": 46,
+        "id": 41,
         "title": "Longest Increasing Path in a Matrix",
         "difficulty": "Hard",
         "frequency": 58,
@@ -809,7 +832,7 @@
         ]
       },
       {
-        "id": 47,
+        "id": 42,
         "title": "N-Queens",
         "difficulty": "Hard",
         "frequency": 58,
@@ -821,7 +844,7 @@
         ]
       },
       {
-        "id": 48,
+        "id": 43,
         "title": "Search in Rotated Sorted Array",
         "difficulty": "Medium",
         "frequency": 58,
@@ -832,7 +855,7 @@
         ]
       },
       {
-        "id": 49,
+        "id": 44,
         "title": "Sum of All Subset XOR Totals",
         "difficulty": "Easy",
         "frequency": 58,
@@ -847,7 +870,7 @@
         ]
       },
       {
-        "id": 50,
+        "id": 45,
         "title": "Unit Conversion I",
         "difficulty": "Medium",
         "frequency": 58,
@@ -859,7 +882,7 @@
         ]
       },
       {
-        "id": 51,
+        "id": 46,
         "title": "Nested List Weight Sum",
         "difficulty": "Medium",
         "frequency": 58,
@@ -870,19 +893,7 @@
         ]
       },
       {
-        "id": 52,
-        "title": "Is Subsequence",
-        "difficulty": "Easy",
-        "frequency": 58,
-        "url": "https://leetcode.com/problems/is-subsequence",
-        "topics": [
-          "Two Pointers",
-          "String",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 53,
+        "id": 47,
         "title": "Heaters",
         "difficulty": "Medium",
         "frequency": 58,
@@ -895,31 +906,31 @@
         ]
       },
       {
-        "id": 54,
-        "title": "Container With Most Water",
+        "id": 48,
+        "title": "Basic Calculator II",
         "difficulty": "Medium",
-        "frequency": 47,
-        "url": "https://leetcode.com/problems/container-with-most-water",
+        "frequency": 58,
+        "url": "https://leetcode.com/problems/basic-calculator-ii",
         "topics": [
-          "Array",
-          "Two Pointers",
-          "Greedy"
+          "Math",
+          "String",
+          "Stack"
         ]
       },
       {
-        "id": 55,
-        "title": "3Sum",
+        "id": 49,
+        "title": "Game of Life",
         "difficulty": "Medium",
-        "frequency": 47,
-        "url": "https://leetcode.com/problems/3sum",
+        "frequency": 58,
+        "url": "https://leetcode.com/problems/game-of-life",
         "topics": [
           "Array",
-          "Two Pointers",
-          "Sorting"
+          "Matrix",
+          "Simulation"
         ]
       },
       {
-        "id": 56,
+        "id": 50,
         "title": "Remove Element",
         "difficulty": "Easy",
         "frequency": 47,
@@ -930,7 +941,7 @@
         ]
       },
       {
-        "id": 57,
+        "id": 51,
         "title": "Combination Sum II",
         "difficulty": "Medium",
         "frequency": 47,
@@ -941,7 +952,7 @@
         ]
       },
       {
-        "id": 58,
+        "id": 52,
         "title": "Jump Game II",
         "difficulty": "Medium",
         "frequency": 47,
@@ -953,7 +964,19 @@
         ]
       },
       {
-        "id": 59,
+        "id": 53,
+        "title": "Rotate Image",
+        "difficulty": "Medium",
+        "frequency": 47,
+        "url": "https://leetcode.com/problems/rotate-image",
+        "topics": [
+          "Array",
+          "Math",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 54,
         "title": "Valid Palindrome",
         "difficulty": "Easy",
         "frequency": 47,
@@ -964,7 +987,7 @@
         ]
       },
       {
-        "id": 60,
+        "id": 55,
         "title": "Word Ladder",
         "difficulty": "Hard",
         "frequency": 47,
@@ -977,7 +1000,7 @@
         ]
       },
       {
-        "id": 61,
+        "id": 56,
         "title": "Surrounded Regions",
         "difficulty": "Medium",
         "frequency": 47,
@@ -991,7 +1014,7 @@
         ]
       },
       {
-        "id": 62,
+        "id": 57,
         "title": "Single Number",
         "difficulty": "Easy",
         "frequency": 47,
@@ -1002,7 +1025,7 @@
         ]
       },
       {
-        "id": 63,
+        "id": 58,
         "title": "Min Stack",
         "difficulty": "Medium",
         "frequency": 47,
@@ -1013,7 +1036,7 @@
         ]
       },
       {
-        "id": 64,
+        "id": 59,
         "title": "Majority Element",
         "difficulty": "Easy",
         "frequency": 47,
@@ -1028,7 +1051,18 @@
         ]
       },
       {
-        "id": 65,
+        "id": 60,
+        "title": "House Robber",
+        "difficulty": "Medium",
+        "frequency": 47,
+        "url": "https://leetcode.com/problems/house-robber",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 61,
         "title": "Course Schedule",
         "difficulty": "Medium",
         "frequency": 47,
@@ -1042,7 +1076,7 @@
         ]
       },
       {
-        "id": 66,
+        "id": 62,
         "title": "Sliding Window Maximum",
         "difficulty": "Hard",
         "frequency": 47,
@@ -1057,7 +1091,7 @@
         ]
       },
       {
-        "id": 67,
+        "id": 63,
         "title": "Move Zeroes",
         "difficulty": "Easy",
         "frequency": 47,
@@ -1068,7 +1102,7 @@
         ]
       },
       {
-        "id": 68,
+        "id": 64,
         "title": "Coin Change",
         "difficulty": "Medium",
         "frequency": 47,
@@ -1082,7 +1116,7 @@
         ]
       },
       {
-        "id": 69,
+        "id": 65,
         "title": "Longest Repeating Character Replacement",
         "difficulty": "Medium",
         "frequency": 47,
@@ -1094,18 +1128,7 @@
         ]
       },
       {
-        "id": 70,
-        "title": "Single Element in a Sorted Array",
-        "difficulty": "Medium",
-        "frequency": 47,
-        "url": "https://leetcode.com/problems/single-element-in-a-sorted-array",
-        "topics": [
-          "Array",
-          "Binary Search"
-        ]
-      },
-      {
-        "id": 71,
+        "id": 66,
         "title": "Number of Provinces",
         "difficulty": "Medium",
         "frequency": 47,
@@ -1118,7 +1141,7 @@
         ]
       },
       {
-        "id": 72,
+        "id": 67,
         "title": "Next Greater Element III",
         "difficulty": "Medium",
         "frequency": 47,
@@ -1130,20 +1153,7 @@
         ]
       },
       {
-        "id": 73,
-        "title": "Permutation in String",
-        "difficulty": "Medium",
-        "frequency": 47,
-        "url": "https://leetcode.com/problems/permutation-in-string",
-        "topics": [
-          "Hash Table",
-          "Two Pointers",
-          "String",
-          "Sliding Window"
-        ]
-      },
-      {
-        "id": 74,
+        "id": 68,
         "title": "Smallest Range II",
         "difficulty": "Medium",
         "frequency": 47,
@@ -1156,36 +1166,7 @@
         ]
       },
       {
-        "id": 75,
-        "title": "Search Suggestions System",
-        "difficulty": "Medium",
-        "frequency": 47,
-        "url": "https://leetcode.com/problems/search-suggestions-system",
-        "topics": [
-          "Array",
-          "String",
-          "Binary Search",
-          "Trie",
-          "Sorting",
-          "Heap (Priority Queue)"
-        ]
-      },
-      {
-        "id": 76,
-        "title": "Random Pick with Weight",
-        "difficulty": "Medium",
-        "frequency": 47,
-        "url": "https://leetcode.com/problems/random-pick-with-weight",
-        "topics": [
-          "Array",
-          "Math",
-          "Binary Search",
-          "Prefix Sum",
-          "Randomized"
-        ]
-      },
-      {
-        "id": 77,
+        "id": 69,
         "title": "Gas Station",
         "difficulty": "Medium",
         "frequency": 47,
@@ -1196,7 +1177,7 @@
         ]
       },
       {
-        "id": 78,
+        "id": 70,
         "title": "Binary Tree Level Order Traversal",
         "difficulty": "Medium",
         "frequency": 47,
@@ -1208,7 +1189,19 @@
         ]
       },
       {
-        "id": 79,
+        "id": 71,
+        "title": "Minimum Processing Time",
+        "difficulty": "Medium",
+        "frequency": 47,
+        "url": "https://leetcode.com/problems/minimum-processing-time",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 72,
         "title": "Decode Ways",
         "difficulty": "Medium",
         "frequency": 47,
@@ -1219,7 +1212,7 @@
         ]
       },
       {
-        "id": 80,
+        "id": 73,
         "title": "Split the Array",
         "difficulty": "Easy",
         "frequency": 47,
@@ -1231,20 +1224,7 @@
         ]
       },
       {
-        "id": 81,
-        "title": "Cousins in Binary Tree",
-        "difficulty": "Easy",
-        "frequency": 47,
-        "url": "https://leetcode.com/problems/cousins-in-binary-tree",
-        "topics": [
-          "Tree",
-          "Depth-First Search",
-          "Breadth-First Search",
-          "Binary Tree"
-        ]
-      },
-      {
-        "id": 82,
+        "id": 74,
         "title": "Design Twitter",
         "difficulty": "Medium",
         "frequency": 47,
@@ -1257,7 +1237,7 @@
         ]
       },
       {
-        "id": 83,
+        "id": 75,
         "title": "Increment Submatrices by One",
         "difficulty": "Medium",
         "frequency": 47,
@@ -1269,7 +1249,7 @@
         ]
       },
       {
-        "id": 84,
+        "id": 76,
         "title": "Shortest Path to Get All Keys",
         "difficulty": "Hard",
         "frequency": 47,
@@ -1282,7 +1262,7 @@
         ]
       },
       {
-        "id": 85,
+        "id": 77,
         "title": "Range Sum Query - Mutable",
         "difficulty": "Medium",
         "frequency": 47,
@@ -1297,7 +1277,7 @@
         ]
       },
       {
-        "id": 86,
+        "id": 78,
         "title": "Pacific Atlantic Water Flow",
         "difficulty": "Medium",
         "frequency": 47,
@@ -1310,7 +1290,7 @@
         ]
       },
       {
-        "id": 87,
+        "id": 79,
         "title": "Max Consecutive Ones III",
         "difficulty": "Medium",
         "frequency": 47,
@@ -1323,7 +1303,7 @@
         ]
       },
       {
-        "id": 88,
+        "id": 80,
         "title": "Count Complete Tree Nodes",
         "difficulty": "Medium",
         "frequency": 47,
@@ -1336,19 +1316,7 @@
         ]
       },
       {
-        "id": 89,
-        "title": "Two Sum II - Input Array Is Sorted",
-        "difficulty": "Medium",
-        "frequency": 47,
-        "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Binary Search"
-        ]
-      },
-      {
-        "id": 90,
+        "id": 81,
         "title": "Trim a Binary Search Tree",
         "difficulty": "Medium",
         "frequency": 47,
@@ -1361,7 +1329,7 @@
         ]
       },
       {
-        "id": 91,
+        "id": 82,
         "title": "Largest Combination With Bitwise AND Greater Than Zero",
         "difficulty": "Medium",
         "frequency": 47,
@@ -1374,7 +1342,7 @@
         ]
       },
       {
-        "id": 92,
+        "id": 83,
         "title": "Boundary of Binary Tree",
         "difficulty": "Medium",
         "frequency": 47,
@@ -1386,7 +1354,7 @@
         ]
       },
       {
-        "id": 93,
+        "id": 84,
         "title": "Pow(x, n)",
         "difficulty": "Medium",
         "frequency": 47,
@@ -1397,7 +1365,7 @@
         ]
       },
       {
-        "id": 94,
+        "id": 85,
         "title": "Reformat Date",
         "difficulty": "Easy",
         "frequency": 47,
@@ -1407,7 +1375,7 @@
         ]
       },
       {
-        "id": 95,
+        "id": 86,
         "title": "Remove K Digits",
         "difficulty": "Medium",
         "frequency": 47,
@@ -1420,7 +1388,7 @@
         ]
       },
       {
-        "id": 96,
+        "id": 87,
         "title": "Squares of a Sorted Array",
         "difficulty": "Easy",
         "frequency": 47,
@@ -1432,21 +1400,7 @@
         ]
       },
       {
-        "id": 97,
-        "title": "Minimum Number of Swaps to Make the String Balanced",
-        "difficulty": "Medium",
-        "frequency": 47,
-        "url": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced",
-        "topics": [
-          "Two Pointers",
-          "String",
-          "Stack",
-          "Greedy",
-          "Bracket Sequences"
-        ]
-      },
-      {
-        "id": 98,
+        "id": 88,
         "title": "Largest Rectangle in Histogram",
         "difficulty": "Hard",
         "frequency": 47,
@@ -1459,7 +1413,7 @@
         ]
       },
       {
-        "id": 99,
+        "id": 89,
         "title": "Subarray Sum Equals K",
         "difficulty": "Medium",
         "frequency": 47,
@@ -1471,7 +1425,7 @@
         ]
       },
       {
-        "id": 100,
+        "id": 90,
         "title": "Contains Duplicate II",
         "difficulty": "Easy",
         "frequency": 47,
@@ -1483,7 +1437,7 @@
         ]
       },
       {
-        "id": 101,
+        "id": 91,
         "title": "Maximum Profit From Trading Stocks",
         "difficulty": "Medium",
         "frequency": 47,
@@ -1494,18 +1448,7 @@
         ]
       },
       {
-        "id": 102,
-        "title": "Minimum Swaps to Group All 1's Together II",
-        "difficulty": "Medium",
-        "frequency": 47,
-        "url": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii",
-        "topics": [
-          "Array",
-          "Sliding Window"
-        ]
-      },
-      {
-        "id": 103,
+        "id": 92,
         "title": "Find Median from Data Stream",
         "difficulty": "Hard",
         "frequency": 47,
@@ -1519,34 +1462,19 @@
         ]
       },
       {
-        "id": 104,
-        "title": "Binary Tree Maximum Path Sum",
-        "difficulty": "Hard",
+        "id": 93,
+        "title": "Is Subsequence",
+        "difficulty": "Easy",
         "frequency": 47,
-        "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+        "url": "https://leetcode.com/problems/is-subsequence",
         "topics": [
-          "Dynamic Programming",
-          "Tree",
-          "Depth-First Search",
-          "Binary Tree",
-          "DP on Trees"
-        ]
-      },
-      {
-        "id": 105,
-        "title": "Basic Calculator",
-        "difficulty": "Hard",
-        "frequency": 47,
-        "url": "https://leetcode.com/problems/basic-calculator",
-        "topics": [
-          "Math",
+          "Two Pointers",
           "String",
-          "Stack",
-          "Recursion"
+          "Dynamic Programming"
         ]
       },
       {
-        "id": 106,
+        "id": 94,
         "title": "Reconstruct Itinerary",
         "difficulty": "Hard",
         "frequency": 47,
@@ -1564,15 +1492,114 @@
         ]
       },
       {
-        "id": 107,
-        "title": "Basic Calculator II",
+        "id": 95,
+        "title": "Sort Colors",
         "difficulty": "Medium",
         "frequency": 47,
-        "url": "https://leetcode.com/problems/basic-calculator-ii",
+        "url": "https://leetcode.com/problems/sort-colors",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting",
+          "Quicksort",
+          "Bubble Sort"
+        ]
+      },
+      {
+        "id": 96,
+        "title": "Kth Largest Element in an Array",
+        "difficulty": "Medium",
+        "frequency": 47,
+        "url": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect"
+        ]
+      },
+      {
+        "id": 97,
+        "title": "Permutation in String",
+        "difficulty": "Medium",
+        "frequency": 47,
+        "url": "https://leetcode.com/problems/permutation-in-string",
+        "topics": [
+          "Hash Table",
+          "Two Pointers",
+          "String",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 98,
+        "title": "Minimum Number of Days to Make m Bouquets",
+        "difficulty": "Medium",
+        "frequency": 47,
+        "url": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ]
+      },
+      {
+        "id": 99,
+        "title": "Copy List with Random Pointer",
+        "difficulty": "Medium",
+        "frequency": 47,
+        "url": "https://leetcode.com/problems/copy-list-with-random-pointer",
+        "topics": [
+          "Hash Table",
+          "Linked List"
+        ]
+      },
+      {
+        "id": 100,
+        "title": "Flatten Nested List Iterator",
+        "difficulty": "Medium",
+        "frequency": 47,
+        "url": "https://leetcode.com/problems/flatten-nested-list-iterator",
+        "topics": [
+          "Stack",
+          "Tree",
+          "Depth-First Search",
+          "Design",
+          "Queue",
+          "Iterator"
+        ]
+      },
+      {
+        "id": 101,
+        "title": "Minimum Cost For Tickets",
+        "difficulty": "Medium",
+        "frequency": 47,
+        "url": "https://leetcode.com/problems/minimum-cost-for-tickets",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 102,
+        "title": "Climbing Stairs",
+        "difficulty": "Easy",
+        "frequency": 47,
+        "url": "https://leetcode.com/problems/climbing-stairs",
         "topics": [
           "Math",
-          "String",
-          "Stack"
+          "Dynamic Programming",
+          "Memoization"
+        ]
+      },
+      {
+        "id": 103,
+        "title": "Max Consecutive Ones",
+        "difficulty": "Easy",
+        "frequency": 47,
+        "url": "https://leetcode.com/problems/max-consecutive-ones",
+        "topics": [
+          "Array"
         ]
       }
     ],
@@ -1590,9 +1617,33 @@
       },
       {
         "id": 2,
+        "title": "Special Binary String",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/special-binary-string",
+        "topics": [
+          "String",
+          "Divide and Conquer",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
+        "frequency": 98,
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 4,
         "title": "Group Anagrams",
         "difficulty": "Medium",
-        "frequency": 95,
+        "frequency": 96,
         "url": "https://leetcode.com/problems/group-anagrams",
         "topics": [
           "Array",
@@ -1602,34 +1653,34 @@
         ]
       },
       {
-        "id": 3,
-        "title": "Special Binary String",
-        "difficulty": "Hard",
-        "frequency": 95,
-        "url": "https://leetcode.com/problems/special-binary-string",
-        "topics": [
-          "String",
-          "Divide and Conquer",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Longest Substring Without Repeating Characters",
+        "id": 5,
+        "title": "Add Two Numbers",
         "difficulty": "Medium",
         "frequency": 91,
-        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "url": "https://leetcode.com/problems/add-two-numbers",
         "topics": [
-          "Hash Table",
-          "String",
-          "Sliding Window"
+          "Linked List",
+          "Math",
+          "Recursion"
         ]
       },
       {
-        "id": 5,
+        "id": 6,
+        "title": "Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 91,
+        "url": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ]
+      },
+      {
+        "id": 7,
         "title": "LRU Cache",
         "difficulty": "Medium",
-        "frequency": 89,
+        "frequency": 91,
         "url": "https://leetcode.com/problems/lru-cache",
         "topics": [
           "Hash Table",
@@ -1639,46 +1690,10 @@
         ]
       },
       {
-        "id": 6,
-        "title": "Add Two Numbers",
-        "difficulty": "Medium",
-        "frequency": 87,
-        "url": "https://leetcode.com/problems/add-two-numbers",
-        "topics": [
-          "Linked List",
-          "Math",
-          "Recursion"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Median of Two Sorted Arrays",
-        "difficulty": "Hard",
-        "frequency": 87,
-        "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
-        "topics": [
-          "Array",
-          "Binary Search",
-          "Divide and Conquer"
-        ]
-      },
-      {
         "id": 8,
-        "title": "Merge Intervals",
-        "difficulty": "Medium",
-        "frequency": 87,
-        "url": "https://leetcode.com/problems/merge-intervals",
-        "topics": [
-          "Array",
-          "Sorting",
-          "Quicksort"
-        ]
-      },
-      {
-        "id": 9,
         "title": "Majority Element",
         "difficulty": "Easy",
-        "frequency": 87,
+        "frequency": 91,
         "url": "https://leetcode.com/problems/majority-element",
         "topics": [
           "Array",
@@ -1690,22 +1705,10 @@
         ]
       },
       {
-        "id": 10,
-        "title": "3Sum",
-        "difficulty": "Medium",
-        "frequency": 84,
-        "url": "https://leetcode.com/problems/3sum",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 11,
+        "id": 9,
         "title": "Climbing Stairs",
         "difficulty": "Easy",
-        "frequency": 84,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/climbing-stairs",
         "topics": [
           "Math",
@@ -1714,21 +1717,10 @@
         ]
       },
       {
-        "id": 12,
-        "title": "Reverse Linked List",
-        "difficulty": "Easy",
-        "frequency": 84,
-        "url": "https://leetcode.com/problems/reverse-linked-list",
-        "topics": [
-          "Linked List",
-          "Recursion"
-        ]
-      },
-      {
-        "id": 13,
+        "id": 10,
         "title": "Smallest Range II",
         "difficulty": "Medium",
-        "frequency": 84,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/smallest-range-ii",
         "topics": [
           "Array",
@@ -1738,10 +1730,45 @@
         ]
       },
       {
+        "id": 11,
+        "title": "Median of Two Sorted Arrays",
+        "difficulty": "Hard",
+        "frequency": 86,
+        "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Divide and Conquer"
+        ]
+      },
+      {
+        "id": 12,
+        "title": "3Sum",
+        "difficulty": "Medium",
+        "frequency": 86,
+        "url": "https://leetcode.com/problems/3sum",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Reverse Linked List",
+        "difficulty": "Easy",
+        "frequency": 86,
+        "url": "https://leetcode.com/problems/reverse-linked-list",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ]
+      },
+      {
         "id": 14,
         "title": "Number of Increasing Paths in a Grid",
         "difficulty": "Hard",
-        "frequency": 81,
+        "frequency": 86,
         "url": "https://leetcode.com/problems/number-of-increasing-paths-in-a-grid",
         "topics": [
           "Array",
@@ -1756,69 +1783,42 @@
       },
       {
         "id": 15,
-        "title": "Divide Intervals Into Minimum Number of Groups",
+        "title": "Longest Palindromic Substring",
         "difficulty": "Medium",
-        "frequency": 81,
-        "url": "https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups",
+        "frequency": 82,
+        "url": "https://leetcode.com/problems/longest-palindromic-substring",
         "topics": [
-          "Array",
           "Two Pointers",
-          "Greedy",
-          "Sorting",
-          "Heap (Priority Queue)",
-          "Prefix Sum"
+          "String",
+          "Dynamic Programming",
+          "Manacher"
         ]
       },
       {
         "id": 16,
-        "title": "Best Time to Buy and Sell Stock",
-        "difficulty": "Easy",
-        "frequency": 78,
-        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
-        "topics": [
-          "Array",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 17,
         "title": "Tenth Line",
         "difficulty": "Easy",
-        "frequency": 78,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/tenth-line",
         "topics": [
           "Shell"
         ]
       },
       {
-        "id": 18,
-        "title": "Number of Islands",
-        "difficulty": "Medium",
-        "frequency": 78,
-        "url": "https://leetcode.com/problems/number-of-islands",
-        "topics": [
-          "Array",
-          "Depth-First Search",
-          "Breadth-First Search",
-          "Union-Find",
-          "Matrix"
-        ]
-      },
-      {
-        "id": 19,
+        "id": 17,
         "title": "Delete Node in a Linked List",
         "difficulty": "Medium",
-        "frequency": 78,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/delete-node-in-a-linked-list",
         "topics": [
           "Linked List"
         ]
       },
       {
-        "id": 20,
+        "id": 18,
         "title": "Add Digits",
         "difficulty": "Easy",
-        "frequency": 78,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/add-digits",
         "topics": [
           "Math",
@@ -1827,10 +1827,10 @@
         ]
       },
       {
-        "id": 21,
+        "id": 19,
         "title": "Nim Game",
         "difficulty": "Easy",
-        "frequency": 78,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/nim-game",
         "topics": [
           "Math",
@@ -1842,10 +1842,10 @@
         ]
       },
       {
-        "id": 22,
+        "id": 20,
         "title": "Kth Largest Element in a Stream",
         "difficulty": "Easy",
-        "frequency": 78,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
         "topics": [
           "Tree",
@@ -1857,10 +1857,10 @@
         ]
       },
       {
-        "id": 23,
+        "id": 21,
         "title": "Preimage Size of Factorial Zeroes Function",
         "difficulty": "Hard",
-        "frequency": 78,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function",
         "topics": [
           "Math",
@@ -1868,10 +1868,10 @@
         ]
       },
       {
-        "id": 24,
+        "id": 22,
         "title": "Number of Subarrays with Bounded Maximum",
         "difficulty": "Medium",
-        "frequency": 78,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum",
         "topics": [
           "Array",
@@ -1879,10 +1879,10 @@
         ]
       },
       {
-        "id": 25,
+        "id": 23,
         "title": "Smallest Range I",
         "difficulty": "Easy",
-        "frequency": 78,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/smallest-range-i",
         "topics": [
           "Array",
@@ -1890,10 +1890,10 @@
         ]
       },
       {
-        "id": 26,
+        "id": 24,
         "title": "Reverse Substrings Between Each Pair of Parentheses",
         "difficulty": "Medium",
-        "frequency": 78,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses",
         "topics": [
           "String",
@@ -1902,10 +1902,10 @@
         ]
       },
       {
-        "id": 27,
+        "id": 25,
         "title": "Count Ways to Build Rooms in an Ant Colony",
         "difficulty": "Hard",
-        "frequency": 78,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony",
         "topics": [
           "Array",
@@ -1921,10 +1921,10 @@
         ]
       },
       {
-        "id": 28,
+        "id": 26,
         "title": "Plates Between Candles",
         "difficulty": "Medium",
-        "frequency": 78,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/plates-between-candles",
         "topics": [
           "Array",
@@ -1934,10 +1934,10 @@
         ]
       },
       {
-        "id": 29,
+        "id": 27,
         "title": "Choose Numbers From Two Arrays in Range",
         "difficulty": "Hard",
-        "frequency": 78,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/choose-numbers-from-two-arrays-in-range",
         "topics": [
           "Array",
@@ -1945,10 +1945,25 @@
         ]
       },
       {
-        "id": 30,
+        "id": 28,
+        "title": "Divide Intervals Into Minimum Number of Groups",
+        "difficulty": "Medium",
+        "frequency": 82,
+        "url": "https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ]
+      },
+      {
+        "id": 29,
         "title": "Minimize XOR",
         "difficulty": "Medium",
-        "frequency": 78,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/minimize-xor",
         "topics": [
           "Greedy",
@@ -1956,10 +1971,10 @@
         ]
       },
       {
-        "id": 31,
+        "id": 30,
         "title": "Merge Operations to Turn Array Into a Palindrome",
         "difficulty": "Medium",
-        "frequency": 78,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome",
         "topics": [
           "Array",
@@ -1968,10 +1983,10 @@
         ]
       },
       {
-        "id": 32,
+        "id": 31,
         "title": "Minimizing Array After Replacing Pairs With Their Product",
         "difficulty": "Medium",
-        "frequency": 78,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product",
         "topics": [
           "Array",
@@ -1980,10 +1995,10 @@
         ]
       },
       {
-        "id": 33,
+        "id": 32,
         "title": "Count Subarrays Where Max Element Appears at Least K Times",
         "difficulty": "Medium",
-        "frequency": 78,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times",
         "topics": [
           "Array",
@@ -1991,10 +2006,10 @@
         ]
       },
       {
-        "id": 34,
+        "id": 33,
         "title": "Bitwise OR of Adjacent Elements",
         "difficulty": "Easy",
-        "frequency": 78,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/bitwise-or-of-adjacent-elements",
         "topics": [
           "Array",
@@ -2002,10 +2017,10 @@
         ]
       },
       {
-        "id": 35,
+        "id": 34,
         "title": "Threshold Majority Queries",
         "difficulty": "Hard",
-        "frequency": 78,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/threshold-majority-queries",
         "topics": [
           "Array",
@@ -2017,10 +2032,10 @@
         ]
       },
       {
-        "id": 36,
+        "id": 35,
         "title": "Minimum Moves to Equal Array Elements III",
         "difficulty": "Easy",
-        "frequency": 78,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii",
         "topics": [
           "Array",
@@ -2028,45 +2043,10 @@
         ]
       },
       {
-        "id": 37,
-        "title": "Integer to Roman",
-        "difficulty": "Medium",
-        "frequency": 75,
-        "url": "https://leetcode.com/problems/integer-to-roman",
-        "topics": [
-          "Hash Table",
-          "Math",
-          "String"
-        ]
-      },
-      {
-        "id": 38,
-        "title": "Next Permutation",
-        "difficulty": "Medium",
-        "frequency": 75,
-        "url": "https://leetcode.com/problems/next-permutation",
-        "topics": [
-          "Array",
-          "Two Pointers"
-        ]
-      },
-      {
-        "id": 39,
-        "title": "Jump Game",
-        "difficulty": "Medium",
-        "frequency": 75,
-        "url": "https://leetcode.com/problems/jump-game",
-        "topics": [
-          "Array",
-          "Dynamic Programming",
-          "Greedy"
-        ]
-      },
-      {
-        "id": 40,
+        "id": 36,
         "title": "Minimum Window Substring",
         "difficulty": "Hard",
-        "frequency": 75,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/minimum-window-substring",
         "topics": [
           "Hash Table",
@@ -2075,45 +2055,43 @@
         ]
       },
       {
-        "id": 41,
+        "id": 37,
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "Easy",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 38,
         "title": "Validate IP Address",
         "difficulty": "Medium",
-        "frequency": 75,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/validate-ip-address",
         "topics": [
           "String"
         ]
       },
       {
-        "id": 42,
-        "title": "Longest Palindromic Substring",
+        "id": 39,
+        "title": "Integer to Roman",
         "difficulty": "Medium",
-        "frequency": 71,
-        "url": "https://leetcode.com/problems/longest-palindromic-substring",
+        "frequency": 74,
+        "url": "https://leetcode.com/problems/integer-to-roman",
         "topics": [
-          "Two Pointers",
-          "String",
-          "Dynamic Programming",
-          "Manacher"
+          "Hash Table",
+          "Math",
+          "String"
         ]
       },
       {
-        "id": 43,
-        "title": "Longest Common Prefix",
-        "difficulty": "Easy",
-        "frequency": 71,
-        "url": "https://leetcode.com/problems/longest-common-prefix",
-        "topics": [
-          "Array",
-          "String",
-          "Trie"
-        ]
-      },
-      {
-        "id": 44,
+        "id": 40,
         "title": "Valid Parentheses",
         "difficulty": "Easy",
-        "frequency": 71,
+        "frequency": 74,
         "url": "https://leetcode.com/problems/valid-parentheses",
         "topics": [
           "String",
@@ -2122,10 +2100,10 @@
         ]
       },
       {
-        "id": 45,
+        "id": 41,
         "title": "Trapping Rain Water",
         "difficulty": "Hard",
-        "frequency": 71,
+        "frequency": 74,
         "url": "https://leetcode.com/problems/trapping-rain-water",
         "topics": [
           "Array",
@@ -2136,10 +2114,10 @@
         ]
       },
       {
-        "id": 46,
+        "id": 42,
         "title": "Maximum Product Subarray",
         "difficulty": "Medium",
-        "frequency": 71,
+        "frequency": 74,
         "url": "https://leetcode.com/problems/maximum-product-subarray",
         "topics": [
           "Array",
@@ -2147,10 +2125,33 @@
         ]
       },
       {
-        "id": 47,
+        "id": 43,
+        "title": "Koko Eating Bananas",
+        "difficulty": "Medium",
+        "frequency": 74,
+        "url": "https://leetcode.com/problems/koko-eating-bananas",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ]
+      },
+      {
+        "id": 44,
+        "title": "Fruit Into Baskets",
+        "difficulty": "Medium",
+        "frequency": 74,
+        "url": "https://leetcode.com/problems/fruit-into-baskets",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 45,
         "title": "Sort Array by Increasing Frequency",
         "difficulty": "Easy",
-        "frequency": 71,
+        "frequency": 74,
         "url": "https://leetcode.com/problems/sort-array-by-increasing-frequency",
         "topics": [
           "Array",
@@ -2159,10 +2160,45 @@
         ]
       },
       {
+        "id": 46,
+        "title": "Longest Common Prefix",
+        "difficulty": "Easy",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/longest-common-prefix",
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ]
+      },
+      {
+        "id": 47,
+        "title": "Next Permutation",
+        "difficulty": "Medium",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/next-permutation",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ]
+      },
+      {
         "id": 48,
+        "title": "Jump Game",
+        "difficulty": "Medium",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/jump-game",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 49,
         "title": "Restore IP Addresses",
         "difficulty": "Medium",
-        "frequency": 66,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/restore-ip-addresses",
         "topics": [
           "String",
@@ -2170,23 +2206,24 @@
         ]
       },
       {
-        "id": 49,
-        "title": "Largest Number",
+        "id": 50,
+        "title": "Number of Islands",
         "difficulty": "Medium",
-        "frequency": 66,
-        "url": "https://leetcode.com/problems/largest-number",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/number-of-islands",
         "topics": [
           "Array",
-          "String",
-          "Greedy",
-          "Sorting"
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
         ]
       },
       {
-        "id": 50,
+        "id": 51,
         "title": "Lowest Common Ancestor of a Binary Tree",
         "difficulty": "Medium",
-        "frequency": 66,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
         "topics": [
           "Tree",
@@ -2197,10 +2234,10 @@
         ]
       },
       {
-        "id": 51,
+        "id": 52,
         "title": "Top K Frequent Elements",
         "difficulty": "Medium",
-        "frequency": 66,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/top-k-frequent-elements",
         "topics": [
           "Array",
@@ -2214,45 +2251,10 @@
         ]
       },
       {
-        "id": 52,
-        "title": "Koko Eating Bananas",
-        "difficulty": "Medium",
-        "frequency": 66,
-        "url": "https://leetcode.com/problems/koko-eating-bananas",
-        "topics": [
-          "Array",
-          "Binary Search"
-        ]
-      },
-      {
         "id": 53,
-        "title": "Fruit Into Baskets",
-        "difficulty": "Medium",
-        "frequency": 66,
-        "url": "https://leetcode.com/problems/fruit-into-baskets",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Sliding Window"
-        ]
-      },
-      {
-        "id": 54,
-        "title": "Minimum Processing Time",
-        "difficulty": "Medium",
-        "frequency": 66,
-        "url": "https://leetcode.com/problems/minimum-processing-time",
-        "topics": [
-          "Array",
-          "Greedy",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 55,
         "title": "Binary Tree Maximum Path Sum",
         "difficulty": "Hard",
-        "frequency": 66,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
         "topics": [
           "Dynamic Programming",
@@ -2263,33 +2265,34 @@
         ]
       },
       {
-        "id": 56,
+        "id": 54,
+        "title": "Find Median from Data Stream",
+        "difficulty": "Hard",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/find-median-from-data-stream",
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ]
+      },
+      {
+        "id": 55,
         "title": "String to Integer (atoi)",
         "difficulty": "Medium",
-        "frequency": 60,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/string-to-integer-atoi",
         "topics": [
           "String"
         ]
       },
       {
-        "id": 57,
-        "title": "Generate Parentheses",
-        "difficulty": "Medium",
-        "frequency": 60,
-        "url": "https://leetcode.com/problems/generate-parentheses",
-        "topics": [
-          "String",
-          "Dynamic Programming",
-          "Backtracking",
-          "Bracket Sequences"
-        ]
-      },
-      {
-        "id": 58,
+        "id": 56,
         "title": "Search in Rotated Sorted Array",
         "difficulty": "Medium",
-        "frequency": 60,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
         "topics": [
           "Array",
@@ -2297,10 +2300,10 @@
         ]
       },
       {
-        "id": 59,
+        "id": 57,
         "title": "Spiral Matrix",
         "difficulty": "Medium",
-        "frequency": 60,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/spiral-matrix",
         "topics": [
           "Array",
@@ -2309,10 +2312,10 @@
         ]
       },
       {
-        "id": 60,
+        "id": 58,
         "title": "Search a 2D Matrix",
         "difficulty": "Medium",
-        "frequency": 60,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/search-a-2d-matrix",
         "topics": [
           "Array",
@@ -2321,10 +2324,10 @@
         ]
       },
       {
-        "id": 61,
+        "id": 59,
         "title": "Binary Tree Zigzag Level Order Traversal",
         "difficulty": "Medium",
-        "frequency": 60,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
         "topics": [
           "Tree",
@@ -2333,10 +2336,10 @@
         ]
       },
       {
-        "id": 62,
+        "id": 60,
         "title": "Gas Station",
         "difficulty": "Medium",
-        "frequency": 60,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/gas-station",
         "topics": [
           "Array",
@@ -2344,22 +2347,23 @@
         ]
       },
       {
-        "id": 63,
-        "title": "Rotting Oranges",
+        "id": 61,
+        "title": "Largest Number",
         "difficulty": "Medium",
-        "frequency": 60,
-        "url": "https://leetcode.com/problems/rotting-oranges",
+        "frequency": 63,
+        "url": "https://leetcode.com/problems/largest-number",
         "topics": [
           "Array",
-          "Breadth-First Search",
-          "Matrix"
+          "String",
+          "Greedy",
+          "Sorting"
         ]
       },
       {
-        "id": 64,
+        "id": 62,
         "title": "Count Pairs Of Similar Strings",
         "difficulty": "Easy",
-        "frequency": 60,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/count-pairs-of-similar-strings",
         "topics": [
           "Array",
@@ -2370,10 +2374,10 @@
         ]
       },
       {
-        "id": 65,
+        "id": 63,
         "title": "Top K Frequent Words",
         "difficulty": "Medium",
-        "frequency": 60,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/top-k-frequent-words",
         "topics": [
           "Array",
@@ -2387,10 +2391,10 @@
         ]
       },
       {
-        "id": 66,
+        "id": 64,
         "title": "Shortest Path in a Grid with Obstacles Elimination",
         "difficulty": "Hard",
-        "frequency": 60,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
         "topics": [
           "Array",
@@ -2399,10 +2403,10 @@
         ]
       },
       {
-        "id": 67,
+        "id": 65,
         "title": "Flatten Nested List Iterator",
         "difficulty": "Medium",
-        "frequency": 60,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/flatten-nested-list-iterator",
         "topics": [
           "Stack",
@@ -2414,10 +2418,10 @@
         ]
       },
       {
-        "id": 68,
+        "id": 66,
         "title": "Count Subarrays With Fixed Bounds",
         "difficulty": "Hard",
-        "frequency": 60,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
         "topics": [
           "Array",
@@ -2427,20 +2431,23 @@
         ]
       },
       {
-        "id": 69,
-        "title": "Reverse Integer",
+        "id": 67,
+        "title": "Design Authentication Manager",
         "difficulty": "Medium",
-        "frequency": 52,
-        "url": "https://leetcode.com/problems/reverse-integer",
+        "frequency": 63,
+        "url": "https://leetcode.com/problems/design-authentication-manager",
         "topics": [
-          "Math"
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
         ]
       },
       {
-        "id": 70,
+        "id": 68,
         "title": "Roman to Integer",
         "difficulty": "Easy",
-        "frequency": 52,
+        "frequency": 55,
         "url": "https://leetcode.com/problems/roman-to-integer",
         "topics": [
           "Hash Table",
@@ -2449,22 +2456,23 @@
         ]
       },
       {
-        "id": 71,
-        "title": "Rotate Image",
+        "id": 69,
+        "title": "Generate Parentheses",
         "difficulty": "Medium",
-        "frequency": 52,
-        "url": "https://leetcode.com/problems/rotate-image",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/generate-parentheses",
         "topics": [
-          "Array",
-          "Math",
-          "Matrix"
+          "String",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bracket Sequences"
         ]
       },
       {
-        "id": 72,
+        "id": 70,
         "title": "N-Queens",
         "difficulty": "Hard",
-        "frequency": 52,
+        "frequency": 55,
         "url": "https://leetcode.com/problems/n-queens",
         "topics": [
           "Array",
@@ -2473,10 +2481,10 @@
         ]
       },
       {
-        "id": 73,
+        "id": 71,
         "title": "Construct Binary Tree from Preorder and Inorder Traversal",
         "difficulty": "Medium",
-        "frequency": 52,
+        "frequency": 55,
         "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
         "topics": [
           "Array",
@@ -2487,10 +2495,23 @@
         ]
       },
       {
-        "id": 74,
+        "id": 72,
+        "title": "Word Ladder",
+        "difficulty": "Hard",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/word-ladder",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ]
+      },
+      {
+        "id": 73,
         "title": "Single Number",
         "difficulty": "Easy",
-        "frequency": 52,
+        "frequency": 55,
         "url": "https://leetcode.com/problems/single-number",
         "topics": [
           "Array",
@@ -2498,21 +2519,10 @@
         ]
       },
       {
-        "id": 75,
-        "title": "House Robber",
-        "difficulty": "Medium",
-        "frequency": 52,
-        "url": "https://leetcode.com/problems/house-robber",
-        "topics": [
-          "Array",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 76,
+        "id": 74,
         "title": "Basic Calculator II",
         "difficulty": "Medium",
-        "frequency": 52,
+        "frequency": 55,
         "url": "https://leetcode.com/problems/basic-calculator-ii",
         "topics": [
           "Math",
@@ -2521,10 +2531,10 @@
         ]
       },
       {
-        "id": 77,
+        "id": 75,
         "title": "Product of Array Except Self",
         "difficulty": "Medium",
-        "frequency": 52,
+        "frequency": 55,
         "url": "https://leetcode.com/problems/product-of-array-except-self",
         "topics": [
           "Array",
@@ -2532,25 +2542,10 @@
         ]
       },
       {
-        "id": 78,
-        "title": "Meeting Rooms II",
-        "difficulty": "Medium",
-        "frequency": 52,
-        "url": "https://leetcode.com/problems/meeting-rooms-ii",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Greedy",
-          "Sorting",
-          "Heap (Priority Queue)",
-          "Prefix Sum"
-        ]
-      },
-      {
-        "id": 79,
+        "id": 76,
         "title": "Coin Change",
         "difficulty": "Medium",
-        "frequency": 52,
+        "frequency": 55,
         "url": "https://leetcode.com/problems/coin-change",
         "topics": [
           "Array",
@@ -2561,10 +2556,10 @@
         ]
       },
       {
-        "id": 80,
+        "id": 77,
         "title": "Remove K Digits",
         "difficulty": "Medium",
-        "frequency": 52,
+        "frequency": 55,
         "url": "https://leetcode.com/problems/remove-k-digits",
         "topics": [
           "String",
@@ -2574,23 +2569,22 @@
         ]
       },
       {
-        "id": 81,
-        "title": "Cousins in Binary Tree",
-        "difficulty": "Easy",
-        "frequency": 52,
-        "url": "https://leetcode.com/problems/cousins-in-binary-tree",
+        "id": 78,
+        "title": "Rotting Oranges",
+        "difficulty": "Medium",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/rotting-oranges",
         "topics": [
-          "Tree",
-          "Depth-First Search",
+          "Array",
           "Breadth-First Search",
-          "Binary Tree"
+          "Matrix"
         ]
       },
       {
-        "id": 82,
+        "id": 79,
         "title": "Sum of All Subset XOR Totals",
         "difficulty": "Easy",
-        "frequency": 52,
+        "frequency": 55,
         "url": "https://leetcode.com/problems/sum-of-all-subset-xor-totals",
         "topics": [
           "Array",
@@ -2602,10 +2596,10 @@
         ]
       },
       {
-        "id": 83,
+        "id": 80,
         "title": "Shopping Offers",
         "difficulty": "Medium",
-        "frequency": 52,
+        "frequency": 55,
         "url": "https://leetcode.com/problems/shopping-offers",
         "topics": [
           "Array",
@@ -2619,10 +2613,10 @@
         ]
       },
       {
-        "id": 84,
+        "id": 81,
         "title": "Longest Increasing Path in a Matrix",
         "difficulty": "Hard",
-        "frequency": 52,
+        "frequency": 55,
         "url": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
         "topics": [
           "Array",
@@ -2637,10 +2631,10 @@
         ]
       },
       {
-        "id": 85,
+        "id": 82,
         "title": "Unit Conversion I",
         "difficulty": "Medium",
-        "frequency": 52,
+        "frequency": 55,
         "url": "https://leetcode.com/problems/unit-conversion-i",
         "topics": [
           "Depth-First Search",
@@ -2649,10 +2643,10 @@
         ]
       },
       {
-        "id": 86,
+        "id": 83,
         "title": "Nested List Weight Sum",
         "difficulty": "Medium",
-        "frequency": 52,
+        "frequency": 55,
         "url": "https://leetcode.com/problems/nested-list-weight-sum",
         "topics": [
           "Depth-First Search",
@@ -2660,10 +2654,10 @@
         ]
       },
       {
-        "id": 87,
+        "id": 84,
         "title": "Contains Duplicate II",
         "difficulty": "Easy",
-        "frequency": 52,
+        "frequency": 55,
         "url": "https://leetcode.com/problems/contains-duplicate-ii",
         "topics": [
           "Array",
@@ -2672,22 +2666,10 @@
         ]
       },
       {
-        "id": 88,
-        "title": "Is Subsequence",
-        "difficulty": "Easy",
-        "frequency": 52,
-        "url": "https://leetcode.com/problems/is-subsequence",
-        "topics": [
-          "Two Pointers",
-          "String",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 89,
+        "id": 85,
         "title": "Heaters",
         "difficulty": "Medium",
-        "frequency": 52,
+        "frequency": 55,
         "url": "https://leetcode.com/problems/heaters",
         "topics": [
           "Array",
@@ -2697,10 +2679,10 @@
         ]
       },
       {
-        "id": 90,
+        "id": 86,
         "title": "Minimum Cost For Tickets",
         "difficulty": "Medium",
-        "frequency": 52,
+        "frequency": 55,
         "url": "https://leetcode.com/problems/minimum-cost-for-tickets",
         "topics": [
           "Array",
@@ -2708,10 +2690,10 @@
         ]
       },
       {
-        "id": 91,
+        "id": 87,
         "title": "Game of Life",
         "difficulty": "Medium",
-        "frequency": 52,
+        "frequency": 55,
         "url": "https://leetcode.com/problems/game-of-life",
         "topics": [
           "Array",
@@ -2720,24 +2702,80 @@
         ]
       },
       {
-        "id": 92,
-        "title": "Find Median from Data Stream",
-        "difficulty": "Hard",
-        "frequency": 52,
-        "url": "https://leetcode.com/problems/find-median-from-data-stream",
+        "id": 88,
+        "title": "Merge Two Sorted Lists",
+        "difficulty": "Easy",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/merge-two-sorted-lists",
         "topics": [
+          "Linked List",
+          "Recursion"
+        ]
+      },
+      {
+        "id": 89,
+        "title": "Flatten a Multilevel Doubly Linked List",
+        "difficulty": "Medium",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list",
+        "topics": [
+          "Linked List",
+          "Depth-First Search",
+          "Doubly-Linked List"
+        ]
+      },
+      {
+        "id": 90,
+        "title": "Second Highest Salary",
+        "difficulty": "Medium",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/second-highest-salary",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 91,
+        "title": "Sort Colors",
+        "difficulty": "Medium",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/sort-colors",
+        "topics": [
+          "Array",
           "Two Pointers",
-          "Design",
           "Sorting",
-          "Heap (Priority Queue)",
-          "Data Stream"
+          "Quicksort",
+          "Bubble Sort"
+        ]
+      },
+      {
+        "id": 92,
+        "title": "Building Boxes",
+        "difficulty": "Hard",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/building-boxes",
+        "topics": [
+          "Math",
+          "Binary Search",
+          "Greedy"
         ]
       },
       {
         "id": 93,
+        "title": "Find Peak Element",
+        "difficulty": "Medium",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/find-peak-element",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ]
+      },
+      {
+        "id": 94,
         "title": "Container With Most Water",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/container-with-most-water",
         "topics": [
           "Array",
@@ -2746,10 +2784,10 @@
         ]
       },
       {
-        "id": 94,
+        "id": 95,
         "title": "Remove Element",
         "difficulty": "Easy",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/remove-element",
         "topics": [
           "Array",
@@ -2757,10 +2795,10 @@
         ]
       },
       {
-        "id": 95,
+        "id": 96,
         "title": "Combination Sum II",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/combination-sum-ii",
         "topics": [
           "Array",
@@ -2768,10 +2806,10 @@
         ]
       },
       {
-        "id": 96,
+        "id": 97,
         "title": "Jump Game II",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/jump-game-ii",
         "topics": [
           "Array",
@@ -2780,10 +2818,22 @@
         ]
       },
       {
-        "id": 97,
+        "id": 98,
+        "title": "Rotate Image",
+        "difficulty": "Medium",
+        "frequency": 44,
+        "url": "https://leetcode.com/problems/rotate-image",
+        "topics": [
+          "Array",
+          "Math",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 99,
         "title": "Pow(x, n)",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/powx-n",
         "topics": [
           "Math",
@@ -2791,10 +2841,10 @@
         ]
       },
       {
-        "id": 98,
+        "id": 100,
         "title": "Largest Rectangle in Histogram",
         "difficulty": "Hard",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/largest-rectangle-in-histogram",
         "topics": [
           "Array",
@@ -2804,10 +2854,10 @@
         ]
       },
       {
-        "id": 99,
+        "id": 101,
         "title": "Decode Ways",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/decode-ways",
         "topics": [
           "String",
@@ -2815,10 +2865,10 @@
         ]
       },
       {
-        "id": 100,
+        "id": 102,
         "title": "Binary Tree Level Order Traversal",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/binary-tree-level-order-traversal",
         "topics": [
           "Tree",
@@ -2827,10 +2877,10 @@
         ]
       },
       {
-        "id": 101,
+        "id": 103,
         "title": "Valid Palindrome",
         "difficulty": "Easy",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/valid-palindrome",
         "topics": [
           "Two Pointers",
@@ -2838,23 +2888,10 @@
         ]
       },
       {
-        "id": 102,
-        "title": "Word Ladder",
-        "difficulty": "Hard",
-        "frequency": 42,
-        "url": "https://leetcode.com/problems/word-ladder",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Breadth-First Search",
-          "Bidirectional Search"
-        ]
-      },
-      {
-        "id": 103,
+        "id": 104,
         "title": "Longest Consecutive Sequence",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/longest-consecutive-sequence",
         "topics": [
           "Array",
@@ -2863,10 +2900,10 @@
         ]
       },
       {
-        "id": 104,
+        "id": 105,
         "title": "Surrounded Regions",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/surrounded-regions",
         "topics": [
           "Array",
@@ -2877,10 +2914,10 @@
         ]
       },
       {
-        "id": 105,
+        "id": 106,
         "title": "Min Stack",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/min-stack",
         "topics": [
           "Stack",
@@ -2888,22 +2925,21 @@
         ]
       },
       {
-        "id": 106,
-        "title": "Two Sum II - Input Array Is Sorted",
+        "id": 107,
+        "title": "House Robber",
         "difficulty": "Medium",
-        "frequency": 42,
-        "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
+        "frequency": 44,
+        "url": "https://leetcode.com/problems/house-robber",
         "topics": [
           "Array",
-          "Two Pointers",
-          "Binary Search"
+          "Dynamic Programming"
         ]
       },
       {
-        "id": 107,
+        "id": 108,
         "title": "Course Schedule",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/course-schedule",
         "topics": [
           "Depth-First Search",
@@ -2914,10 +2950,10 @@
         ]
       },
       {
-        "id": 108,
+        "id": 109,
         "title": "Kth Largest Element in an Array",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/kth-largest-element-in-an-array",
         "topics": [
           "Array",
@@ -2928,10 +2964,10 @@
         ]
       },
       {
-        "id": 109,
+        "id": 110,
         "title": "Sliding Window Maximum",
         "difficulty": "Hard",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/sliding-window-maximum",
         "topics": [
           "Array",
@@ -2943,10 +2979,10 @@
         ]
       },
       {
-        "id": 110,
+        "id": 111,
         "title": "Move Zeroes",
         "difficulty": "Easy",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/move-zeroes",
         "topics": [
           "Array",
@@ -2954,10 +2990,10 @@
         ]
       },
       {
-        "id": 111,
+        "id": 112,
         "title": "Pacific Atlantic Water Flow",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/pacific-atlantic-water-flow",
         "topics": [
           "Array",
@@ -2967,10 +3003,10 @@
         ]
       },
       {
-        "id": 112,
+        "id": 113,
         "title": "Longest Repeating Character Replacement",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/longest-repeating-character-replacement",
         "topics": [
           "Hash Table",
@@ -2979,21 +3015,10 @@
         ]
       },
       {
-        "id": 113,
-        "title": "Single Element in a Sorted Array",
-        "difficulty": "Medium",
-        "frequency": 42,
-        "url": "https://leetcode.com/problems/single-element-in-a-sorted-array",
-        "topics": [
-          "Array",
-          "Binary Search"
-        ]
-      },
-      {
         "id": 114,
         "title": "Number of Provinces",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/number-of-provinces",
         "topics": [
           "Depth-First Search",
@@ -3006,7 +3031,7 @@
         "id": 115,
         "title": "Next Greater Element III",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/next-greater-element-iii",
         "topics": [
           "Math",
@@ -3018,7 +3043,7 @@
         "id": 116,
         "title": "Subarray Sum Equals K",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/subarray-sum-equals-k",
         "topics": [
           "Array",
@@ -3028,22 +3053,9 @@
       },
       {
         "id": 117,
-        "title": "Permutation in String",
-        "difficulty": "Medium",
-        "frequency": 42,
-        "url": "https://leetcode.com/problems/permutation-in-string",
-        "topics": [
-          "Hash Table",
-          "Two Pointers",
-          "String",
-          "Sliding Window"
-        ]
-      },
-      {
-        "id": 118,
         "title": "Shortest Path to Get All Keys",
         "difficulty": "Hard",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/shortest-path-to-get-all-keys",
         "topics": [
           "Array",
@@ -3053,24 +3065,10 @@
         ]
       },
       {
-        "id": 119,
-        "title": "Random Pick with Weight",
-        "difficulty": "Medium",
-        "frequency": 42,
-        "url": "https://leetcode.com/problems/random-pick-with-weight",
-        "topics": [
-          "Array",
-          "Math",
-          "Binary Search",
-          "Prefix Sum",
-          "Randomized"
-        ]
-      },
-      {
-        "id": 120,
+        "id": 118,
         "title": "Squares of a Sorted Array",
         "difficulty": "Easy",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/squares-of-a-sorted-array",
         "topics": [
           "Array",
@@ -3079,25 +3077,23 @@
         ]
       },
       {
-        "id": 121,
-        "title": "Search Suggestions System",
-        "difficulty": "Medium",
-        "frequency": 42,
-        "url": "https://leetcode.com/problems/search-suggestions-system",
+        "id": 119,
+        "title": "Cousins in Binary Tree",
+        "difficulty": "Easy",
+        "frequency": 44,
+        "url": "https://leetcode.com/problems/cousins-in-binary-tree",
         "topics": [
-          "Array",
-          "String",
-          "Binary Search",
-          "Trie",
-          "Sorting",
-          "Heap (Priority Queue)"
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
         ]
       },
       {
-        "id": 122,
+        "id": 120,
         "title": "Amount of Time for Binary Tree to Be Infected",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected",
         "topics": [
           "Hash Table",
@@ -3108,34 +3104,22 @@
         ]
       },
       {
-        "id": 123,
-        "title": "Minimum Swaps to Group All 1's Together II",
+        "id": 121,
+        "title": "Minimum Processing Time",
         "difficulty": "Medium",
-        "frequency": 42,
-        "url": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii",
+        "frequency": 44,
+        "url": "https://leetcode.com/problems/minimum-processing-time",
         "topics": [
           "Array",
-          "Sliding Window"
+          "Greedy",
+          "Sorting"
         ]
       },
       {
-        "id": 124,
-        "title": "Basic Calculator",
-        "difficulty": "Hard",
-        "frequency": 42,
-        "url": "https://leetcode.com/problems/basic-calculator",
-        "topics": [
-          "Math",
-          "String",
-          "Stack",
-          "Recursion"
-        ]
-      },
-      {
-        "id": 125,
+        "id": 122,
         "title": "Range Sum Query - Mutable",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/range-sum-query-mutable",
         "topics": [
           "Array",
@@ -3147,10 +3131,10 @@
         ]
       },
       {
-        "id": 126,
+        "id": 123,
         "title": "Split the Array",
         "difficulty": "Easy",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/split-the-array",
         "topics": [
           "Array",
@@ -3159,10 +3143,10 @@
         ]
       },
       {
-        "id": 127,
+        "id": 124,
         "title": "Design Twitter",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/design-twitter",
         "topics": [
           "Hash Table",
@@ -3172,10 +3156,10 @@
         ]
       },
       {
-        "id": 128,
+        "id": 125,
         "title": "Increment Submatrices by One",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/increment-submatrices-by-one",
         "topics": [
           "Array",
@@ -3184,10 +3168,10 @@
         ]
       },
       {
-        "id": 129,
+        "id": 126,
         "title": "Max Consecutive Ones III",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/max-consecutive-ones-iii",
         "topics": [
           "Array",
@@ -3197,10 +3181,10 @@
         ]
       },
       {
-        "id": 130,
+        "id": 127,
         "title": "Count Complete Tree Nodes",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/count-complete-tree-nodes",
         "topics": [
           "Binary Search",
@@ -3210,10 +3194,10 @@
         ]
       },
       {
-        "id": 131,
+        "id": 128,
         "title": "Trim a Binary Search Tree",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/trim-a-binary-search-tree",
         "topics": [
           "Tree",
@@ -3223,10 +3207,10 @@
         ]
       },
       {
-        "id": 132,
+        "id": 129,
         "title": "Largest Combination With Bitwise AND Greater Than Zero",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero",
         "topics": [
           "Array",
@@ -3236,10 +3220,10 @@
         ]
       },
       {
-        "id": 133,
+        "id": 130,
         "title": "Boundary of Binary Tree",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/boundary-of-binary-tree",
         "topics": [
           "Tree",
@@ -3248,34 +3232,20 @@
         ]
       },
       {
-        "id": 134,
+        "id": 131,
         "title": "Reformat Date",
         "difficulty": "Easy",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/reformat-date",
         "topics": [
           "String"
         ]
       },
       {
-        "id": 135,
-        "title": "Minimum Number of Swaps to Make the String Balanced",
-        "difficulty": "Medium",
-        "frequency": 42,
-        "url": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced",
-        "topics": [
-          "Two Pointers",
-          "String",
-          "Stack",
-          "Greedy",
-          "Bracket Sequences"
-        ]
-      },
-      {
-        "id": 136,
+        "id": 132,
         "title": "Maximum Profit From Trading Stocks",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/maximum-profit-from-trading-stocks",
         "topics": [
           "Array",
@@ -3283,10 +3253,22 @@
         ]
       },
       {
-        "id": 137,
+        "id": 133,
+        "title": "Is Subsequence",
+        "difficulty": "Easy",
+        "frequency": 44,
+        "url": "https://leetcode.com/problems/is-subsequence",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 134,
         "title": "Reconstruct Itinerary",
         "difficulty": "Hard",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/reconstruct-itinerary",
         "topics": [
           "Array",
@@ -3301,10 +3283,10 @@
         ]
       },
       {
-        "id": 138,
+        "id": 135,
         "title": "Minimum Number of Days to Make m Bouquets",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets",
         "topics": [
           "Array",
@@ -3312,10 +3294,10 @@
         ]
       },
       {
-        "id": 139,
+        "id": 136,
         "title": "Spiral Matrix II",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/spiral-matrix-ii",
         "topics": [
           "Array",
@@ -3324,10 +3306,10 @@
         ]
       },
       {
-        "id": 140,
+        "id": 137,
         "title": "Minimum Number of Taps to Open to Water a Garden",
         "difficulty": "Hard",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
         "topics": [
           "Array",
@@ -3336,10 +3318,10 @@
         ]
       },
       {
-        "id": 141,
+        "id": 138,
         "title": "Max Area of Island",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/max-area-of-island",
         "topics": [
           "Array",
@@ -3350,10 +3332,10 @@
         ]
       },
       {
-        "id": 142,
+        "id": 139,
         "title": "Copy List with Random Pointer",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/copy-list-with-random-pointer",
         "topics": [
           "Hash Table",
@@ -3361,10 +3343,10 @@
         ]
       },
       {
-        "id": 143,
+        "id": 140,
         "title": "Online Stock Span",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/online-stock-span",
         "topics": [
           "Stack",
@@ -3374,10 +3356,10 @@
         ]
       },
       {
-        "id": 144,
+        "id": 141,
         "title": "First Missing Positive",
         "difficulty": "Hard",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/first-missing-positive",
         "topics": [
           "Array",
@@ -3385,43 +3367,20 @@
         ]
       },
       {
-        "id": 145,
-        "title": "Merge Two Sorted Lists",
-        "difficulty": "Easy",
-        "frequency": 42,
-        "url": "https://leetcode.com/problems/merge-two-sorted-lists",
-        "topics": [
-          "Linked List",
-          "Recursion"
-        ]
-      },
-      {
-        "id": 146,
+        "id": 142,
         "title": "Maximize Distance to Closest Person",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/maximize-distance-to-closest-person",
         "topics": [
           "Array"
         ]
       },
       {
-        "id": 147,
-        "title": "Flatten a Multilevel Doubly Linked List",
-        "difficulty": "Medium",
-        "frequency": 42,
-        "url": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list",
-        "topics": [
-          "Linked List",
-          "Depth-First Search",
-          "Doubly-Linked List"
-        ]
-      },
-      {
-        "id": 148,
+        "id": 143,
         "title": "Find the Winner of the Circular Game",
         "difficulty": "Medium",
-        "frequency": 42,
+        "frequency": 44,
         "url": "https://leetcode.com/problems/find-the-winner-of-the-circular-game",
         "topics": [
           "Array",
@@ -3429,6 +3388,54 @@
           "Recursion",
           "Queue",
           "Simulation"
+        ]
+      },
+      {
+        "id": 144,
+        "title": "Permutation in String",
+        "difficulty": "Medium",
+        "frequency": 44,
+        "url": "https://leetcode.com/problems/permutation-in-string",
+        "topics": [
+          "Hash Table",
+          "Two Pointers",
+          "String",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 145,
+        "title": "Max Consecutive Ones",
+        "difficulty": "Easy",
+        "frequency": 44,
+        "url": "https://leetcode.com/problems/max-consecutive-ones",
+        "topics": [
+          "Array"
+        ]
+      },
+      {
+        "id": 146,
+        "title": "Basic Calculator",
+        "difficulty": "Hard",
+        "frequency": 44,
+        "url": "https://leetcode.com/problems/basic-calculator",
+        "topics": [
+          "Math",
+          "String",
+          "Stack",
+          "Recursion"
+        ]
+      },
+      {
+        "id": 147,
+        "title": "Sqrt(x)",
+        "difficulty": "Easy",
+        "frequency": 44,
+        "url": "https://leetcode.com/problems/sqrtx",
+        "topics": [
+          "Math",
+          "Binary Search",
+          "Newton's Method"
         ]
       }
     ]

@@ -2,24 +2,10 @@
   "name": "CrowdStrike",
   "slug": "CrowdStrike",
   "dataKey": "crowdstrike",
-  "updatedAt": "2026-10-18T02:12:31.965Z",
+  "updatedAt": "2026-10-25T02:23:17.259Z",
   "problems": {
     "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [
-      {
-        "id": 1,
-        "title": "Group Anagrams",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/group-anagrams",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      }
-    ],
+    "2. Three Months.csv": [],
     "3. Six Months.csv": [
       {
         "id": 1,
@@ -36,135 +22,6 @@
       }
     ],
     "4. More Than Six Months.csv": [
-      {
-        "id": 1,
-        "title": "String Compression",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/string-compression",
-        "topics": [
-          "Two Pointers",
-          "String"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Number of Islands",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/number-of-islands",
-        "topics": [
-          "Array",
-          "Depth-First Search",
-          "Breadth-First Search",
-          "Union-Find",
-          "Matrix"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Encode and Decode Strings",
-        "difficulty": "Medium",
-        "frequency": 92,
-        "url": "https://leetcode.com/problems/encode-and-decode-strings",
-        "topics": [
-          "Array",
-          "String",
-          "Design"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Merge Intervals",
-        "difficulty": "Medium",
-        "frequency": 80,
-        "url": "https://leetcode.com/problems/merge-intervals",
-        "topics": [
-          "Array",
-          "Sorting",
-          "Quicksort"
-        ]
-      },
-      {
-        "id": 5,
-        "title": "Time Based Key-Value Store",
-        "difficulty": "Medium",
-        "frequency": 70,
-        "url": "https://leetcode.com/problems/time-based-key-value-store",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Binary Search",
-          "Design"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Squares of a Sorted Array",
-        "difficulty": "Easy",
-        "frequency": 70,
-        "url": "https://leetcode.com/problems/squares-of-a-sorted-array",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Trapping Rain Water",
-        "difficulty": "Hard",
-        "frequency": 70,
-        "url": "https://leetcode.com/problems/trapping-rain-water",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Dynamic Programming",
-          "Stack",
-          "Monotonic Stack"
-        ]
-      },
-      {
-        "id": 8,
-        "title": "Course Schedule",
-        "difficulty": "Medium",
-        "frequency": 70,
-        "url": "https://leetcode.com/problems/course-schedule",
-        "topics": [
-          "Depth-First Search",
-          "Breadth-First Search",
-          "Graph Theory",
-          "Topological Sort",
-          "Directed Acyclic Graph"
-        ]
-      },
-      {
-        "id": 9,
-        "title": "Valid Parentheses",
-        "difficulty": "Easy",
-        "frequency": 70,
-        "url": "https://leetcode.com/problems/valid-parentheses",
-        "topics": [
-          "String",
-          "Stack",
-          "Bracket Sequences"
-        ]
-      },
-      {
-        "id": 10,
-        "title": "Clone Graph",
-        "difficulty": "Medium",
-        "frequency": 70,
-        "url": "https://leetcode.com/problems/clone-graph",
-        "topics": [
-          "Hash Table",
-          "Depth-First Search",
-          "Breadth-First Search",
-          "Graph Theory"
-        ]
-      }
-    ],
-    "5. All.csv": [
       {
         "id": 1,
         "title": "String Compression",
@@ -229,6 +86,18 @@
       },
       {
         "id": 6,
+        "title": "Squares of a Sorted Array",
+        "difficulty": "Easy",
+        "frequency": 67,
+        "url": "https://leetcode.com/problems/squares-of-a-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 7,
         "title": "Trapping Rain Water",
         "difficulty": "Hard",
         "frequency": 67,
@@ -239,18 +108,6 @@
           "Dynamic Programming",
           "Stack",
           "Monotonic Stack"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Squares of a Sorted Array",
-        "difficulty": "Easy",
-        "frequency": 67,
-        "url": "https://leetcode.com/problems/squares-of-a-sorted-array",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Sorting"
         ]
       },
       {
@@ -291,18 +148,160 @@
           "Breadth-First Search",
           "Graph Theory"
         ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "String Compression",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/string-compression",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Number of Islands",
+        "difficulty": "Medium",
+        "frequency": 97,
+        "url": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Encode and Decode Strings",
+        "difficulty": "Medium",
+        "frequency": 91,
+        "url": "https://leetcode.com/problems/encode-and-decode-strings",
+        "topics": [
+          "Array",
+          "String",
+          "Design"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 74,
+        "url": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Time Based Key-Value Store",
+        "difficulty": "Medium",
+        "frequency": 65,
+        "url": "https://leetcode.com/problems/time-based-key-value-store",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Trapping Rain Water",
+        "difficulty": "Hard",
+        "frequency": 65,
+        "url": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Squares of a Sorted Array",
+        "difficulty": "Easy",
+        "frequency": 65,
+        "url": "https://leetcode.com/problems/squares-of-a-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Course Schedule",
+        "difficulty": "Medium",
+        "frequency": 65,
+        "url": "https://leetcode.com/problems/course-schedule",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Valid Parentheses",
+        "difficulty": "Easy",
+        "frequency": 65,
+        "url": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Clone Graph",
+        "difficulty": "Medium",
+        "frequency": 65,
+        "url": "https://leetcode.com/problems/clone-graph",
+        "topics": [
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory"
+        ]
       },
       {
         "id": 11,
         "title": "Group Anagrams",
         "difficulty": "Medium",
-        "frequency": 67,
+        "frequency": 65,
         "url": "https://leetcode.com/problems/group-anagrams",
         "topics": [
           "Array",
           "Hash Table",
           "String",
           "Sorting"
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Design Auction System",
+        "difficulty": "Medium",
+        "frequency": 65,
+        "url": "https://leetcode.com/problems/design-auction-system",
+        "topics": [
+          "Hash Table",
+          "Design",
+          "Heap (Priority Queue)",
+          "Ordered Set"
         ]
       }
     ]

@@ -2,7 +2,7 @@
   "name": "CRED",
   "slug": "CRED",
   "dataKey": "cred",
-  "updatedAt": "2026-10-18T02:12:31.943Z",
+  "updatedAt": "2026-10-25T02:23:17.243Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -10,6 +10,18 @@
     "4. More Than Six Months.csv": [
       {
         "id": 1,
+        "title": "Count Elements With Maximum Frequency",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/count-elements-with-maximum-frequency",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Counting"
+        ]
+      },
+      {
+        "id": 2,
         "title": "Longest Repeating Character Replacement",
         "difficulty": "Medium",
         "frequency": 100,
@@ -18,24 +30,24 @@
           "Hash Table",
           "String",
           "Sliding Window"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Count Elements With Maximum Frequency",
-        "difficulty": "Easy",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/count-elements-with-maximum-frequency",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Counting"
         ]
       }
     ],
     "5. All.csv": [
       {
         "id": 1,
+        "title": "Count Elements With Maximum Frequency",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/count-elements-with-maximum-frequency",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Counting"
+        ]
+      },
+      {
+        "id": 2,
         "title": "Longest Repeating Character Replacement",
         "difficulty": "Medium",
         "frequency": 100,
@@ -44,18 +56,6 @@
           "Hash Table",
           "String",
           "Sliding Window"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Count Elements With Maximum Frequency",
-        "difficulty": "Easy",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/count-elements-with-maximum-frequency",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Counting"
         ]
       }
     ]

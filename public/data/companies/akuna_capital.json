@@ -2,11 +2,87 @@
   "name": "Akuna Capital",
   "slug": "Akuna Capital",
   "dataKey": "akuna_capital",
-  "updatedAt": "2026-10-18T02:12:31.859Z",
+  "updatedAt": "2026-10-25T02:23:17.181Z",
   "problems": {
-    "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [],
-    "3. Six Months.csv": [],
+    "1. Thirty Days.csv": [
+      {
+        "id": 1,
+        "title": "Minimize Malware Spread",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimize-malware-spread",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ]
+      }
+    ],
+    "2. Three Months.csv": [
+      {
+        "id": 1,
+        "title": "Maximum Star Sum of a Graph",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/maximum-star-sum-of-a-graph",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Graph Theory",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Minimize Malware Spread",
+        "difficulty": "Hard",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/minimize-malware-spread",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ]
+      }
+    ],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Maximum Star Sum of a Graph",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/maximum-star-sum-of-a-graph",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Graph Theory",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Minimize Malware Spread",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimize-malware-spread",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ]
+      }
+    ],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -26,7 +102,7 @@
         "id": 2,
         "title": "Critical Connections in a Network",
         "difficulty": "Hard",
-        "frequency": 83,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/critical-connections-in-a-network",
         "topics": [
           "Depth-First Search",
@@ -227,7 +303,7 @@
         "id": 15,
         "title": "Maximum Star Sum of a Graph",
         "difficulty": "Medium",
-        "frequency": 85,
+        "frequency": 90,
         "url": "https://leetcode.com/problems/maximum-star-sum-of-a-graph",
         "topics": [
           "Array",
@@ -239,6 +315,21 @@
       },
       {
         "id": 16,
+        "title": "Minimize Malware Spread",
+        "difficulty": "Hard",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/minimize-malware-spread",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ]
+      },
+      {
+        "id": 17,
         "title": "Critical Connections in a Network",
         "difficulty": "Hard",
         "frequency": 62,
@@ -251,7 +342,7 @@
         ]
       },
       {
-        "id": 17,
+        "id": 18,
         "title": "Shortest and Lexicographically Smallest Beautiful String",
         "difficulty": "Medium",
         "frequency": 62,

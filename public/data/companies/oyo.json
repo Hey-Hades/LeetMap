@@ -2,7 +2,7 @@
   "name": "oyo",
   "slug": "oyo",
   "dataKey": "oyo",
-  "updatedAt": "2026-10-18T02:12:32.211Z",
+  "updatedAt": "2026-10-25T02:23:17.453Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -35,18 +35,6 @@
       },
       {
         "id": 2,
-        "title": "Furthest Building You Can Reach",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/furthest-building-you-can-reach",
-        "topics": [
-          "Array",
-          "Greedy",
-          "Heap (Priority Queue)"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Merge k Sorted Lists",
         "difficulty": "Hard",
         "frequency": 88,
@@ -60,19 +48,7 @@
         ]
       },
       {
-        "id": 4,
-        "title": "3Sum",
-        "difficulty": "Medium",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/3sum",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 5,
+        "id": 3,
         "title": "Copy List with Random Pointer",
         "difficulty": "Medium",
         "frequency": 88,
@@ -83,7 +59,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 4,
         "title": "Longest Common Prefix",
         "difficulty": "Easy",
         "frequency": 88,
@@ -95,7 +71,19 @@
         ]
       },
       {
-        "id": 7,
+        "id": 5,
+        "title": "Furthest Building You Can Reach",
+        "difficulty": "Medium",
+        "frequency": 88,
+        "url": "https://leetcode.com/problems/furthest-building-you-can-reach",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Heap (Priority Queue)"
+        ]
+      },
+      {
+        "id": 6,
         "title": "House Robber III",
         "difficulty": "Medium",
         "frequency": 88,
@@ -106,6 +94,17 @@
           "Depth-First Search",
           "Binary Tree",
           "DP on Trees"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Move Zeroes",
+        "difficulty": "Easy",
+        "frequency": 88,
+        "url": "https://leetcode.com/problems/move-zeroes",
+        "topics": [
+          "Array",
+          "Two Pointers"
         ]
       }
     ],
@@ -123,18 +122,6 @@
       },
       {
         "id": 2,
-        "title": "Furthest Building You Can Reach",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/furthest-building-you-can-reach",
-        "topics": [
-          "Array",
-          "Greedy",
-          "Heap (Priority Queue)"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Copy List with Random Pointer",
         "difficulty": "Medium",
         "frequency": 88,
@@ -142,6 +129,18 @@
         "topics": [
           "Hash Table",
           "Linked List"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Furthest Building You Can Reach",
+        "difficulty": "Medium",
+        "frequency": 88,
+        "url": "https://leetcode.com/problems/furthest-building-you-can-reach",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Heap (Priority Queue)"
         ]
       },
       {
@@ -174,18 +173,6 @@
       },
       {
         "id": 6,
-        "title": "3Sum",
-        "difficulty": "Medium",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/3sum",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 7,
         "title": "Longest Common Prefix",
         "difficulty": "Easy",
         "frequency": 88,
@@ -197,7 +184,7 @@
         ]
       },
       {
-        "id": 8,
+        "id": 7,
         "title": "Movement of Robots",
         "difficulty": "Medium",
         "frequency": 88,
@@ -207,6 +194,17 @@
           "Brainteaser",
           "Sorting",
           "Prefix Sum"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Move Zeroes",
+        "difficulty": "Easy",
+        "frequency": 88,
+        "url": "https://leetcode.com/problems/move-zeroes",
+        "topics": [
+          "Array",
+          "Two Pointers"
         ]
       }
     ]

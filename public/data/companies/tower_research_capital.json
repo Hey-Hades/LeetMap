@@ -2,11 +2,37 @@
   "name": "Tower Research Capital",
   "slug": "Tower Research Capital",
   "dataKey": "tower_research_capital",
-  "updatedAt": "2026-10-18T02:12:32.166Z",
+  "updatedAt": "2026-10-25T02:23:17.417Z",
   "problems": {
     "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [],
-    "3. Six Months.csv": [],
+    "2. Three Months.csv": [
+      {
+        "id": 1,
+        "title": "Minimum Number of Taps to Open to Water a Garden",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ]
+      }
+    ],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Minimum Number of Taps to Open to Water a Garden",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ]
+      }
+    ],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -96,6 +122,18 @@
           "Shortest Path",
           "Bellman–Ford Algorithm",
           "Floyd–Warshall Algorithm"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Minimum Number of Taps to Open to Water a Garden",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
         ]
       }
     ]

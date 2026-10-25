@@ -2,7 +2,7 @@
   "name": "Citigroup",
   "slug": "Citigroup",
   "dataKey": "citigroup",
-  "updatedAt": "2026-10-18T02:12:31.954Z",
+  "updatedAt": "2026-10-25T02:23:17.249Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -53,6 +53,31 @@
           "Math",
           "Stack"
         ]
+      },
+      {
+        "id": 5,
+        "title": "Rotate Image",
+        "difficulty": "Medium",
+        "frequency": 82,
+        "url": "https://leetcode.com/problems/rotate-image",
+        "topics": [
+          "Array",
+          "Math",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Minimum Size Subarray Sum",
+        "difficulty": "Medium",
+        "frequency": 82,
+        "url": "https://leetcode.com/problems/minimum-size-subarray-sum",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Sliding Window",
+          "Prefix Sum"
+        ]
       }
     ],
     "5. All.csv": [
@@ -71,7 +96,7 @@
         "id": 2,
         "title": "Best Time to Buy and Sell Stock",
         "difficulty": "Easy",
-        "frequency": 87,
+        "frequency": 92,
         "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
         "topics": [
           "Array",
@@ -82,7 +107,7 @@
         "id": 3,
         "title": "Evaluate Reverse Polish Notation",
         "difficulty": "Medium",
-        "frequency": 77,
+        "frequency": 81,
         "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
         "topics": [
           "Array",
@@ -94,7 +119,7 @@
         "id": 4,
         "title": "Rotate Image",
         "difficulty": "Medium",
-        "frequency": 77,
+        "frequency": 81,
         "url": "https://leetcode.com/problems/rotate-image",
         "topics": [
           "Array",
@@ -106,7 +131,7 @@
         "id": 5,
         "title": "Minimum Size Subarray Sum",
         "difficulty": "Medium",
-        "frequency": 77,
+        "frequency": 81,
         "url": "https://leetcode.com/problems/minimum-size-subarray-sum",
         "topics": [
           "Array",
@@ -119,7 +144,7 @@
         "id": 6,
         "title": "Number of Visible People in a Queue",
         "difficulty": "Hard",
-        "frequency": 77,
+        "frequency": 81,
         "url": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
         "topics": [
           "Array",
@@ -131,7 +156,7 @@
         "id": 7,
         "title": "Longest Substring Without Repeating Characters",
         "difficulty": "Medium",
-        "frequency": 77,
+        "frequency": 81,
         "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
         "topics": [
           "Hash Table",

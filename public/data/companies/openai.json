@@ -2,32 +2,19 @@
   "name": "OpenAI",
   "slug": "OpenAI",
   "dataKey": "openai",
-  "updatedAt": "2026-10-18T02:12:32.110Z",
+  "updatedAt": "2026-10-25T02:23:17.376Z",
   "problems": {
     "1. Thirty Days.csv": [
       {
         "id": 1,
-        "title": "Design Memory Allocator",
+        "title": "Find Duplicate File in System",
         "difficulty": "Medium",
         "frequency": 100,
-        "url": "https://leetcode.com/problems/design-memory-allocator",
+        "url": "https://leetcode.com/problems/find-duplicate-file-in-system",
         "topics": [
           "Array",
           "Hash Table",
-          "Design",
-          "Simulation"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Rotting Oranges",
-        "difficulty": "Medium",
-        "frequency": 70,
-        "url": "https://leetcode.com/problems/rotting-oranges",
-        "topics": [
-          "Array",
-          "Breadth-First Search",
-          "Matrix"
+          "String"
         ]
       }
     ],
@@ -49,7 +36,7 @@
         "id": 2,
         "title": "Rotting Oranges",
         "difficulty": "Medium",
-        "frequency": 76,
+        "frequency": 67,
         "url": "https://leetcode.com/problems/rotting-oranges",
         "topics": [
           "Array",
@@ -59,15 +46,14 @@
       },
       {
         "id": 3,
-        "title": "Design Authentication Manager",
+        "title": "Find Duplicate File in System",
         "difficulty": "Medium",
-        "frequency": 68,
-        "url": "https://leetcode.com/problems/design-authentication-manager",
+        "frequency": 67,
+        "url": "https://leetcode.com/problems/find-duplicate-file-in-system",
         "topics": [
+          "Array",
           "Hash Table",
-          "Linked List",
-          "Design",
-          "Doubly-Linked List"
+          "String"
         ]
       }
     ],
@@ -89,7 +75,7 @@
         "id": 2,
         "title": "Rotting Oranges",
         "difficulty": "Medium",
-        "frequency": 86,
+        "frequency": 74,
         "url": "https://leetcode.com/problems/rotting-oranges",
         "topics": [
           "Array",
@@ -101,13 +87,25 @@
         "id": 3,
         "title": "Design Authentication Manager",
         "difficulty": "Medium",
-        "frequency": 62,
+        "frequency": 66,
         "url": "https://leetcode.com/problems/design-authentication-manager",
         "topics": [
           "Hash Table",
           "Linked List",
           "Design",
           "Doubly-Linked List"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Find Duplicate File in System",
+        "difficulty": "Medium",
+        "frequency": 66,
+        "url": "https://leetcode.com/problems/find-duplicate-file-in-system",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String"
         ]
       }
     ],
@@ -127,6 +125,19 @@
       },
       {
         "id": 2,
+        "title": "Design Memory Allocator",
+        "difficulty": "Medium",
+        "frequency": 92,
+        "url": "https://leetcode.com/problems/design-memory-allocator",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 3,
         "title": "Encode and Decode Strings",
         "difficulty": "Medium",
         "frequency": 90,
@@ -138,10 +149,34 @@
         ]
       },
       {
-        "id": 3,
+        "id": 4,
+        "title": "Time Based Key-Value Store",
+        "difficulty": "Medium",
+        "frequency": 80,
+        "url": "https://leetcode.com/problems/time-based-key-value-store",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "IP to CIDR",
+        "difficulty": "Medium",
+        "frequency": 80,
+        "url": "https://leetcode.com/problems/ip-to-cidr",
+        "topics": [
+          "String",
+          "Bit Manipulation"
+        ]
+      },
+      {
+        "id": 6,
         "title": "Flatten Nested List Iterator",
         "difficulty": "Medium",
-        "frequency": 85,
+        "frequency": 77,
         "url": "https://leetcode.com/problems/flatten-nested-list-iterator",
         "topics": [
           "Stack",
@@ -153,47 +188,33 @@
         ]
       },
       {
-        "id": 4,
-        "title": "Design Memory Allocator",
+        "id": 7,
+        "title": "Rotting Oranges",
         "difficulty": "Medium",
-        "frequency": 85,
-        "url": "https://leetcode.com/problems/design-memory-allocator",
+        "frequency": 77,
+        "url": "https://leetcode.com/problems/rotting-oranges",
         "topics": [
           "Array",
-          "Hash Table",
-          "Design",
-          "Simulation"
+          "Breadth-First Search",
+          "Matrix"
         ]
       },
       {
-        "id": 5,
-        "title": "Time Based Key-Value Store",
+        "id": 8,
+        "title": "Simplify Path",
         "difficulty": "Medium",
-        "frequency": 77,
-        "url": "https://leetcode.com/problems/time-based-key-value-store",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Binary Search",
-          "Design"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "IP to CIDR",
-        "difficulty": "Medium",
-        "frequency": 77,
-        "url": "https://leetcode.com/problems/ip-to-cidr",
+        "frequency": 66,
+        "url": "https://leetcode.com/problems/simplify-path",
         "topics": [
           "String",
-          "Bit Manipulation"
+          "Stack"
         ]
       },
       {
-        "id": 7,
+        "id": 9,
         "title": "Design Excel Sum Formula",
         "difficulty": "Hard",
-        "frequency": 66,
+        "frequency": 51,
         "url": "https://leetcode.com/problems/design-excel-sum-formula",
         "topics": [
           "Array",
@@ -206,33 +227,10 @@
         ]
       },
       {
-        "id": 8,
-        "title": "Simplify Path",
-        "difficulty": "Medium",
-        "frequency": 60,
-        "url": "https://leetcode.com/problems/simplify-path",
-        "topics": [
-          "String",
-          "Stack"
-        ]
-      },
-      {
-        "id": 9,
-        "title": "Rotting Oranges",
-        "difficulty": "Medium",
-        "frequency": 60,
-        "url": "https://leetcode.com/problems/rotting-oranges",
-        "topics": [
-          "Array",
-          "Breadth-First Search",
-          "Matrix"
-        ]
-      },
-      {
         "id": 10,
         "title": "Largest Local Values in a Matrix",
         "difficulty": "Easy",
-        "frequency": 52,
+        "frequency": 51,
         "url": "https://leetcode.com/problems/largest-local-values-in-a-matrix",
         "topics": [
           "Array",
@@ -243,7 +241,7 @@
         "id": 11,
         "title": "Asteroid Collision",
         "difficulty": "Medium",
-        "frequency": 52,
+        "frequency": 51,
         "url": "https://leetcode.com/problems/asteroid-collision",
         "topics": [
           "Array",
@@ -255,7 +253,7 @@
         "id": 12,
         "title": "Design Spreadsheet",
         "difficulty": "Medium",
-        "frequency": 52,
+        "frequency": 51,
         "url": "https://leetcode.com/problems/design-spreadsheet",
         "topics": [
           "Array",
@@ -269,7 +267,7 @@
         "id": 13,
         "title": "Trapping Rain Water",
         "difficulty": "Hard",
-        "frequency": 52,
+        "frequency": 51,
         "url": "https://leetcode.com/problems/trapping-rain-water",
         "topics": [
           "Array",
@@ -277,6 +275,20 @@
           "Dynamic Programming",
           "Stack",
           "Monotonic Stack"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Design Hit Counter",
+        "difficulty": "Medium",
+        "frequency": 51,
+        "url": "https://leetcode.com/problems/design-hit-counter",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Design",
+          "Queue",
+          "Data Stream"
         ]
       }
     ],
@@ -321,24 +333,9 @@
       },
       {
         "id": 4,
-        "title": "Flatten Nested List Iterator",
-        "difficulty": "Medium",
-        "frequency": 82,
-        "url": "https://leetcode.com/problems/flatten-nested-list-iterator",
-        "topics": [
-          "Stack",
-          "Tree",
-          "Depth-First Search",
-          "Design",
-          "Queue",
-          "Iterator"
-        ]
-      },
-      {
-        "id": 5,
         "title": "Rotting Oranges",
         "difficulty": "Medium",
-        "frequency": 82,
+        "frequency": 81,
         "url": "https://leetcode.com/problems/rotting-oranges",
         "topics": [
           "Array",
@@ -347,10 +344,10 @@
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "title": "Time Based Key-Value Store",
         "difficulty": "Medium",
-        "frequency": 78,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/time-based-key-value-store",
         "topics": [
           "Hash Table",
@@ -360,14 +357,29 @@
         ]
       },
       {
-        "id": 7,
+        "id": 6,
         "title": "IP to CIDR",
         "difficulty": "Medium",
-        "frequency": 78,
+        "frequency": 77,
         "url": "https://leetcode.com/problems/ip-to-cidr",
         "topics": [
           "String",
           "Bit Manipulation"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Flatten Nested List Iterator",
+        "difficulty": "Medium",
+        "frequency": 74,
+        "url": "https://leetcode.com/problems/flatten-nested-list-iterator",
+        "topics": [
+          "Stack",
+          "Tree",
+          "Depth-First Search",
+          "Design",
+          "Queue",
+          "Iterator"
         ]
       },
       {
@@ -383,9 +395,20 @@
       },
       {
         "id": 9,
+        "title": "Largest Local Values in a Matrix",
+        "difficulty": "Easy",
+        "frequency": 57,
+        "url": "https://leetcode.com/problems/largest-local-values-in-a-matrix",
+        "topics": [
+          "Array",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 10,
         "title": "Design Excel Sum Formula",
         "difficulty": "Hard",
-        "frequency": 63,
+        "frequency": 49,
         "url": "https://leetcode.com/problems/design-excel-sum-formula",
         "topics": [
           "Array",
@@ -394,17 +417,6 @@
           "Graph Theory",
           "Design",
           "Topological Sort",
-          "Matrix"
-        ]
-      },
-      {
-        "id": 10,
-        "title": "Largest Local Values in a Matrix",
-        "difficulty": "Easy",
-        "frequency": 49,
-        "url": "https://leetcode.com/problems/largest-local-values-in-a-matrix",
-        "topics": [
-          "Array",
           "Matrix"
         ]
       },
@@ -500,6 +512,18 @@
           "Linked List",
           "Design",
           "Doubly-Linked List"
+        ]
+      },
+      {
+        "id": 18,
+        "title": "Find Duplicate File in System",
+        "difficulty": "Medium",
+        "frequency": 49,
+        "url": "https://leetcode.com/problems/find-duplicate-file-in-system",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String"
         ]
       }
     ]

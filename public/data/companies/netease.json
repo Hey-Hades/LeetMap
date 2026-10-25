@@ -2,12 +2,24 @@
   "name": "NetEase",
   "slug": "NetEase",
   "dataKey": "netease",
-  "updatedAt": "2026-10-18T02:12:32.102Z",
+  "updatedAt": "2026-10-25T02:23:17.369Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
     "3. Six Months.csv": [],
-    "4. More Than Six Months.csv": [],
+    "4. More Than Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Strange Printer",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/strange-printer",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ]
+      }
+    ],
     "5. All.csv": [
       {
         "id": 1,
@@ -24,7 +36,7 @@
         "id": 2,
         "title": "Most Profit Assigning Work",
         "difficulty": "Medium",
-        "frequency": 98,
+        "frequency": 96,
         "url": "https://leetcode.com/problems/most-profit-assigning-work",
         "topics": [
           "Array",

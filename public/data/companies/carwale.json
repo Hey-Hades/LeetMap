@@ -2,7 +2,7 @@
   "name": "carwale",
   "slug": "carwale",
   "dataKey": "carwale",
-  "updatedAt": "2026-10-18T02:12:32.208Z",
+  "updatedAt": "2026-10-25T02:23:17.450Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -23,18 +23,6 @@
       },
       {
         "id": 2,
-        "title": "Valid Parentheses",
-        "difficulty": "Easy",
-        "frequency": 67,
-        "url": "https://leetcode.com/problems/valid-parentheses",
-        "topics": [
-          "String",
-          "Stack",
-          "Bracket Sequences"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Best Time to Buy and Sell Stock",
         "difficulty": "Easy",
         "frequency": 67,
@@ -61,18 +49,6 @@
       },
       {
         "id": 2,
-        "title": "Valid Parentheses",
-        "difficulty": "Easy",
-        "frequency": 66,
-        "url": "https://leetcode.com/problems/valid-parentheses",
-        "topics": [
-          "String",
-          "Stack",
-          "Bracket Sequences"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Best Time to Buy and Sell Stock",
         "difficulty": "Easy",
         "frequency": 66,
@@ -80,6 +56,20 @@
         "topics": [
           "Array",
           "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Coin Change",
+        "difficulty": "Medium",
+        "frequency": 66,
+        "url": "https://leetcode.com/problems/coin-change",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search",
+          "Knapsack Problem",
+          "Complete Knapsack"
         ]
       }
     ]

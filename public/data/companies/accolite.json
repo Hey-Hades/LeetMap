@@ -2,23 +2,10 @@
   "name": "Accolite",
   "slug": "Accolite",
   "dataKey": "accolite",
-  "updatedAt": "2026-10-18T02:12:31.848Z",
+  "updatedAt": "2026-10-25T02:23:17.173Z",
   "problems": {
     "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [
-      {
-        "id": 1,
-        "title": "Valid Parentheses",
-        "difficulty": "Easy",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/valid-parentheses",
-        "topics": [
-          "String",
-          "Stack",
-          "Bracket Sequences"
-        ]
-      }
-    ],
+    "2. Three Months.csv": [],
     "3. Six Months.csv": [
       {
         "id": 1,
@@ -47,25 +34,25 @@
       },
       {
         "id": 2,
-        "title": "Two Sum",
-        "difficulty": "Easy",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/two-sum",
-        "topics": [
-          "Array",
-          "Hash Table"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Longest Substring Without Repeating Characters",
         "difficulty": "Medium",
-        "frequency": 88,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
         "topics": [
           "Hash Table",
           "String",
           "Sliding Window"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 83,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
         ]
       },
       {
@@ -143,17 +130,6 @@
       },
       {
         "id": 10,
-        "title": "Best Time to Buy and Sell Stock",
-        "difficulty": "Easy",
-        "frequency": 66,
-        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
-        "topics": [
-          "Array",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 11,
         "title": "Group Anagrams",
         "difficulty": "Medium",
         "frequency": 66,
@@ -166,19 +142,7 @@
         ]
       },
       {
-        "id": 12,
-        "title": "Add Two Numbers",
-        "difficulty": "Medium",
-        "frequency": 66,
-        "url": "https://leetcode.com/problems/add-two-numbers",
-        "topics": [
-          "Linked List",
-          "Math",
-          "Recursion"
-        ]
-      },
-      {
-        "id": 13,
+        "id": 11,
         "title": "Minimum Jumps to Reach Home",
         "difficulty": "Medium",
         "frequency": 66,
@@ -190,7 +154,7 @@
         ]
       },
       {
-        "id": 14,
+        "id": 12,
         "title": "Create Maximum Number",
         "difficulty": "Hard",
         "frequency": 66,
@@ -204,7 +168,7 @@
         ]
       },
       {
-        "id": 15,
+        "id": 13,
         "title": "Maximum Subarray",
         "difficulty": "Medium",
         "frequency": 66,
@@ -213,6 +177,18 @@
           "Array",
           "Divide and Conquer",
           "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Climbing Stairs",
+        "difficulty": "Easy",
+        "frequency": 66,
+        "url": "https://leetcode.com/problems/climbing-stairs",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
         ]
       }
     ],
@@ -267,7 +243,7 @@
         "id": 5,
         "title": "Two Sum",
         "difficulty": "Easy",
-        "frequency": 75,
+        "frequency": 70,
         "url": "https://leetcode.com/problems/two-sum",
         "topics": [
           "Array",
@@ -300,6 +276,18 @@
       },
       {
         "id": 8,
+        "title": "Climbing Stairs",
+        "difficulty": "Easy",
+        "frequency": 64,
+        "url": "https://leetcode.com/problems/climbing-stairs",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
+        ]
+      },
+      {
+        "id": 9,
         "title": "Container With Most Water",
         "difficulty": "Medium",
         "frequency": 64,
@@ -311,7 +299,7 @@
         ]
       },
       {
-        "id": 9,
+        "id": 10,
         "title": "Asteroid Collision",
         "difficulty": "Medium",
         "frequency": 64,
@@ -323,7 +311,7 @@
         ]
       },
       {
-        "id": 10,
+        "id": 11,
         "title": "Create Maximum Number",
         "difficulty": "Hard",
         "frequency": 64,
@@ -337,7 +325,7 @@
         ]
       },
       {
-        "id": 11,
+        "id": 12,
         "title": "Coin Change",
         "difficulty": "Medium",
         "frequency": 64,
@@ -351,7 +339,7 @@
         ]
       },
       {
-        "id": 12,
+        "id": 13,
         "title": "Valid Parentheses",
         "difficulty": "Easy",
         "frequency": 64,
@@ -360,18 +348,6 @@
           "String",
           "Stack",
           "Bracket Sequences"
-        ]
-      },
-      {
-        "id": 13,
-        "title": "Climbing Stairs",
-        "difficulty": "Easy",
-        "frequency": 55,
-        "url": "https://leetcode.com/problems/climbing-stairs",
-        "topics": [
-          "Math",
-          "Dynamic Programming",
-          "Memoization"
         ]
       },
       {
@@ -387,29 +363,6 @@
       },
       {
         "id": 15,
-        "title": "Best Time to Buy and Sell Stock",
-        "difficulty": "Easy",
-        "frequency": 55,
-        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
-        "topics": [
-          "Array",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 16,
-        "title": "Add Two Numbers",
-        "difficulty": "Medium",
-        "frequency": 55,
-        "url": "https://leetcode.com/problems/add-two-numbers",
-        "topics": [
-          "Linked List",
-          "Math",
-          "Recursion"
-        ]
-      },
-      {
-        "id": 17,
         "title": "Minimum Jumps to Reach Home",
         "difficulty": "Medium",
         "frequency": 55,
@@ -421,7 +374,7 @@
         ]
       },
       {
-        "id": 18,
+        "id": 16,
         "title": "Group Anagrams",
         "difficulty": "Medium",
         "frequency": 55,
@@ -434,7 +387,7 @@
         ]
       },
       {
-        "id": 19,
+        "id": 17,
         "title": "Maximum Subarray",
         "difficulty": "Medium",
         "frequency": 55,

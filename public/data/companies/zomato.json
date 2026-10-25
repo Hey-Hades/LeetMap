@@ -2,28 +2,46 @@
   "name": "Zomato",
   "slug": "Zomato",
   "dataKey": "zomato",
-  "updatedAt": "2026-10-18T02:12:32.206Z",
+  "updatedAt": "2026-10-25T02:23:17.447Z",
   "problems": {
     "1. Thirty Days.csv": [
       {
         "id": 1,
-        "title": "Maximum Xor Product",
-        "difficulty": "Medium",
+        "title": "Minimize Malware Spread",
+        "difficulty": "Hard",
         "frequency": 100,
-        "url": "https://leetcode.com/problems/maximum-xor-product",
+        "url": "https://leetcode.com/problems/minimize-malware-spread",
         "topics": [
-          "Math",
-          "Greedy",
-          "Bit Manipulation"
+          "Array",
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
         ]
       }
     ],
     "2. Three Months.csv": [
       {
         "id": 1,
+        "title": "Minimize Malware Spread",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimize-malware-spread",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ]
+      },
+      {
+        "id": 2,
         "title": "Maximum Xor Product",
         "difficulty": "Medium",
-        "frequency": 100,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/maximum-xor-product",
         "topics": [
           "Math",
@@ -35,14 +53,52 @@
     "3. Six Months.csv": [
       {
         "id": 1,
+        "title": "Minimize Malware Spread",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimize-malware-spread",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ]
+      },
+      {
+        "id": 2,
         "title": "Maximum Xor Product",
         "difficulty": "Medium",
-        "frequency": 100,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/maximum-xor-product",
         "topics": [
           "Math",
           "Greedy",
           "Bit Manipulation"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Exchange Seats",
+        "difficulty": "Medium",
+        "frequency": 88,
+        "url": "https://leetcode.com/problems/exchange-seats",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "LRU Cache",
+        "difficulty": "Medium",
+        "frequency": 88,
+        "url": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
         ]
       }
     ],
@@ -77,17 +133,6 @@
       },
       {
         "id": 3,
-        "title": "First Missing Positive",
-        "difficulty": "Hard",
-        "frequency": 78,
-        "url": "https://leetcode.com/problems/first-missing-positive",
-        "topics": [
-          "Array",
-          "Hash Table"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Exchange Seats",
         "difficulty": "Medium",
         "frequency": 78,
@@ -97,7 +142,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Longest Substring Without Repeating Characters",
         "difficulty": "Medium",
         "frequency": 78,
@@ -109,7 +154,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "title": "Single Element in a Sorted Array",
         "difficulty": "Medium",
         "frequency": 78,
@@ -120,34 +165,18 @@
         ]
       },
       {
-        "id": 7,
-        "title": "LFU Cache",
+        "id": 6,
+        "title": "First Missing Positive",
         "difficulty": "Hard",
         "frequency": 67,
-        "url": "https://leetcode.com/problems/lfu-cache",
-        "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Doubly-Linked List"
-        ]
-      },
-      {
-        "id": 8,
-        "title": "Number of Islands",
-        "difficulty": "Medium",
-        "frequency": 67,
-        "url": "https://leetcode.com/problems/number-of-islands",
+        "url": "https://leetcode.com/problems/first-missing-positive",
         "topics": [
           "Array",
-          "Depth-First Search",
-          "Breadth-First Search",
-          "Union-Find",
-          "Matrix"
+          "Hash Table"
         ]
       },
       {
-        "id": 9,
+        "id": 7,
         "title": "Isomorphic Strings",
         "difficulty": "Easy",
         "frequency": 67,
@@ -158,7 +187,7 @@
         ]
       },
       {
-        "id": 10,
+        "id": 8,
         "title": "Snakes and Ladders",
         "difficulty": "Medium",
         "frequency": 67,
@@ -170,7 +199,7 @@
         ]
       },
       {
-        "id": 11,
+        "id": 9,
         "title": "Move Zeroes",
         "difficulty": "Easy",
         "frequency": 67,
@@ -181,7 +210,7 @@
         ]
       },
       {
-        "id": 12,
+        "id": 10,
         "title": "Single Number III",
         "difficulty": "Medium",
         "frequency": 67,
@@ -192,7 +221,7 @@
         ]
       },
       {
-        "id": 13,
+        "id": 11,
         "title": "Rearrange String k Distance Apart",
         "difficulty": "Hard",
         "frequency": 67,
@@ -207,7 +236,7 @@
         ]
       },
       {
-        "id": 14,
+        "id": 12,
         "title": "Maximum Subarray",
         "difficulty": "Medium",
         "frequency": 67,
@@ -219,7 +248,7 @@
         ]
       },
       {
-        "id": 15,
+        "id": 13,
         "title": "Course Schedule",
         "difficulty": "Medium",
         "frequency": 67,
@@ -233,7 +262,7 @@
         ]
       },
       {
-        "id": 16,
+        "id": 14,
         "title": "Permutations",
         "difficulty": "Medium",
         "frequency": 67,
@@ -244,7 +273,7 @@
         ]
       },
       {
-        "id": 17,
+        "id": 15,
         "title": "Merge Intervals",
         "difficulty": "Medium",
         "frequency": 67,
@@ -256,19 +285,7 @@
         ]
       },
       {
-        "id": 18,
-        "title": "Container With Most Water",
-        "difficulty": "Medium",
-        "frequency": 67,
-        "url": "https://leetcode.com/problems/container-with-most-water",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Greedy"
-        ]
-      },
-      {
-        "id": 19,
+        "id": 16,
         "title": "Combination Sum",
         "difficulty": "Medium",
         "frequency": 67,
@@ -276,6 +293,19 @@
         "topics": [
           "Array",
           "Backtracking"
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Search a 2D Matrix II",
+        "difficulty": "Medium",
+        "frequency": 67,
+        "url": "https://leetcode.com/problems/search-a-2d-matrix-ii",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Divide and Conquer",
+          "Matrix"
         ]
       }
     ],
@@ -358,6 +388,16 @@
       },
       {
         "id": 7,
+        "title": "Exchange Seats",
+        "difficulty": "Medium",
+        "frequency": 87,
+        "url": "https://leetcode.com/problems/exchange-seats",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 8,
         "title": "The Skyline Problem",
         "difficulty": "Hard",
         "frequency": 81,
@@ -374,42 +414,7 @@
         ]
       },
       {
-        "id": 8,
-        "title": "Exchange Seats",
-        "difficulty": "Medium",
-        "frequency": 81,
-        "url": "https://leetcode.com/problems/exchange-seats",
-        "topics": [
-          "Database"
-        ]
-      },
-      {
         "id": 9,
-        "title": "First Missing Positive",
-        "difficulty": "Hard",
-        "frequency": 73,
-        "url": "https://leetcode.com/problems/first-missing-positive",
-        "topics": [
-          "Array",
-          "Hash Table"
-        ]
-      },
-      {
-        "id": 10,
-        "title": "Number of Islands",
-        "difficulty": "Medium",
-        "frequency": 73,
-        "url": "https://leetcode.com/problems/number-of-islands",
-        "topics": [
-          "Array",
-          "Depth-First Search",
-          "Breadth-First Search",
-          "Union-Find",
-          "Matrix"
-        ]
-      },
-      {
-        "id": 11,
         "title": "Maximum Subarray",
         "difficulty": "Medium",
         "frequency": 73,
@@ -421,7 +426,7 @@
         ]
       },
       {
-        "id": 12,
+        "id": 10,
         "title": "Longest Substring Without Repeating Characters",
         "difficulty": "Medium",
         "frequency": 73,
@@ -433,7 +438,7 @@
         ]
       },
       {
-        "id": 13,
+        "id": 11,
         "title": "Single Element in a Sorted Array",
         "difficulty": "Medium",
         "frequency": 73,
@@ -444,16 +449,43 @@
         ]
       },
       {
-        "id": 14,
-        "title": "LFU Cache",
+        "id": 12,
+        "title": "Minimize Malware Spread",
+        "difficulty": "Hard",
+        "frequency": 73,
+        "url": "https://leetcode.com/problems/minimize-malware-spread",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ]
+      },
+      {
+        "id": 13,
+        "title": "First Missing Positive",
         "difficulty": "Hard",
         "frequency": 62,
-        "url": "https://leetcode.com/problems/lfu-cache",
+        "url": "https://leetcode.com/problems/first-missing-positive",
         "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Doubly-Linked List"
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Number of Islands",
+        "difficulty": "Medium",
+        "frequency": 62,
+        "url": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
         ]
       },
       {
@@ -591,18 +623,6 @@
       },
       {
         "id": 26,
-        "title": "Container With Most Water",
-        "difficulty": "Medium",
-        "frequency": 62,
-        "url": "https://leetcode.com/problems/container-with-most-water",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Greedy"
-        ]
-      },
-      {
-        "id": 27,
         "title": "Russian Doll Envelopes",
         "difficulty": "Hard",
         "frequency": 62,
@@ -616,20 +636,7 @@
         ]
       },
       {
-        "id": 28,
-        "title": "Using a Robot to Print the Lexicographically Smallest String",
-        "difficulty": "Medium",
-        "frequency": 62,
-        "url": "https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Stack",
-          "Greedy"
-        ]
-      },
-      {
-        "id": 29,
+        "id": 27,
         "title": "Find the Safest Path in a Grid",
         "difficulty": "Medium",
         "frequency": 62,
@@ -644,7 +651,7 @@
         ]
       },
       {
-        "id": 30,
+        "id": 28,
         "title": "Maximum Xor Product",
         "difficulty": "Medium",
         "frequency": 62,
@@ -653,6 +660,32 @@
           "Math",
           "Greedy",
           "Bit Manipulation"
+        ]
+      },
+      {
+        "id": 29,
+        "title": "Get the Maximum Score",
+        "difficulty": "Hard",
+        "frequency": 62,
+        "url": "https://leetcode.com/problems/get-the-maximum-score",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 30,
+        "title": "LRU Cache",
+        "difficulty": "Medium",
+        "frequency": 62,
+        "url": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
         ]
       }
     ]

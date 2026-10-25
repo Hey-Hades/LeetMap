@@ -2,24 +2,11 @@
   "name": "Tesco",
   "slug": "Tesco",
   "dataKey": "tesco",
-  "updatedAt": "2026-10-18T02:12:32.156Z",
+  "updatedAt": "2026-10-25T02:23:17.411Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [
-      {
-        "id": 1,
-        "title": "Merge Intervals",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/merge-intervals",
-        "topics": [
-          "Array",
-          "Sorting",
-          "Quicksort"
-        ]
-      }
-    ],
+    "3. Six Months.csv": [],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -37,7 +24,7 @@
         "id": 2,
         "title": "Insert Interval",
         "difficulty": "Medium",
-        "frequency": 70,
+        "frequency": 80,
         "url": "https://leetcode.com/problems/insert-interval",
         "topics": [
           "Array"
@@ -61,7 +48,7 @@
         "id": 2,
         "title": "Insert Interval",
         "difficulty": "Medium",
-        "frequency": 67,
+        "frequency": 76,
         "url": "https://leetcode.com/problems/insert-interval",
         "topics": [
           "Array"

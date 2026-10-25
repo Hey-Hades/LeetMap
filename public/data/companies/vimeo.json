@@ -2,7 +2,7 @@
   "name": "Vimeo",
   "slug": "Vimeo",
   "dataKey": "vimeo",
-  "updatedAt": "2026-10-18T02:12:32.180Z",
+  "updatedAt": "2026-10-25T02:23:17.430Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -47,19 +47,6 @@
       },
       {
         "id": 4,
-        "title": "LRU Cache",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/lru-cache",
-        "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Doubly-Linked List"
-        ]
-      },
-      {
-        "id": 5,
         "title": "Min Stack",
         "difficulty": "Medium",
         "frequency": 100,
@@ -67,18 +54,6 @@
         "topics": [
           "Stack",
           "Design"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Valid Parentheses",
-        "difficulty": "Easy",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/valid-parentheses",
-        "topics": [
-          "String",
-          "Stack",
-          "Bracket Sequences"
         ]
       }
     ],
@@ -99,7 +74,7 @@
         "id": 2,
         "title": "Flower Planting With No Adjacent",
         "difficulty": "Medium",
-        "frequency": 70,
+        "frequency": 71,
         "url": "https://leetcode.com/problems/flower-planting-with-no-adjacent",
         "topics": [
           "Depth-First Search",
@@ -112,7 +87,7 @@
         "id": 3,
         "title": "Maximum Subarray",
         "difficulty": "Medium",
-        "frequency": 70,
+        "frequency": 71,
         "url": "https://leetcode.com/problems/maximum-subarray",
         "topics": [
           "Array",
@@ -124,7 +99,7 @@
         "id": 4,
         "title": "3Sum",
         "difficulty": "Medium",
-        "frequency": 70,
+        "frequency": 71,
         "url": "https://leetcode.com/problems/3sum",
         "topics": [
           "Array",
@@ -134,38 +109,13 @@
       },
       {
         "id": 5,
-        "title": "LRU Cache",
-        "difficulty": "Medium",
-        "frequency": 70,
-        "url": "https://leetcode.com/problems/lru-cache",
-        "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Doubly-Linked List"
-        ]
-      },
-      {
-        "id": 6,
         "title": "Min Stack",
         "difficulty": "Medium",
-        "frequency": 70,
+        "frequency": 71,
         "url": "https://leetcode.com/problems/min-stack",
         "topics": [
           "Stack",
           "Design"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Valid Parentheses",
-        "difficulty": "Easy",
-        "frequency": 70,
-        "url": "https://leetcode.com/problems/valid-parentheses",
-        "topics": [
-          "String",
-          "Stack",
-          "Bracket Sequences"
         ]
       }
     ]

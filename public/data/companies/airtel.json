@@ -2,7 +2,7 @@
   "name": "Airtel",
   "slug": "Airtel",
   "dataKey": "airtel",
-  "updatedAt": "2026-10-18T02:12:31.857Z",
+  "updatedAt": "2026-10-25T02:23:17.180Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -52,18 +52,6 @@
           "Array",
           "Binary Search"
         ]
-      },
-      {
-        "id": 5,
-        "title": "Container With Most Water",
-        "difficulty": "Medium",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/container-with-most-water",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Greedy"
-        ]
       }
     ],
     "5. All.csv": [
@@ -95,18 +83,6 @@
       },
       {
         "id": 3,
-        "title": "Longest Substring Without Repeating Characters",
-        "difficulty": "Medium",
-        "frequency": 77,
-        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sliding Window"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Next Permutation",
         "difficulty": "Medium",
         "frequency": 77,
@@ -117,7 +93,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Best Time to Buy and Sell Stock",
         "difficulty": "Easy",
         "frequency": 77,
@@ -125,6 +101,18 @@
         "topics": [
           "Array",
           "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
+        "frequency": 68,
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
         ]
       },
       {
@@ -136,18 +124,6 @@
         "topics": [
           "Array",
           "Binary Search"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Container With Most Water",
-        "difficulty": "Medium",
-        "frequency": 68,
-        "url": "https://leetcode.com/problems/container-with-most-water",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Greedy"
         ]
       }
     ]

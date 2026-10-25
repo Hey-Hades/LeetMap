@@ -2,7 +2,7 @@
   "name": "Darwinbox",
   "slug": "Darwinbox",
   "dataKey": "darwinbox",
-  "updatedAt": "2026-10-18T02:12:31.970Z",
+  "updatedAt": "2026-10-25T02:23:17.266Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -10,20 +10,9 @@
     "4. More Than Six Months.csv": [
       {
         "id": 1,
-        "title": "Scramble String",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/scramble-string",
-        "topics": [
-          "String",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 2,
         "title": "Merge Intervals",
         "difficulty": "Medium",
-        "frequency": 89,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/merge-intervals",
         "topics": [
           "Array",
@@ -32,10 +21,10 @@
         ]
       },
       {
-        "id": 3,
+        "id": 2,
         "title": "Pancake Sorting",
         "difficulty": "Medium",
-        "frequency": 85,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/pancake-sorting",
         "topics": [
           "Array",
@@ -45,10 +34,10 @@
         ]
       },
       {
-        "id": 4,
+        "id": 3,
         "title": "Dungeon Game",
         "difficulty": "Hard",
-        "frequency": 80,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/dungeon-game",
         "topics": [
           "Array",
@@ -57,46 +46,23 @@
         ]
       },
       {
-        "id": 5,
-        "title": "Number of Great Partitions",
+        "id": 4,
+        "title": "Scramble String",
         "difficulty": "Hard",
-        "frequency": 65,
-        "url": "https://leetcode.com/problems/number-of-great-partitions",
+        "frequency": 95,
+        "url": "https://leetcode.com/problems/scramble-string",
         "topics": [
-          "Array",
+          "String",
           "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Spiral Matrix",
-        "difficulty": "Medium",
-        "frequency": 65,
-        "url": "https://leetcode.com/problems/spiral-matrix",
-        "topics": [
-          "Array",
-          "Matrix",
-          "Simulation"
         ]
       }
     ],
     "5. All.csv": [
       {
         "id": 1,
-        "title": "Scramble String",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/scramble-string",
-        "topics": [
-          "String",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 2,
         "title": "Merge Intervals",
         "difficulty": "Medium",
-        "frequency": 89,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/merge-intervals",
         "topics": [
           "Array",
@@ -105,10 +71,10 @@
         ]
       },
       {
-        "id": 3,
+        "id": 2,
         "title": "Pancake Sorting",
         "difficulty": "Medium",
-        "frequency": 85,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/pancake-sorting",
         "topics": [
           "Array",
@@ -118,10 +84,10 @@
         ]
       },
       {
-        "id": 4,
+        "id": 3,
         "title": "Dungeon Game",
         "difficulty": "Hard",
-        "frequency": 80,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/dungeon-game",
         "topics": [
           "Array",
@@ -130,25 +96,13 @@
         ]
       },
       {
-        "id": 5,
-        "title": "Spiral Matrix",
-        "difficulty": "Medium",
-        "frequency": 65,
-        "url": "https://leetcode.com/problems/spiral-matrix",
-        "topics": [
-          "Array",
-          "Matrix",
-          "Simulation"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Number of Great Partitions",
+        "id": 4,
+        "title": "Scramble String",
         "difficulty": "Hard",
-        "frequency": 65,
-        "url": "https://leetcode.com/problems/number-of-great-partitions",
+        "frequency": 95,
+        "url": "https://leetcode.com/problems/scramble-string",
         "topics": [
-          "Array",
+          "String",
           "Dynamic Programming"
         ]
       }

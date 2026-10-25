@@ -2,24 +2,10 @@
   "name": "Revolut",
   "slug": "Revolut",
   "dataKey": "revolut",
-  "updatedAt": "2026-10-18T02:12:32.132Z",
+  "updatedAt": "2026-10-25T02:23:17.393Z",
   "problems": {
     "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [
-      {
-        "id": 1,
-        "title": "Longest Increasing Subsequence",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/longest-increasing-subsequence",
-        "topics": [
-          "Array",
-          "Binary Search",
-          "Dynamic Programming",
-          "Longest Increasing Subsequence"
-        ]
-      }
-    ],
+    "2. Three Months.csv": [],
     "3. Six Months.csv": [
       {
         "id": 1,
@@ -32,6 +18,19 @@
           "Binary Search",
           "Dynamic Programming",
           "Longest Increasing Subsequence"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Subarray Product Less Than K",
+        "difficulty": "Medium",
+        "frequency": 91,
+        "url": "https://leetcode.com/problems/subarray-product-less-than-k",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Sliding Window",
+          "Prefix Sum"
         ]
       }
     ],
@@ -52,7 +51,7 @@
         "id": 2,
         "title": "Perfect Squares",
         "difficulty": "Medium",
-        "frequency": 97,
+        "frequency": 94,
         "url": "https://leetcode.com/problems/perfect-squares",
         "topics": [
           "Math",
@@ -90,7 +89,7 @@
         "id": 5,
         "title": "Find All Anagrams in a String",
         "difficulty": "Medium",
-        "frequency": 84,
+        "frequency": 78,
         "url": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
         "topics": [
           "Hash Table",
@@ -100,23 +99,19 @@
       },
       {
         "id": 6,
-        "title": "Random Pick with Weight",
+        "title": "Restaurant Growth",
         "difficulty": "Medium",
-        "frequency": 68,
-        "url": "https://leetcode.com/problems/random-pick-with-weight",
+        "frequency": 78,
+        "url": "https://leetcode.com/problems/restaurant-growth",
         "topics": [
-          "Array",
-          "Math",
-          "Binary Search",
-          "Prefix Sum",
-          "Randomized"
+          "Database"
         ]
       },
       {
         "id": 7,
         "title": "Missing Number",
         "difficulty": "Easy",
-        "frequency": 68,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/missing-number",
         "topics": [
           "Array",
@@ -129,38 +124,15 @@
       },
       {
         "id": 8,
-        "title": "Encode and Decode TinyURL",
-        "difficulty": "Medium",
-        "frequency": 68,
-        "url": "https://leetcode.com/problems/encode-and-decode-tinyurl",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Design",
-          "Hash Function"
-        ]
-      },
-      {
-        "id": 9,
         "title": "Simple Bank System",
         "difficulty": "Medium",
-        "frequency": 68,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/simple-bank-system",
         "topics": [
           "Array",
           "Hash Table",
           "Design",
           "Simulation"
-        ]
-      },
-      {
-        "id": 10,
-        "title": "Restaurant Growth",
-        "difficulty": "Medium",
-        "frequency": 68,
-        "url": "https://leetcode.com/problems/restaurant-growth",
-        "topics": [
-          "Database"
         ]
       }
     ],
@@ -181,7 +153,7 @@
         "id": 2,
         "title": "Perfect Squares",
         "difficulty": "Medium",
-        "frequency": 97,
+        "frequency": 93,
         "url": "https://leetcode.com/problems/perfect-squares",
         "topics": [
           "Math",
@@ -217,18 +189,6 @@
       },
       {
         "id": 5,
-        "title": "Find All Anagrams in a String",
-        "difficulty": "Medium",
-        "frequency": 84,
-        "url": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sliding Window"
-        ]
-      },
-      {
-        "id": 6,
         "title": "Longest Increasing Subsequence",
         "difficulty": "Medium",
         "frequency": 84,
@@ -238,6 +198,18 @@
           "Binary Search",
           "Dynamic Programming",
           "Longest Increasing Subsequence"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Find All Anagrams in a String",
+        "difficulty": "Medium",
+        "frequency": 77,
+        "url": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
         ]
       },
       {
@@ -252,16 +224,15 @@
       },
       {
         "id": 8,
-        "title": "Random Pick with Weight",
+        "title": "Subarray Product Less Than K",
         "difficulty": "Medium",
-        "frequency": 68,
-        "url": "https://leetcode.com/problems/random-pick-with-weight",
+        "frequency": 77,
+        "url": "https://leetcode.com/problems/subarray-product-less-than-k",
         "topics": [
           "Array",
-          "Math",
           "Binary Search",
-          "Prefix Sum",
-          "Randomized"
+          "Sliding Window",
+          "Prefix Sum"
         ]
       },
       {
@@ -281,19 +252,6 @@
       },
       {
         "id": 10,
-        "title": "Encode and Decode TinyURL",
-        "difficulty": "Medium",
-        "frequency": 68,
-        "url": "https://leetcode.com/problems/encode-and-decode-tinyurl",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Design",
-          "Hash Function"
-        ]
-      },
-      {
-        "id": 11,
         "title": "Simple Bank System",
         "difficulty": "Medium",
         "frequency": 68,
@@ -303,19 +261,6 @@
           "Hash Table",
           "Design",
           "Simulation"
-        ]
-      },
-      {
-        "id": 12,
-        "title": "Subarray Product Less Than K",
-        "difficulty": "Medium",
-        "frequency": 68,
-        "url": "https://leetcode.com/problems/subarray-product-less-than-k",
-        "topics": [
-          "Array",
-          "Binary Search",
-          "Sliding Window",
-          "Prefix Sum"
         ]
       }
     ]

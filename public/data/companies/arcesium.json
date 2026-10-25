@@ -2,28 +2,9 @@
   "name": "Arcesium",
   "slug": "Arcesium",
   "dataKey": "arcesium",
-  "updatedAt": "2026-10-18T02:12:31.908Z",
+  "updatedAt": "2026-10-25T02:23:17.219Z",
   "problems": {
-    "1. Thirty Days.csv": [
-      {
-        "id": 1,
-        "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Binary Search",
-          "Dynamic Programming",
-          "Bit Manipulation",
-          "Meet in the Middle",
-          "Sorting",
-          "Ordered Set",
-          "Bitmask"
-        ]
-      }
-    ],
+    "1. Thirty Days.csv": [],
     "2. Three Months.csv": [
       {
         "id": 1,
@@ -41,6 +22,32 @@
           "Sorting",
           "Ordered Set",
           "Bitmask"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Russian Doll Envelopes",
+        "difficulty": "Hard",
+        "frequency": 84,
+        "url": "https://leetcode.com/problems/russian-doll-envelopes",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Sorting",
+          "Longest Increasing Subsequence"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Beautiful Towers II",
+        "difficulty": "Medium",
+        "frequency": 84,
+        "url": "https://leetcode.com/problems/beautiful-towers-ii",
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
         ]
       }
     ],
@@ -61,6 +68,32 @@
           "Sorting",
           "Ordered Set",
           "Bitmask"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Russian Doll Envelopes",
+        "difficulty": "Hard",
+        "frequency": 84,
+        "url": "https://leetcode.com/problems/russian-doll-envelopes",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Sorting",
+          "Longest Increasing Subsequence"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Beautiful Towers II",
+        "difficulty": "Medium",
+        "frequency": 84,
+        "url": "https://leetcode.com/problems/beautiful-towers-ii",
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
         ]
       }
     ],
@@ -100,7 +133,7 @@
         "id": 3,
         "title": "Minimum Swaps to Group All 1's Together II",
         "difficulty": "Medium",
-        "frequency": 79,
+        "frequency": 80,
         "url": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii",
         "topics": [
           "Array",
@@ -117,6 +150,33 @@
           "Array",
           "Binary Search",
           "Divide and Conquer"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Sudoku Solver",
+        "difficulty": "Hard",
+        "frequency": 70,
+        "url": "https://leetcode.com/problems/sudoku-solver",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Backtracking",
+          "Matrix",
+          "Algorithm X",
+          "Dancing Links"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Maximum Length of Subarray With Positive Product",
+        "difficulty": "Medium",
+        "frequency": 70,
+        "url": "https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
         ]
       }
     ],
@@ -230,7 +290,7 @@
         "id": 9,
         "title": "Median of Two Sorted Arrays",
         "difficulty": "Hard",
-        "frequency": 62,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
         "topics": [
           "Array",
@@ -242,7 +302,7 @@
         "id": 10,
         "title": "Find Median from Data Stream",
         "difficulty": "Hard",
-        "frequency": 62,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/find-median-from-data-stream",
         "topics": [
           "Two Pointers",
@@ -250,6 +310,59 @@
           "Sorting",
           "Heap (Priority Queue)",
           "Data Stream"
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Russian Doll Envelopes",
+        "difficulty": "Hard",
+        "frequency": 61,
+        "url": "https://leetcode.com/problems/russian-doll-envelopes",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Sorting",
+          "Longest Increasing Subsequence"
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Longest Consecutive Sequence",
+        "difficulty": "Medium",
+        "frequency": 61,
+        "url": "https://leetcode.com/problems/longest-consecutive-sequence",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Union-Find"
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Sudoku Solver",
+        "difficulty": "Hard",
+        "frequency": 61,
+        "url": "https://leetcode.com/problems/sudoku-solver",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Backtracking",
+          "Matrix",
+          "Algorithm X",
+          "Dancing Links"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Beautiful Towers II",
+        "difficulty": "Medium",
+        "frequency": 61,
+        "url": "https://leetcode.com/problems/beautiful-towers-ii",
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
         ]
       }
     ]

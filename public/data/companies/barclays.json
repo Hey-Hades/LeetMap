@@ -2,49 +2,26 @@
   "name": "Barclays",
   "slug": "Barclays",
   "dataKey": "barclays",
-  "updatedAt": "2026-10-18T02:12:31.917Z",
+  "updatedAt": "2026-10-25T02:23:17.225Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [
       {
         "id": 1,
-        "title": "Remove Boxes",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/remove-boxes",
-        "topics": [
-          "Array",
-          "Dynamic Programming",
-          "Memoization"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Second Highest Salary",
+        "title": "Minimum Number of Arrows to Burst Balloons",
         "difficulty": "Medium",
         "frequency": 100,
-        "url": "https://leetcode.com/problems/second-highest-salary",
+        "url": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons",
         "topics": [
-          "Database"
+          "Array",
+          "Greedy",
+          "Sorting"
         ]
       }
     ],
     "3. Six Months.csv": [
       {
         "id": 1,
-        "title": "Partition Labels",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/partition-labels",
-        "topics": [
-          "Hash Table",
-          "Two Pointers",
-          "String",
-          "Greedy"
-        ]
-      },
-      {
-        "id": 2,
         "title": "Remove Boxes",
         "difficulty": "Hard",
         "frequency": 100,
@@ -56,24 +33,25 @@
         ]
       },
       {
-        "id": 3,
-        "title": "Two Sum",
-        "difficulty": "Easy",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/two-sum",
-        "topics": [
-          "Array",
-          "Hash Table"
-        ]
-      },
-      {
-        "id": 4,
+        "id": 2,
         "title": "Second Highest Salary",
         "difficulty": "Medium",
         "frequency": 100,
         "url": "https://leetcode.com/problems/second-highest-salary",
         "topics": [
           "Database"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Minimum Number of Arrows to Burst Balloons",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting"
         ]
       }
     ],
@@ -92,17 +70,6 @@
       },
       {
         "id": 2,
-        "title": "Lexicographical Numbers",
-        "difficulty": "Medium",
-        "frequency": 56,
-        "url": "https://leetcode.com/problems/lexicographical-numbers",
-        "topics": [
-          "Depth-First Search",
-          "Trie"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Number of Islands",
         "difficulty": "Medium",
         "frequency": 56,
@@ -116,7 +83,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 3,
         "title": "Second Highest Salary",
         "difficulty": "Medium",
         "frequency": 56,
@@ -126,7 +93,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Longest Common Prefix",
         "difficulty": "Easy",
         "frequency": 56,
@@ -138,7 +105,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "title": "Next Greater Element I",
         "difficulty": "Easy",
         "frequency": 56,
@@ -151,7 +118,7 @@
         ]
       },
       {
-        "id": 7,
+        "id": 6,
         "title": "Reverse Words in a String",
         "difficulty": "Medium",
         "frequency": 56,
@@ -162,7 +129,7 @@
         ]
       },
       {
-        "id": 8,
+        "id": 7,
         "title": "Minimum Number of Days to Make m Bouquets",
         "difficulty": "Medium",
         "frequency": 56,
@@ -170,6 +137,54 @@
         "topics": [
           "Array",
           "Binary Search"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 56,
+        "url": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Partition Labels",
+        "difficulty": "Medium",
+        "frequency": 56,
+        "url": "https://leetcode.com/problems/partition-labels",
+        "topics": [
+          "Hash Table",
+          "Two Pointers",
+          "String",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Valid Parentheses",
+        "difficulty": "Easy",
+        "frequency": 56,
+        "url": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 56,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
         ]
       }
     ],
@@ -190,7 +205,7 @@
         "id": 2,
         "title": "Double Modular Exponentiation",
         "difficulty": "Medium",
-        "frequency": 87,
+        "frequency": 86,
         "url": "https://leetcode.com/problems/double-modular-exponentiation",
         "topics": [
           "Array",
@@ -271,13 +286,14 @@
       },
       {
         "id": 9,
-        "title": "Lexicographical Numbers",
+        "title": "Merge Intervals",
         "difficulty": "Medium",
-        "frequency": 53,
-        "url": "https://leetcode.com/problems/lexicographical-numbers",
+        "frequency": 61,
+        "url": "https://leetcode.com/problems/merge-intervals",
         "topics": [
-          "Depth-First Search",
-          "Trie"
+          "Array",
+          "Sorting",
+          "Quicksort"
         ]
       },
       {
@@ -363,6 +379,46 @@
           "Array",
           "Dynamic Programming",
           "Memoization"
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Design an ATM Machine",
+        "difficulty": "Medium",
+        "frequency": 53,
+        "url": "https://leetcode.com/problems/design-an-atm-machine",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Design"
+        ]
+      },
+      {
+        "id": 18,
+        "title": "Minimum Number of Arrows to Burst Balloons",
+        "difficulty": "Medium",
+        "frequency": 53,
+        "url": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Maximum Employees to Be Invited to a Meeting",
+        "difficulty": "Hard",
+        "frequency": 53,
+        "url": "https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Depth-First Search",
+          "Graph Theory",
+          "Topological Sort",
+          "Kosaraju's Algorithm",
+          "Tarjan's SCC Algorithm"
         ]
       }
     ]

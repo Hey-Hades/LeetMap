@@ -2,7 +2,7 @@
   "name": "Avito",
   "slug": "Avito",
   "dataKey": "avito",
-  "updatedAt": "2026-10-18T02:12:31.914Z",
+  "updatedAt": "2026-10-25T02:23:17.223Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -10,18 +10,15 @@
     "4. More Than Six Months.csv": [
       {
         "id": 1,
-        "title": "Top K Frequent Elements",
+        "title": "Kth Largest Element in an Array",
         "difficulty": "Medium",
         "frequency": 100,
-        "url": "https://leetcode.com/problems/top-k-frequent-elements",
+        "url": "https://leetcode.com/problems/kth-largest-element-in-an-array",
         "topics": [
           "Array",
-          "Hash Table",
           "Divide and Conquer",
           "Sorting",
           "Heap (Priority Queue)",
-          "Bucket Sort",
-          "Counting",
           "Quickselect"
         ]
       },
@@ -40,20 +37,6 @@
       },
       {
         "id": 3,
-        "title": "Kth Largest Element in an Array",
-        "difficulty": "Medium",
-        "frequency": 94,
-        "url": "https://leetcode.com/problems/kth-largest-element-in-an-array",
-        "topics": [
-          "Array",
-          "Divide and Conquer",
-          "Sorting",
-          "Heap (Priority Queue)",
-          "Quickselect"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Merge Sorted Array",
         "difficulty": "Easy",
         "frequency": 87,
@@ -65,19 +48,20 @@
         ]
       },
       {
-        "id": 5,
-        "title": "Add Two Numbers",
+        "id": 4,
+        "title": "Sum of Subarray Minimums",
         "difficulty": "Medium",
-        "frequency": 77,
-        "url": "https://leetcode.com/problems/add-two-numbers",
+        "frequency": 87,
+        "url": "https://leetcode.com/problems/sum-of-subarray-minimums",
         "topics": [
-          "Linked List",
-          "Math",
-          "Recursion"
+          "Array",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "title": "Generate Parentheses",
         "difficulty": "Medium",
         "frequency": 77,
@@ -90,20 +74,24 @@
         ]
       },
       {
-        "id": 7,
-        "title": "Sum of Subarray Minimums",
+        "id": 6,
+        "title": "Top K Frequent Elements",
         "difficulty": "Medium",
         "frequency": 77,
-        "url": "https://leetcode.com/problems/sum-of-subarray-minimums",
+        "url": "https://leetcode.com/problems/top-k-frequent-elements",
         "topics": [
           "Array",
-          "Dynamic Programming",
-          "Stack",
-          "Monotonic Stack"
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
         ]
       },
       {
-        "id": 8,
+        "id": 7,
         "title": "Maximum Depth of Binary Tree",
         "difficulty": "Easy",
         "frequency": 77,
@@ -113,6 +101,17 @@
           "Depth-First Search",
           "Breadth-First Search",
           "Binary Tree"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Product of Array Except Self",
+        "difficulty": "Medium",
+        "frequency": 77,
+        "url": "https://leetcode.com/problems/product-of-array-except-self",
+        "topics": [
+          "Array",
+          "Prefix Sum"
         ]
       }
     ],
@@ -132,23 +131,6 @@
       },
       {
         "id": 2,
-        "title": "Top K Frequent Elements",
-        "difficulty": "Medium",
-        "frequency": 96,
-        "url": "https://leetcode.com/problems/top-k-frequent-elements",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Divide and Conquer",
-          "Sorting",
-          "Heap (Priority Queue)",
-          "Bucket Sort",
-          "Counting",
-          "Quickselect"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Kth Largest Element in an Array",
         "difficulty": "Medium",
         "frequency": 96,
@@ -162,7 +144,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 3,
         "title": "Merge Sorted Array",
         "difficulty": "Easy",
         "frequency": 83,
@@ -174,7 +156,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Sum of Subarray Minimums",
         "difficulty": "Medium",
         "frequency": 83,
@@ -187,22 +169,10 @@
         ]
       },
       {
-        "id": 6,
-        "title": "Add Two Numbers",
-        "difficulty": "Medium",
-        "frequency": 73,
-        "url": "https://leetcode.com/problems/add-two-numbers",
-        "topics": [
-          "Linked List",
-          "Math",
-          "Recursion"
-        ]
-      },
-      {
-        "id": 7,
+        "id": 5,
         "title": "Generate Parentheses",
         "difficulty": "Medium",
-        "frequency": 73,
+        "frequency": 74,
         "url": "https://leetcode.com/problems/generate-parentheses",
         "topics": [
           "String",
@@ -212,10 +182,27 @@
         ]
       },
       {
-        "id": 8,
+        "id": 6,
+        "title": "Top K Frequent Elements",
+        "difficulty": "Medium",
+        "frequency": 74,
+        "url": "https://leetcode.com/problems/top-k-frequent-elements",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ]
+      },
+      {
+        "id": 7,
         "title": "Maximum Depth of Binary Tree",
         "difficulty": "Easy",
-        "frequency": 73,
+        "frequency": 74,
         "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
         "topics": [
           "Tree",
@@ -225,10 +212,10 @@
         ]
       },
       {
-        "id": 9,
+        "id": 8,
         "title": "Product of Array Except Self",
         "difficulty": "Medium",
-        "frequency": 73,
+        "frequency": 74,
         "url": "https://leetcode.com/problems/product-of-array-except-self",
         "topics": [
           "Array",

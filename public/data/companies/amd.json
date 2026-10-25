@@ -2,7 +2,7 @@
   "name": "AMD",
   "slug": "AMD",
   "dataKey": "amd",
-  "updatedAt": "2026-10-18T02:12:31.842Z",
+  "updatedAt": "2026-10-25T02:23:17.169Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -22,9 +22,21 @@
       },
       {
         "id": 2,
+        "title": "Spiral Matrix",
+        "difficulty": "Medium",
+        "frequency": 82,
+        "url": "https://leetcode.com/problems/spiral-matrix",
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 3,
         "title": "Two Sum",
         "difficulty": "Easy",
-        "frequency": 94,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/two-sum",
         "topics": [
           "Array",
@@ -32,10 +44,10 @@
         ]
       },
       {
-        "id": 3,
+        "id": 4,
         "title": "Number of Islands",
         "difficulty": "Medium",
-        "frequency": 94,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/number-of-islands",
         "topics": [
           "Array",
@@ -46,46 +58,10 @@
         ]
       },
       {
-        "id": 4,
-        "title": "Spiral Matrix",
-        "difficulty": "Medium",
-        "frequency": 86,
-        "url": "https://leetcode.com/problems/spiral-matrix",
-        "topics": [
-          "Array",
-          "Matrix",
-          "Simulation"
-        ]
-      },
-      {
         "id": 5,
-        "title": "Merge Intervals",
-        "difficulty": "Medium",
-        "frequency": 86,
-        "url": "https://leetcode.com/problems/merge-intervals",
-        "topics": [
-          "Array",
-          "Sorting",
-          "Quicksort"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Merge Sorted Array",
-        "difficulty": "Easy",
-        "frequency": 86,
-        "url": "https://leetcode.com/problems/merge-sorted-array",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 7,
         "title": "Subarray Sum Equals K",
         "difficulty": "Medium",
-        "frequency": 75,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/subarray-sum-equals-k",
         "topics": [
           "Array",
@@ -94,33 +70,44 @@
         ]
       },
       {
-        "id": 8,
-        "title": "LRU Cache",
+        "id": 6,
+        "title": "Merge Intervals",
         "difficulty": "Medium",
-        "frequency": 75,
-        "url": "https://leetcode.com/problems/lru-cache",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/merge-intervals",
         "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Doubly-Linked List"
+          "Array",
+          "Sorting",
+          "Quicksort"
         ]
       },
       {
-        "id": 9,
+        "id": 7,
         "title": "Palindrome Number",
         "difficulty": "Easy",
-        "frequency": 75,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/palindrome-number",
         "topics": [
           "Math"
         ]
       },
       {
-        "id": 10,
+        "id": 8,
+        "title": "Merge Sorted Array",
+        "difficulty": "Easy",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/merge-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 9,
         "title": "3Sum",
         "difficulty": "Medium",
-        "frequency": 75,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/3sum",
         "topics": [
           "Array",
@@ -129,10 +116,10 @@
         ]
       },
       {
-        "id": 11,
+        "id": 10,
         "title": "Middle of the Linked List",
         "difficulty": "Easy",
-        "frequency": 75,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/middle-of-the-linked-list",
         "topics": [
           "Linked List",
@@ -140,10 +127,10 @@
         ]
       },
       {
-        "id": 12,
+        "id": 11,
         "title": "Move Zeroes",
         "difficulty": "Easy",
-        "frequency": 75,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/move-zeroes",
         "topics": [
           "Array",
@@ -151,10 +138,10 @@
         ]
       },
       {
-        "id": 13,
+        "id": 12,
         "title": "Integer to Roman",
         "difficulty": "Medium",
-        "frequency": 75,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/integer-to-roman",
         "topics": [
           "Hash Table",
@@ -163,10 +150,10 @@
         ]
       },
       {
-        "id": 14,
+        "id": 13,
         "title": "Top K Frequent Elements",
         "difficulty": "Medium",
-        "frequency": 75,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/top-k-frequent-elements",
         "topics": [
           "Array",
@@ -180,15 +167,28 @@
         ]
       },
       {
-        "id": 15,
+        "id": 14,
         "title": "Climbing Stairs",
         "difficulty": "Easy",
-        "frequency": 75,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/climbing-stairs",
         "topics": [
           "Math",
           "Dynamic Programming",
           "Memoization"
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Palindrome Linked List",
+        "difficulty": "Easy",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/palindrome-linked-list",
+        "topics": [
+          "Linked List",
+          "Two Pointers",
+          "Stack",
+          "Recursion"
         ]
       }
     ],
@@ -207,9 +207,21 @@
       },
       {
         "id": 2,
+        "title": "Spiral Matrix",
+        "difficulty": "Medium",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/spiral-matrix",
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 3,
         "title": "Two Sum",
         "difficulty": "Easy",
-        "frequency": 94,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/two-sum",
         "topics": [
           "Array",
@@ -217,10 +229,22 @@
         ]
       },
       {
-        "id": 3,
+        "id": 4,
+        "title": "Subarray Sum Equals K",
+        "difficulty": "Medium",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/subarray-sum-equals-k",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ]
+      },
+      {
+        "id": 5,
         "title": "Number of Islands",
         "difficulty": "Medium",
-        "frequency": 94,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/number-of-islands",
         "topics": [
           "Array",
@@ -231,34 +255,10 @@
         ]
       },
       {
-        "id": 4,
-        "title": "Spiral Matrix",
-        "difficulty": "Medium",
-        "frequency": 86,
-        "url": "https://leetcode.com/problems/spiral-matrix",
-        "topics": [
-          "Array",
-          "Matrix",
-          "Simulation"
-        ]
-      },
-      {
-        "id": 5,
-        "title": "Subarray Sum Equals K",
-        "difficulty": "Medium",
-        "frequency": 86,
-        "url": "https://leetcode.com/problems/subarray-sum-equals-k",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Prefix Sum"
-        ]
-      },
-      {
         "id": 6,
         "title": "Merge Intervals",
         "difficulty": "Medium",
-        "frequency": 86,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/merge-intervals",
         "topics": [
           "Array",
@@ -268,9 +268,19 @@
       },
       {
         "id": 7,
+        "title": "Palindrome Number",
+        "difficulty": "Easy",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/palindrome-number",
+        "topics": [
+          "Math"
+        ]
+      },
+      {
+        "id": 8,
         "title": "Merge Sorted Array",
         "difficulty": "Easy",
-        "frequency": 86,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/merge-sorted-array",
         "topics": [
           "Array",
@@ -279,45 +289,10 @@
         ]
       },
       {
-        "id": 8,
-        "title": "Longest Substring Without Repeating Characters",
-        "difficulty": "Medium",
-        "frequency": 75,
-        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sliding Window"
-        ]
-      },
-      {
         "id": 9,
-        "title": "LRU Cache",
-        "difficulty": "Medium",
-        "frequency": 75,
-        "url": "https://leetcode.com/problems/lru-cache",
-        "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Doubly-Linked List"
-        ]
-      },
-      {
-        "id": 10,
-        "title": "Palindrome Number",
-        "difficulty": "Easy",
-        "frequency": 75,
-        "url": "https://leetcode.com/problems/palindrome-number",
-        "topics": [
-          "Math"
-        ]
-      },
-      {
-        "id": 11,
         "title": "Move Zeroes",
         "difficulty": "Easy",
-        "frequency": 75,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/move-zeroes",
         "topics": [
           "Array",
@@ -325,10 +300,10 @@
         ]
       },
       {
-        "id": 12,
+        "id": 10,
         "title": "Top K Frequent Elements",
         "difficulty": "Medium",
-        "frequency": 75,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/top-k-frequent-elements",
         "topics": [
           "Array",
@@ -342,10 +317,10 @@
         ]
       },
       {
-        "id": 13,
+        "id": 11,
         "title": "Integer to Roman",
         "difficulty": "Medium",
-        "frequency": 75,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/integer-to-roman",
         "topics": [
           "Hash Table",
@@ -354,10 +329,10 @@
         ]
       },
       {
-        "id": 14,
+        "id": 12,
         "title": "Palindrome Linked List",
         "difficulty": "Easy",
-        "frequency": 75,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/palindrome-linked-list",
         "topics": [
           "Linked List",
@@ -367,10 +342,10 @@
         ]
       },
       {
-        "id": 15,
+        "id": 13,
         "title": "Climbing Stairs",
         "difficulty": "Easy",
-        "frequency": 75,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/climbing-stairs",
         "topics": [
           "Math",
@@ -379,10 +354,10 @@
         ]
       },
       {
-        "id": 16,
+        "id": 14,
         "title": "3Sum",
         "difficulty": "Medium",
-        "frequency": 75,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/3sum",
         "topics": [
           "Array",
@@ -391,14 +366,37 @@
         ]
       },
       {
-        "id": 17,
+        "id": 15,
         "title": "Middle of the Linked List",
         "difficulty": "Easy",
-        "frequency": 75,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/middle-of-the-linked-list",
         "topics": [
           "Linked List",
           "Two Pointers"
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Min Stack",
+        "difficulty": "Medium",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/min-stack",
+        "topics": [
+          "Stack",
+          "Design"
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Valid Parentheses",
+        "difficulty": "Easy",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
         ]
       }
     ]

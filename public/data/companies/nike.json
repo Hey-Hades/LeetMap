@@ -2,7 +2,7 @@
   "name": "Nike",
   "slug": "Nike",
   "dataKey": "nike",
-  "updatedAt": "2026-10-18T02:12:32.104Z",
+  "updatedAt": "2026-10-25T02:23:17.371Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -23,21 +23,9 @@
       },
       {
         "id": 2,
-        "title": "Diagonal Traverse",
-        "difficulty": "Medium",
-        "frequency": 87,
-        "url": "https://leetcode.com/problems/diagonal-traverse",
-        "topics": [
-          "Array",
-          "Matrix",
-          "Simulation"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Longest Valid Parentheses",
         "difficulty": "Hard",
-        "frequency": 87,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/longest-valid-parentheses",
         "topics": [
           "String",
@@ -47,92 +35,10 @@
         ]
       },
       {
-        "id": 4,
-        "title": "Longest Substring Without Repeating Characters",
-        "difficulty": "Medium",
-        "frequency": 77,
-        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sliding Window"
-        ]
-      },
-      {
-        "id": 5,
-        "title": "Valid Parentheses",
-        "difficulty": "Easy",
-        "frequency": 77,
-        "url": "https://leetcode.com/problems/valid-parentheses",
-        "topics": [
-          "String",
-          "Stack",
-          "Bracket Sequences"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Maximum Subarray",
-        "difficulty": "Medium",
-        "frequency": 77,
-        "url": "https://leetcode.com/problems/maximum-subarray",
-        "topics": [
-          "Array",
-          "Divide and Conquer",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Design Graph With Shortest Path Calculator",
-        "difficulty": "Hard",
-        "frequency": 77,
-        "url": "https://leetcode.com/problems/design-graph-with-shortest-path-calculator",
-        "topics": [
-          "Graph Theory",
-          "Design",
-          "Heap (Priority Queue)",
-          "Shortest Path"
-        ]
-      },
-      {
-        "id": 8,
-        "title": "Min Stack",
-        "difficulty": "Medium",
-        "frequency": 77,
-        "url": "https://leetcode.com/problems/min-stack",
-        "topics": [
-          "Stack",
-          "Design"
-        ]
-      },
-      {
-        "id": 9,
-        "title": "Can Place Flowers",
-        "difficulty": "Easy",
-        "frequency": 77,
-        "url": "https://leetcode.com/problems/can-place-flowers",
-        "topics": [
-          "Array",
-          "Greedy"
-        ]
-      },
-      {
-        "id": 10,
-        "title": "Next Permutation",
-        "difficulty": "Medium",
-        "frequency": 77,
-        "url": "https://leetcode.com/problems/next-permutation",
-        "topics": [
-          "Array",
-          "Two Pointers"
-        ]
-      },
-      {
-        "id": 11,
+        "id": 3,
         "title": "Best Time to Buy and Sell Stock II",
         "difficulty": "Medium",
-        "frequency": 77,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
         "topics": [
           "Array",
@@ -141,10 +47,10 @@
         ]
       },
       {
-        "id": 12,
+        "id": 4,
         "title": "Jump Game",
         "difficulty": "Medium",
-        "frequency": 77,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/jump-game",
         "topics": [
           "Array",
@@ -153,10 +59,10 @@
         ]
       },
       {
-        "id": 13,
+        "id": 5,
         "title": "Find the Duplicate Number",
         "difficulty": "Medium",
-        "frequency": 77,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/find-the-duplicate-number",
         "topics": [
           "Array",
@@ -184,21 +90,9 @@
       },
       {
         "id": 2,
-        "title": "Diagonal Traverse",
-        "difficulty": "Medium",
-        "frequency": 94,
-        "url": "https://leetcode.com/problems/diagonal-traverse",
-        "topics": [
-          "Array",
-          "Matrix",
-          "Simulation"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Longest Valid Parentheses",
         "difficulty": "Hard",
-        "frequency": 87,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/longest-valid-parentheses",
         "topics": [
           "String",
@@ -208,92 +102,10 @@
         ]
       },
       {
-        "id": 4,
-        "title": "Longest Substring Without Repeating Characters",
-        "difficulty": "Medium",
-        "frequency": 76,
-        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sliding Window"
-        ]
-      },
-      {
-        "id": 5,
-        "title": "Valid Parentheses",
-        "difficulty": "Easy",
-        "frequency": 76,
-        "url": "https://leetcode.com/problems/valid-parentheses",
-        "topics": [
-          "String",
-          "Stack",
-          "Bracket Sequences"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Maximum Subarray",
-        "difficulty": "Medium",
-        "frequency": 76,
-        "url": "https://leetcode.com/problems/maximum-subarray",
-        "topics": [
-          "Array",
-          "Divide and Conquer",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Design Graph With Shortest Path Calculator",
-        "difficulty": "Hard",
-        "frequency": 76,
-        "url": "https://leetcode.com/problems/design-graph-with-shortest-path-calculator",
-        "topics": [
-          "Graph Theory",
-          "Design",
-          "Heap (Priority Queue)",
-          "Shortest Path"
-        ]
-      },
-      {
-        "id": 8,
-        "title": "Min Stack",
-        "difficulty": "Medium",
-        "frequency": 76,
-        "url": "https://leetcode.com/problems/min-stack",
-        "topics": [
-          "Stack",
-          "Design"
-        ]
-      },
-      {
-        "id": 9,
-        "title": "Can Place Flowers",
-        "difficulty": "Easy",
-        "frequency": 76,
-        "url": "https://leetcode.com/problems/can-place-flowers",
-        "topics": [
-          "Array",
-          "Greedy"
-        ]
-      },
-      {
-        "id": 10,
-        "title": "Next Permutation",
-        "difficulty": "Medium",
-        "frequency": 76,
-        "url": "https://leetcode.com/problems/next-permutation",
-        "topics": [
-          "Array",
-          "Two Pointers"
-        ]
-      },
-      {
-        "id": 11,
+        "id": 3,
         "title": "Best Time to Buy and Sell Stock II",
         "difficulty": "Medium",
-        "frequency": 76,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
         "topics": [
           "Array",
@@ -302,10 +114,10 @@
         ]
       },
       {
-        "id": 12,
+        "id": 4,
         "title": "Jump Game",
         "difficulty": "Medium",
-        "frequency": 76,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/jump-game",
         "topics": [
           "Array",
@@ -314,10 +126,10 @@
         ]
       },
       {
-        "id": 13,
+        "id": 5,
         "title": "Find the Duplicate Number",
         "difficulty": "Medium",
-        "frequency": 76,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/find-the-duplicate-number",
         "topics": [
           "Array",
@@ -329,10 +141,10 @@
         ]
       },
       {
-        "id": 14,
+        "id": 6,
         "title": "Group Anagrams",
         "difficulty": "Medium",
-        "frequency": 76,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/group-anagrams",
         "topics": [
           "Array",

@@ -2,22 +2,21 @@
   "name": "EY",
   "slug": "EY",
   "dataKey": "ey",
-  "updatedAt": "2026-10-18T02:12:31.979Z",
+  "updatedAt": "2026-10-25T02:23:17.273Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [
       {
         "id": 1,
-        "title": "Wiggle Sort II",
+        "title": "Binary Subarrays With Sum",
         "difficulty": "Medium",
         "frequency": 100,
-        "url": "https://leetcode.com/problems/wiggle-sort-ii",
+        "url": "https://leetcode.com/problems/binary-subarrays-with-sum",
         "topics": [
           "Array",
-          "Divide and Conquer",
-          "Greedy",
-          "Sorting",
-          "Quickselect"
+          "Hash Table",
+          "Sliding Window",
+          "Prefix Sum"
         ]
       }
     ],
@@ -34,6 +33,19 @@
           "Greedy",
           "Sorting",
           "Quickselect"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Binary Subarrays With Sum",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/binary-subarrays-with-sum",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Prefix Sum"
         ]
       }
     ],
@@ -74,6 +86,19 @@
           "Greedy",
           "Sorting",
           "Quickselect"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Binary Subarrays With Sum",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/binary-subarrays-with-sum",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Prefix Sum"
         ]
       }
     ]

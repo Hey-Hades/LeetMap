@@ -2,66 +2,27 @@
   "name": "Tekion",
   "slug": "Tekion",
   "dataKey": "tekion",
-  "updatedAt": "2026-10-18T02:12:32.155Z",
+  "updatedAt": "2026-10-25T02:23:17.410Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [
       {
         "id": 1,
-        "title": "Lexicographically Maximum MEX Array",
+        "title": "Find Minimum Diameter After Merging Two Trees",
         "difficulty": "Hard",
         "frequency": 100,
-        "url": "https://leetcode.com/problems/lexicographically-maximum-mex-array",
+        "url": "https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees",
         "topics": [
-          "Array",
-          "Hash Table",
-          "Greedy",
-          "Queue"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Max Consecutive Ones III",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/max-consecutive-ones-iii",
-        "topics": [
-          "Array",
-          "Binary Search",
-          "Sliding Window",
-          "Prefix Sum"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Longest Balanced Substring After One Swap",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/longest-balanced-substring-after-one-swap",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Prefix Sum"
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory"
         ]
       }
     ],
     "3. Six Months.csv": [
       {
         "id": 1,
-        "title": "Shortest Subarray to be Removed to Make Array Sorted",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Binary Search",
-          "Stack",
-          "Monotonic Stack"
-        ]
-      },
-      {
-        "id": 2,
         "title": "Lexicographically Maximum MEX Array",
         "difficulty": "Hard",
         "frequency": 100,
@@ -74,20 +35,7 @@
         ]
       },
       {
-        "id": 3,
-        "title": "Longest Palindromic Substring",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/longest-palindromic-substring",
-        "topics": [
-          "Two Pointers",
-          "String",
-          "Dynamic Programming",
-          "Manacher"
-        ]
-      },
-      {
-        "id": 4,
+        "id": 2,
         "title": "Max Consecutive Ones III",
         "difficulty": "Medium",
         "frequency": 100,
@@ -100,18 +48,7 @@
         ]
       },
       {
-        "id": 5,
-        "title": "Numbers With Same Consecutive Differences",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/numbers-with-same-consecutive-differences",
-        "topics": [
-          "Backtracking",
-          "Breadth-First Search"
-        ]
-      },
-      {
-        "id": 6,
+        "id": 3,
         "title": "Longest Balanced Substring After One Swap",
         "difficulty": "Medium",
         "frequency": 100,
@@ -121,39 +58,27 @@
           "String",
           "Prefix Sum"
         ]
+      },
+      {
+        "id": 4,
+        "title": "Find Minimum Diameter After Merging Two Trees",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory"
+        ]
       }
     ],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
-        "title": "Best Time to Buy and Sell Stock III",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
-        "topics": [
-          "Array",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Most Stones Removed with Same Row or Column",
-        "difficulty": "Medium",
-        "frequency": 91,
-        "url": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column",
-        "topics": [
-          "Hash Table",
-          "Depth-First Search",
-          "Union-Find",
-          "Graph Theory",
-          "Bipartite Graph"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Trapping Rain Water",
         "difficulty": "Hard",
-        "frequency": 91,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/trapping-rain-water",
         "topics": [
           "Array",
@@ -164,10 +89,21 @@
         ]
       },
       {
-        "id": 4,
+        "id": 2,
+        "title": "Best Time to Buy and Sell Stock III",
+        "difficulty": "Hard",
+        "frequency": 94,
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 3,
         "title": "Two Sum",
         "difficulty": "Easy",
-        "frequency": 91,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/two-sum",
         "topics": [
           "Array",
@@ -175,10 +111,10 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Split Array Largest Sum",
         "difficulty": "Hard",
-        "frequency": 91,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/split-array-largest-sum",
         "topics": [
           "Array",
@@ -189,10 +125,10 @@
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "title": "Maximum Subarray",
         "difficulty": "Medium",
-        "frequency": 91,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/maximum-subarray",
         "topics": [
           "Array",
@@ -201,10 +137,10 @@
         ]
       },
       {
-        "id": 7,
+        "id": 6,
         "title": "Rotting Oranges",
         "difficulty": "Medium",
-        "frequency": 91,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/rotting-oranges",
         "topics": [
           "Array",
@@ -213,10 +149,10 @@
         ]
       },
       {
-        "id": 8,
+        "id": 7,
         "title": "Longest String Chain",
         "difficulty": "Medium",
-        "frequency": 91,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/longest-string-chain",
         "topics": [
           "Array",
@@ -228,10 +164,10 @@
         ]
       },
       {
-        "id": 9,
+        "id": 8,
         "title": "Ways to Split Array Into Three Subarrays",
         "difficulty": "Medium",
-        "frequency": 79,
+        "frequency": 74,
         "url": "https://leetcode.com/problems/ways-to-split-array-into-three-subarrays",
         "topics": [
           "Array",
@@ -241,10 +177,10 @@
         ]
       },
       {
-        "id": 10,
+        "id": 9,
         "title": "Meeting Rooms II",
         "difficulty": "Medium",
-        "frequency": 79,
+        "frequency": 74,
         "url": "https://leetcode.com/problems/meeting-rooms-ii",
         "topics": [
           "Array",
@@ -256,21 +192,10 @@
         ]
       },
       {
-        "id": 11,
-        "title": "Find First and Last Position of Element in Sorted Array",
-        "difficulty": "Medium",
-        "frequency": 79,
-        "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
-        "topics": [
-          "Array",
-          "Binary Search"
-        ]
-      },
-      {
-        "id": 12,
+        "id": 10,
         "title": "Word Ladder",
         "difficulty": "Hard",
-        "frequency": 79,
+        "frequency": 74,
         "url": "https://leetcode.com/problems/word-ladder",
         "topics": [
           "Hash Table",
@@ -280,10 +205,10 @@
         ]
       },
       {
-        "id": 13,
+        "id": 11,
         "title": "Product of the Last K Numbers",
         "difficulty": "Medium",
-        "frequency": 79,
+        "frequency": 74,
         "url": "https://leetcode.com/problems/product-of-the-last-k-numbers",
         "topics": [
           "Array",
@@ -294,24 +219,10 @@
         ]
       },
       {
-        "id": 14,
-        "title": "Valid Parenthesis String",
-        "difficulty": "Medium",
-        "frequency": 79,
-        "url": "https://leetcode.com/problems/valid-parenthesis-string",
-        "topics": [
-          "String",
-          "Dynamic Programming",
-          "Stack",
-          "Greedy",
-          "Bracket Sequences"
-        ]
-      },
-      {
-        "id": 15,
+        "id": 12,
         "title": "Daily Temperatures",
         "difficulty": "Medium",
-        "frequency": 79,
+        "frequency": 74,
         "url": "https://leetcode.com/problems/daily-temperatures",
         "topics": [
           "Array",
@@ -320,10 +231,10 @@
         ]
       },
       {
-        "id": 16,
+        "id": 13,
         "title": "Subarray Product Less Than K",
         "difficulty": "Medium",
-        "frequency": 79,
+        "frequency": 74,
         "url": "https://leetcode.com/problems/subarray-product-less-than-k",
         "topics": [
           "Array",
@@ -333,10 +244,10 @@
         ]
       },
       {
-        "id": 17,
+        "id": 14,
         "title": "Rank Teams by Votes",
         "difficulty": "Medium",
-        "frequency": 79,
+        "frequency": 74,
         "url": "https://leetcode.com/problems/rank-teams-by-votes",
         "topics": [
           "Array",
@@ -344,6 +255,55 @@
           "String",
           "Sorting",
           "Counting"
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Gas Station",
+        "difficulty": "Medium",
+        "frequency": 74,
+        "url": "https://leetcode.com/problems/gas-station",
+        "topics": [
+          "Array",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Numbers With Same Consecutive Differences",
+        "difficulty": "Medium",
+        "frequency": 74,
+        "url": "https://leetcode.com/problems/numbers-with-same-consecutive-differences",
+        "topics": [
+          "Backtracking",
+          "Breadth-First Search"
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Shortest Subarray to be Removed to Make Array Sorted",
+        "difficulty": "Medium",
+        "frequency": 74,
+        "url": "https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Stack",
+          "Monotonic Stack"
+        ]
+      },
+      {
+        "id": 18,
+        "title": "Longest Palindromic Substring",
+        "difficulty": "Medium",
+        "frequency": 74,
+        "url": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
         ]
       }
     ],
@@ -365,7 +325,7 @@
         "id": 2,
         "title": "Trapping Rain Water",
         "difficulty": "Hard",
-        "frequency": 82,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/trapping-rain-water",
         "topics": [
           "Array",
@@ -400,20 +360,6 @@
       },
       {
         "id": 5,
-        "title": "Most Stones Removed with Same Row or Column",
-        "difficulty": "Medium",
-        "frequency": 74,
-        "url": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column",
-        "topics": [
-          "Hash Table",
-          "Depth-First Search",
-          "Union-Find",
-          "Graph Theory",
-          "Bipartite Graph"
-        ]
-      },
-      {
-        "id": 6,
         "title": "Split Array Largest Sum",
         "difficulty": "Hard",
         "frequency": 74,
@@ -427,7 +373,7 @@
         ]
       },
       {
-        "id": 7,
+        "id": 6,
         "title": "Two Sum",
         "difficulty": "Easy",
         "frequency": 74,
@@ -438,7 +384,7 @@
         ]
       },
       {
-        "id": 8,
+        "id": 7,
         "title": "Rotting Oranges",
         "difficulty": "Medium",
         "frequency": 74,
@@ -450,7 +396,7 @@
         ]
       },
       {
-        "id": 9,
+        "id": 8,
         "title": "Longest String Chain",
         "difficulty": "Medium",
         "frequency": 74,
@@ -465,7 +411,7 @@
         ]
       },
       {
-        "id": 10,
+        "id": 9,
         "title": "Numbers With Same Consecutive Differences",
         "difficulty": "Medium",
         "frequency": 74,
@@ -476,7 +422,7 @@
         ]
       },
       {
-        "id": 11,
+        "id": 10,
         "title": "Max Consecutive Ones III",
         "difficulty": "Medium",
         "frequency": 74,
@@ -489,10 +435,10 @@
         ]
       },
       {
-        "id": 12,
+        "id": 11,
         "title": "Ways to Split Array Into Three Subarrays",
         "difficulty": "Medium",
-        "frequency": 64,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/ways-to-split-array-into-three-subarrays",
         "topics": [
           "Array",
@@ -502,10 +448,10 @@
         ]
       },
       {
-        "id": 13,
+        "id": 12,
         "title": "Meeting Rooms II",
         "difficulty": "Medium",
-        "frequency": 64,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/meeting-rooms-ii",
         "topics": [
           "Array",
@@ -517,21 +463,10 @@
         ]
       },
       {
-        "id": 14,
-        "title": "Find First and Last Position of Element in Sorted Array",
-        "difficulty": "Medium",
-        "frequency": 64,
-        "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
-        "topics": [
-          "Array",
-          "Binary Search"
-        ]
-      },
-      {
-        "id": 15,
+        "id": 13,
         "title": "Product of the Last K Numbers",
         "difficulty": "Medium",
-        "frequency": 64,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/product-of-the-last-k-numbers",
         "topics": [
           "Array",
@@ -542,10 +477,10 @@
         ]
       },
       {
-        "id": 16,
+        "id": 14,
         "title": "Word Ladder",
         "difficulty": "Hard",
-        "frequency": 64,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/word-ladder",
         "topics": [
           "Hash Table",
@@ -555,24 +490,10 @@
         ]
       },
       {
-        "id": 17,
-        "title": "Valid Parenthesis String",
-        "difficulty": "Medium",
-        "frequency": 64,
-        "url": "https://leetcode.com/problems/valid-parenthesis-string",
-        "topics": [
-          "String",
-          "Dynamic Programming",
-          "Stack",
-          "Greedy",
-          "Bracket Sequences"
-        ]
-      },
-      {
-        "id": 18,
+        "id": 15,
         "title": "Daily Temperatures",
         "difficulty": "Medium",
-        "frequency": 64,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/daily-temperatures",
         "topics": [
           "Array",
@@ -581,10 +502,10 @@
         ]
       },
       {
-        "id": 19,
+        "id": 16,
         "title": "Subarray Product Less Than K",
         "difficulty": "Medium",
-        "frequency": 64,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/subarray-product-less-than-k",
         "topics": [
           "Array",
@@ -594,10 +515,10 @@
         ]
       },
       {
-        "id": 20,
+        "id": 17,
         "title": "Rank Teams by Votes",
         "difficulty": "Medium",
-        "frequency": 64,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/rank-teams-by-votes",
         "topics": [
           "Array",
@@ -608,10 +529,10 @@
         ]
       },
       {
-        "id": 21,
+        "id": 18,
         "title": "Shortest Subarray to be Removed to Make Array Sorted",
         "difficulty": "Medium",
-        "frequency": 64,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted",
         "topics": [
           "Array",
@@ -622,10 +543,10 @@
         ]
       },
       {
-        "id": 22,
+        "id": 19,
         "title": "Longest Substring Without Repeating Characters",
         "difficulty": "Medium",
-        "frequency": 64,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
         "topics": [
           "Hash Table",
@@ -634,10 +555,10 @@
         ]
       },
       {
-        "id": 23,
+        "id": 20,
         "title": "Find Median from Data Stream",
         "difficulty": "Hard",
-        "frequency": 64,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/find-median-from-data-stream",
         "topics": [
           "Two Pointers",
@@ -648,10 +569,10 @@
         ]
       },
       {
-        "id": 24,
+        "id": 21,
         "title": "Lexicographically Maximum MEX Array",
         "difficulty": "Hard",
-        "frequency": 64,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/lexicographically-maximum-mex-array",
         "topics": [
           "Array",
@@ -661,10 +582,10 @@
         ]
       },
       {
-        "id": 25,
+        "id": 22,
         "title": "Longest Palindromic Substring",
         "difficulty": "Medium",
-        "frequency": 64,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/longest-palindromic-substring",
         "topics": [
           "Two Pointers",
@@ -674,10 +595,10 @@
         ]
       },
       {
-        "id": 26,
+        "id": 23,
         "title": "Longest Balanced Substring After One Swap",
         "difficulty": "Medium",
-        "frequency": 64,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/longest-balanced-substring-after-one-swap",
         "topics": [
           "Hash Table",
@@ -686,15 +607,65 @@
         ]
       },
       {
-        "id": 27,
+        "id": 24,
         "title": "Letter Combinations of a Phone Number",
         "difficulty": "Medium",
-        "frequency": 64,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
         "topics": [
           "Hash Table",
           "String",
           "Backtracking"
+        ]
+      },
+      {
+        "id": 25,
+        "title": "Find Minimum Diameter After Merging Two Trees",
+        "difficulty": "Hard",
+        "frequency": 63,
+        "url": "https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory"
+        ]
+      },
+      {
+        "id": 26,
+        "title": "Gas Station",
+        "difficulty": "Medium",
+        "frequency": 63,
+        "url": "https://leetcode.com/problems/gas-station",
+        "topics": [
+          "Array",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 27,
+        "title": "Largest Divisible Subset",
+        "difficulty": "Medium",
+        "frequency": 63,
+        "url": "https://leetcode.com/problems/largest-divisible-subset",
+        "topics": [
+          "Array",
+          "Math",
+          "Dynamic Programming",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 28,
+        "title": "Find K-th Smallest Pair Distance",
+        "difficulty": "Hard",
+        "frequency": 63,
+        "url": "https://leetcode.com/problems/find-k-th-smallest-pair-distance",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Sorting"
         ]
       }
     ]

@@ -2,37 +2,11 @@
   "name": "Hubspot",
   "slug": "Hubspot",
   "dataKey": "hubspot",
-  "updatedAt": "2026-10-18T02:12:32.034Z",
+  "updatedAt": "2026-10-25T02:23:17.312Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [
-      {
-        "id": 1,
-        "title": "Simple Bank System",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/simple-bank-system",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Design",
-          "Simulation"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Find the Celebrity",
-        "difficulty": "Medium",
-        "frequency": 94,
-        "url": "https://leetcode.com/problems/find-the-celebrity",
-        "topics": [
-          "Two Pointers",
-          "Graph Theory",
-          "Interactive"
-        ]
-      }
-    ],
+    "3. Six Months.csv": [],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -50,7 +24,7 @@
         "id": 2,
         "title": "Merge Sorted Array",
         "difficulty": "Easy",
-        "frequency": 86,
+        "frequency": 80,
         "url": "https://leetcode.com/problems/merge-sorted-array",
         "topics": [
           "Array",
@@ -60,32 +34,9 @@
       },
       {
         "id": 3,
-        "title": "Merge Intervals",
-        "difficulty": "Medium",
-        "frequency": 81,
-        "url": "https://leetcode.com/problems/merge-intervals",
-        "topics": [
-          "Array",
-          "Sorting",
-          "Quicksort"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Two Sum",
-        "difficulty": "Easy",
-        "frequency": 77,
-        "url": "https://leetcode.com/problems/two-sum",
-        "topics": [
-          "Array",
-          "Hash Table"
-        ]
-      },
-      {
-        "id": 5,
         "title": "Simple Bank System",
         "difficulty": "Medium",
-        "frequency": 74,
+        "frequency": 80,
         "url": "https://leetcode.com/problems/simple-bank-system",
         "topics": [
           "Array",
@@ -95,10 +46,33 @@
         ]
       },
       {
+        "id": 4,
+        "title": "Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 78,
+        "url": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 73,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
         "id": 6,
         "title": "Maximum Number of Occurrences of a Substring",
         "difficulty": "Medium",
-        "frequency": 71,
+        "frequency": 67,
         "url": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring",
         "topics": [
           "Hash Table",
@@ -110,7 +84,7 @@
         "id": 7,
         "title": "Merge Two Sorted Lists",
         "difficulty": "Easy",
-        "frequency": 68,
+        "frequency": 67,
         "url": "https://leetcode.com/problems/merge-two-sorted-lists",
         "topics": [
           "Linked List",
@@ -121,7 +95,7 @@
         "id": 8,
         "title": "Meeting Rooms II",
         "difficulty": "Medium",
-        "frequency": 64,
+        "frequency": 62,
         "url": "https://leetcode.com/problems/meeting-rooms-ii",
         "topics": [
           "Array",
@@ -151,20 +125,6 @@
         "frequency": 50,
         "url": "https://leetcode.com/problems/memoize",
         "topics": []
-      },
-      {
-        "id": 11,
-        "title": "Merge k Sorted Lists",
-        "difficulty": "Hard",
-        "frequency": 50,
-        "url": "https://leetcode.com/problems/merge-k-sorted-lists",
-        "topics": [
-          "Linked List",
-          "Divide and Conquer",
-          "Heap (Priority Queue)",
-          "Merge Sort",
-          "Tournament Sort"
-        ]
       }
     ],
     "5. All.csv": [
@@ -182,18 +142,6 @@
       },
       {
         "id": 2,
-        "title": "Merge Sorted Array",
-        "difficulty": "Easy",
-        "frequency": 84,
-        "url": "https://leetcode.com/problems/merge-sorted-array",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Simple Bank System",
         "difficulty": "Medium",
         "frequency": 81,
@@ -206,10 +154,22 @@
         ]
       },
       {
+        "id": 3,
+        "title": "Merge Sorted Array",
+        "difficulty": "Easy",
+        "frequency": 80,
+        "url": "https://leetcode.com/problems/merge-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ]
+      },
+      {
         "id": 4,
         "title": "Merge Intervals",
         "difficulty": "Medium",
-        "frequency": 79,
+        "frequency": 78,
         "url": "https://leetcode.com/problems/merge-intervals",
         "topics": [
           "Array",
@@ -221,7 +181,7 @@
         "id": 5,
         "title": "Two Sum",
         "difficulty": "Easy",
-        "frequency": 75,
+        "frequency": 73,
         "url": "https://leetcode.com/problems/two-sum",
         "topics": [
           "Array",
@@ -232,7 +192,7 @@
         "id": 6,
         "title": "Maximum Number of Occurrences of a Substring",
         "difficulty": "Medium",
-        "frequency": 70,
+        "frequency": 67,
         "url": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring",
         "topics": [
           "Hash Table",
@@ -244,7 +204,7 @@
         "id": 7,
         "title": "Merge Two Sorted Lists",
         "difficulty": "Easy",
-        "frequency": 66,
+        "frequency": 67,
         "url": "https://leetcode.com/problems/merge-two-sorted-lists",
         "topics": [
           "Linked List",
@@ -268,23 +228,9 @@
       },
       {
         "id": 9,
-        "title": "Merge k Sorted Lists",
-        "difficulty": "Hard",
-        "frequency": 49,
-        "url": "https://leetcode.com/problems/merge-k-sorted-lists",
-        "topics": [
-          "Linked List",
-          "Divide and Conquer",
-          "Heap (Priority Queue)",
-          "Merge Sort",
-          "Tournament Sort"
-        ]
-      },
-      {
-        "id": 10,
         "title": "Find the K-Sum of an Array",
         "difficulty": "Hard",
-        "frequency": 49,
+        "frequency": 50,
         "url": "https://leetcode.com/problems/find-the-k-sum-of-an-array",
         "topics": [
           "Array",
@@ -293,10 +239,10 @@
         ]
       },
       {
-        "id": 11,
+        "id": 10,
         "title": "Memoize",
         "difficulty": "Medium",
-        "frequency": 49,
+        "frequency": 50,
         "url": "https://leetcode.com/problems/memoize",
         "topics": []
       }

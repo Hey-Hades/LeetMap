@@ -2,7 +2,7 @@
   "name": "DP world",
   "slug": "DP world",
   "dataKey": "dp_world",
-  "updatedAt": "2026-10-18T02:12:31.969Z",
+  "updatedAt": "2026-10-25T02:23:17.265Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -33,17 +33,6 @@
       },
       {
         "id": 3,
-        "title": "Search in Rotated Sorted Array",
-        "difficulty": "Medium",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
-        "topics": [
-          "Array",
-          "Binary Search"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Binary Tree Cameras",
         "difficulty": "Hard",
         "frequency": 88,
@@ -57,7 +46,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Group Anagrams",
         "difficulty": "Medium",
         "frequency": 88,
@@ -70,7 +59,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "title": "Find the Duplicate Number",
         "difficulty": "Medium",
         "frequency": 88,
@@ -85,19 +74,7 @@
         ]
       },
       {
-        "id": 7,
-        "title": "Maximal Square",
-        "difficulty": "Medium",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/maximal-square",
-        "topics": [
-          "Array",
-          "Dynamic Programming",
-          "Matrix"
-        ]
-      },
-      {
-        "id": 8,
+        "id": 6,
         "title": "Longest Substring Without Repeating Characters",
         "difficulty": "Medium",
         "frequency": 88,
@@ -109,7 +86,7 @@
         ]
       },
       {
-        "id": 9,
+        "id": 7,
         "title": "Longest Palindromic Substring",
         "difficulty": "Medium",
         "frequency": 88,
@@ -122,7 +99,7 @@
         ]
       },
       {
-        "id": 10,
+        "id": 8,
         "title": "Rabbits in Forest",
         "difficulty": "Medium",
         "frequency": 88,
@@ -135,7 +112,7 @@
         ]
       },
       {
-        "id": 11,
+        "id": 9,
         "title": "Evaluate Division",
         "difficulty": "Medium",
         "frequency": 88,
@@ -150,6 +127,18 @@
           "Shortest Path",
           "Bellman–Ford Algorithm",
           "Floyd–Warshall Algorithm"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Minimum Window Substring",
+        "difficulty": "Hard",
+        "frequency": 88,
+        "url": "https://leetcode.com/problems/minimum-window-substring",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
         ]
       }
     ],
@@ -179,13 +168,14 @@
       },
       {
         "id": 3,
-        "title": "Search in Rotated Sorted Array",
+        "title": "Longest Substring Without Repeating Characters",
         "difficulty": "Medium",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
         "topics": [
-          "Array",
-          "Binary Search"
+          "Hash Table",
+          "String",
+          "Sliding Window"
         ]
       },
       {
@@ -232,30 +222,6 @@
       },
       {
         "id": 7,
-        "title": "Maximal Square",
-        "difficulty": "Medium",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/maximal-square",
-        "topics": [
-          "Array",
-          "Dynamic Programming",
-          "Matrix"
-        ]
-      },
-      {
-        "id": 8,
-        "title": "Longest Substring Without Repeating Characters",
-        "difficulty": "Medium",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sliding Window"
-        ]
-      },
-      {
-        "id": 9,
         "title": "Longest Palindromic Substring",
         "difficulty": "Medium",
         "frequency": 88,
@@ -268,7 +234,7 @@
         ]
       },
       {
-        "id": 10,
+        "id": 8,
         "title": "Rabbits in Forest",
         "difficulty": "Medium",
         "frequency": 88,
@@ -281,7 +247,7 @@
         ]
       },
       {
-        "id": 11,
+        "id": 9,
         "title": "Evaluate Division",
         "difficulty": "Medium",
         "frequency": 88,
@@ -299,7 +265,7 @@
         ]
       },
       {
-        "id": 12,
+        "id": 10,
         "title": "Minimum Window Substring",
         "difficulty": "Hard",
         "frequency": 88,
@@ -308,6 +274,19 @@
           "Hash Table",
           "String",
           "Sliding Window"
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Wildcard Matching",
+        "difficulty": "Hard",
+        "frequency": 88,
+        "url": "https://leetcode.com/problems/wildcard-matching",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Greedy",
+          "Recursion"
         ]
       }
     ]

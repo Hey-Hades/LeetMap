@@ -2,25 +2,11 @@
   "name": "Karat",
   "slug": "Karat",
   "dataKey": "karat",
-  "updatedAt": "2026-10-18T02:12:32.047Z",
+  "updatedAt": "2026-10-25T02:23:17.325Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [
-      {
-        "id": 1,
-        "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      }
-    ],
+    "3. Six Months.csv": [],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -38,7 +24,7 @@
         "id": 2,
         "title": "Check if Every Row and Column Contains All Numbers",
         "difficulty": "Easy",
-        "frequency": 96,
+        "frequency": 97,
         "url": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
         "topics": [
           "Array",
@@ -50,7 +36,7 @@
         "id": 3,
         "title": "Find Words That Can Be Formed by Characters",
         "difficulty": "Easy",
-        "frequency": 91,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters",
         "topics": [
           "Array",
@@ -61,9 +47,22 @@
       },
       {
         "id": 4,
+        "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+        "difficulty": "Medium",
+        "frequency": 87,
+        "url": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 5,
         "title": "Word Search",
         "difficulty": "Medium",
-        "frequency": 88,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/word-search",
         "topics": [
           "Array",
@@ -74,23 +73,10 @@
         ]
       },
       {
-        "id": 5,
-        "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
-        "difficulty": "Medium",
-        "frequency": 85,
-        "url": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      },
-      {
         "id": 6,
         "title": "Ransom Note",
         "difficulty": "Easy",
-        "frequency": 74,
+        "frequency": 76,
         "url": "https://leetcode.com/problems/ransom-note",
         "topics": [
           "Hash Table",
@@ -100,21 +86,9 @@
       },
       {
         "id": 7,
-        "title": "Valid Sudoku",
-        "difficulty": "Medium",
-        "frequency": 63,
-        "url": "https://leetcode.com/problems/valid-sudoku",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Matrix"
-        ]
-      },
-      {
-        "id": 8,
         "title": "Maximal Square",
         "difficulty": "Medium",
-        "frequency": 58,
+        "frequency": 60,
         "url": "https://leetcode.com/problems/maximal-square",
         "topics": [
           "Array",
@@ -123,15 +97,40 @@
         ]
       },
       {
+        "id": 8,
+        "title": "Valid Sudoku",
+        "difficulty": "Medium",
+        "frequency": 60,
+        "url": "https://leetcode.com/problems/valid-sudoku",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ]
+      },
+      {
         "id": 9,
         "title": "Jump Game",
         "difficulty": "Medium",
-        "frequency": 50,
+        "frequency": 52,
         "url": "https://leetcode.com/problems/jump-game",
         "topics": [
           "Array",
           "Dynamic Programming",
           "Greedy"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "High-Access Employees",
+        "difficulty": "Medium",
+        "frequency": 52,
+        "url": "https://leetcode.com/problems/high-access-employees",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
         ]
       }
     ],
@@ -164,7 +163,7 @@
         "id": 3,
         "title": "Find Words That Can Be Formed by Characters",
         "difficulty": "Easy",
-        "frequency": 91,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters",
         "topics": [
           "Array",
@@ -175,20 +174,6 @@
       },
       {
         "id": 4,
-        "title": "Word Search",
-        "difficulty": "Medium",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/word-search",
-        "topics": [
-          "Array",
-          "String",
-          "Backtracking",
-          "Depth-First Search",
-          "Matrix"
-        ]
-      },
-      {
-        "id": 5,
         "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
         "difficulty": "Medium",
         "frequency": 88,
@@ -201,10 +186,24 @@
         ]
       },
       {
+        "id": 5,
+        "title": "Word Search",
+        "difficulty": "Medium",
+        "frequency": 85,
+        "url": "https://leetcode.com/problems/word-search",
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Depth-First Search",
+          "Matrix"
+        ]
+      },
+      {
         "id": 6,
         "title": "Ransom Note",
         "difficulty": "Easy",
-        "frequency": 74,
+        "frequency": 76,
         "url": "https://leetcode.com/problems/ransom-note",
         "topics": [
           "Hash Table",
@@ -214,21 +213,9 @@
       },
       {
         "id": 7,
-        "title": "Valid Sudoku",
-        "difficulty": "Medium",
-        "frequency": 63,
-        "url": "https://leetcode.com/problems/valid-sudoku",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Matrix"
-        ]
-      },
-      {
-        "id": 8,
         "title": "Maximal Square",
         "difficulty": "Medium",
-        "frequency": 58,
+        "frequency": 65,
         "url": "https://leetcode.com/problems/maximal-square",
         "topics": [
           "Array",
@@ -237,10 +224,22 @@
         ]
       },
       {
+        "id": 8,
+        "title": "Valid Sudoku",
+        "difficulty": "Medium",
+        "frequency": 59,
+        "url": "https://leetcode.com/problems/valid-sudoku",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ]
+      },
+      {
         "id": 9,
         "title": "Jump Game",
         "difficulty": "Medium",
-        "frequency": 50,
+        "frequency": 51,
         "url": "https://leetcode.com/problems/jump-game",
         "topics": [
           "Array",
@@ -252,7 +251,7 @@
         "id": 10,
         "title": "High-Access Employees",
         "difficulty": "Medium",
-        "frequency": 50,
+        "frequency": 51,
         "url": "https://leetcode.com/problems/high-access-employees",
         "topics": [
           "Array",

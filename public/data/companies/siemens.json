@@ -2,11 +2,48 @@
   "name": "Siemens",
   "slug": "Siemens",
   "dataKey": "siemens",
-  "updatedAt": "2026-10-18T02:12:32.143Z",
+  "updatedAt": "2026-10-25T02:23:17.400Z",
   "problems": {
     "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [],
-    "3. Six Months.csv": [],
+    "2. Three Months.csv": [
+      {
+        "id": 1,
+        "title": "Valid Parentheses",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ]
+      }
+    ],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Valid Parentheses",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ]
+      }
+    ],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -26,7 +63,7 @@
         "id": 2,
         "title": "Merge Intervals",
         "difficulty": "Medium",
-        "frequency": 95,
+        "frequency": 90,
         "url": "https://leetcode.com/problems/merge-intervals",
         "topics": [
           "Array",
@@ -48,19 +85,6 @@
       },
       {
         "id": 4,
-        "title": "LRU Cache",
-        "difficulty": "Medium",
-        "frequency": 82,
-        "url": "https://leetcode.com/problems/lru-cache",
-        "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Doubly-Linked List"
-        ]
-      },
-      {
-        "id": 5,
         "title": "The Skyline Problem",
         "difficulty": "Hard",
         "frequency": 82,
@@ -77,22 +101,10 @@
         ]
       },
       {
-        "id": 6,
-        "title": "Valid Anagram",
-        "difficulty": "Easy",
-        "frequency": 71,
-        "url": "https://leetcode.com/problems/valid-anagram",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 7,
+        "id": 5,
         "title": "Remove Duplicates from Sorted Array",
         "difficulty": "Easy",
-        "frequency": 71,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
         "topics": [
           "Array",
@@ -100,10 +112,23 @@
         ]
       },
       {
-        "id": 8,
+        "id": 6,
+        "title": "LRU Cache",
+        "difficulty": "Medium",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ]
+      },
+      {
+        "id": 7,
         "title": "Group Anagrams",
         "difficulty": "Medium",
-        "frequency": 71,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/group-anagrams",
         "topics": [
           "Array",
@@ -113,10 +138,10 @@
         ]
       },
       {
-        "id": 9,
+        "id": 8,
         "title": "Minimum Add to Make Parentheses Valid",
         "difficulty": "Medium",
-        "frequency": 71,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid",
         "topics": [
           "String",
@@ -126,10 +151,10 @@
         ]
       },
       {
-        "id": 10,
+        "id": 9,
         "title": "Maximum Product Subarray",
         "difficulty": "Medium",
-        "frequency": 71,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/maximum-product-subarray",
         "topics": [
           "Array",
@@ -137,20 +162,20 @@
         ]
       },
       {
-        "id": 11,
+        "id": 10,
         "title": "Angle Between Hands of a Clock",
         "difficulty": "Medium",
-        "frequency": 71,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/angle-between-hands-of-a-clock",
         "topics": [
           "Math"
         ]
       },
       {
-        "id": 12,
+        "id": 11,
         "title": "Single Number III",
         "difficulty": "Medium",
-        "frequency": 71,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/single-number-iii",
         "topics": [
           "Array",
@@ -158,10 +183,10 @@
         ]
       },
       {
-        "id": 13,
+        "id": 12,
         "title": "Top K Frequent Elements",
         "difficulty": "Medium",
-        "frequency": 71,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/top-k-frequent-elements",
         "topics": [
           "Array",
@@ -175,10 +200,10 @@
         ]
       },
       {
-        "id": 14,
+        "id": 13,
         "title": "Rotate Array",
         "difficulty": "Medium",
-        "frequency": 71,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/rotate-array",
         "topics": [
           "Array",
@@ -187,14 +212,39 @@
         ]
       },
       {
-        "id": 15,
+        "id": 14,
         "title": "Merge Two Sorted Lists",
         "difficulty": "Easy",
-        "frequency": 71,
+        "frequency": 72,
         "url": "https://leetcode.com/problems/merge-two-sorted-lists",
         "topics": [
           "Linked List",
           "Recursion"
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Clone Graph",
+        "difficulty": "Medium",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/clone-graph",
+        "topics": [
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory"
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Strong Password Checker",
+        "difficulty": "Hard",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/strong-password-checker",
+        "topics": [
+          "String",
+          "Greedy",
+          "Heap (Priority Queue)"
         ]
       }
     ],
@@ -239,26 +289,26 @@
       },
       {
         "id": 4,
-        "title": "Merge Intervals",
-        "difficulty": "Medium",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/merge-intervals",
-        "topics": [
-          "Array",
-          "Sorting",
-          "Quicksort"
-        ]
-      },
-      {
-        "id": 5,
         "title": "Valid Parentheses",
         "difficulty": "Easy",
-        "frequency": 83,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/valid-parentheses",
         "topics": [
           "String",
           "Stack",
           "Bracket Sequences"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 83,
+        "url": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
         ]
       },
       {
@@ -280,15 +330,13 @@
       },
       {
         "id": 7,
-        "title": "LRU Cache",
-        "difficulty": "Medium",
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "Easy",
         "frequency": 75,
-        "url": "https://leetcode.com/problems/lru-cache",
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
         "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Doubly-Linked List"
+          "Array",
+          "Dynamic Programming"
         ]
       },
       {
@@ -304,18 +352,6 @@
       },
       {
         "id": 9,
-        "title": "Valid Anagram",
-        "difficulty": "Easy",
-        "frequency": 65,
-        "url": "https://leetcode.com/problems/valid-anagram",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 10,
         "title": "Angle Between Hands of a Clock",
         "difficulty": "Medium",
         "frequency": 65,
@@ -325,7 +361,7 @@
         ]
       },
       {
-        "id": 11,
+        "id": 10,
         "title": "Remove Duplicates from Sorted Array",
         "difficulty": "Easy",
         "frequency": 65,
@@ -336,7 +372,7 @@
         ]
       },
       {
-        "id": 12,
+        "id": 11,
         "title": "Group Anagrams",
         "difficulty": "Medium",
         "frequency": 65,
@@ -349,7 +385,7 @@
         ]
       },
       {
-        "id": 13,
+        "id": 12,
         "title": "Minimum Add to Make Parentheses Valid",
         "difficulty": "Medium",
         "frequency": 65,
@@ -359,6 +395,19 @@
           "Stack",
           "Greedy",
           "Bracket Sequences"
+        ]
+      },
+      {
+        "id": 13,
+        "title": "LRU Cache",
+        "difficulty": "Medium",
+        "frequency": 65,
+        "url": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
         ]
       },
       {
@@ -439,17 +488,6 @@
       },
       {
         "id": 20,
-        "title": "Best Time to Buy and Sell Stock",
-        "difficulty": "Easy",
-        "frequency": 65,
-        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
-        "topics": [
-          "Array",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 21,
         "title": "Reverse String",
         "difficulty": "Easy",
         "frequency": 65,
@@ -457,6 +495,27 @@
         "topics": [
           "Two Pointers",
           "String"
+        ]
+      },
+      {
+        "id": 21,
+        "title": "Zigzag Conversion",
+        "difficulty": "Medium",
+        "frequency": 65,
+        "url": "https://leetcode.com/problems/zigzag-conversion",
+        "topics": [
+          "String"
+        ]
+      },
+      {
+        "id": 22,
+        "title": "Find Peak Element",
+        "difficulty": "Medium",
+        "frequency": 65,
+        "url": "https://leetcode.com/problems/find-peak-element",
+        "topics": [
+          "Array",
+          "Binary Search"
         ]
       }
     ]

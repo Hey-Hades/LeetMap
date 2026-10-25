@@ -2,34 +2,9 @@
   "name": "Mastercard",
   "slug": "Mastercard",
   "dataKey": "mastercard",
-  "updatedAt": "2026-10-18T02:12:32.056Z",
+  "updatedAt": "2026-10-25T02:23:17.331Z",
   "problems": {
-    "1. Thirty Days.csv": [
-      {
-        "id": 1,
-        "title": "Strange Printer",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/strange-printer",
-        "topics": [
-          "String",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Coin Change II",
-        "difficulty": "Medium",
-        "frequency": 81,
-        "url": "https://leetcode.com/problems/coin-change-ii",
-        "topics": [
-          "Array",
-          "Dynamic Programming",
-          "Knapsack Problem",
-          "Complete Knapsack"
-        ]
-      }
-    ],
+    "1. Thirty Days.csv": [],
     "2. Three Months.csv": [
       {
         "id": 1,
@@ -44,6 +19,20 @@
       },
       {
         "id": 2,
+        "title": "Contain Virus",
+        "difficulty": "Hard",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/contain-virus",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 3,
         "title": "Coin Change II",
         "difficulty": "Medium",
         "frequency": 80,
@@ -70,26 +59,29 @@
       },
       {
         "id": 2,
+        "title": "Contain Virus",
+        "difficulty": "Hard",
+        "frequency": 88,
+        "url": "https://leetcode.com/problems/contain-virus",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 3,
         "title": "Coin Change II",
         "difficulty": "Medium",
-        "frequency": 88,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/coin-change-ii",
         "topics": [
           "Array",
           "Dynamic Programming",
           "Knapsack Problem",
           "Complete Knapsack"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Best Time to Buy and Sell Stock",
-        "difficulty": "Easy",
-        "frequency": 79,
-        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
-        "topics": [
-          "Array",
-          "Dynamic Programming"
         ]
       }
     ],
@@ -107,6 +99,17 @@
       },
       {
         "id": 2,
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "Easy",
+        "frequency": 94,
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 3,
         "title": "N-Queens",
         "difficulty": "Hard",
         "frequency": 94,
@@ -118,7 +121,7 @@
         ]
       },
       {
-        "id": 3,
+        "id": 4,
         "title": "Valid Parentheses",
         "difficulty": "Easy",
         "frequency": 87,
@@ -130,7 +133,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 5,
         "title": "Coin Change",
         "difficulty": "Medium",
         "frequency": 87,
@@ -144,7 +147,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 6,
         "title": "Fizz Buzz",
         "difficulty": "Easy",
         "frequency": 87,
@@ -156,30 +159,7 @@
         ]
       },
       {
-        "id": 6,
-        "title": "Valid Anagram",
-        "difficulty": "Easy",
-        "frequency": 76,
-        "url": "https://leetcode.com/problems/valid-anagram",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      },
-      {
         "id": 7,
-        "title": "Best Time to Buy and Sell Stock",
-        "difficulty": "Easy",
-        "frequency": 76,
-        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
-        "topics": [
-          "Array",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 8,
         "title": "Gas Station",
         "difficulty": "Medium",
         "frequency": 76,
@@ -190,7 +170,7 @@
         ]
       },
       {
-        "id": 9,
+        "id": 8,
         "title": "Word Search",
         "difficulty": "Medium",
         "frequency": 76,
@@ -201,6 +181,19 @@
           "Backtracking",
           "Depth-First Search",
           "Matrix"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Coin Change II",
+        "difficulty": "Medium",
+        "frequency": 76,
+        "url": "https://leetcode.com/problems/coin-change-ii",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Knapsack Problem",
+          "Complete Knapsack"
         ]
       }
     ],
@@ -303,14 +296,16 @@
       },
       {
         "id": 9,
-        "title": "Valid Anagram",
-        "difficulty": "Easy",
-        "frequency": 75,
-        "url": "https://leetcode.com/problems/valid-anagram",
+        "title": "Contain Virus",
+        "difficulty": "Hard",
+        "frequency": 86,
+        "url": "https://leetcode.com/problems/contain-virus",
         "topics": [
-          "Hash Table",
-          "String",
-          "Sorting"
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix",
+          "Simulation"
         ]
       },
       {
@@ -348,6 +343,30 @@
           "Array",
           "Math",
           "Matrix"
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Maximum Subarray",
+        "difficulty": "Medium",
+        "frequency": 75,
+        "url": "https://leetcode.com/problems/maximum-subarray",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Jump Game",
+        "difficulty": "Medium",
+        "frequency": 75,
+        "url": "https://leetcode.com/problems/jump-game",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
         ]
       }
     ]

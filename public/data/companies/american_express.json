@@ -2,33 +2,9 @@
   "name": "American Express",
   "slug": "American Express",
   "dataKey": "american_express",
-  "updatedAt": "2026-10-18T02:12:31.898Z",
+  "updatedAt": "2026-10-25T02:23:17.212Z",
   "problems": {
-    "1. Thirty Days.csv": [
-      {
-        "id": 1,
-        "title": "Minimum Moves to Spread Stones Over Grid",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid",
-        "topics": [
-          "Array",
-          "Dynamic Programming",
-          "Backtracking",
-          "Bit Manipulation",
-          "Matrix",
-          "Bitmask"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Maximum Area of Two Non-Overlapping Square Submatrices",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/maximum-area-of-two-non-overlapping-square-submatrices",
-        "topics": []
-      }
-    ],
+    "1. Thirty Days.csv": [],
     "2. Three Months.csv": [
       {
         "id": 1,
@@ -49,26 +25,36 @@
         "id": 2,
         "title": "Maximum Area of Two Non-Overlapping Square Submatrices",
         "difficulty": "Medium",
-        "frequency": 100,
+        "frequency": 90,
         "url": "https://leetcode.com/problems/maximum-area-of-two-non-overlapping-square-submatrices",
-        "topics": []
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Top K Frequent Elements",
+        "difficulty": "Medium",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/top-k-frequent-elements",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ]
       }
     ],
     "3. Six Months.csv": [
       {
         "id": 1,
-        "title": "Merge Intervals",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/merge-intervals",
-        "topics": [
-          "Array",
-          "Sorting",
-          "Quicksort"
-        ]
-      },
-      {
-        "id": 2,
         "title": "Minimum Moves to Spread Stones Over Grid",
         "difficulty": "Medium",
         "frequency": 100,
@@ -83,12 +69,46 @@
         ]
       },
       {
+        "id": 2,
+        "title": "Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ]
+      },
+      {
         "id": 3,
         "title": "Maximum Area of Two Non-Overlapping Square Submatrices",
         "difficulty": "Medium",
-        "frequency": 100,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/maximum-area-of-two-non-overlapping-square-submatrices",
-        "topics": []
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Top K Frequent Elements",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/top-k-frequent-elements",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ]
       }
     ],
     "4. More Than Six Months.csv": [
@@ -107,7 +127,7 @@
         "id": 2,
         "title": "Valid Anagram",
         "difficulty": "Easy",
-        "frequency": 91,
+        "frequency": 93,
         "url": "https://leetcode.com/problems/valid-anagram",
         "topics": [
           "Hash Table",
@@ -117,9 +137,22 @@
       },
       {
         "id": 3,
+        "title": "Maximum Area of Two Non-Overlapping Square Submatrices",
+        "difficulty": "Medium",
+        "frequency": 88,
+        "url": "https://leetcode.com/problems/maximum-area-of-two-non-overlapping-square-submatrices",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 4,
         "title": "Longest Substring Without Repeating Characters",
         "difficulty": "Medium",
-        "frequency": 85,
+        "frequency": 83,
         "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
         "topics": [
           "Hash Table",
@@ -128,10 +161,10 @@
         ]
       },
       {
-        "id": 4,
+        "id": 5,
         "title": "Best Time to Buy and Sell Stock",
         "difficulty": "Easy",
-        "frequency": 85,
+        "frequency": 83,
         "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
         "topics": [
           "Array",
@@ -139,18 +172,10 @@
         ]
       },
       {
-        "id": 5,
-        "title": "Maximum Area of Two Non-Overlapping Square Submatrices",
-        "difficulty": "Medium",
-        "frequency": 85,
-        "url": "https://leetcode.com/problems/maximum-area-of-two-non-overlapping-square-submatrices",
-        "topics": []
-      },
-      {
         "id": 6,
         "title": "Find N Unique Integers Sum up to Zero",
         "difficulty": "Easy",
-        "frequency": 78,
+        "frequency": 75,
         "url": "https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero",
         "topics": [
           "Array",
@@ -159,21 +184,9 @@
       },
       {
         "id": 7,
-        "title": "3Sum",
-        "difficulty": "Medium",
-        "frequency": 67,
-        "url": "https://leetcode.com/problems/3sum",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 8,
         "title": "Rotate Array",
         "difficulty": "Medium",
-        "frequency": 67,
+        "frequency": 65,
         "url": "https://leetcode.com/problems/rotate-array",
         "topics": [
           "Array",
@@ -182,10 +195,10 @@
         ]
       },
       {
-        "id": 9,
+        "id": 8,
         "title": "Permutations",
         "difficulty": "Medium",
-        "frequency": 67,
+        "frequency": 65,
         "url": "https://leetcode.com/problems/permutations",
         "topics": [
           "Array",
@@ -193,10 +206,10 @@
         ]
       },
       {
-        "id": 10,
+        "id": 9,
         "title": "Isomorphic Strings",
         "difficulty": "Easy",
-        "frequency": 67,
+        "frequency": 65,
         "url": "https://leetcode.com/problems/isomorphic-strings",
         "topics": [
           "Hash Table",
@@ -204,10 +217,10 @@
         ]
       },
       {
-        "id": 11,
+        "id": 10,
         "title": "Linked List Cycle II",
         "difficulty": "Medium",
-        "frequency": 67,
+        "frequency": 65,
         "url": "https://leetcode.com/problems/linked-list-cycle-ii",
         "topics": [
           "Hash Table",
@@ -217,10 +230,10 @@
         ]
       },
       {
-        "id": 12,
+        "id": 11,
         "title": "Longest Common Prefix",
         "difficulty": "Easy",
-        "frequency": 67,
+        "frequency": 65,
         "url": "https://leetcode.com/problems/longest-common-prefix",
         "topics": [
           "Array",
@@ -229,10 +242,10 @@
         ]
       },
       {
-        "id": 13,
+        "id": 12,
         "title": "Merge k Sorted Lists",
         "difficulty": "Hard",
-        "frequency": 67,
+        "frequency": 65,
         "url": "https://leetcode.com/problems/merge-k-sorted-lists",
         "topics": [
           "Linked List",
@@ -241,27 +254,40 @@
           "Merge Sort",
           "Tournament Sort"
         ]
+      },
+      {
+        "id": 13,
+        "title": "Minimum Deletions to Make Character Frequencies Unique",
+        "difficulty": "Medium",
+        "frequency": 65,
+        "url": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Greedy",
+          "Sorting"
+        ]
       }
     ],
     "5. All.csv": [
       {
         "id": 1,
-        "title": "Divide an Array Into Subarrays With Minimum Cost II",
-        "difficulty": "Hard",
+        "title": "Maximum Area of Two Non-Overlapping Square Submatrices",
+        "difficulty": "Medium",
         "frequency": 100,
-        "url": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii",
+        "url": "https://leetcode.com/problems/maximum-area-of-two-non-overlapping-square-submatrices",
         "topics": [
           "Array",
-          "Hash Table",
-          "Sliding Window",
-          "Heap (Priority Queue)"
+          "Binary Search",
+          "Dynamic Programming",
+          "Matrix"
         ]
       },
       {
         "id": 2,
         "title": "Minimum Deletions to Make Character Frequencies Unique",
         "difficulty": "Medium",
-        "frequency": 100,
+        "frequency": 91,
         "url": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique",
         "topics": [
           "Hash Table",
@@ -272,9 +298,22 @@
       },
       {
         "id": 3,
+        "title": "Divide an Array Into Subarrays With Minimum Cost II",
+        "difficulty": "Hard",
+        "frequency": 88,
+        "url": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Heap (Priority Queue)"
+        ]
+      },
+      {
+        "id": 4,
         "title": "Ugly Number III",
         "difficulty": "Medium",
-        "frequency": 100,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/ugly-number-iii",
         "topics": [
           "Math",
@@ -288,10 +327,10 @@
         ]
       },
       {
-        "id": 4,
+        "id": 5,
         "title": "Maximum Equal Frequency",
         "difficulty": "Hard",
-        "frequency": 100,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/maximum-equal-frequency",
         "topics": [
           "Array",
@@ -299,10 +338,10 @@
         ]
       },
       {
-        "id": 5,
+        "id": 6,
         "title": "Two Sum",
         "difficulty": "Easy",
-        "frequency": 97,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/two-sum",
         "topics": [
           "Array",
@@ -310,10 +349,10 @@
         ]
       },
       {
-        "id": 6,
+        "id": 7,
         "title": "Find a Value of a Mysterious Function Closest to Target",
         "difficulty": "Hard",
-        "frequency": 97,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target",
         "topics": [
           "Array",
@@ -324,10 +363,10 @@
         ]
       },
       {
-        "id": 7,
+        "id": 8,
         "title": "Divide an Array Into Subarrays With Minimum Cost I",
         "difficulty": "Easy",
-        "frequency": 97,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i",
         "topics": [
           "Array",
@@ -336,20 +375,20 @@
         ]
       },
       {
-        "id": 8,
+        "id": 9,
         "title": "Percentage of Letter in String",
         "difficulty": "Easy",
-        "frequency": 97,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/percentage-of-letter-in-string",
         "topics": [
           "String"
         ]
       },
       {
-        "id": 9,
+        "id": 10,
         "title": "Maximize the Topmost Element After K Moves",
         "difficulty": "Medium",
-        "frequency": 97,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves",
         "topics": [
           "Array",
@@ -357,10 +396,10 @@
         ]
       },
       {
-        "id": 10,
+        "id": 11,
         "title": "Maximum XOR After Operations ",
         "difficulty": "Medium",
-        "frequency": 97,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/maximum-xor-after-operations",
         "topics": [
           "Array",
@@ -369,10 +408,10 @@
         ]
       },
       {
-        "id": 11,
+        "id": 12,
         "title": "Equal Sum Arrays With Minimum Number of Operations",
         "difficulty": "Medium",
-        "frequency": 97,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations",
         "topics": [
           "Array",
@@ -382,18 +421,10 @@
         ]
       },
       {
-        "id": 12,
-        "title": "Maximum Area of Two Non-Overlapping Square Submatrices",
-        "difficulty": "Medium",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/maximum-area-of-two-non-overlapping-square-submatrices",
-        "topics": []
-      },
-      {
         "id": 13,
         "title": "Valid Anagram",
         "difficulty": "Easy",
-        "frequency": 84,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/valid-anagram",
         "topics": [
           "Hash Table",
@@ -405,7 +436,7 @@
         "id": 14,
         "title": "Best Time to Buy and Sell Stock",
         "difficulty": "Easy",
-        "frequency": 84,
+        "frequency": 74,
         "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
         "topics": [
           "Array",
@@ -416,7 +447,7 @@
         "id": 15,
         "title": "Longest Substring Without Repeating Characters",
         "difficulty": "Medium",
-        "frequency": 79,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
         "topics": [
           "Hash Table",
@@ -426,20 +457,9 @@
       },
       {
         "id": 16,
-        "title": "Find N Unique Integers Sum up to Zero",
-        "difficulty": "Easy",
-        "frequency": 71,
-        "url": "https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero",
-        "topics": [
-          "Array",
-          "Math"
-        ]
-      },
-      {
-        "id": 17,
         "title": "Minimum Moves to Spread Stones Over Grid",
         "difficulty": "Medium",
-        "frequency": 71,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid",
         "topics": [
           "Array",
@@ -451,22 +471,33 @@
         ]
       },
       {
-        "id": 18,
-        "title": "3Sum",
-        "difficulty": "Medium",
-        "frequency": 60,
-        "url": "https://leetcode.com/problems/3sum",
+        "id": 17,
+        "title": "Longest Common Prefix",
+        "difficulty": "Easy",
+        "frequency": 62,
+        "url": "https://leetcode.com/problems/longest-common-prefix",
         "topics": [
           "Array",
-          "Two Pointers",
-          "Sorting"
+          "String",
+          "Trie"
+        ]
+      },
+      {
+        "id": 18,
+        "title": "Find N Unique Integers Sum up to Zero",
+        "difficulty": "Easy",
+        "frequency": 62,
+        "url": "https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero",
+        "topics": [
+          "Array",
+          "Math"
         ]
       },
       {
         "id": 19,
         "title": "Rotate Array",
         "difficulty": "Medium",
-        "frequency": 60,
+        "frequency": 53,
         "url": "https://leetcode.com/problems/rotate-array",
         "topics": [
           "Array",
@@ -478,7 +509,7 @@
         "id": 20,
         "title": "Permutations",
         "difficulty": "Medium",
-        "frequency": 60,
+        "frequency": 53,
         "url": "https://leetcode.com/problems/permutations",
         "topics": [
           "Array",
@@ -489,7 +520,7 @@
         "id": 21,
         "title": "Isomorphic Strings",
         "difficulty": "Easy",
-        "frequency": 60,
+        "frequency": 53,
         "url": "https://leetcode.com/problems/isomorphic-strings",
         "topics": [
           "Hash Table",
@@ -498,21 +529,9 @@
       },
       {
         "id": 22,
-        "title": "Longest Common Prefix",
-        "difficulty": "Easy",
-        "frequency": 60,
-        "url": "https://leetcode.com/problems/longest-common-prefix",
-        "topics": [
-          "Array",
-          "String",
-          "Trie"
-        ]
-      },
-      {
-        "id": 23,
         "title": "Linked List Cycle II",
         "difficulty": "Medium",
-        "frequency": 60,
+        "frequency": 53,
         "url": "https://leetcode.com/problems/linked-list-cycle-ii",
         "topics": [
           "Hash Table",
@@ -522,10 +541,10 @@
         ]
       },
       {
-        "id": 24,
+        "id": 23,
         "title": "Check If It Is a Good Array",
         "difficulty": "Hard",
-        "frequency": 60,
+        "frequency": 53,
         "url": "https://leetcode.com/problems/check-if-it-is-a-good-array",
         "topics": [
           "Array",
@@ -538,10 +557,10 @@
         ]
       },
       {
-        "id": 25,
+        "id": 24,
         "title": "Sliding Window Maximum",
         "difficulty": "Hard",
-        "frequency": 60,
+        "frequency": 53,
         "url": "https://leetcode.com/problems/sliding-window-maximum",
         "topics": [
           "Array",
@@ -553,10 +572,10 @@
         ]
       },
       {
-        "id": 26,
+        "id": 25,
         "title": "Merge Intervals",
         "difficulty": "Medium",
-        "frequency": 60,
+        "frequency": 53,
         "url": "https://leetcode.com/problems/merge-intervals",
         "topics": [
           "Array",
@@ -565,10 +584,10 @@
         ]
       },
       {
-        "id": 27,
+        "id": 26,
         "title": "Merge k Sorted Lists",
         "difficulty": "Hard",
-        "frequency": 60,
+        "frequency": 53,
         "url": "https://leetcode.com/problems/merge-k-sorted-lists",
         "topics": [
           "Linked List",
@@ -576,6 +595,35 @@
           "Heap (Priority Queue)",
           "Merge Sort",
           "Tournament Sort"
+        ]
+      },
+      {
+        "id": 27,
+        "title": "Top K Frequent Elements",
+        "difficulty": "Medium",
+        "frequency": 53,
+        "url": "https://leetcode.com/problems/top-k-frequent-elements",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ]
+      },
+      {
+        "id": 28,
+        "title": "Count Square Submatrices with All Ones",
+        "difficulty": "Medium",
+        "frequency": 53,
+        "url": "https://leetcode.com/problems/count-square-submatrices-with-all-ones",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
         ]
       }
     ]

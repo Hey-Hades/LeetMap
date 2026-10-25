@@ -2,30 +2,41 @@
   "name": "Jane Street",
   "slug": "Jane Street",
   "dataKey": "jane_street",
-  "updatedAt": "2026-10-18T02:12:32.045Z",
+  "updatedAt": "2026-10-25T02:23:17.323Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [
-      {
-        "id": 1,
-        "title": "Add Two Numbers",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/add-two-numbers",
-        "topics": [
-          "Linked List",
-          "Math",
-          "Recursion"
-        ]
-      }
-    ],
+    "3. Six Months.csv": [],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
+        "title": "Teemo Attacking",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/teemo-attacking",
+        "topics": [
+          "Array",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Count Common Words With One Occurrence",
+        "difficulty": "Easy",
+        "frequency": 92,
+        "url": "https://leetcode.com/problems/count-common-words-with-one-occurrence",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Counting"
+        ]
+      },
+      {
+        "id": 3,
         "title": "Design a Text Editor",
         "difficulty": "Hard",
-        "frequency": 100,
+        "frequency": 92,
         "url": "https://leetcode.com/problems/design-a-text-editor",
         "topics": [
           "Linked List",
@@ -37,7 +48,7 @@
         ]
       },
       {
-        "id": 2,
+        "id": 4,
         "title": "LRU Cache",
         "difficulty": "Medium",
         "frequency": 92,
@@ -50,18 +61,19 @@
         ]
       },
       {
-        "id": 3,
-        "title": "Teemo Attacking",
-        "difficulty": "Easy",
+        "id": 5,
+        "title": "Number of Orders in the Backlog",
+        "difficulty": "Medium",
         "frequency": 92,
-        "url": "https://leetcode.com/problems/teemo-attacking",
+        "url": "https://leetcode.com/problems/number-of-orders-in-the-backlog",
         "topics": [
           "Array",
+          "Heap (Priority Queue)",
           "Simulation"
         ]
       },
       {
-        "id": 4,
+        "id": 6,
         "title": "Stream of Characters",
         "difficulty": "Hard",
         "frequency": 80,
@@ -73,31 +85,6 @@
           "Trie",
           "Data Stream",
           "Aho–Corasick Algorithm"
-        ]
-      },
-      {
-        "id": 5,
-        "title": "Count Common Words With One Occurrence",
-        "difficulty": "Easy",
-        "frequency": 80,
-        "url": "https://leetcode.com/problems/count-common-words-with-one-occurrence",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Counting"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Walking Robot Simulation",
-        "difficulty": "Medium",
-        "frequency": 80,
-        "url": "https://leetcode.com/problems/walking-robot-simulation",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Simulation"
         ]
       },
       {
@@ -159,14 +146,14 @@
       },
       {
         "id": 12,
-        "title": "Number of Orders in the Backlog",
+        "title": "Add Two Numbers",
         "difficulty": "Medium",
         "frequency": 80,
-        "url": "https://leetcode.com/problems/number-of-orders-in-the-backlog",
+        "url": "https://leetcode.com/problems/add-two-numbers",
         "topics": [
-          "Array",
-          "Heap (Priority Queue)",
-          "Simulation"
+          "Linked List",
+          "Math",
+          "Recursion"
         ]
       }
     ],
@@ -186,21 +173,9 @@
       },
       {
         "id": 2,
-        "title": "Walking Robot Simulation",
-        "difficulty": "Medium",
-        "frequency": 98,
-        "url": "https://leetcode.com/problems/walking-robot-simulation",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Simulation"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Minimum Time to Make Array Sum At Most x",
         "difficulty": "Hard",
-        "frequency": 95,
+        "frequency": 93,
         "url": "https://leetcode.com/problems/minimum-time-to-make-array-sum-at-most-x",
         "topics": [
           "Array",
@@ -209,10 +184,22 @@
         ]
       },
       {
+        "id": 3,
+        "title": "Walking Robot Simulation",
+        "difficulty": "Medium",
+        "frequency": 93,
+        "url": "https://leetcode.com/problems/walking-robot-simulation",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Simulation"
+        ]
+      },
+      {
         "id": 4,
         "title": "Design a Text Editor",
         "difficulty": "Hard",
-        "frequency": 82,
+        "frequency": 75,
         "url": "https://leetcode.com/problems/design-a-text-editor",
         "topics": [
           "Linked List",
@@ -225,9 +212,20 @@
       },
       {
         "id": 5,
+        "title": "Teemo Attacking",
+        "difficulty": "Easy",
+        "frequency": 75,
+        "url": "https://leetcode.com/problems/teemo-attacking",
+        "topics": [
+          "Array",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 6,
         "title": "LRU Cache",
         "difficulty": "Medium",
-        "frequency": 76,
+        "frequency": 75,
         "url": "https://leetcode.com/problems/lru-cache",
         "topics": [
           "Hash Table",
@@ -237,21 +235,57 @@
         ]
       },
       {
-        "id": 6,
-        "title": "Teemo Attacking",
+        "id": 7,
+        "title": "Add Strings",
         "difficulty": "Easy",
-        "frequency": 70,
-        "url": "https://leetcode.com/problems/teemo-attacking",
+        "frequency": 68,
+        "url": "https://leetcode.com/problems/add-strings",
         "topics": [
-          "Array",
+          "Math",
+          "String",
           "Simulation"
         ]
       },
       {
-        "id": 7,
+        "id": 8,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 68,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Number of Orders in the Backlog",
+        "difficulty": "Medium",
+        "frequency": 68,
+        "url": "https://leetcode.com/problems/number-of-orders-in-the-backlog",
+        "topics": [
+          "Array",
+          "Heap (Priority Queue)",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Add Two Numbers",
+        "difficulty": "Medium",
+        "frequency": 68,
+        "url": "https://leetcode.com/problems/add-two-numbers",
+        "topics": [
+          "Linked List",
+          "Math",
+          "Recursion"
+        ]
+      },
+      {
+        "id": 11,
         "title": "Longest Common Prefix",
         "difficulty": "Easy",
-        "frequency": 60,
+        "frequency": 59,
         "url": "https://leetcode.com/problems/longest-common-prefix",
         "topics": [
           "Array",
@@ -260,10 +294,10 @@
         ]
       },
       {
-        "id": 8,
+        "id": 12,
         "title": "Stream of Characters",
         "difficulty": "Hard",
-        "frequency": 60,
+        "frequency": 59,
         "url": "https://leetcode.com/problems/stream-of-characters",
         "topics": [
           "Array",
@@ -275,72 +309,25 @@
         ]
       },
       {
-        "id": 9,
+        "id": 13,
         "title": "Add Two Integers",
         "difficulty": "Easy",
-        "frequency": 60,
+        "frequency": 59,
         "url": "https://leetcode.com/problems/add-two-integers",
         "topics": [
           "Math"
         ]
       },
       {
-        "id": 10,
-        "title": "Add Strings",
-        "difficulty": "Easy",
-        "frequency": 60,
-        "url": "https://leetcode.com/problems/add-strings",
-        "topics": [
-          "Math",
-          "String",
-          "Simulation"
-        ]
-      },
-      {
-        "id": 11,
+        "id": 14,
         "title": "Valid Parentheses",
         "difficulty": "Easy",
-        "frequency": 60,
+        "frequency": 59,
         "url": "https://leetcode.com/problems/valid-parentheses",
         "topics": [
           "String",
           "Stack",
           "Bracket Sequences"
-        ]
-      },
-      {
-        "id": 12,
-        "title": "Two Sum",
-        "difficulty": "Easy",
-        "frequency": 60,
-        "url": "https://leetcode.com/problems/two-sum",
-        "topics": [
-          "Array",
-          "Hash Table"
-        ]
-      },
-      {
-        "id": 13,
-        "title": "Number of Orders in the Backlog",
-        "difficulty": "Medium",
-        "frequency": 60,
-        "url": "https://leetcode.com/problems/number-of-orders-in-the-backlog",
-        "topics": [
-          "Array",
-          "Heap (Priority Queue)",
-          "Simulation"
-        ]
-      },
-      {
-        "id": 14,
-        "title": "Add Two Numbers",
-        "difficulty": "Medium",
-        "frequency": 60,
-        "url": "https://leetcode.com/problems/add-two-numbers",
-        "topics": [
-          "Linked List",
-          "Math",
-          "Recursion"
         ]
       }
     ]

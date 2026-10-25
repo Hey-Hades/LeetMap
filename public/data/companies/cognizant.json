@@ -2,60 +2,35 @@
   "name": "Cognizant",
   "slug": "Cognizant",
   "dataKey": "cognizant",
-  "updatedAt": "2026-10-18T02:12:31.960Z",
+  "updatedAt": "2026-10-25T02:23:17.253Z",
   "problems": {
-    "1. Thirty Days.csv": [],
+    "1. Thirty Days.csv": [
+      {
+        "id": 1,
+        "title": "Consecutive Numbers Sum",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/consecutive-numbers-sum",
+        "topics": [
+          "Math",
+          "Enumeration"
+        ]
+      }
+    ],
     "2. Three Months.csv": [
       {
         "id": 1,
-        "title": "Longest Substring Without Repeating Characters",
-        "difficulty": "Medium",
+        "title": "Consecutive Numbers Sum",
+        "difficulty": "Hard",
         "frequency": 100,
-        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "url": "https://leetcode.com/problems/consecutive-numbers-sum",
         "topics": [
-          "Hash Table",
-          "String",
-          "Sliding Window"
+          "Math",
+          "Enumeration"
         ]
       },
       {
         "id": 2,
-        "title": "Two Sum",
-        "difficulty": "Easy",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/two-sum",
-        "topics": [
-          "Array",
-          "Hash Table"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Find the Index of the First Occurrence in a String",
-        "difficulty": "Easy",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
-        "topics": [
-          "Two Pointers",
-          "String",
-          "String Matching",
-          "Z Algorithm",
-          "Knuth–Morris–Pratt Algorithm",
-          "Boyer–Moore String-Search Algorithm"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Rank Scores",
-        "difficulty": "Medium",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/rank-scores",
-        "topics": [
-          "Database"
-        ]
-      },
-      {
-        "id": 5,
         "title": "Move Zeroes",
         "difficulty": "Easy",
         "frequency": 89,
@@ -81,30 +56,9 @@
       },
       {
         "id": 2,
-        "title": "Move Zeroes",
-        "difficulty": "Easy",
-        "frequency": 87,
-        "url": "https://leetcode.com/problems/move-zeroes",
-        "topics": [
-          "Array",
-          "Two Pointers"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Palindrome Number",
-        "difficulty": "Easy",
-        "frequency": 76,
-        "url": "https://leetcode.com/problems/palindrome-number",
-        "topics": [
-          "Math"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Two Sum",
         "difficulty": "Easy",
-        "frequency": 76,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/two-sum",
         "topics": [
           "Array",
@@ -112,31 +66,21 @@
         ]
       },
       {
-        "id": 5,
-        "title": "Valid Palindrome",
+        "id": 3,
+        "title": "Move Zeroes",
         "difficulty": "Easy",
-        "frequency": 76,
-        "url": "https://leetcode.com/problems/valid-palindrome",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/move-zeroes",
         "topics": [
-          "Two Pointers",
-          "String"
+          "Array",
+          "Two Pointers"
         ]
       },
       {
-        "id": 6,
-        "title": "Find Total Time Spent by Each Employee",
-        "difficulty": "Easy",
-        "frequency": 76,
-        "url": "https://leetcode.com/problems/find-total-time-spent-by-each-employee",
-        "topics": [
-          "Database"
-        ]
-      },
-      {
-        "id": 7,
+        "id": 4,
         "title": "Find the Index of the First Occurrence in a String",
         "difficulty": "Easy",
-        "frequency": 76,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
         "topics": [
           "Two Pointers",
@@ -148,25 +92,47 @@
         ]
       },
       {
-        "id": 8,
+        "id": 5,
+        "title": "Longest Palindromic Substring",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Consecutive Numbers Sum",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/consecutive-numbers-sum",
+        "topics": [
+          "Math",
+          "Enumeration"
+        ]
+      },
+      {
+        "id": 7,
         "title": "Rank Scores",
         "difficulty": "Medium",
-        "frequency": 76,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/rank-scores",
         "topics": [
           "Database"
         ]
       },
       {
-        "id": 9,
-        "title": "Rotting Oranges",
-        "difficulty": "Medium",
-        "frequency": 76,
-        "url": "https://leetcode.com/problems/rotting-oranges",
+        "id": 8,
+        "title": "Find Customer Referee",
+        "difficulty": "Easy",
+        "frequency": 88,
+        "url": "https://leetcode.com/problems/find-customer-referee",
         "topics": [
-          "Array",
-          "Breadth-First Search",
-          "Matrix"
+          "Database"
         ]
       }
     ],
@@ -204,22 +170,21 @@
       },
       {
         "id": 4,
-        "title": "Fibonacci Number",
-        "difficulty": "Easy",
-        "frequency": 86,
-        "url": "https://leetcode.com/problems/fibonacci-number",
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
         "topics": [
-          "Math",
-          "Dynamic Programming",
-          "Recursion",
-          "Memoization"
+          "Hash Table",
+          "String",
+          "Sliding Window"
         ]
       },
       {
         "id": 5,
         "title": "Longest Palindromic Substring",
         "difficulty": "Medium",
-        "frequency": 86,
+        "frequency": 87,
         "url": "https://leetcode.com/problems/longest-palindromic-substring",
         "topics": [
           "Two Pointers",
@@ -232,7 +197,7 @@
         "id": 6,
         "title": "Second Highest Salary",
         "difficulty": "Medium",
-        "frequency": 86,
+        "frequency": 83,
         "url": "https://leetcode.com/problems/second-highest-salary",
         "topics": [
           "Database"
@@ -240,26 +205,27 @@
       },
       {
         "id": 7,
-        "title": "Longest Substring Without Repeating Characters",
-        "difficulty": "Medium",
-        "frequency": 83,
-        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "title": "Fibonacci Number",
+        "difficulty": "Easy",
+        "frequency": 78,
+        "url": "https://leetcode.com/problems/fibonacci-number",
         "topics": [
-          "Hash Table",
-          "String",
-          "Sliding Window"
+          "Math",
+          "Dynamic Programming",
+          "Recursion",
+          "Memoization"
         ]
       },
       {
         "id": 8,
-        "title": "Valid Anagram",
-        "difficulty": "Easy",
+        "title": "Median of Two Sorted Arrays",
+        "difficulty": "Hard",
         "frequency": 78,
-        "url": "https://leetcode.com/problems/valid-anagram",
+        "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
         "topics": [
-          "Hash Table",
-          "String",
-          "Sorting"
+          "Array",
+          "Binary Search",
+          "Divide and Conquer"
         ]
       },
       {
@@ -287,30 +253,18 @@
       },
       {
         "id": 11,
-        "title": "Merge Sorted Array",
+        "title": "Valid Anagram",
         "difficulty": "Easy",
         "frequency": 72,
-        "url": "https://leetcode.com/problems/merge-sorted-array",
+        "url": "https://leetcode.com/problems/valid-anagram",
         "topics": [
-          "Array",
-          "Two Pointers",
+          "Hash Table",
+          "String",
           "Sorting"
         ]
       },
       {
         "id": 12,
-        "title": "Median of Two Sorted Arrays",
-        "difficulty": "Hard",
-        "frequency": 72,
-        "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
-        "topics": [
-          "Array",
-          "Binary Search",
-          "Divide and Conquer"
-        ]
-      },
-      {
-        "id": 13,
         "title": "Subarray Sum Equals K",
         "difficulty": "Medium",
         "frequency": 72,
@@ -322,35 +276,47 @@
         ]
       },
       {
-        "id": 14,
-        "title": "Maximum Subarray",
-        "difficulty": "Medium",
+        "id": 13,
+        "title": "Merge Sorted Array",
+        "difficulty": "Easy",
         "frequency": 65,
-        "url": "https://leetcode.com/problems/maximum-subarray",
+        "url": "https://leetcode.com/problems/merge-sorted-array",
         "topics": [
           "Array",
-          "Divide and Conquer",
-          "Dynamic Programming"
+          "Two Pointers",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Remove Duplicates from Sorted Array",
+        "difficulty": "Easy",
+        "frequency": 65,
+        "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers"
         ]
       },
       {
         "id": 15,
-        "title": "Product Sales Analysis I",
-        "difficulty": "Easy",
-        "frequency": 65,
-        "url": "https://leetcode.com/problems/product-sales-analysis-i",
-        "topics": [
-          "Database"
-        ]
-      },
-      {
-        "id": 16,
         "title": "Article Views I",
         "difficulty": "Easy",
         "frequency": 65,
         "url": "https://leetcode.com/problems/article-views-i",
         "topics": [
           "Database"
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Valid Palindrome",
+        "difficulty": "Easy",
+        "frequency": 65,
+        "url": "https://leetcode.com/problems/valid-palindrome",
+        "topics": [
+          "Two Pointers",
+          "String"
         ]
       },
       {
@@ -388,6 +354,17 @@
       },
       {
         "id": 20,
+        "title": "Move Zeroes",
+        "difficulty": "Easy",
+        "frequency": 65,
+        "url": "https://leetcode.com/problems/move-zeroes",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ]
+      },
+      {
+        "id": 21,
         "title": "Combine Two Tables",
         "difficulty": "Easy",
         "frequency": 65,
@@ -397,174 +374,10 @@
         ]
       },
       {
-        "id": 21,
-        "title": "Reverse Integer",
-        "difficulty": "Medium",
-        "frequency": 55,
-        "url": "https://leetcode.com/problems/reverse-integer",
-        "topics": [
-          "Math"
-        ]
-      },
-      {
         "id": 22,
-        "title": "Remove Duplicates from Sorted Array",
-        "difficulty": "Easy",
-        "frequency": 55,
-        "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
-        "topics": [
-          "Array",
-          "Two Pointers"
-        ]
-      },
-      {
-        "id": 23,
-        "title": "Rotate Array",
-        "difficulty": "Medium",
-        "frequency": 55,
-        "url": "https://leetcode.com/problems/rotate-array",
-        "topics": [
-          "Array",
-          "Math",
-          "Two Pointers"
-        ]
-      },
-      {
-        "id": 24,
-        "title": "Valid Palindrome",
-        "difficulty": "Easy",
-        "frequency": 55,
-        "url": "https://leetcode.com/problems/valid-palindrome",
-        "topics": [
-          "Two Pointers",
-          "String"
-        ]
-      },
-      {
-        "id": 25,
-        "title": "Rising Temperature",
-        "difficulty": "Easy",
-        "frequency": 55,
-        "url": "https://leetcode.com/problems/rising-temperature",
-        "topics": [
-          "Database"
-        ]
-      },
-      {
-        "id": 26,
-        "title": "Employees Earning More Than Their Managers",
-        "difficulty": "Easy",
-        "frequency": 55,
-        "url": "https://leetcode.com/problems/employees-earning-more-than-their-managers",
-        "topics": [
-          "Database"
-        ]
-      },
-      {
-        "id": 27,
-        "title": "Binary Search",
-        "difficulty": "Easy",
-        "frequency": 55,
-        "url": "https://leetcode.com/problems/binary-search",
-        "topics": [
-          "Array",
-          "Binary Search"
-        ]
-      },
-      {
-        "id": 28,
-        "title": "Roman to Integer",
-        "difficulty": "Easy",
-        "frequency": 55,
-        "url": "https://leetcode.com/problems/roman-to-integer",
-        "topics": [
-          "Hash Table",
-          "Math",
-          "String"
-        ]
-      },
-      {
-        "id": 29,
-        "title": "Find the Highest Altitude",
-        "difficulty": "Easy",
-        "frequency": 55,
-        "url": "https://leetcode.com/problems/find-the-highest-altitude",
-        "topics": [
-          "Array",
-          "Prefix Sum"
-        ]
-      },
-      {
-        "id": 30,
-        "title": "Replace Employee ID With The Unique Identifier",
-        "difficulty": "Easy",
-        "frequency": 55,
-        "url": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier",
-        "topics": [
-          "Database"
-        ]
-      },
-      {
-        "id": 31,
-        "title": "Move Zeroes",
-        "difficulty": "Easy",
-        "frequency": 55,
-        "url": "https://leetcode.com/problems/move-zeroes",
-        "topics": [
-          "Array",
-          "Two Pointers"
-        ]
-      },
-      {
-        "id": 32,
-        "title": "Jump Game",
-        "difficulty": "Medium",
-        "frequency": 55,
-        "url": "https://leetcode.com/problems/jump-game",
-        "topics": [
-          "Array",
-          "Dynamic Programming",
-          "Greedy"
-        ]
-      },
-      {
-        "id": 33,
-        "title": "Minimum Absolute Difference",
-        "difficulty": "Easy",
-        "frequency": 55,
-        "url": "https://leetcode.com/problems/minimum-absolute-difference",
-        "topics": [
-          "Array",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 34,
-        "title": "Single Number",
-        "difficulty": "Easy",
-        "frequency": 55,
-        "url": "https://leetcode.com/problems/single-number",
-        "topics": [
-          "Array",
-          "Bit Manipulation"
-        ]
-      },
-      {
-        "id": 35,
-        "title": "String Compression",
-        "difficulty": "Medium",
-        "frequency": 55,
-        "url": "https://leetcode.com/problems/string-compression",
-        "topics": [
-          "Two Pointers",
-          "String"
-        ]
-      },
-      {
-        "id": 36,
         "title": "Majority Element",
         "difficulty": "Easy",
-        "frequency": 55,
+        "frequency": 65,
         "url": "https://leetcode.com/problems/majority-element",
         "topics": [
           "Array",
@@ -576,7 +389,103 @@
         ]
       },
       {
-        "id": 37,
+        "id": 23,
+        "title": "Reverse Integer",
+        "difficulty": "Medium",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/reverse-integer",
+        "topics": [
+          "Math"
+        ]
+      },
+      {
+        "id": 24,
+        "title": "Rising Temperature",
+        "difficulty": "Easy",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/rising-temperature",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 25,
+        "title": "Employees Earning More Than Their Managers",
+        "difficulty": "Easy",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/employees-earning-more-than-their-managers",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 26,
+        "title": "Find the Highest Altitude",
+        "difficulty": "Easy",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/find-the-highest-altitude",
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ]
+      },
+      {
+        "id": 27,
+        "title": "Replace Employee ID With The Unique Identifier",
+        "difficulty": "Easy",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 28,
+        "title": "Jump Game",
+        "difficulty": "Medium",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/jump-game",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 29,
+        "title": "Minimum Absolute Difference",
+        "difficulty": "Easy",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/minimum-absolute-difference",
+        "topics": [
+          "Array",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 30,
+        "title": "Single Number",
+        "difficulty": "Easy",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/single-number",
+        "topics": [
+          "Array",
+          "Bit Manipulation"
+        ]
+      },
+      {
+        "id": 31,
+        "title": "String Compression",
+        "difficulty": "Medium",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/string-compression",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ]
+      },
+      {
+        "id": 32,
         "title": "Next Permutation",
         "difficulty": "Medium",
         "frequency": 55,
@@ -584,6 +493,72 @@
         "topics": [
           "Array",
           "Two Pointers"
+        ]
+      },
+      {
+        "id": 33,
+        "title": "Product Price at a Given Date",
+        "difficulty": "Medium",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/product-price-at-a-given-date",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 34,
+        "title": "Nth Highest Salary",
+        "difficulty": "Medium",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/nth-highest-salary",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 35,
+        "title": "Longest Consecutive Sequence",
+        "difficulty": "Medium",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/longest-consecutive-sequence",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Union-Find"
+        ]
+      },
+      {
+        "id": 36,
+        "title": "Find Total Time Spent by Each Employee",
+        "difficulty": "Easy",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/find-total-time-spent-by-each-employee",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 37,
+        "title": "Sort Vowels in a String",
+        "difficulty": "Medium",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/sort-vowels-in-a-string",
+        "topics": [
+          "String",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 38,
+        "title": "Linked List Cycle",
+        "difficulty": "Easy",
+        "frequency": 55,
+        "url": "https://leetcode.com/problems/linked-list-cycle",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Two Pointers",
+          "Floyd's Cycle Finding Algorithm"
         ]
       }
     ],
@@ -602,7 +577,7 @@
         "id": 2,
         "title": "Two Sum",
         "difficulty": "Easy",
-        "frequency": 93,
+        "frequency": 95,
         "url": "https://leetcode.com/problems/two-sum",
         "topics": [
           "Array",
@@ -613,7 +588,7 @@
         "id": 3,
         "title": "Palindrome Number",
         "difficulty": "Easy",
-        "frequency": 93,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/palindrome-number",
         "topics": [
           "Math"
@@ -633,6 +608,19 @@
       },
       {
         "id": 5,
+        "title": "Longest Palindromic Substring",
+        "difficulty": "Medium",
+        "frequency": 85,
+        "url": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ]
+      },
+      {
+        "id": 6,
         "title": "Smallest Value of the Rearranged Number",
         "difficulty": "Medium",
         "frequency": 80,
@@ -640,19 +628,6 @@
         "topics": [
           "Math",
           "Sorting"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Longest Palindromic Substring",
-        "difficulty": "Medium",
-        "frequency": 80,
-        "url": "https://leetcode.com/problems/longest-palindromic-substring",
-        "topics": [
-          "Two Pointers",
-          "String",
-          "Dynamic Programming",
-          "Manacher"
         ]
       },
       {
@@ -670,19 +645,6 @@
       },
       {
         "id": 8,
-        "title": "Fibonacci Number",
-        "difficulty": "Easy",
-        "frequency": 77,
-        "url": "https://leetcode.com/problems/fibonacci-number",
-        "topics": [
-          "Math",
-          "Dynamic Programming",
-          "Recursion",
-          "Memoization"
-        ]
-      },
-      {
-        "id": 9,
         "title": "Second Highest Salary",
         "difficulty": "Medium",
         "frequency": 77,
@@ -692,34 +654,10 @@
         ]
       },
       {
-        "id": 10,
-        "title": "Valid Anagram",
-        "difficulty": "Easy",
-        "frequency": 73,
-        "url": "https://leetcode.com/problems/valid-anagram",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 11,
-        "title": "Merge Sorted Array",
-        "difficulty": "Easy",
-        "frequency": 69,
-        "url": "https://leetcode.com/problems/merge-sorted-array",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 12,
+        "id": 9,
         "title": "Move Zeroes",
         "difficulty": "Easy",
-        "frequency": 69,
+        "frequency": 73,
         "url": "https://leetcode.com/problems/move-zeroes",
         "topics": [
           "Array",
@@ -727,10 +665,10 @@
         ]
       },
       {
-        "id": 13,
+        "id": 10,
         "title": "Valid Parentheses",
         "difficulty": "Easy",
-        "frequency": 69,
+        "frequency": 73,
         "url": "https://leetcode.com/problems/valid-parentheses",
         "topics": [
           "String",
@@ -739,10 +677,10 @@
         ]
       },
       {
-        "id": 14,
+        "id": 11,
         "title": "Best Time to Buy and Sell Stock",
         "difficulty": "Easy",
-        "frequency": 69,
+        "frequency": 73,
         "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
         "topics": [
           "Array",
@@ -750,10 +688,35 @@
         ]
       },
       {
-        "id": 15,
+        "id": 12,
+        "title": "Fibonacci Number",
+        "difficulty": "Easy",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/fibonacci-number",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Recursion",
+          "Memoization"
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Valid Anagram",
+        "difficulty": "Easy",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/valid-anagram",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 14,
         "title": "Median of Two Sorted Arrays",
         "difficulty": "Hard",
-        "frequency": 64,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
         "topics": [
           "Array",
@@ -762,7 +725,7 @@
         ]
       },
       {
-        "id": 16,
+        "id": 15,
         "title": "Valid Palindrome",
         "difficulty": "Easy",
         "frequency": 64,
@@ -773,7 +736,7 @@
         ]
       },
       {
-        "id": 17,
+        "id": 16,
         "title": "Subarray Sum Equals K",
         "difficulty": "Medium",
         "frequency": 64,
@@ -785,7 +748,7 @@
         ]
       },
       {
-        "id": 18,
+        "id": 17,
         "title": "Reverse Integer",
         "difficulty": "Medium",
         "frequency": 57,
@@ -795,29 +758,7 @@
         ]
       },
       {
-        "id": 19,
-        "title": "Product Sales Analysis I",
-        "difficulty": "Easy",
-        "frequency": 57,
-        "url": "https://leetcode.com/problems/product-sales-analysis-i",
-        "topics": [
-          "Database"
-        ]
-      },
-      {
-        "id": 20,
-        "title": "Maximum Subarray",
-        "difficulty": "Medium",
-        "frequency": 57,
-        "url": "https://leetcode.com/problems/maximum-subarray",
-        "topics": [
-          "Array",
-          "Divide and Conquer",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 21,
+        "id": 18,
         "title": "Remove Duplicates from Sorted Array",
         "difficulty": "Easy",
         "frequency": 57,
@@ -828,7 +769,19 @@
         ]
       },
       {
-        "id": 22,
+        "id": 19,
+        "title": "Merge Sorted Array",
+        "difficulty": "Easy",
+        "frequency": 57,
+        "url": "https://leetcode.com/problems/merge-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 20,
         "title": "First Missing Positive",
         "difficulty": "Hard",
         "frequency": 57,
@@ -839,7 +792,7 @@
         ]
       },
       {
-        "id": 23,
+        "id": 21,
         "title": "Replace Employee ID With The Unique Identifier",
         "difficulty": "Easy",
         "frequency": 57,
@@ -849,7 +802,7 @@
         ]
       },
       {
-        "id": 24,
+        "id": 22,
         "title": "Article Views I",
         "difficulty": "Easy",
         "frequency": 57,
@@ -859,7 +812,18 @@
         ]
       },
       {
-        "id": 25,
+        "id": 23,
+        "title": "Single Number",
+        "difficulty": "Easy",
+        "frequency": 57,
+        "url": "https://leetcode.com/problems/single-number",
+        "topics": [
+          "Array",
+          "Bit Manipulation"
+        ]
+      },
+      {
+        "id": 24,
         "title": "Combine Two Tables",
         "difficulty": "Easy",
         "frequency": 57,
@@ -869,7 +833,7 @@
         ]
       },
       {
-        "id": 26,
+        "id": 25,
         "title": "Climbing Stairs",
         "difficulty": "Easy",
         "frequency": 57,
@@ -881,7 +845,7 @@
         ]
       },
       {
-        "id": 27,
+        "id": 26,
         "title": "Max Consecutive Ones",
         "difficulty": "Easy",
         "frequency": 57,
@@ -891,7 +855,7 @@
         ]
       },
       {
-        "id": 28,
+        "id": 27,
         "title": "Majority Element",
         "difficulty": "Easy",
         "frequency": 57,
@@ -906,15 +870,29 @@
         ]
       },
       {
-        "id": 29,
-        "title": "Rotate Array",
-        "difficulty": "Medium",
-        "frequency": 48,
-        "url": "https://leetcode.com/problems/rotate-array",
+        "id": 28,
+        "title": "Find the Index of the First Occurrence in a String",
+        "difficulty": "Easy",
+        "frequency": 57,
+        "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
         "topics": [
-          "Array",
+          "Two Pointers",
+          "String",
+          "String Matching",
+          "Z Algorithm",
+          "Knuth–Morris–Pratt Algorithm",
+          "Boyer–Moore String-Search Algorithm"
+        ]
+      },
+      {
+        "id": 29,
+        "title": "Consecutive Numbers Sum",
+        "difficulty": "Hard",
+        "frequency": 57,
+        "url": "https://leetcode.com/problems/consecutive-numbers-sum",
+        "topics": [
           "Math",
-          "Two Pointers"
+          "Enumeration"
         ]
       },
       {
@@ -929,29 +907,6 @@
       },
       {
         "id": 31,
-        "title": "Binary Search",
-        "difficulty": "Easy",
-        "frequency": 48,
-        "url": "https://leetcode.com/problems/binary-search",
-        "topics": [
-          "Array",
-          "Binary Search"
-        ]
-      },
-      {
-        "id": 32,
-        "title": "Roman to Integer",
-        "difficulty": "Easy",
-        "frequency": 48,
-        "url": "https://leetcode.com/problems/roman-to-integer",
-        "topics": [
-          "Hash Table",
-          "Math",
-          "String"
-        ]
-      },
-      {
-        "id": 33,
         "title": "Jump Game",
         "difficulty": "Medium",
         "frequency": 48,
@@ -963,7 +918,7 @@
         ]
       },
       {
-        "id": 34,
+        "id": 32,
         "title": "Employees Earning More Than Their Managers",
         "difficulty": "Easy",
         "frequency": 48,
@@ -973,7 +928,7 @@
         ]
       },
       {
-        "id": 35,
+        "id": 33,
         "title": "Find the Highest Altitude",
         "difficulty": "Easy",
         "frequency": 48,
@@ -984,7 +939,7 @@
         ]
       },
       {
-        "id": 36,
+        "id": 34,
         "title": "String Compression",
         "difficulty": "Medium",
         "frequency": 48,
@@ -995,18 +950,7 @@
         ]
       },
       {
-        "id": 37,
-        "title": "Single Number",
-        "difficulty": "Easy",
-        "frequency": 48,
-        "url": "https://leetcode.com/problems/single-number",
-        "topics": [
-          "Array",
-          "Bit Manipulation"
-        ]
-      },
-      {
-        "id": 38,
+        "id": 35,
         "title": "Minimum Absolute Difference",
         "difficulty": "Easy",
         "frequency": 48,
@@ -1017,7 +961,7 @@
         ]
       },
       {
-        "id": 39,
+        "id": 36,
         "title": "Linked List Cycle",
         "difficulty": "Easy",
         "frequency": 48,
@@ -1030,7 +974,7 @@
         ]
       },
       {
-        "id": 40,
+        "id": 37,
         "title": "Next Permutation",
         "difficulty": "Medium",
         "frequency": 48,
@@ -1041,7 +985,7 @@
         ]
       },
       {
-        "id": 41,
+        "id": 38,
         "title": "Find Total Time Spent by Each Employee",
         "difficulty": "Easy",
         "frequency": 48,
@@ -1051,7 +995,7 @@
         ]
       },
       {
-        "id": 42,
+        "id": 39,
         "title": "Nth Highest Salary",
         "difficulty": "Medium",
         "frequency": 48,
@@ -1061,7 +1005,7 @@
         ]
       },
       {
-        "id": 43,
+        "id": 40,
         "title": "Third Maximum Number",
         "difficulty": "Easy",
         "frequency": 48,
@@ -1072,7 +1016,7 @@
         ]
       },
       {
-        "id": 44,
+        "id": 41,
         "title": "Sort Vowels in a String",
         "difficulty": "Medium",
         "frequency": 48,
@@ -1083,22 +1027,7 @@
         ]
       },
       {
-        "id": 45,
-        "title": "Find the Index of the First Occurrence in a String",
-        "difficulty": "Easy",
-        "frequency": 48,
-        "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
-        "topics": [
-          "Two Pointers",
-          "String",
-          "String Matching",
-          "Z Algorithm",
-          "Knuth–Morris–Pratt Algorithm",
-          "Boyer–Moore String-Search Algorithm"
-        ]
-      },
-      {
-        "id": 46,
+        "id": 42,
         "title": "Rank Scores",
         "difficulty": "Medium",
         "frequency": 48,
@@ -1108,7 +1037,7 @@
         ]
       },
       {
-        "id": 47,
+        "id": 43,
         "title": "Rotting Oranges",
         "difficulty": "Medium",
         "frequency": 48,
@@ -1117,6 +1046,96 @@
           "Array",
           "Breadth-First Search",
           "Matrix"
+        ]
+      },
+      {
+        "id": 44,
+        "title": "Find Customer Referee",
+        "difficulty": "Easy",
+        "frequency": 48,
+        "url": "https://leetcode.com/problems/find-customer-referee",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 45,
+        "title": "Palindromic Substrings",
+        "difficulty": "Medium",
+        "frequency": 48,
+        "url": "https://leetcode.com/problems/palindromic-substrings",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 46,
+        "title": "Product Price at a Given Date",
+        "difficulty": "Medium",
+        "frequency": 48,
+        "url": "https://leetcode.com/problems/product-price-at-a-given-date",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 47,
+        "title": "Department Top Three Salaries",
+        "difficulty": "Hard",
+        "frequency": 48,
+        "url": "https://leetcode.com/problems/department-top-three-salaries",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 48,
+        "title": "Customers Who Never Order",
+        "difficulty": "Easy",
+        "frequency": 48,
+        "url": "https://leetcode.com/problems/customers-who-never-order",
+        "topics": [
+          "Database"
+        ]
+      },
+      {
+        "id": 49,
+        "title": "3Sum",
+        "difficulty": "Medium",
+        "frequency": 48,
+        "url": "https://leetcode.com/problems/3sum",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 50,
+        "title": "Longest Consecutive Sequence",
+        "difficulty": "Medium",
+        "frequency": 48,
+        "url": "https://leetcode.com/problems/longest-consecutive-sequence",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Union-Find"
+        ]
+      },
+      {
+        "id": 51,
+        "title": "Boats to Save People",
+        "difficulty": "Medium",
+        "frequency": 48,
+        "url": "https://leetcode.com/problems/boats-to-save-people",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Timsort"
         ]
       }
     ]

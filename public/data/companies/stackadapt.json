@@ -2,28 +2,30 @@
   "name": "StackAdapt",
   "slug": "StackAdapt",
   "dataKey": "stackadapt",
-  "updatedAt": "2026-10-18T02:12:32.151Z",
+  "updatedAt": "2026-10-25T02:23:17.406Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Find All Possible Recipes from Given Supplies",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ]
+      }
+    ],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
-        "title": "Find Median from Data Stream",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/find-median-from-data-stream",
-        "topics": [
-          "Two Pointers",
-          "Design",
-          "Sorting",
-          "Heap (Priority Queue)",
-          "Data Stream"
-        ]
-      },
-      {
-        "id": 2,
         "title": "LRU Cache",
         "difficulty": "Medium",
         "frequency": 100,
@@ -33,6 +35,20 @@
           "Linked List",
           "Design",
           "Doubly-Linked List"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Find Median from Data Stream",
+        "difficulty": "Hard",
+        "frequency": 84,
+        "url": "https://leetcode.com/problems/find-median-from-data-stream",
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
         ]
       }
     ],
@@ -54,7 +70,7 @@
         "id": 2,
         "title": "Find Median from Data Stream",
         "difficulty": "Hard",
-        "frequency": 93,
+        "frequency": 83,
         "url": "https://leetcode.com/problems/find-median-from-data-stream",
         "topics": [
           "Two Pointers",
@@ -62,6 +78,21 @@
           "Sorting",
           "Heap (Priority Queue)",
           "Data Stream"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Find All Possible Recipes from Given Supplies",
+        "difficulty": "Medium",
+        "frequency": 83,
+        "url": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
         ]
       }
     ]

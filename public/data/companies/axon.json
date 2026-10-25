@@ -2,7 +2,7 @@
   "name": "Axon",
   "slug": "Axon",
   "dataKey": "axon",
-  "updatedAt": "2026-10-18T02:12:31.914Z",
+  "updatedAt": "2026-10-25T02:23:17.223Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -23,71 +23,13 @@
       },
       {
         "id": 2,
-        "title": "Time Based Key-Value Store",
-        "difficulty": "Medium",
-        "frequency": 91,
-        "url": "https://leetcode.com/problems/time-based-key-value-store",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Binary Search",
-          "Design"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Design Underground System",
-        "difficulty": "Medium",
-        "frequency": 75,
-        "url": "https://leetcode.com/problems/design-underground-system",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Design"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Edit Distance",
-        "difficulty": "Medium",
-        "frequency": 75,
-        "url": "https://leetcode.com/problems/edit-distance",
-        "topics": [
-          "String",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 5,
-        "title": "Valid Palindrome",
-        "difficulty": "Easy",
-        "frequency": 75,
-        "url": "https://leetcode.com/problems/valid-palindrome",
-        "topics": [
-          "Two Pointers",
-          "String"
-        ]
-      },
-      {
-        "id": 6,
         "title": "Exclusive Time of Functions",
         "difficulty": "Medium",
-        "frequency": 75,
+        "frequency": 90,
         "url": "https://leetcode.com/problems/exclusive-time-of-functions",
         "topics": [
           "Array",
           "Stack"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Interleaving String",
-        "difficulty": "Medium",
-        "frequency": 75,
-        "url": "https://leetcode.com/problems/interleaving-string",
-        "topics": [
-          "String",
-          "Dynamic Programming"
         ]
       }
     ],
@@ -107,89 +49,9 @@
       },
       {
         "id": 2,
-        "title": "Design Underground System",
+        "title": "Insert Delete GetRandom O(1)",
         "difficulty": "Medium",
         "frequency": 95,
-        "url": "https://leetcode.com/problems/design-underground-system",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Design"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Insert Delete GetRandom O(1)",
-        "difficulty": "Medium",
-        "frequency": 92,
-        "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Math",
-          "Design",
-          "Randomized"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Interleaving String",
-        "difficulty": "Medium",
-        "frequency": 75,
-        "url": "https://leetcode.com/problems/interleaving-string",
-        "topics": [
-          "String",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 5,
-        "title": "K Closest Points to Origin",
-        "difficulty": "Medium",
-        "frequency": 54,
-        "url": "https://leetcode.com/problems/k-closest-points-to-origin",
-        "topics": [
-          "Array",
-          "Math",
-          "Divide and Conquer",
-          "Geometry",
-          "Sorting",
-          "Heap (Priority Queue)",
-          "Quickselect",
-          "K-D Tree"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Valid Palindrome",
-        "difficulty": "Easy",
-        "frequency": 54,
-        "url": "https://leetcode.com/problems/valid-palindrome",
-        "topics": [
-          "Two Pointers",
-          "String"
-        ]
-      }
-    ],
-    "5. All.csv": [
-      {
-        "id": 1,
-        "title": "Time Based Key-Value Store",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/time-based-key-value-store",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Binary Search",
-          "Design"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Insert Delete GetRandom O(1)",
-        "difficulty": "Medium",
-        "frequency": 96,
         "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
         "topics": [
           "Array",
@@ -215,6 +77,97 @@
         "id": 4,
         "title": "Interleaving String",
         "difficulty": "Medium",
+        "frequency": 77,
+        "url": "https://leetcode.com/problems/interleaving-string",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Valid Palindrome",
+        "difficulty": "Easy",
+        "frequency": 66,
+        "url": "https://leetcode.com/problems/valid-palindrome",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Edit Distance",
+        "difficulty": "Medium",
+        "frequency": 60,
+        "url": "https://leetcode.com/problems/edit-distance",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "K Closest Points to Origin",
+        "difficulty": "Medium",
+        "frequency": 52,
+        "url": "https://leetcode.com/problems/k-closest-points-to-origin",
+        "topics": [
+          "Array",
+          "Math",
+          "Divide and Conquer",
+          "Geometry",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect",
+          "K-D Tree"
+        ]
+      }
+    ],
+    "5. All.csv": [
+      {
+        "id": 1,
+        "title": "Time Based Key-Value Store",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/time-based-key-value-store",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Insert Delete GetRandom O(1)",
+        "difficulty": "Medium",
+        "frequency": 97,
+        "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Design Underground System",
+        "difficulty": "Medium",
+        "frequency": 93,
+        "url": "https://leetcode.com/problems/design-underground-system",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Interleaving String",
+        "difficulty": "Medium",
         "frequency": 78,
         "url": "https://leetcode.com/problems/interleaving-string",
         "topics": [
@@ -226,7 +179,7 @@
         "id": 5,
         "title": "Valid Palindrome",
         "difficulty": "Easy",
-        "frequency": 64,
+        "frequency": 65,
         "url": "https://leetcode.com/problems/valid-palindrome",
         "topics": [
           "Two Pointers",

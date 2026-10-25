@@ -2,10 +2,36 @@
   "name": "General Motors",
   "slug": "General Motors",
   "dataKey": "general_motors",
-  "updatedAt": "2026-10-18T02:12:31.990Z",
+  "updatedAt": "2026-10-25T02:23:17.280Z",
   "problems": {
-    "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [],
+    "1. Thirty Days.csv": [
+      {
+        "id": 1,
+        "title": "Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ]
+      }
+    ],
+    "2. Three Months.csv": [
+      {
+        "id": 1,
+        "title": "Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ]
+      }
+    ],
     "3. Six Months.csv": [
       {
         "id": 1,
@@ -36,6 +62,18 @@
       },
       {
         "id": 2,
+        "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+        "difficulty": "Medium",
+        "frequency": 70,
+        "url": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+        "topics": [
+          "String",
+          "Bit Manipulation",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 3,
         "title": "Implement Trie (Prefix Tree)",
         "difficulty": "Medium",
         "frequency": 66,
@@ -48,22 +86,10 @@
         ]
       },
       {
-        "id": 3,
-        "title": "Number of Steps to Reduce a Number in Binary Representation to One",
-        "difficulty": "Medium",
-        "frequency": 66,
-        "url": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
-        "topics": [
-          "String",
-          "Bit Manipulation",
-          "Simulation"
-        ]
-      },
-      {
         "id": 4,
         "title": "Minimum Path Sum",
         "difficulty": "Medium",
-        "frequency": 60,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/minimum-path-sum",
         "topics": [
           "Array",
@@ -75,7 +101,7 @@
         "id": 5,
         "title": "Dot Product of Two Sparse Vectors",
         "difficulty": "Medium",
-        "frequency": 60,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors",
         "topics": [
           "Array",
@@ -87,13 +113,15 @@
       },
       {
         "id": 6,
-        "title": "Widest Vertical Area Between Two Points Containing No Points",
-        "difficulty": "Easy",
-        "frequency": 53,
-        "url": "https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points",
+        "title": "Maximum Sum of 3 Non-Overlapping Subarrays",
+        "difficulty": "Hard",
+        "frequency": 61,
+        "url": "https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays",
         "topics": [
           "Array",
-          "Sorting"
+          "Dynamic Programming",
+          "Sliding Window",
+          "Prefix Sum"
         ]
       },
       {
@@ -137,15 +165,17 @@
       },
       {
         "id": 10,
-        "title": "Maximum Sum of 3 Non-Overlapping Subarrays",
+        "title": "Guess the Word",
         "difficulty": "Hard",
         "frequency": 53,
-        "url": "https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays",
+        "url": "https://leetcode.com/problems/guess-the-word",
         "topics": [
           "Array",
-          "Dynamic Programming",
-          "Sliding Window",
-          "Prefix Sum"
+          "Math",
+          "String",
+          "Minimax",
+          "Interactive",
+          "Game Theory"
         ]
       }
     ],
@@ -165,9 +195,21 @@
       },
       {
         "id": 2,
+        "title": "Minimum Possible Maximum Waiting Time",
+        "difficulty": "Hard",
+        "frequency": 79,
+        "url": "https://leetcode.com/problems/minimum-possible-maximum-waiting-time",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Memoization"
+        ]
+      },
+      {
+        "id": 3,
         "title": "Number of Steps to Reduce a Number in Binary Representation to One",
         "difficulty": "Medium",
-        "frequency": 69,
+        "frequency": 70,
         "url": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
         "topics": [
           "String",
@@ -176,7 +218,7 @@
         ]
       },
       {
-        "id": 3,
+        "id": 4,
         "title": "Implement Trie (Prefix Tree)",
         "difficulty": "Medium",
         "frequency": 65,
@@ -189,10 +231,35 @@
         ]
       },
       {
-        "id": 4,
+        "id": 5,
+        "title": "Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 65,
+        "url": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "LRU Cache",
+        "difficulty": "Medium",
+        "frequency": 60,
+        "url": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ]
+      },
+      {
+        "id": 7,
         "title": "Minimum Path Sum",
         "difficulty": "Medium",
-        "frequency": 59,
+        "frequency": 60,
         "url": "https://leetcode.com/problems/minimum-path-sum",
         "topics": [
           "Array",
@@ -201,10 +268,10 @@
         ]
       },
       {
-        "id": 5,
+        "id": 8,
         "title": "Dot Product of Two Sparse Vectors",
         "difficulty": "Medium",
-        "frequency": 59,
+        "frequency": 60,
         "url": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors",
         "topics": [
           "Array",
@@ -215,10 +282,10 @@
         ]
       },
       {
-        "id": 6,
+        "id": 9,
         "title": "Maximum Sum of 3 Non-Overlapping Subarrays",
         "difficulty": "Hard",
-        "frequency": 59,
+        "frequency": 60,
         "url": "https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays",
         "topics": [
           "Array",
@@ -228,20 +295,7 @@
         ]
       },
       {
-        "id": 7,
-        "title": "LRU Cache",
-        "difficulty": "Medium",
-        "frequency": 52,
-        "url": "https://leetcode.com/problems/lru-cache",
-        "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Doubly-Linked List"
-        ]
-      },
-      {
-        "id": 8,
+        "id": 10,
         "title": "First Missing Positive",
         "difficulty": "Hard",
         "frequency": 52,
@@ -252,18 +306,7 @@
         ]
       },
       {
-        "id": 9,
-        "title": "Widest Vertical Area Between Two Points Containing No Points",
-        "difficulty": "Easy",
-        "frequency": 52,
-        "url": "https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points",
-        "topics": [
-          "Array",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 10,
+        "id": 11,
         "title": "Serialize and Deserialize Binary Tree",
         "difficulty": "Hard",
         "frequency": 52,
@@ -278,7 +321,7 @@
         ]
       },
       {
-        "id": 11,
+        "id": 12,
         "title": "Guess the Word",
         "difficulty": "Hard",
         "frequency": 52,
@@ -293,7 +336,7 @@
         ]
       },
       {
-        "id": 12,
+        "id": 13,
         "title": "Minimum Deletions to Make Character Frequencies Unique",
         "difficulty": "Medium",
         "frequency": 52,
@@ -306,15 +349,17 @@
         ]
       },
       {
-        "id": 13,
-        "title": "Merge Intervals",
+        "id": 14,
+        "title": "Number of Islands",
         "difficulty": "Medium",
         "frequency": 52,
-        "url": "https://leetcode.com/problems/merge-intervals",
+        "url": "https://leetcode.com/problems/number-of-islands",
         "topics": [
           "Array",
-          "Sorting",
-          "Quicksort"
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
         ]
       }
     ]

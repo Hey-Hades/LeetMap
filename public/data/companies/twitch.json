@@ -2,11 +2,12 @@
   "name": "Twitch",
   "slug": "Twitch",
   "dataKey": "twitch",
-  "updatedAt": "2026-10-18T02:12:32.169Z",
+  "updatedAt": "2026-10-25T02:23:17.420Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [
+    "3. Six Months.csv": [],
+    "4. More Than Six Months.csv": [
       {
         "id": 1,
         "title": "LRU Cache",
@@ -19,14 +20,12 @@
           "Design",
           "Doubly-Linked List"
         ]
-      }
-    ],
-    "4. More Than Six Months.csv": [
+      },
       {
-        "id": 1,
+        "id": 2,
         "title": "Reverse Vowels of a String",
         "difficulty": "Easy",
-        "frequency": 100,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/reverse-vowels-of-a-string",
         "topics": [
           "Two Pointers",
@@ -34,10 +33,10 @@
         ]
       },
       {
-        "id": 2,
+        "id": 3,
         "title": "Find Median from Data Stream",
         "difficulty": "Hard",
-        "frequency": 100,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/find-median-from-data-stream",
         "topics": [
           "Two Pointers",
@@ -48,28 +47,15 @@
         ]
       },
       {
-        "id": 3,
+        "id": 4,
         "title": "Merge Intervals",
         "difficulty": "Medium",
-        "frequency": 100,
+        "frequency": 79,
         "url": "https://leetcode.com/problems/merge-intervals",
         "topics": [
           "Array",
           "Sorting",
           "Quicksort"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "LRU Cache",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/lru-cache",
-        "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Doubly-Linked List"
         ]
       }
     ],
@@ -115,7 +101,7 @@
         "id": 4,
         "title": "LRU Cache",
         "difficulty": "Medium",
-        "frequency": 84,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/lru-cache",
         "topics": [
           "Hash Table",

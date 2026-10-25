@@ -2,21 +2,9 @@
   "name": "Twilio",
   "slug": "Twilio",
   "dataKey": "twilio",
-  "updatedAt": "2026-10-18T02:12:32.169Z",
+  "updatedAt": "2026-10-25T02:23:17.419Z",
   "problems": {
-    "1. Thirty Days.csv": [
-      {
-        "id": 1,
-        "title": "Remove All Adjacent Duplicates in String II",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
-        "topics": [
-          "String",
-          "Stack"
-        ]
-      }
-    ],
+    "1. Thirty Days.csv": [],
     "2. Three Months.csv": [
       {
         "id": 1,
@@ -60,7 +48,7 @@
         "id": 2,
         "title": "Top K Frequent Elements",
         "difficulty": "Medium",
-        "frequency": 92,
+        "frequency": 93,
         "url": "https://leetcode.com/problems/top-k-frequent-elements",
         "topics": [
           "Array",
@@ -75,19 +63,6 @@
       },
       {
         "id": 3,
-        "title": "Group Anagrams",
-        "difficulty": "Medium",
-        "frequency": 92,
-        "url": "https://leetcode.com/problems/group-anagrams",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Maximize Greatness of an Array",
         "difficulty": "Medium",
         "frequency": 82,
@@ -100,7 +75,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Ways to Make a Fair Array",
         "difficulty": "Medium",
         "frequency": 82,
@@ -108,6 +83,19 @@
         "topics": [
           "Array",
           "Prefix Sum"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Group Anagrams",
+        "difficulty": "Medium",
+        "frequency": 82,
+        "url": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
         ]
       },
       {
@@ -119,6 +107,21 @@
         "topics": [
           "Array",
           "Greedy",
+          "Heap (Priority Queue)"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Search Suggestions System",
+        "difficulty": "Medium",
+        "frequency": 82,
+        "url": "https://leetcode.com/problems/search-suggestions-system",
+        "topics": [
+          "Array",
+          "String",
+          "Binary Search",
+          "Trie",
+          "Sorting",
           "Heap (Priority Queue)"
         ]
       }
@@ -164,7 +167,7 @@
         "id": 4,
         "title": "Count Vowel Strings in Ranges",
         "difficulty": "Medium",
-        "frequency": 79,
+        "frequency": 80,
         "url": "https://leetcode.com/problems/count-vowel-strings-in-ranges",
         "topics": [
           "Array",
@@ -191,19 +194,6 @@
       },
       {
         "id": 6,
-        "title": "Group Anagrams",
-        "difficulty": "Medium",
-        "frequency": 73,
-        "url": "https://leetcode.com/problems/group-anagrams",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 7,
         "title": "Ways to Make a Fair Array",
         "difficulty": "Medium",
         "frequency": 64,
@@ -211,6 +201,19 @@
         "topics": [
           "Array",
           "Prefix Sum"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Group Anagrams",
+        "difficulty": "Medium",
+        "frequency": 64,
+        "url": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
         ]
       },
       {

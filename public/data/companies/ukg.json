@@ -2,25 +2,10 @@
   "name": "UKG",
   "slug": "UKG",
   "dataKey": "ukg",
-  "updatedAt": "2026-10-18T02:12:32.171Z",
+  "updatedAt": "2026-10-25T02:23:17.421Z",
   "problems": {
     "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [
-      {
-        "id": 1,
-        "title": "Split Array Largest Sum",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/split-array-largest-sum",
-        "topics": [
-          "Array",
-          "Binary Search",
-          "Dynamic Programming",
-          "Greedy",
-          "Prefix Sum"
-        ]
-      }
-    ],
+    "2. Three Months.csv": [],
     "3. Six Months.csv": [
       {
         "id": 1,
@@ -73,7 +58,7 @@
         "id": 3,
         "title": "Special Binary String",
         "difficulty": "Hard",
-        "frequency": 98,
+        "frequency": 95,
         "url": "https://leetcode.com/problems/special-binary-string",
         "topics": [
           "String",
@@ -83,18 +68,6 @@
       },
       {
         "id": 4,
-        "title": "Minimum Length of Anagram Concatenation",
-        "difficulty": "Medium",
-        "frequency": 79,
-        "url": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Counting"
-        ]
-      },
-      {
-        "id": 5,
         "title": "Two Sum",
         "difficulty": "Easy",
         "frequency": 79,
@@ -105,7 +78,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "title": "Count the Number of Good Subsequences",
         "difficulty": "Medium",
         "frequency": 79,
@@ -119,26 +92,38 @@
         ]
       },
       {
+        "id": 6,
+        "title": "Minimum Length of Anagram Concatenation",
+        "difficulty": "Medium",
+        "frequency": 73,
+        "url": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ]
+      },
+      {
         "id": 7,
+        "title": "Valid Word",
+        "difficulty": "Easy",
+        "frequency": 73,
+        "url": "https://leetcode.com/problems/valid-word",
+        "topics": [
+          "String"
+        ]
+      },
+      {
+        "id": 8,
         "title": "Maximize Greatness of an Array",
         "difficulty": "Medium",
-        "frequency": 79,
+        "frequency": 73,
         "url": "https://leetcode.com/problems/maximize-greatness-of-an-array",
         "topics": [
           "Array",
           "Two Pointers",
           "Greedy",
           "Sorting"
-        ]
-      },
-      {
-        "id": 8,
-        "title": "Valid Word",
-        "difficulty": "Easy",
-        "frequency": 72,
-        "url": "https://leetcode.com/problems/valid-word",
-        "topics": [
-          "String"
         ]
       },
       {
@@ -168,18 +153,6 @@
     "5. All.csv": [
       {
         "id": 1,
-        "title": "Special Binary String",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/special-binary-string",
-        "topics": [
-          "String",
-          "Divide and Conquer",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 2,
         "title": "Maximum Area Rectangle With Point Constraints I",
         "difficulty": "Medium",
         "frequency": 100,
@@ -195,7 +168,7 @@
         ]
       },
       {
-        "id": 3,
+        "id": 2,
         "title": "Maximum Area Rectangle With Point Constraints II",
         "difficulty": "Hard",
         "frequency": 100,
@@ -210,19 +183,19 @@
         ]
       },
       {
-        "id": 4,
-        "title": "Minimum Length of Anagram Concatenation",
-        "difficulty": "Medium",
-        "frequency": 79,
-        "url": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+        "id": 3,
+        "title": "Special Binary String",
+        "difficulty": "Hard",
+        "frequency": 95,
+        "url": "https://leetcode.com/problems/special-binary-string",
         "topics": [
-          "Hash Table",
           "String",
-          "Counting"
+          "Divide and Conquer",
+          "Sorting"
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Two Sum",
         "difficulty": "Easy",
         "frequency": 79,
@@ -233,7 +206,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "title": "Count the Number of Good Subsequences",
         "difficulty": "Medium",
         "frequency": 79,
@@ -247,26 +220,38 @@
         ]
       },
       {
-        "id": 7,
-        "title": "Maximize Greatness of an Array",
+        "id": 6,
+        "title": "Minimum Length of Anagram Concatenation",
         "difficulty": "Medium",
-        "frequency": 79,
-        "url": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
         "topics": [
-          "Array",
-          "Two Pointers",
-          "Greedy",
-          "Sorting"
+          "Hash Table",
+          "String",
+          "Counting"
         ]
       },
       {
-        "id": 8,
+        "id": 7,
         "title": "Valid Word",
         "difficulty": "Easy",
         "frequency": 72,
         "url": "https://leetcode.com/problems/valid-word",
         "topics": [
           "String"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Maximize Greatness of an Array",
+        "difficulty": "Medium",
+        "frequency": 72,
+        "url": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting"
         ]
       },
       {

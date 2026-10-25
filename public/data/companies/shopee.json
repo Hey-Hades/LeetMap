@@ -2,7 +2,7 @@
   "name": "Shopee",
   "slug": "Shopee",
   "dataKey": "shopee",
-  "updatedAt": "2026-10-18T02:12:32.143Z",
+  "updatedAt": "2026-10-25T02:23:17.400Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -25,7 +25,7 @@
         "id": 2,
         "title": "Jump Game",
         "difficulty": "Medium",
-        "frequency": 89,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/jump-game",
         "topics": [
           "Array",
@@ -37,7 +37,7 @@
         "id": 3,
         "title": "Random Pick with Weight",
         "difficulty": "Medium",
-        "frequency": 89,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/random-pick-with-weight",
         "topics": [
           "Array",
@@ -51,7 +51,7 @@
         "id": 4,
         "title": "Serialize and Deserialize BST",
         "difficulty": "Medium",
-        "frequency": 89,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/serialize-and-deserialize-bst",
         "topics": [
           "String",
@@ -67,7 +67,7 @@
         "id": 5,
         "title": "Longest Palindromic Substring",
         "difficulty": "Medium",
-        "frequency": 89,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/longest-palindromic-substring",
         "topics": [
           "Two Pointers",
@@ -93,34 +93,9 @@
       },
       {
         "id": 2,
-        "title": "LRU Cache",
-        "difficulty": "Medium",
-        "frequency": 77,
-        "url": "https://leetcode.com/problems/lru-cache",
-        "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Doubly-Linked List"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Jump Game",
-        "difficulty": "Medium",
-        "frequency": 68,
-        "url": "https://leetcode.com/problems/jump-game",
-        "topics": [
-          "Array",
-          "Dynamic Programming",
-          "Greedy"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Random Pick with Weight",
         "difficulty": "Medium",
-        "frequency": 68,
+        "frequency": 78,
         "url": "https://leetcode.com/problems/random-pick-with-weight",
         "topics": [
           "Array",
@@ -131,10 +106,35 @@
         ]
       },
       {
+        "id": 3,
+        "title": "Jump Game",
+        "difficulty": "Medium",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/jump-game",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "LRU Cache",
+        "difficulty": "Medium",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ]
+      },
+      {
         "id": 5,
         "title": "Serialize and Deserialize BST",
         "difficulty": "Medium",
-        "frequency": 68,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/serialize-and-deserialize-bst",
         "topics": [
           "String",
@@ -150,7 +150,7 @@
         "id": 6,
         "title": "Longest Palindromic Substring",
         "difficulty": "Medium",
-        "frequency": 68,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/longest-palindromic-substring",
         "topics": [
           "Two Pointers",
@@ -161,14 +161,16 @@
       },
       {
         "id": 7,
-        "title": "Bus Routes",
-        "difficulty": "Hard",
-        "frequency": 68,
-        "url": "https://leetcode.com/problems/bus-routes",
+        "title": "Word Search",
+        "difficulty": "Medium",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/word-search",
         "topics": [
           "Array",
-          "Hash Table",
-          "Breadth-First Search"
+          "String",
+          "Backtracking",
+          "Depth-First Search",
+          "Matrix"
         ]
       }
     ]

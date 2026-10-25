@@ -2,50 +2,10 @@
   "name": "IMC",
   "slug": "IMC",
   "dataKey": "imc",
-  "updatedAt": "2026-10-18T02:12:32.037Z",
+  "updatedAt": "2026-10-25T02:23:17.315Z",
   "problems": {
-    "1. Thirty Days.csv": [
-      {
-        "id": 1,
-        "title": "LFU Cache",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/lfu-cache",
-        "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Doubly-Linked List"
-        ]
-      }
-    ],
-    "2. Three Months.csv": [
-      {
-        "id": 1,
-        "title": "LFU Cache",
-        "difficulty": "Hard",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/lfu-cache",
-        "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Doubly-Linked List"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Unique Paths II",
-        "difficulty": "Medium",
-        "frequency": 81,
-        "url": "https://leetcode.com/problems/unique-paths-ii",
-        "topics": [
-          "Array",
-          "Dynamic Programming",
-          "Matrix"
-        ]
-      }
-    ],
+    "1. Thirty Days.csv": [],
+    "2. Three Months.csv": [],
     "3. Six Months.csv": [
       {
         "id": 1,
@@ -62,18 +22,6 @@
       },
       {
         "id": 2,
-        "title": "Special Binary String",
-        "difficulty": "Hard",
-        "frequency": 80,
-        "url": "https://leetcode.com/problems/special-binary-string",
-        "topics": [
-          "String",
-          "Divide and Conquer",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Unique Paths II",
         "difficulty": "Medium",
         "frequency": 80,
@@ -101,19 +49,6 @@
       },
       {
         "id": 2,
-        "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
-        "difficulty": "Medium",
-        "frequency": 96,
-        "url": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
-        "topics": [
-          "Array",
-          "Binary Search",
-          "Matrix",
-          "Prefix Sum"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Trapping Rain Water",
         "difficulty": "Hard",
         "frequency": 84,
@@ -127,14 +62,15 @@
         ]
       },
       {
-        "id": 4,
-        "title": "Min Stack",
-        "difficulty": "Medium",
-        "frequency": 74,
-        "url": "https://leetcode.com/problems/min-stack",
+        "id": 3,
+        "title": "Special Binary String",
+        "difficulty": "Hard",
+        "frequency": 84,
+        "url": "https://leetcode.com/problems/special-binary-string",
         "topics": [
-          "Stack",
-          "Design"
+          "String",
+          "Divide and Conquer",
+          "Sorting"
         ]
       }
     ],
@@ -154,19 +90,6 @@
       },
       {
         "id": 2,
-        "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
-        "difficulty": "Medium",
-        "frequency": 96,
-        "url": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
-        "topics": [
-          "Array",
-          "Binary Search",
-          "Matrix",
-          "Prefix Sum"
-        ]
-      },
-      {
-        "id": 3,
         "title": "LFU Cache",
         "difficulty": "Hard",
         "frequency": 96,
@@ -179,7 +102,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 3,
         "title": "Special Binary String",
         "difficulty": "Hard",
         "frequency": 83,
@@ -191,7 +114,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Trapping Rain Water",
         "difficulty": "Hard",
         "frequency": 83,
@@ -205,21 +128,10 @@
         ]
       },
       {
-        "id": 6,
-        "title": "Min Stack",
-        "difficulty": "Medium",
-        "frequency": 73,
-        "url": "https://leetcode.com/problems/min-stack",
-        "topics": [
-          "Stack",
-          "Design"
-        ]
-      },
-      {
-        "id": 7,
+        "id": 5,
         "title": "Unique Paths II",
         "difficulty": "Medium",
-        "frequency": 73,
+        "frequency": 74,
         "url": "https://leetcode.com/problems/unique-paths-ii",
         "topics": [
           "Array",

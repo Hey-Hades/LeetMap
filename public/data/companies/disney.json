@@ -2,23 +2,10 @@
   "name": "Disney",
   "slug": "Disney",
   "dataKey": "disney",
-  "updatedAt": "2026-10-18T02:12:31.975Z",
+  "updatedAt": "2026-10-25T02:23:17.270Z",
   "problems": {
     "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [
-      {
-        "id": 1,
-        "title": "Maximum Value at a Given Index in a Bounded Array",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array",
-        "topics": [
-          "Math",
-          "Binary Search",
-          "Greedy"
-        ]
-      }
-    ],
+    "2. Three Months.csv": [],
     "3. Six Months.csv": [
       {
         "id": 1,
@@ -36,32 +23,6 @@
     "4. More Than Six Months.csv": [
       {
         "id": 1,
-        "title": "LRU Cache",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/lru-cache",
-        "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Doubly-Linked List"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Group Anagrams",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/group-anagrams",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Top K Frequent Elements",
         "difficulty": "Medium",
         "frequency": 100,
@@ -78,22 +39,10 @@
         ]
       },
       {
-        "id": 4,
-        "title": "Merge Intervals",
-        "difficulty": "Medium",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/merge-intervals",
-        "topics": [
-          "Array",
-          "Sorting",
-          "Quicksort"
-        ]
-      },
-      {
-        "id": 5,
+        "id": 2,
         "title": "Longest Common Prefix",
         "difficulty": "Easy",
-        "frequency": 88,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/longest-common-prefix",
         "topics": [
           "Array",
@@ -102,46 +51,33 @@
         ]
       },
       {
-        "id": 6,
+        "id": 3,
+        "title": "Group Anagrams",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 4,
         "title": "Remove All Adjacent Duplicates in String II",
         "difficulty": "Medium",
-        "frequency": 88,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
         "topics": [
           "String",
           "Stack"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Generate Parentheses",
-        "difficulty": "Medium",
-        "frequency": 88,
-        "url": "https://leetcode.com/problems/generate-parentheses",
-        "topics": [
-          "String",
-          "Dynamic Programming",
-          "Backtracking",
-          "Bracket Sequences"
         ]
       }
     ],
     "5. All.csv": [
       {
         "id": 1,
-        "title": "LRU Cache",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/lru-cache",
-        "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Doubly-Linked List"
-        ]
-      },
-      {
-        "id": 2,
         "title": "Remove All Adjacent Duplicates in String II",
         "difficulty": "Medium",
         "frequency": 100,
@@ -152,32 +88,7 @@
         ]
       },
       {
-        "id": 3,
-        "title": "Longest Common Prefix",
-        "difficulty": "Easy",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/longest-common-prefix",
-        "topics": [
-          "Array",
-          "String",
-          "Trie"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Group Anagrams",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/group-anagrams",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 5,
+        "id": 2,
         "title": "Top K Frequent Elements",
         "difficulty": "Medium",
         "frequency": 100,
@@ -194,32 +105,32 @@
         ]
       },
       {
-        "id": 6,
-        "title": "Merge Intervals",
-        "difficulty": "Medium",
+        "id": 3,
+        "title": "Longest Common Prefix",
+        "difficulty": "Easy",
         "frequency": 88,
-        "url": "https://leetcode.com/problems/merge-intervals",
+        "url": "https://leetcode.com/problems/longest-common-prefix",
         "topics": [
           "Array",
-          "Sorting",
-          "Quicksort"
+          "String",
+          "Trie"
         ]
       },
       {
-        "id": 7,
-        "title": "Generate Parentheses",
+        "id": 4,
+        "title": "Group Anagrams",
         "difficulty": "Medium",
         "frequency": 88,
-        "url": "https://leetcode.com/problems/generate-parentheses",
+        "url": "https://leetcode.com/problems/group-anagrams",
         "topics": [
+          "Array",
+          "Hash Table",
           "String",
-          "Dynamic Programming",
-          "Backtracking",
-          "Bracket Sequences"
+          "Sorting"
         ]
       },
       {
-        "id": 8,
+        "id": 5,
         "title": "Meeting Rooms II",
         "difficulty": "Medium",
         "frequency": 88,
@@ -234,7 +145,7 @@
         ]
       },
       {
-        "id": 9,
+        "id": 6,
         "title": "Maximum Value at a Given Index in a Bounded Array",
         "difficulty": "Medium",
         "frequency": 88,
@@ -246,7 +157,7 @@
         ]
       },
       {
-        "id": 10,
+        "id": 7,
         "title": "Longest Palindromic Substring",
         "difficulty": "Medium",
         "frequency": 88,
@@ -259,7 +170,7 @@
         ]
       },
       {
-        "id": 11,
+        "id": 8,
         "title": "Merge k Sorted Lists",
         "difficulty": "Hard",
         "frequency": 88,
@@ -270,6 +181,18 @@
           "Heap (Priority Queue)",
           "Merge Sort",
           "Tournament Sort"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Daily Temperatures",
+        "difficulty": "Medium",
+        "frequency": 88,
+        "url": "https://leetcode.com/problems/daily-temperatures",
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
         ]
       }
     ]

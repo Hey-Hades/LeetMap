@@ -2,13 +2,36 @@
   "name": "Wipro",
   "slug": "Wipro",
   "dataKey": "wipro",
-  "updatedAt": "2026-10-18T02:12:32.190Z",
+  "updatedAt": "2026-10-25T02:23:17.437Z",
   "problems": {
     "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [],
+    "2. Three Months.csv": [
+      {
+        "id": 1,
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      }
+    ],
     "3. Six Months.csv": [
       {
         "id": 1,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 2,
         "title": "Group Anagrams",
         "difficulty": "Medium",
         "frequency": 100,
@@ -21,35 +44,23 @@
         ]
       },
       {
-        "id": 2,
-        "title": "Longest Substring Without Repeating Characters",
-        "difficulty": "Medium",
+        "id": 3,
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "Easy",
         "frequency": 100,
-        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
         "topics": [
-          "Hash Table",
-          "String",
-          "Sliding Window"
+          "Array",
+          "Dynamic Programming"
         ]
       }
     ],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
-        "title": "Minimum Moves to Capture The Queen",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/minimum-moves-to-capture-the-queen",
-        "topics": [
-          "Math",
-          "Enumeration"
-        ]
-      },
-      {
-        "id": 2,
         "title": "Two Sum",
         "difficulty": "Easy",
-        "frequency": 98,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/two-sum",
         "topics": [
           "Array",
@@ -57,10 +68,10 @@
         ]
       },
       {
-        "id": 3,
+        "id": 2,
         "title": "Longest Common Prefix",
         "difficulty": "Easy",
-        "frequency": 84,
+        "frequency": 91,
         "url": "https://leetcode.com/problems/longest-common-prefix",
         "topics": [
           "Array",
@@ -69,20 +80,20 @@
         ]
       },
       {
-        "id": 4,
+        "id": 3,
         "title": "Palindrome Number",
         "difficulty": "Easy",
-        "frequency": 71,
+        "frequency": 78,
         "url": "https://leetcode.com/problems/palindrome-number",
         "topics": [
           "Math"
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Valid Anagram",
         "difficulty": "Easy",
-        "frequency": 71,
+        "frequency": 78,
         "url": "https://leetcode.com/problems/valid-anagram",
         "topics": [
           "Hash Table",
@@ -91,43 +102,10 @@
         ]
       },
       {
-        "id": 6,
-        "title": "Reverse Integer",
-        "difficulty": "Medium",
-        "frequency": 62,
-        "url": "https://leetcode.com/problems/reverse-integer",
-        "topics": [
-          "Math"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Sort Characters By Frequency",
-        "difficulty": "Medium",
-        "frequency": 62,
-        "url": "https://leetcode.com/problems/sort-characters-by-frequency",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sorting",
-          "Heap (Priority Queue)",
-          "Bucket Sort",
-          "Counting"
-        ]
-      },
-      {
-        "id": 8,
-        "title": "Create Hello World Function",
-        "difficulty": "Easy",
-        "frequency": 62,
-        "url": "https://leetcode.com/problems/create-hello-world-function",
-        "topics": []
-      },
-      {
-        "id": 9,
+        "id": 5,
         "title": "Merge Intervals",
         "difficulty": "Medium",
-        "frequency": 62,
+        "frequency": 68,
         "url": "https://leetcode.com/problems/merge-intervals",
         "topics": [
           "Array",
@@ -136,10 +114,10 @@
         ]
       },
       {
-        "id": 10,
+        "id": 6,
         "title": "Add Binary",
         "difficulty": "Easy",
-        "frequency": 62,
+        "frequency": 68,
         "url": "https://leetcode.com/problems/add-binary",
         "topics": [
           "Math",
@@ -149,10 +127,10 @@
         ]
       },
       {
-        "id": 11,
+        "id": 7,
         "title": "Merge Sorted Array",
         "difficulty": "Easy",
-        "frequency": 62,
+        "frequency": 68,
         "url": "https://leetcode.com/problems/merge-sorted-array",
         "topics": [
           "Array",
@@ -161,10 +139,10 @@
         ]
       },
       {
-        "id": 12,
+        "id": 8,
         "title": "Toeplitz Matrix",
         "difficulty": "Easy",
-        "frequency": 62,
+        "frequency": 68,
         "url": "https://leetcode.com/problems/toeplitz-matrix",
         "topics": [
           "Array",
@@ -172,14 +150,50 @@
         ]
       },
       {
-        "id": 13,
+        "id": 9,
         "title": "Pascal's Triangle",
         "difficulty": "Easy",
-        "frequency": 62,
+        "frequency": 68,
         "url": "https://leetcode.com/problems/pascals-triangle",
         "topics": [
           "Array",
           "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Group Anagrams",
+        "difficulty": "Medium",
+        "frequency": 68,
+        "url": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
+        "frequency": 68,
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Reverse String",
+        "difficulty": "Easy",
+        "frequency": 68,
+        "url": "https://leetcode.com/problems/reverse-string",
+        "topics": [
+          "Two Pointers",
+          "String"
         ]
       }
     ],
@@ -197,20 +211,9 @@
       },
       {
         "id": 2,
-        "title": "Minimum Moves to Capture The Queen",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/minimum-moves-to-capture-the-queen",
-        "topics": [
-          "Math",
-          "Enumeration"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Longest Common Prefix",
         "difficulty": "Easy",
-        "frequency": 88,
+        "frequency": 85,
         "url": "https://leetcode.com/problems/longest-common-prefix",
         "topics": [
           "Array",
@@ -219,10 +222,23 @@
         ]
       },
       {
+        "id": 3,
+        "title": "Group Anagrams",
+        "difficulty": "Medium",
+        "frequency": 80,
+        "url": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ]
+      },
+      {
         "id": 4,
         "title": "Longest Substring Without Repeating Characters",
         "difficulty": "Medium",
-        "frequency": 71,
+        "frequency": 73,
         "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
         "topics": [
           "Hash Table",
@@ -234,7 +250,7 @@
         "id": 5,
         "title": "Palindrome Number",
         "difficulty": "Easy",
-        "frequency": 71,
+        "frequency": 73,
         "url": "https://leetcode.com/problems/palindrome-number",
         "topics": [
           "Math"
@@ -244,7 +260,7 @@
         "id": 6,
         "title": "Valid Anagram",
         "difficulty": "Easy",
-        "frequency": 71,
+        "frequency": 73,
         "url": "https://leetcode.com/problems/valid-anagram",
         "topics": [
           "Hash Table",
@@ -254,22 +270,20 @@
       },
       {
         "id": 7,
-        "title": "Group Anagrams",
-        "difficulty": "Medium",
-        "frequency": 71,
-        "url": "https://leetcode.com/problems/group-anagrams",
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "Easy",
+        "frequency": 73,
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
         "topics": [
           "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
+          "Dynamic Programming"
         ]
       },
       {
         "id": 8,
         "title": "Valid Parentheses",
         "difficulty": "Easy",
-        "frequency": 61,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/valid-parentheses",
         "topics": [
           "String",
@@ -279,42 +293,9 @@
       },
       {
         "id": 9,
-        "title": "Reverse Integer",
-        "difficulty": "Medium",
-        "frequency": 61,
-        "url": "https://leetcode.com/problems/reverse-integer",
-        "topics": [
-          "Math"
-        ]
-      },
-      {
-        "id": 10,
-        "title": "Sort Characters By Frequency",
-        "difficulty": "Medium",
-        "frequency": 61,
-        "url": "https://leetcode.com/problems/sort-characters-by-frequency",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sorting",
-          "Heap (Priority Queue)",
-          "Bucket Sort",
-          "Counting"
-        ]
-      },
-      {
-        "id": 11,
-        "title": "Create Hello World Function",
-        "difficulty": "Easy",
-        "frequency": 61,
-        "url": "https://leetcode.com/problems/create-hello-world-function",
-        "topics": []
-      },
-      {
-        "id": 12,
         "title": "Merge Intervals",
         "difficulty": "Medium",
-        "frequency": 61,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/merge-intervals",
         "topics": [
           "Array",
@@ -323,10 +304,10 @@
         ]
       },
       {
-        "id": 13,
+        "id": 10,
         "title": "Add Binary",
         "difficulty": "Easy",
-        "frequency": 61,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/add-binary",
         "topics": [
           "Math",
@@ -336,10 +317,10 @@
         ]
       },
       {
-        "id": 14,
+        "id": 11,
         "title": "Toeplitz Matrix",
         "difficulty": "Easy",
-        "frequency": 61,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/toeplitz-matrix",
         "topics": [
           "Array",
@@ -347,10 +328,10 @@
         ]
       },
       {
-        "id": 15,
+        "id": 12,
         "title": "Pascal's Triangle",
         "difficulty": "Easy",
-        "frequency": 61,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/pascals-triangle",
         "topics": [
           "Array",
@@ -358,10 +339,10 @@
         ]
       },
       {
-        "id": 16,
+        "id": 13,
         "title": "Merge Sorted Array",
         "difficulty": "Easy",
-        "frequency": 61,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/merge-sorted-array",
         "topics": [
           "Array",
@@ -370,30 +351,30 @@
         ]
       },
       {
-        "id": 17,
+        "id": 14,
         "title": "Kids With the Greatest Number of Candies",
         "difficulty": "Easy",
-        "frequency": 61,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies",
         "topics": [
           "Array"
         ]
       },
       {
-        "id": 18,
+        "id": 15,
         "title": "Max Consecutive Ones",
         "difficulty": "Easy",
-        "frequency": 61,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/max-consecutive-ones",
         "topics": [
           "Array"
         ]
       },
       {
-        "id": 19,
+        "id": 16,
         "title": "Reverse String",
         "difficulty": "Easy",
-        "frequency": 61,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/reverse-string",
         "topics": [
           "Two Pointers",
@@ -401,15 +382,26 @@
         ]
       },
       {
-        "id": 20,
+        "id": 17,
         "title": "Add Strings",
         "difficulty": "Easy",
-        "frequency": 61,
+        "frequency": 63,
         "url": "https://leetcode.com/problems/add-strings",
         "topics": [
           "Math",
           "String",
           "Simulation"
+        ]
+      },
+      {
+        "id": 18,
+        "title": "Reverse Words in a String III",
+        "difficulty": "Easy",
+        "frequency": 63,
+        "url": "https://leetcode.com/problems/reverse-words-in-a-string-iii",
+        "topics": [
+          "Two Pointers",
+          "String"
         ]
       }
     ]

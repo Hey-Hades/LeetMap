@@ -2,7 +2,7 @@
   "name": "Coinbase",
   "slug": "Coinbase",
   "dataKey": "coinbase",
-  "updatedAt": "2026-10-18T02:12:31.961Z",
+  "updatedAt": "2026-10-25T02:23:17.254Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -23,22 +23,9 @@
       },
       {
         "id": 2,
-        "title": "Zigzag Iterator",
-        "difficulty": "Medium",
-        "frequency": 91,
-        "url": "https://leetcode.com/problems/zigzag-iterator",
-        "topics": [
-          "Array",
-          "Design",
-          "Queue",
-          "Iterator"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Time Based Key-Value Store",
         "difficulty": "Medium",
-        "frequency": 87,
+        "frequency": 91,
         "url": "https://leetcode.com/problems/time-based-key-value-store",
         "topics": [
           "Hash Table",
@@ -48,10 +35,23 @@
         ]
       },
       {
+        "id": 3,
+        "title": "Zigzag Iterator",
+        "difficulty": "Medium",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/zigzag-iterator",
+        "topics": [
+          "Array",
+          "Design",
+          "Queue",
+          "Iterator"
+        ]
+      },
+      {
         "id": 4,
         "title": "Design In-Memory File System",
         "difficulty": "Hard",
-        "frequency": 83,
+        "frequency": 81,
         "url": "https://leetcode.com/problems/design-in-memory-file-system",
         "topics": [
           "Hash Table",
@@ -65,7 +65,7 @@
         "id": 5,
         "title": "Random Pick with Weight",
         "difficulty": "Medium",
-        "frequency": 71,
+        "frequency": 73,
         "url": "https://leetcode.com/problems/random-pick-with-weight",
         "topics": [
           "Array",
@@ -79,7 +79,7 @@
         "id": 6,
         "title": "Design File System",
         "difficulty": "Medium",
-        "frequency": 50,
+        "frequency": 52,
         "url": "https://leetcode.com/problems/design-file-system",
         "topics": [
           "Hash Table",
@@ -90,22 +90,9 @@
       },
       {
         "id": 7,
-        "title": "Find the Length of the Longest Common Prefix",
-        "difficulty": "Medium",
-        "frequency": 50,
-        "url": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Trie"
-        ]
-      },
-      {
-        "id": 8,
         "title": "Best Time to Buy and Sell Stock",
         "difficulty": "Easy",
-        "frequency": 50,
+        "frequency": 52,
         "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
         "topics": [
           "Array",
@@ -113,10 +100,10 @@
         ]
       },
       {
-        "id": 9,
+        "id": 8,
         "title": "Course Schedule II",
         "difficulty": "Medium",
-        "frequency": 50,
+        "frequency": 52,
         "url": "https://leetcode.com/problems/course-schedule-ii",
         "topics": [
           "Depth-First Search",
@@ -126,10 +113,10 @@
         ]
       },
       {
-        "id": 10,
+        "id": 9,
         "title": "Design Circular Queue",
         "difficulty": "Medium",
-        "frequency": 50,
+        "frequency": 52,
         "url": "https://leetcode.com/problems/design-circular-queue",
         "topics": [
           "Array",
@@ -155,22 +142,9 @@
       },
       {
         "id": 2,
-        "title": "Zigzag Iterator",
-        "difficulty": "Medium",
-        "frequency": 91,
-        "url": "https://leetcode.com/problems/zigzag-iterator",
-        "topics": [
-          "Array",
-          "Design",
-          "Queue",
-          "Iterator"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Time Based Key-Value Store",
         "difficulty": "Medium",
-        "frequency": 89,
+        "frequency": 91,
         "url": "https://leetcode.com/problems/time-based-key-value-store",
         "topics": [
           "Hash Table",
@@ -180,10 +154,23 @@
         ]
       },
       {
+        "id": 3,
+        "title": "Zigzag Iterator",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/zigzag-iterator",
+        "topics": [
+          "Array",
+          "Design",
+          "Queue",
+          "Iterator"
+        ]
+      },
+      {
         "id": 4,
         "title": "Design In-Memory File System",
         "difficulty": "Hard",
-        "frequency": 83,
+        "frequency": 81,
         "url": "https://leetcode.com/problems/design-in-memory-file-system",
         "topics": [
           "Hash Table",
@@ -197,7 +184,7 @@
         "id": 5,
         "title": "Decode the Message",
         "difficulty": "Easy",
-        "frequency": 79,
+        "frequency": 81,
         "url": "https://leetcode.com/problems/decode-the-message",
         "topics": [
           "Hash Table",
@@ -208,7 +195,7 @@
         "id": 6,
         "title": "Random Pick with Weight",
         "difficulty": "Medium",
-        "frequency": 71,
+        "frequency": 73,
         "url": "https://leetcode.com/problems/random-pick-with-weight",
         "topics": [
           "Array",
@@ -222,7 +209,7 @@
         "id": 7,
         "title": "Design File System",
         "difficulty": "Medium",
-        "frequency": 49,
+        "frequency": 51,
         "url": "https://leetcode.com/problems/design-file-system",
         "topics": [
           "Hash Table",
@@ -233,22 +220,9 @@
       },
       {
         "id": 8,
-        "title": "Find the Length of the Longest Common Prefix",
-        "difficulty": "Medium",
-        "frequency": 49,
-        "url": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Trie"
-        ]
-      },
-      {
-        "id": 9,
         "title": "Best Time to Buy and Sell Stock",
         "difficulty": "Easy",
-        "frequency": 49,
+        "frequency": 51,
         "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
         "topics": [
           "Array",
@@ -256,10 +230,10 @@
         ]
       },
       {
-        "id": 10,
+        "id": 9,
         "title": "Design Circular Queue",
         "difficulty": "Medium",
-        "frequency": 49,
+        "frequency": 51,
         "url": "https://leetcode.com/problems/design-circular-queue",
         "topics": [
           "Array",
@@ -269,16 +243,27 @@
         ]
       },
       {
-        "id": 11,
+        "id": 10,
         "title": "Course Schedule II",
         "difficulty": "Medium",
-        "frequency": 49,
+        "frequency": 51,
         "url": "https://leetcode.com/problems/course-schedule-ii",
         "topics": [
           "Depth-First Search",
           "Breadth-First Search",
           "Graph Theory",
           "Topological Sort"
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Minimize Result by Adding Parentheses to Expression",
+        "difficulty": "Medium",
+        "frequency": 51,
+        "url": "https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression",
+        "topics": [
+          "String",
+          "Enumeration"
         ]
       }
     ]

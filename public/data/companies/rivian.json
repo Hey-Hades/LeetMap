@@ -2,26 +2,11 @@
   "name": "Rivian",
   "slug": "Rivian",
   "dataKey": "rivian",
-  "updatedAt": "2026-10-18T02:12:32.134Z",
+  "updatedAt": "2026-10-25T02:23:17.394Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [
-      {
-        "id": 1,
-        "title": "Number of Islands",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/number-of-islands",
-        "topics": [
-          "Array",
-          "Depth-First Search",
-          "Breadth-First Search",
-          "Union-Find",
-          "Matrix"
-        ]
-      }
-    ],
+    "3. Six Months.csv": [],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -38,20 +23,9 @@
       },
       {
         "id": 2,
-        "title": "Degree of an Array",
-        "difficulty": "Easy",
-        "frequency": 92,
-        "url": "https://leetcode.com/problems/degree-of-an-array",
-        "topics": [
-          "Array",
-          "Hash Table"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Number of Islands",
         "difficulty": "Medium",
-        "frequency": 81,
+        "frequency": 92,
         "url": "https://leetcode.com/problems/number-of-islands",
         "topics": [
           "Array",
@@ -62,29 +36,29 @@
         ]
       },
       {
+        "id": 3,
+        "title": "Degree of an Array",
+        "difficulty": "Easy",
+        "frequency": 92,
+        "url": "https://leetcode.com/problems/degree-of-an-array",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
         "id": 4,
         "title": "Flatten Deeply Nested Array",
         "difficulty": "Medium",
-        "frequency": 81,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/flatten-deeply-nested-array",
         "topics": []
       },
       {
         "id": 5,
-        "title": "Rotate String",
-        "difficulty": "Easy",
-        "frequency": 81,
-        "url": "https://leetcode.com/problems/rotate-string",
-        "topics": [
-          "String",
-          "String Matching"
-        ]
-      },
-      {
-        "id": 6,
         "title": "Merge k Sorted Lists",
         "difficulty": "Hard",
-        "frequency": 81,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/merge-k-sorted-lists",
         "topics": [
           "Linked List",
@@ -95,10 +69,10 @@
         ]
       },
       {
-        "id": 7,
+        "id": 6,
         "title": "Max Increase to Keep City Skyline",
         "difficulty": "Medium",
-        "frequency": 81,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/max-increase-to-keep-city-skyline",
         "topics": [
           "Array",
@@ -107,10 +81,10 @@
         ]
       },
       {
-        "id": 8,
+        "id": 7,
         "title": "String Compression",
         "difficulty": "Medium",
-        "frequency": 81,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/string-compression",
         "topics": [
           "Two Pointers",
@@ -118,10 +92,10 @@
         ]
       },
       {
-        "id": 9,
+        "id": 8,
         "title": "Basic Calculator II",
         "difficulty": "Medium",
-        "frequency": 81,
+        "frequency": 82,
         "url": "https://leetcode.com/problems/basic-calculator-ii",
         "topics": [
           "Math",
@@ -190,17 +164,6 @@
       },
       {
         "id": 6,
-        "title": "Rotate String",
-        "difficulty": "Easy",
-        "frequency": 81,
-        "url": "https://leetcode.com/problems/rotate-string",
-        "topics": [
-          "String",
-          "String Matching"
-        ]
-      },
-      {
-        "id": 7,
         "title": "Merge k Sorted Lists",
         "difficulty": "Hard",
         "frequency": 81,
@@ -214,7 +177,7 @@
         ]
       },
       {
-        "id": 8,
+        "id": 7,
         "title": "Max Increase to Keep City Skyline",
         "difficulty": "Medium",
         "frequency": 81,
@@ -226,7 +189,7 @@
         ]
       },
       {
-        "id": 9,
+        "id": 8,
         "title": "Basic Calculator II",
         "difficulty": "Medium",
         "frequency": 81,

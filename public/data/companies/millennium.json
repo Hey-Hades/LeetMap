@@ -2,7 +2,7 @@
   "name": "Millennium",
   "slug": "Millennium",
   "dataKey": "millennium",
-  "updatedAt": "2026-10-18T02:12:32.095Z",
+  "updatedAt": "2026-10-25T02:23:17.363Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -32,14 +32,14 @@
       },
       {
         "id": 3,
-        "title": "Valid Parentheses",
-        "difficulty": "Easy",
+        "title": "Merge Intervals",
+        "difficulty": "Medium",
         "frequency": 87,
-        "url": "https://leetcode.com/problems/valid-parentheses",
+        "url": "https://leetcode.com/problems/merge-intervals",
         "topics": [
-          "String",
-          "Stack",
-          "Bracket Sequences"
+          "Array",
+          "Sorting",
+          "Quicksort"
         ]
       },
       {
@@ -57,18 +57,6 @@
       },
       {
         "id": 5,
-        "title": "Merge Intervals",
-        "difficulty": "Medium",
-        "frequency": 76,
-        "url": "https://leetcode.com/problems/merge-intervals",
-        "topics": [
-          "Array",
-          "Sorting",
-          "Quicksort"
-        ]
-      },
-      {
-        "id": 6,
         "title": "Remove Invalid Parentheses",
         "difficulty": "Hard",
         "frequency": 76,
@@ -80,7 +68,7 @@
         ]
       },
       {
-        "id": 7,
+        "id": 6,
         "title": "Word Break",
         "difficulty": "Medium",
         "frequency": 76,
@@ -96,7 +84,7 @@
         ]
       },
       {
-        "id": 8,
+        "id": 7,
         "title": "Path Sum III",
         "difficulty": "Medium",
         "frequency": 76,
@@ -108,7 +96,7 @@
         ]
       },
       {
-        "id": 9,
+        "id": 8,
         "title": "Validate Binary Search Tree",
         "difficulty": "Medium",
         "frequency": 76,
@@ -118,6 +106,19 @@
           "Depth-First Search",
           "Binary Search Tree",
           "Binary Tree"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Group Anagrams",
+        "difficulty": "Medium",
+        "frequency": 76,
+        "url": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
         ]
       }
     ],
@@ -146,18 +147,6 @@
       },
       {
         "id": 3,
-        "title": "Valid Parentheses",
-        "difficulty": "Easy",
-        "frequency": 87,
-        "url": "https://leetcode.com/problems/valid-parentheses",
-        "topics": [
-          "String",
-          "Stack",
-          "Bracket Sequences"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Collect Coins in a Tree",
         "difficulty": "Hard",
         "frequency": 87,
@@ -170,7 +159,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Merge Intervals",
         "difficulty": "Medium",
         "frequency": 87,
@@ -182,7 +171,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "title": "Remove Invalid Parentheses",
         "difficulty": "Hard",
         "frequency": 76,
@@ -194,7 +183,7 @@
         ]
       },
       {
-        "id": 7,
+        "id": 6,
         "title": "Word Break",
         "difficulty": "Medium",
         "frequency": 76,
@@ -210,7 +199,7 @@
         ]
       },
       {
-        "id": 8,
+        "id": 7,
         "title": "Path Sum III",
         "difficulty": "Medium",
         "frequency": 76,
@@ -222,7 +211,7 @@
         ]
       },
       {
-        "id": 9,
+        "id": 8,
         "title": "Validate Binary Search Tree",
         "difficulty": "Medium",
         "frequency": 76,
@@ -235,20 +224,7 @@
         ]
       },
       {
-        "id": 10,
-        "title": "Design Circular Queue",
-        "difficulty": "Medium",
-        "frequency": 76,
-        "url": "https://leetcode.com/problems/design-circular-queue",
-        "topics": [
-          "Array",
-          "Linked List",
-          "Design",
-          "Queue"
-        ]
-      },
-      {
-        "id": 11,
+        "id": 9,
         "title": "Group Anagrams",
         "difficulty": "Medium",
         "frequency": 76,
@@ -261,7 +237,7 @@
         ]
       },
       {
-        "id": 12,
+        "id": 10,
         "title": "LRU Cache",
         "difficulty": "Medium",
         "frequency": 76,

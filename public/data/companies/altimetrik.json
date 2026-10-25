@@ -2,22 +2,10 @@
   "name": "Altimetrik",
   "slug": "Altimetrik",
   "dataKey": "altimetrik",
-  "updatedAt": "2026-10-18T02:12:31.860Z",
+  "updatedAt": "2026-10-25T02:23:17.182Z",
   "problems": {
     "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [
-      {
-        "id": 1,
-        "title": "Two Sum",
-        "difficulty": "Easy",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/two-sum",
-        "topics": [
-          "Array",
-          "Hash Table"
-        ]
-      }
-    ],
+    "2. Three Months.csv": [],
     "3. Six Months.csv": [
       {
         "id": 1,
@@ -29,18 +17,52 @@
           "Array",
           "Hash Table"
         ]
+      },
+      {
+        "id": 2,
+        "title": "Valid Palindrome",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/valid-palindrome",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ]
       }
     ],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 2,
         "title": "Swap Nodes in Pairs",
         "difficulty": "Medium",
-        "frequency": 100,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/swap-nodes-in-pairs",
         "topics": [
           "Linked List",
           "Recursion"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Valid Parentheses",
+        "difficulty": "Easy",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
         ]
       }
     ],
@@ -61,7 +83,7 @@
         "id": 2,
         "title": "Two Sum",
         "difficulty": "Easy",
-        "frequency": 84,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/two-sum",
         "topics": [
           "Array",
@@ -72,7 +94,7 @@
         "id": 3,
         "title": "Swap Nodes in Pairs",
         "difficulty": "Medium",
-        "frequency": 68,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/swap-nodes-in-pairs",
         "topics": [
           "Linked List",
@@ -83,12 +105,23 @@
         "id": 4,
         "title": "Valid Parentheses",
         "difficulty": "Easy",
-        "frequency": 68,
+        "frequency": 69,
         "url": "https://leetcode.com/problems/valid-parentheses",
         "topics": [
           "String",
           "Stack",
           "Bracket Sequences"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Valid Palindrome",
+        "difficulty": "Easy",
+        "frequency": 69,
+        "url": "https://leetcode.com/problems/valid-palindrome",
+        "topics": [
+          "Two Pointers",
+          "String"
         ]
       }
     ]

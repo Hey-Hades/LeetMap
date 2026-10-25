@@ -2,24 +2,11 @@
   "name": "EarnIn",
   "slug": "EarnIn",
   "dataKey": "earnin",
-  "updatedAt": "2026-10-18T02:12:31.979Z",
+  "updatedAt": "2026-10-25T02:23:17.273Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
-    "3. Six Months.csv": [
-      {
-        "id": 1,
-        "title": "Add Two Numbers",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/add-two-numbers",
-        "topics": [
-          "Linked List",
-          "Math",
-          "Recursion"
-        ]
-      }
-    ],
+    "3. Six Months.csv": [],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -37,7 +24,7 @@
         "id": 2,
         "title": "Valid Sudoku",
         "difficulty": "Medium",
-        "frequency": 100,
+        "frequency": 90,
         "url": "https://leetcode.com/problems/valid-sudoku",
         "topics": [
           "Array",
@@ -49,7 +36,7 @@
         "id": 3,
         "title": "Longest Palindromic Substring",
         "difficulty": "Medium",
-        "frequency": 100,
+        "frequency": 90,
         "url": "https://leetcode.com/problems/longest-palindromic-substring",
         "topics": [
           "Two Pointers",
@@ -62,7 +49,7 @@
         "id": 4,
         "title": "Merge Intervals",
         "difficulty": "Medium",
-        "frequency": 100,
+        "frequency": 90,
         "url": "https://leetcode.com/problems/merge-intervals",
         "topics": [
           "Array",

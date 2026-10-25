@@ -2,11 +2,87 @@
   "name": "thoughtspot",
   "slug": "thoughtspot",
   "dataKey": "thoughtspot",
-  "updatedAt": "2026-10-18T02:12:32.216Z",
+  "updatedAt": "2026-10-25T02:23:17.459Z",
   "problems": {
     "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [],
-    "3. Six Months.csv": [],
+    "2. Three Months.csv": [
+      {
+        "id": 1,
+        "title": "Selling Pieces of Wood",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/selling-pieces-of-wood",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Memoization"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+        "difficulty": "Medium",
+        "frequency": 91,
+        "url": "https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+        "topics": [
+          "Array",
+          "Tree",
+          "Depth-First Search"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Best Team With No Conflicts",
+        "difficulty": "Medium",
+        "frequency": 91,
+        "url": "https://leetcode.com/problems/best-team-with-no-conflicts",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Sorting",
+          "Longest Increasing Subsequence"
+        ]
+      }
+    ],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Selling Pieces of Wood",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/selling-pieces-of-wood",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Memoization"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+        "difficulty": "Medium",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+        "topics": [
+          "Array",
+          "Tree",
+          "Depth-First Search"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Best Team With No Conflicts",
+        "difficulty": "Medium",
+        "frequency": 90,
+        "url": "https://leetcode.com/problems/best-team-with-no-conflicts",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Sorting",
+          "Longest Increasing Subsequence"
+        ]
+      }
+    ],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -23,18 +99,6 @@
       },
       {
         "id": 2,
-        "title": "Minimum Window Substring",
-        "difficulty": "Hard",
-        "frequency": 87,
-        "url": "https://leetcode.com/problems/minimum-window-substring",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sliding Window"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
         "difficulty": "Medium",
         "frequency": 77,
@@ -46,7 +110,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 3,
         "title": "Largest Rectangle in Histogram",
         "difficulty": "Hard",
         "frequency": 77,
@@ -75,26 +139,26 @@
       },
       {
         "id": 2,
-        "title": "Minimum Window Substring",
-        "difficulty": "Hard",
-        "frequency": 87,
-        "url": "https://leetcode.com/problems/minimum-window-substring",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Sliding Window"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
         "difficulty": "Medium",
-        "frequency": 77,
+        "frequency": 94,
         "url": "https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network",
         "topics": [
           "Array",
           "Tree",
           "Depth-First Search"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Selling Pieces of Wood",
+        "difficulty": "Hard",
+        "frequency": 87,
+        "url": "https://leetcode.com/problems/selling-pieces-of-wood",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Memoization"
         ]
       },
       {
@@ -108,6 +172,19 @@
           "Stack",
           "Monotonic Stack",
           "Range Minimum/Maximum Query"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Best Team With No Conflicts",
+        "difficulty": "Medium",
+        "frequency": 77,
+        "url": "https://leetcode.com/problems/best-team-with-no-conflicts",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Sorting",
+          "Longest Increasing Subsequence"
         ]
       }
     ]

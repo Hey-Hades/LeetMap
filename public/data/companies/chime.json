@@ -2,20 +2,23 @@
   "name": "Chime",
   "slug": "Chime",
   "dataKey": "chime",
-  "updatedAt": "2026-10-18T02:12:31.951Z",
+  "updatedAt": "2026-10-25T02:23:17.247Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [
       {
         "id": 1,
-        "title": "Daily Temperatures",
+        "title": "Design Browser History",
         "difficulty": "Medium",
         "frequency": 100,
-        "url": "https://leetcode.com/problems/daily-temperatures",
+        "url": "https://leetcode.com/problems/design-browser-history",
         "topics": [
           "Array",
+          "Linked List",
           "Stack",
-          "Monotonic Stack"
+          "Design",
+          "Doubly-Linked List",
+          "Data Stream"
         ]
       }
     ],
@@ -39,7 +42,7 @@
         "id": 2,
         "title": "Daily Temperatures",
         "difficulty": "Medium",
-        "frequency": 75,
+        "frequency": 83,
         "url": "https://leetcode.com/problems/daily-temperatures",
         "topics": [
           "Array",
@@ -68,7 +71,7 @@
         "id": 2,
         "title": "Detonate the Maximum Bombs",
         "difficulty": "Medium",
-        "frequency": 97,
+        "frequency": 68,
         "url": "https://leetcode.com/problems/detonate-the-maximum-bombs",
         "topics": [
           "Array",
@@ -98,9 +101,21 @@
       },
       {
         "id": 2,
+        "title": "Daily Temperatures",
+        "difficulty": "Medium",
+        "frequency": 73,
+        "url": "https://leetcode.com/problems/daily-temperatures",
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
+        ]
+      },
+      {
+        "id": 3,
         "title": "Detonate the Maximum Bombs",
         "difficulty": "Medium",
-        "frequency": 85,
+        "frequency": 59,
         "url": "https://leetcode.com/problems/detonate-the-maximum-bombs",
         "topics": [
           "Array",
@@ -109,18 +124,6 @@
           "Breadth-First Search",
           "Graph Theory",
           "Geometry"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Daily Temperatures",
-        "difficulty": "Medium",
-        "frequency": 69,
-        "url": "https://leetcode.com/problems/daily-temperatures",
-        "topics": [
-          "Array",
-          "Stack",
-          "Monotonic Stack"
         ]
       }
     ]

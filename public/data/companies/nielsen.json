@@ -2,11 +2,47 @@
   "name": "Nielsen",
   "slug": "Nielsen",
   "dataKey": "nielsen",
-  "updatedAt": "2026-10-18T02:12:32.103Z",
+  "updatedAt": "2026-10-25T02:23:17.371Z",
   "problems": {
-    "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [],
-    "3. Six Months.csv": [],
+    "1. Thirty Days.csv": [
+      {
+        "id": 1,
+        "title": "Maximum Swap",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/maximum-swap",
+        "topics": [
+          "Math",
+          "Greedy"
+        ]
+      }
+    ],
+    "2. Three Months.csv": [
+      {
+        "id": 1,
+        "title": "Maximum Swap",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/maximum-swap",
+        "topics": [
+          "Math",
+          "Greedy"
+        ]
+      }
+    ],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Maximum Swap",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/maximum-swap",
+        "topics": [
+          "Math",
+          "Greedy"
+        ]
+      }
+    ],
     "4. More Than Six Months.csv": [
       {
         "id": 1,
@@ -25,7 +61,7 @@
         "id": 2,
         "title": "Multiply Strings",
         "difficulty": "Medium",
-        "frequency": 92,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/multiply-strings",
         "topics": [
           "Math",
@@ -35,33 +71,9 @@
       },
       {
         "id": 3,
-        "title": "Group Anagrams",
-        "difficulty": "Medium",
-        "frequency": 82,
-        "url": "https://leetcode.com/problems/group-anagrams",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Best Time to Buy and Sell Stock IV",
-        "difficulty": "Hard",
-        "frequency": 82,
-        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
-        "topics": [
-          "Array",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 5,
         "title": "Jump Game",
         "difficulty": "Medium",
-        "frequency": 82,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/jump-game",
         "topics": [
           "Array",
@@ -88,7 +100,7 @@
         "id": 2,
         "title": "Multiply Strings",
         "difficulty": "Medium",
-        "frequency": 92,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/multiply-strings",
         "topics": [
           "Math",
@@ -98,33 +110,20 @@
       },
       {
         "id": 3,
-        "title": "Group Anagrams",
+        "title": "Maximum Swap",
         "difficulty": "Medium",
-        "frequency": 82,
-        "url": "https://leetcode.com/problems/group-anagrams",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/maximum-swap",
         "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Sorting"
+          "Math",
+          "Greedy"
         ]
       },
       {
         "id": 4,
-        "title": "Best Time to Buy and Sell Stock IV",
-        "difficulty": "Hard",
-        "frequency": 82,
-        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
-        "topics": [
-          "Array",
-          "Dynamic Programming"
-        ]
-      },
-      {
-        "id": 5,
         "title": "Jump Game",
         "difficulty": "Medium",
-        "frequency": 82,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/jump-game",
         "topics": [
           "Array",

@@ -2,7 +2,7 @@
   "name": "Trexquant",
   "slug": "Trexquant",
   "dataKey": "trexquant",
-  "updatedAt": "2026-10-18T02:12:32.166Z",
+  "updatedAt": "2026-10-25T02:23:17.417Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -10,6 +10,17 @@
     "4. More Than Six Months.csv": [
       {
         "id": 1,
+        "title": "Koko Eating Bananas",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/koko-eating-bananas",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ]
+      },
+      {
+        "id": 2,
         "title": "Max Difference You Can Get From Changing an Integer",
         "difficulty": "Medium",
         "frequency": 100,
@@ -17,41 +28,6 @@
         "topics": [
           "Math",
           "Greedy"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Letter Combinations of a Phone Number",
-        "difficulty": "Medium",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Backtracking"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "3Sum",
-        "difficulty": "Medium",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/3sum",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Koko Eating Bananas",
-        "difficulty": "Medium",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/koko-eating-bananas",
-        "topics": [
-          "Array",
-          "Binary Search"
         ]
       }
     ],
@@ -69,37 +45,35 @@
       },
       {
         "id": 2,
-        "title": "Letter Combinations of a Phone Number",
-        "difficulty": "Medium",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Backtracking"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "3Sum",
-        "difficulty": "Medium",
-        "frequency": 89,
-        "url": "https://leetcode.com/problems/3sum",
-        "topics": [
-          "Array",
-          "Two Pointers",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Koko Eating Bananas",
         "difficulty": "Medium",
-        "frequency": 89,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/koko-eating-bananas",
         "topics": [
           "Array",
           "Binary Search"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Brick Wall",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/brick-wall",
+        "topics": [
+          "Array",
+          "Hash Table"
         ]
       }
     ]

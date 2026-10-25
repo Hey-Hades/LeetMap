@@ -2,7 +2,7 @@
   "name": "AppFolio",
   "slug": "AppFolio",
   "dataKey": "appfolio",
-  "updatedAt": "2026-10-18T02:12:31.903Z",
+  "updatedAt": "2026-10-25T02:23:17.215Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -22,18 +22,6 @@
       },
       {
         "id": 2,
-        "title": "Logger Rate Limiter",
-        "difficulty": "Easy",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/logger-rate-limiter",
-        "topics": [
-          "Hash Table",
-          "Design",
-          "Data Stream"
-        ]
-      },
-      {
-        "id": 3,
         "title": "LRU Cache",
         "difficulty": "Medium",
         "frequency": 100,
@@ -49,6 +37,18 @@
     "5. All.csv": [
       {
         "id": 1,
+        "title": "Shortest Path in a Grid with Obstacles Elimination",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ]
+      },
+      {
+        "id": 2,
         "title": "Logger Rate Limiter",
         "difficulty": "Easy",
         "frequency": 100,
@@ -60,22 +60,10 @@
         ]
       },
       {
-        "id": 2,
-        "title": "Shortest Path in a Grid with Obstacles Elimination",
-        "difficulty": "Hard",
-        "frequency": 90,
-        "url": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
-        "topics": [
-          "Array",
-          "Breadth-First Search",
-          "Matrix"
-        ]
-      },
-      {
         "id": 3,
         "title": "LRU Cache",
         "difficulty": "Medium",
-        "frequency": 90,
+        "frequency": 100,
         "url": "https://leetcode.com/problems/lru-cache",
         "topics": [
           "Hash Table",

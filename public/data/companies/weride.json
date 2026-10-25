@@ -2,7 +2,7 @@
   "name": "WeRide",
   "slug": "WeRide",
   "dataKey": "weride",
-  "updatedAt": "2026-10-18T02:12:32.187Z",
+  "updatedAt": "2026-10-25T02:23:17.435Z",
   "problems": {
     "1. Thirty Days.csv": [],
     "2. Three Months.csv": [],
@@ -23,19 +23,6 @@
       },
       {
         "id": 2,
-        "title": "Maximum Profit in Job Scheduling",
-        "difficulty": "Hard",
-        "frequency": 87,
-        "url": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
-        "topics": [
-          "Array",
-          "Binary Search",
-          "Dynamic Programming",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 3,
         "title": "Longest Increasing Path in a Matrix",
         "difficulty": "Hard",
         "frequency": 87,
@@ -53,7 +40,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 3,
         "title": "Swim in Rising Water",
         "difficulty": "Hard",
         "frequency": 87,
@@ -71,7 +58,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Count Paths That Can Form a Palindrome in a Tree",
         "difficulty": "Hard",
         "frequency": 87,
@@ -84,7 +71,34 @@
         ]
       },
       {
+        "id": 5,
+        "title": "Detect Cycles in 2D Grid",
+        "difficulty": "Medium",
+        "frequency": 87,
+        "url": "https://leetcode.com/problems/detect-cycles-in-2d-grid",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ]
+      },
+      {
         "id": 6,
+        "title": "Maximum Profit in Job Scheduling",
+        "difficulty": "Hard",
+        "frequency": 77,
+        "url": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 7,
         "title": "Text Justification",
         "difficulty": "Hard",
         "frequency": 77,
@@ -96,7 +110,7 @@
         ]
       },
       {
-        "id": 7,
+        "id": 8,
         "title": "Design Snake Game",
         "difficulty": "Medium",
         "frequency": 77,
@@ -110,7 +124,7 @@
         ]
       },
       {
-        "id": 8,
+        "id": 9,
         "title": "Count Binary Substrings",
         "difficulty": "Easy",
         "frequency": 77,
@@ -118,20 +132,6 @@
         "topics": [
           "Two Pointers",
           "String"
-        ]
-      },
-      {
-        "id": 9,
-        "title": "Detect Cycles in 2D Grid",
-        "difficulty": "Medium",
-        "frequency": 77,
-        "url": "https://leetcode.com/problems/detect-cycles-in-2d-grid",
-        "topics": [
-          "Array",
-          "Depth-First Search",
-          "Breadth-First Search",
-          "Union-Find",
-          "Matrix"
         ]
       }
     ],
@@ -165,19 +165,6 @@
       },
       {
         "id": 3,
-        "title": "Maximum Profit in Job Scheduling",
-        "difficulty": "Hard",
-        "frequency": 78,
-        "url": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
-        "topics": [
-          "Array",
-          "Binary Search",
-          "Dynamic Programming",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 4,
         "title": "Longest Increasing Path in a Matrix",
         "difficulty": "Hard",
         "frequency": 78,
@@ -195,7 +182,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Swim in Rising Water",
         "difficulty": "Hard",
         "frequency": 78,
@@ -213,7 +200,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "title": "Count Paths That Can Form a Palindrome in a Tree",
         "difficulty": "Hard",
         "frequency": 78,
@@ -226,7 +213,7 @@
         ]
       },
       {
-        "id": 7,
+        "id": 6,
         "title": "Detect Cycles in 2D Grid",
         "difficulty": "Medium",
         "frequency": 78,
@@ -237,6 +224,19 @@
           "Breadth-First Search",
           "Union-Find",
           "Matrix"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Maximum Profit in Job Scheduling",
+        "difficulty": "Hard",
+        "frequency": 68,
+        "url": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Sorting"
         ]
       },
       {

@@ -2,22 +2,47 @@
   "name": "Harness",
   "slug": "Harness",
   "dataKey": "harness",
-  "updatedAt": "2026-10-18T02:12:32.028Z",
+  "updatedAt": "2026-10-25T02:23:17.309Z",
   "problems": {
-    "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [],
+    "1. Thirty Days.csv": [
+      {
+        "id": 1,
+        "title": "Cherry Pickup",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/cherry-pickup",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ]
+      }
+    ],
+    "2. Three Months.csv": [
+      {
+        "id": 1,
+        "title": "Cherry Pickup",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/cherry-pickup",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ]
+      }
+    ],
     "3. Six Months.csv": [
       {
         "id": 1,
-        "title": "Count Good Subarrays",
+        "title": "Cherry Pickup",
         "difficulty": "Hard",
         "frequency": 100,
-        "url": "https://leetcode.com/problems/count-good-subarrays",
+        "url": "https://leetcode.com/problems/cherry-pickup",
         "topics": [
           "Array",
-          "Stack",
-          "Bit Manipulation",
-          "Monotonic Stack"
+          "Dynamic Programming",
+          "Matrix"
         ]
       }
     ],
@@ -38,12 +63,25 @@
         "id": 2,
         "title": "Minimum Window Substring",
         "difficulty": "Hard",
-        "frequency": 90,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/minimum-window-substring",
         "topics": [
           "Hash Table",
           "String",
           "Sliding Window"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Count Good Subarrays",
+        "difficulty": "Hard",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/count-good-subarrays",
+        "topics": [
+          "Array",
+          "Stack",
+          "Bit Manipulation",
+          "Monotonic Stack"
         ]
       }
     ],
@@ -96,6 +134,31 @@
           "String",
           "Divide and Conquer",
           "Sliding Window"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "LRU Cache",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Cherry Pickup",
+        "difficulty": "Hard",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/cherry-pickup",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
         ]
       }
     ]

@@ -2,35 +2,9 @@
   "name": "MongoDB",
   "slug": "MongoDB",
   "dataKey": "mongodb",
-  "updatedAt": "2026-10-18T02:12:32.097Z",
+  "updatedAt": "2026-10-25T02:23:17.366Z",
   "problems": {
-    "1. Thirty Days.csv": [],
-    "2. Three Months.csv": [
-      {
-        "id": 1,
-        "title": "Merge Intervals",
-        "difficulty": "Medium",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/merge-intervals",
-        "topics": [
-          "Array",
-          "Sorting",
-          "Quicksort"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Two Sum",
-        "difficulty": "Easy",
-        "frequency": 100,
-        "url": "https://leetcode.com/problems/two-sum",
-        "topics": [
-          "Array",
-          "Hash Table"
-        ]
-      }
-    ],
-    "3. Six Months.csv": [
+    "1. Thirty Days.csv": [
       {
         "id": 1,
         "title": "Snapshot Array",
@@ -44,12 +18,92 @@
           "Design",
           "Persistent Data Structure"
         ]
+      }
+    ],
+    "2. Three Months.csv": [
+      {
+        "id": 1,
+        "title": "Distribute Money to Maximum Children",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/distribute-money-to-maximum-children",
+        "topics": [
+          "Math",
+          "Greedy"
+        ]
       },
       {
         "id": 2,
+        "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Ordered Set",
+          "Monotonic Queue"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Avoid Flood in The City",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/avoid-flood-in-the-city",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Greedy",
+          "Heap (Priority Queue)"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Snapshot Array",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/snapshot-array",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Design",
+          "Persistent Data Structure"
+        ]
+      }
+    ],
+    "3. Six Months.csv": [
+      {
+        "id": 1,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Distribute Money to Maximum Children",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/distribute-money-to-maximum-children",
+        "topics": [
+          "Math",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 3,
         "title": "LRU Cache",
         "difficulty": "Medium",
-        "frequency": 88,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/lru-cache",
         "topics": [
           "Hash Table",
@@ -59,10 +113,24 @@
         ]
       },
       {
-        "id": 3,
+        "id": 4,
+        "title": "Snapshot Array",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/snapshot-array",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Design",
+          "Persistent Data Structure"
+        ]
+      },
+      {
+        "id": 5,
         "title": "Merge Intervals",
         "difficulty": "Medium",
-        "frequency": 78,
+        "frequency": 89,
         "url": "https://leetcode.com/problems/merge-intervals",
         "topics": [
           "Array",
@@ -71,14 +139,45 @@
         ]
       },
       {
-        "id": 4,
-        "title": "Two Sum",
-        "difficulty": "Easy",
-        "frequency": 78,
-        "url": "https://leetcode.com/problems/two-sum",
+        "id": 6,
+        "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
         "topics": [
           "Array",
-          "Hash Table"
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Ordered Set",
+          "Monotonic Queue"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Avoid Flood in The City",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/avoid-flood-in-the-city",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Greedy",
+          "Heap (Priority Queue)"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Course Schedule II",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "url": "https://leetcode.com/problems/course-schedule-ii",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort"
         ]
       }
     ],
@@ -112,6 +211,20 @@
       },
       {
         "id": 3,
+        "title": "Snapshot Array",
+        "difficulty": "Medium",
+        "frequency": 97,
+        "url": "https://leetcode.com/problems/snapshot-array",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Design",
+          "Persistent Data Structure"
+        ]
+      },
+      {
+        "id": 4,
         "title": "Word Break",
         "difficulty": "Medium",
         "frequency": 94,
@@ -127,7 +240,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 5,
         "title": "Text Justification",
         "difficulty": "Hard",
         "frequency": 86,
@@ -136,20 +249,6 @@
           "Array",
           "String",
           "Simulation"
-        ]
-      },
-      {
-        "id": 5,
-        "title": "Merge k Sorted Lists",
-        "difficulty": "Hard",
-        "frequency": 80,
-        "url": "https://leetcode.com/problems/merge-k-sorted-lists",
-        "topics": [
-          "Linked List",
-          "Divide and Conquer",
-          "Heap (Priority Queue)",
-          "Merge Sort",
-          "Tournament Sort"
         ]
       },
       {
@@ -162,12 +261,15 @@
       },
       {
         "id": 7,
-        "title": "Insert Interval",
+        "title": "LRU Cache",
         "difficulty": "Medium",
-        "frequency": 73,
-        "url": "https://leetcode.com/problems/insert-interval",
+        "frequency": 80,
+        "url": "https://leetcode.com/problems/lru-cache",
         "topics": [
-          "Array"
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
         ]
       },
       {
@@ -184,47 +286,20 @@
       },
       {
         "id": 9,
-        "title": "Stock Price Fluctuation ",
-        "difficulty": "Medium",
+        "title": "Merge k Sorted Lists",
+        "difficulty": "Hard",
         "frequency": 73,
-        "url": "https://leetcode.com/problems/stock-price-fluctuation",
+        "url": "https://leetcode.com/problems/merge-k-sorted-lists",
         "topics": [
-          "Hash Table",
-          "Design",
+          "Linked List",
+          "Divide and Conquer",
           "Heap (Priority Queue)",
-          "Data Stream",
-          "Ordered Set"
+          "Merge Sort",
+          "Tournament Sort"
         ]
       },
       {
         "id": 10,
-        "title": "Snapshot Array",
-        "difficulty": "Medium",
-        "frequency": 73,
-        "url": "https://leetcode.com/problems/snapshot-array",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Binary Search",
-          "Design",
-          "Persistent Data Structure"
-        ]
-      },
-      {
-        "id": 11,
-        "title": "LRU Cache",
-        "difficulty": "Medium",
-        "frequency": 73,
-        "url": "https://leetcode.com/problems/lru-cache",
-        "topics": [
-          "Hash Table",
-          "Linked List",
-          "Design",
-          "Doubly-Linked List"
-        ]
-      },
-      {
-        "id": 12,
         "title": "Merge Two Binary Trees",
         "difficulty": "Easy",
         "frequency": 64,
@@ -237,22 +312,21 @@
         ]
       },
       {
-        "id": 13,
-        "title": "Sliding Window Maximum",
-        "difficulty": "Hard",
+        "id": 11,
+        "title": "Stock Price Fluctuation ",
+        "difficulty": "Medium",
         "frequency": 64,
-        "url": "https://leetcode.com/problems/sliding-window-maximum",
+        "url": "https://leetcode.com/problems/stock-price-fluctuation",
         "topics": [
-          "Array",
-          "Queue",
-          "Sliding Window",
+          "Hash Table",
+          "Design",
           "Heap (Priority Queue)",
-          "Monotonic Queue",
-          "Range Minimum/Maximum Query"
+          "Data Stream",
+          "Ordered Set"
         ]
       },
       {
-        "id": 14,
+        "id": 12,
         "title": "Design Search Autocomplete System",
         "difficulty": "Hard",
         "frequency": 64,
@@ -268,7 +342,7 @@
         ]
       },
       {
-        "id": 15,
+        "id": 13,
         "title": "Course Schedule II",
         "difficulty": "Medium",
         "frequency": 64,
@@ -281,7 +355,7 @@
         ]
       },
       {
-        "id": 16,
+        "id": 14,
         "title": "Lowest Common Ancestor of a Binary Tree III",
         "difficulty": "Medium",
         "frequency": 64,
@@ -296,7 +370,7 @@
         ]
       },
       {
-        "id": 17,
+        "id": 15,
         "title": "String Compression",
         "difficulty": "Medium",
         "frequency": 64,
@@ -307,19 +381,29 @@
         ]
       },
       {
-        "id": 18,
-        "title": "Word Break II",
-        "difficulty": "Hard",
+        "id": 16,
+        "title": "Clone Graph",
+        "difficulty": "Medium",
         "frequency": 64,
-        "url": "https://leetcode.com/problems/word-break-ii",
+        "url": "https://leetcode.com/problems/clone-graph",
         "topics": [
-          "Array",
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory"
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Time Based Key-Value Store",
+        "difficulty": "Medium",
+        "frequency": 64,
+        "url": "https://leetcode.com/problems/time-based-key-value-store",
+        "topics": [
           "Hash Table",
           "String",
-          "Dynamic Programming",
-          "Backtracking",
-          "Trie",
-          "Memoization"
+          "Binary Search",
+          "Design"
         ]
       }
     ],
@@ -339,9 +423,37 @@
       },
       {
         "id": 2,
+        "title": "Snapshot Array",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "url": "https://leetcode.com/problems/snapshot-array",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Design",
+          "Persistent Data Structure"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Intersection of Two Arrays",
+        "difficulty": "Easy",
+        "frequency": 95,
+        "url": "https://leetcode.com/problems/intersection-of-two-arrays",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Two Pointers",
+          "Binary Search",
+          "Sorting"
+        ]
+      },
+      {
+        "id": 4,
         "title": "Word Break",
         "difficulty": "Medium",
-        "frequency": 97,
+        "frequency": 91,
         "url": "https://leetcode.com/problems/word-break",
         "topics": [
           "Array",
@@ -354,38 +466,10 @@
         ]
       },
       {
-        "id": 3,
-        "title": "Intersection of Two Arrays",
-        "difficulty": "Easy",
-        "frequency": 97,
-        "url": "https://leetcode.com/problems/intersection-of-two-arrays",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Two Pointers",
-          "Binary Search",
-          "Sorting"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Snapshot Array",
-        "difficulty": "Medium",
-        "frequency": 97,
-        "url": "https://leetcode.com/problems/snapshot-array",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "Binary Search",
-          "Design",
-          "Persistent Data Structure"
-        ]
-      },
-      {
         "id": 5,
         "title": "LRU Cache",
         "difficulty": "Medium",
-        "frequency": 90,
+        "frequency": 88,
         "url": "https://leetcode.com/problems/lru-cache",
         "topics": [
           "Hash Table",
@@ -396,9 +480,54 @@
       },
       {
         "id": 6,
+        "title": "Text Justification",
+        "difficulty": "Hard",
+        "frequency": 83,
+        "url": "https://leetcode.com/problems/text-justification",
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Web Crawler Multithreaded",
+        "difficulty": "Medium",
+        "frequency": 78,
+        "url": "https://leetcode.com/problems/web-crawler-multithreaded",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Concurrency"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Convert JSON String to Object",
+        "difficulty": "Hard",
+        "frequency": 78,
+        "url": "https://leetcode.com/problems/convert-json-string-to-object",
+        "topics": []
+      },
+      {
+        "id": 9,
+        "title": "Course Schedule II",
+        "difficulty": "Medium",
+        "frequency": 78,
+        "url": "https://leetcode.com/problems/course-schedule-ii",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort"
+        ]
+      },
+      {
+        "id": 10,
         "title": "Merge k Sorted Lists",
         "difficulty": "Hard",
-        "frequency": 85,
+        "frequency": 71,
         "url": "https://leetcode.com/problems/merge-k-sorted-lists",
         "topics": [
           "Linked List",
@@ -409,130 +538,10 @@
         ]
       },
       {
-        "id": 7,
-        "title": "Text Justification",
-        "difficulty": "Hard",
-        "frequency": 85,
-        "url": "https://leetcode.com/problems/text-justification",
-        "topics": [
-          "Array",
-          "String",
-          "Simulation"
-        ]
-      },
-      {
-        "id": 8,
-        "title": "Web Crawler Multithreaded",
-        "difficulty": "Medium",
-        "frequency": 80,
-        "url": "https://leetcode.com/problems/web-crawler-multithreaded",
-        "topics": [
-          "Depth-First Search",
-          "Breadth-First Search",
-          "Concurrency"
-        ]
-      },
-      {
-        "id": 9,
-        "title": "Convert JSON String to Object",
-        "difficulty": "Hard",
-        "frequency": 80,
-        "url": "https://leetcode.com/problems/convert-json-string-to-object",
-        "topics": []
-      },
-      {
-        "id": 10,
-        "title": "Insert Interval",
-        "difficulty": "Medium",
-        "frequency": 73,
-        "url": "https://leetcode.com/problems/insert-interval",
-        "topics": [
-          "Array"
-        ]
-      },
-      {
         "id": 11,
-        "title": "Stock Price Fluctuation ",
-        "difficulty": "Medium",
-        "frequency": 73,
-        "url": "https://leetcode.com/problems/stock-price-fluctuation",
-        "topics": [
-          "Hash Table",
-          "Design",
-          "Heap (Priority Queue)",
-          "Data Stream",
-          "Ordered Set"
-        ]
-      },
-      {
-        "id": 12,
-        "title": "Sliding Window Maximum",
-        "difficulty": "Hard",
-        "frequency": 73,
-        "url": "https://leetcode.com/problems/sliding-window-maximum",
-        "topics": [
-          "Array",
-          "Queue",
-          "Sliding Window",
-          "Heap (Priority Queue)",
-          "Monotonic Queue",
-          "Range Minimum/Maximum Query"
-        ]
-      },
-      {
-        "id": 13,
-        "title": "Course Schedule II",
-        "difficulty": "Medium",
-        "frequency": 73,
-        "url": "https://leetcode.com/problems/course-schedule-ii",
-        "topics": [
-          "Depth-First Search",
-          "Breadth-First Search",
-          "Graph Theory",
-          "Topological Sort"
-        ]
-      },
-      {
-        "id": 14,
-        "title": "Merge Intervals",
-        "difficulty": "Medium",
-        "frequency": 73,
-        "url": "https://leetcode.com/problems/merge-intervals",
-        "topics": [
-          "Array",
-          "Sorting",
-          "Quicksort"
-        ]
-      },
-      {
-        "id": 15,
-        "title": "Merge Two Binary Trees",
-        "difficulty": "Easy",
-        "frequency": 63,
-        "url": "https://leetcode.com/problems/merge-two-binary-trees",
-        "topics": [
-          "Tree",
-          "Depth-First Search",
-          "Breadth-First Search",
-          "Binary Tree"
-        ]
-      },
-      {
-        "id": 16,
-        "title": "Search in Rotated Sorted Array",
-        "difficulty": "Medium",
-        "frequency": 63,
-        "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
-        "topics": [
-          "Array",
-          "Binary Search"
-        ]
-      },
-      {
-        "id": 17,
         "title": "Design Search Autocomplete System",
         "difficulty": "Hard",
-        "frequency": 63,
+        "frequency": 71,
         "url": "https://leetcode.com/problems/design-search-autocomplete-system",
         "topics": [
           "String",
@@ -545,10 +554,99 @@
         ]
       },
       {
+        "id": 12,
+        "title": "Time Based Key-Value Store",
+        "difficulty": "Medium",
+        "frequency": 71,
+        "url": "https://leetcode.com/problems/time-based-key-value-store",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 71,
+        "url": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "frequency": 71,
+        "url": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Distribute Money to Maximum Children",
+        "difficulty": "Easy",
+        "frequency": 71,
+        "url": "https://leetcode.com/problems/distribute-money-to-maximum-children",
+        "topics": [
+          "Math",
+          "Greedy"
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Merge Two Binary Trees",
+        "difficulty": "Easy",
+        "frequency": 61,
+        "url": "https://leetcode.com/problems/merge-two-binary-trees",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Stock Price Fluctuation ",
+        "difficulty": "Medium",
+        "frequency": 61,
+        "url": "https://leetcode.com/problems/stock-price-fluctuation",
+        "topics": [
+          "Hash Table",
+          "Design",
+          "Heap (Priority Queue)",
+          "Data Stream",
+          "Ordered Set"
+        ]
+      },
+      {
         "id": 18,
+        "title": "Sliding Window Maximum",
+        "difficulty": "Hard",
+        "frequency": 61,
+        "url": "https://leetcode.com/problems/sliding-window-maximum",
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue",
+          "Range Minimum/Maximum Query"
+        ]
+      },
+      {
+        "id": 19,
         "title": "Lowest Common Ancestor of a Binary Tree III",
         "difficulty": "Medium",
-        "frequency": 63,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii",
         "topics": [
           "Hash Table",
@@ -560,10 +658,10 @@
         ]
       },
       {
-        "id": 19,
+        "id": 20,
         "title": "String Compression",
         "difficulty": "Medium",
-        "frequency": 63,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/string-compression",
         "topics": [
           "Two Pointers",
@@ -571,37 +669,10 @@
         ]
       },
       {
-        "id": 20,
-        "title": "Word Break II",
-        "difficulty": "Hard",
-        "frequency": 63,
-        "url": "https://leetcode.com/problems/word-break-ii",
-        "topics": [
-          "Array",
-          "Hash Table",
-          "String",
-          "Dynamic Programming",
-          "Backtracking",
-          "Trie",
-          "Memoization"
-        ]
-      },
-      {
         "id": 21,
-        "title": "Merge Two Sorted Lists",
-        "difficulty": "Easy",
-        "frequency": 63,
-        "url": "https://leetcode.com/problems/merge-two-sorted-lists",
-        "topics": [
-          "Linked List",
-          "Recursion"
-        ]
-      },
-      {
-        "id": 22,
         "title": "Clone Graph",
         "difficulty": "Medium",
-        "frequency": 63,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/clone-graph",
         "topics": [
           "Hash Table",
@@ -611,23 +682,10 @@
         ]
       },
       {
-        "id": 23,
-        "title": "Time Based Key-Value Store",
-        "difficulty": "Medium",
-        "frequency": 63,
-        "url": "https://leetcode.com/problems/time-based-key-value-store",
-        "topics": [
-          "Hash Table",
-          "String",
-          "Binary Search",
-          "Design"
-        ]
-      },
-      {
-        "id": 24,
+        "id": 22,
         "title": "Compare Version Numbers",
         "difficulty": "Medium",
-        "frequency": 63,
+        "frequency": 61,
         "url": "https://leetcode.com/problems/compare-version-numbers",
         "topics": [
           "Two Pointers",
@@ -635,14 +693,46 @@
         ]
       },
       {
-        "id": 25,
-        "title": "Two Sum",
-        "difficulty": "Easy",
-        "frequency": 63,
-        "url": "https://leetcode.com/problems/two-sum",
+        "id": 23,
+        "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+        "difficulty": "Medium",
+        "frequency": 61,
+        "url": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
         "topics": [
           "Array",
-          "Hash Table"
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Ordered Set",
+          "Monotonic Queue"
+        ]
+      },
+      {
+        "id": 24,
+        "title": "Avoid Flood in The City",
+        "difficulty": "Medium",
+        "frequency": 61,
+        "url": "https://leetcode.com/problems/avoid-flood-in-the-city",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Greedy",
+          "Heap (Priority Queue)"
+        ]
+      },
+      {
+        "id": 25,
+        "title": "Course Schedule",
+        "difficulty": "Medium",
+        "frequency": 61,
+        "url": "https://leetcode.com/problems/course-schedule",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
         ]
       }
     ]
